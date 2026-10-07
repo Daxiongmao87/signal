@@ -42,6 +42,13 @@
 <guid isPermaLink="true">https://github.com/stable-release/airllm-rlm-stack</guid>
 </item>
 <item>
+<title>Nerfed Experience Gains From Low-Level Mobs in WoW Forever</title>
+<link>https://www.icy-veins.com/wow-forever/news/nerfed-experience-gains-from-low-level-mobs-in-wow-forever/</link>
+<description>Players measured 4-20% less XP from below-level mob kills; Blizzard confirms it is intentional, offsetting new food-buff and camping rested-XP bonuses.</description>
+<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.icy-veins.com/wow-forever/news/nerfed-experience-gains-from-low-level-mobs-in-wow-forever/</guid>
+</item>
+<item>
 <title>DwarfStar 4: the Redis guy's narrow local LLM engine</title>
 <link>https://dev.to/ashraf_chowdury09/the-redis-guy-wrote-a-local-llm-engine-that-refuses-to-be-general-thats-why-it-works-1hmo</link>
 <description>Salvatore Sanfilippo (antirez) shipped ds4, a deliberately narrow C inference engine for a short list of models (DeepSeek V4, GLM 5.x, Qwen 3.8 Flash Next) on Metal/CUDA/ROCm. ~23k stars, MIT licensed.</description>
