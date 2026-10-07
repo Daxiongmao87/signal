@@ -42,6 +42,13 @@
 <guid isPermaLink="true">https://geekoven.net/pop-geek-society/world-of-warcraft-forever-a-re-envisioning-of-classic-azeroth/</guid>
 </item>
 <item>
+<title>Google Launches EmbeddingGemma 2, a Small Open Multimodal Embedding Model for On-Device Search</title>
+<link>https://www.techrepublic.com/article/news-google-embeddinggemma-2-on-device-multimodal-search/</link>
+<description>Google DeepMind's 740M-param open embedding model maps text, code, images, video, and audio into one space for on-device multimodal search and local RAG.</description>
+<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.techrepublic.com/article/news-google-embeddinggemma-2-on-device-multimodal-search/</guid>
+</item>
+<item>
 <title>AirLLM + RLM: self-contained local inference stack</title>
 <link>https://github.com/stable-release/airllm-rlm-stack</link>
 <description>Open-source stack pairing AirLLM's layer-streamed inference with a Rust RLM harness: two-tier GGUF serving, recursive long-context navigation, and a single OpenAI-compatible API.</description>
