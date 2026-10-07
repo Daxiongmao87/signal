@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://dev.to/mrsaynothing/llamacpp-vs-ollama-which-should-you-run-in-2026-7po</guid>
 </item>
 <item>
+<title>WoW Forever FAQ: release, zones, and what's new vs Classic</title>
+<link>https://geekoven.net/pop-geek-society/world-of-warcraft-forever-a-re-envisioning-of-classic-azeroth/</link>
+<description>A concise explainer framing Forever as a re-envisioning rather than a remaster: new zones like Mount Hyjal and the Riverglades, overhauled classic areas, and the design logic of changing content instead of faithfully recreating it.</description>
+<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://geekoven.net/pop-geek-society/world-of-warcraft-forever-a-re-envisioning-of-classic-azeroth/</guid>
+</item>
+<item>
 <title>AirLLM + RLM: self-contained local inference stack</title>
 <link>https://github.com/stable-release/airllm-rlm-stack</link>
 <description>Open-source stack pairing AirLLM's layer-streamed inference with a Rust RLM harness: two-tier GGUF serving, recursive long-context navigation, and a single OpenAI-compatible API.</description>
