@@ -21,6 +21,27 @@
 <guid isPermaLink="true">https://ikawogi.com/en/news/statement-fable-4-combat-design-2026-10</guid>
 </item>
 <item>
+<title>Reflection's Beam: open-weight model for lower-compute AI</title>
+<link>https://www.aoodax.com/en/blog/reflection-debuts-beam-open-weight-ai-model-with-lower-compute-costs-muwe7bng</link>
+<description>Reflection's new open-weight model pitches cheaper local fine-tuning and inference for teams keeping data on-premise — the 'sovereign AI factory' angle.</description>
+<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.aoodax.com/en/blog/reflection-debuts-beam-open-weight-ai-model-with-lower-compute-costs-muwe7bng</guid>
+</item>
+<item>
+<title>llama.cpp vs Ollama in 2026</title>
+<link>https://dev.to/mrsaynothing/llamacpp-vs-ollama-which-should-you-run-in-2026-7po</link>
+<description>Same engine under both, so measured speed gaps trace to quant choice, flash-attention and KV-cache-quant flags, and how fast Ollama merges upstream llama.cpp.</description>
+<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/mrsaynothing/llamacpp-vs-ollama-which-should-you-run-in-2026-7po</guid>
+</item>
+<item>
+<title>AirLLM + RLM: self-contained local inference stack</title>
+<link>https://github.com/stable-release/airllm-rlm-stack</link>
+<description>Open-source stack pairing AirLLM's layer-streamed inference with a Rust RLM harness: two-tier GGUF serving, recursive long-context navigation, and a single OpenAI-compatible API.</description>
+<pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://github.com/stable-release/airllm-rlm-stack</guid>
+</item>
+<item>
 <title>DwarfStar 4: the Redis guy's narrow local LLM engine</title>
 <link>https://dev.to/ashraf_chowdury09/the-redis-guy-wrote-a-local-llm-engine-that-refuses-to-be-general-thats-why-it-works-1hmo</link>
 <description>Salvatore Sanfilippo (antirez) shipped ds4, a deliberately narrow C inference engine for a short list of models (DeepSeek V4, GLM 5.x, Qwen 3.8 Flash Next) on Metal/CUDA/ROCm. ~23k stars, MIT licensed.</description>
@@ -68,6 +89,27 @@
 <description>Blizzard raised the Forever beta population cap a second time as queues persisted; Josh Greenfield called the demand the biggest he'd seen in 17 years. Beta runs through Oct 21, launch Nov 4.</description>
 <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://mmos.com/news/mmorpg-news/wow-forever-beta-capacity</guid>
+</item>
+<item>
+<title>llama.cpp prompt lookup: 40-70% faster on repeated prefixes</title>
+<link>https://www.webpronews.com/prompt-lookup-in-llama-cpp-speeds-up-llm-inference-by-40-70/</link>
+<description>Hashes repeated prompts and reuses cached KV states instead of recomputing, aimed at apps that recycle long system or context prefixes.</description>
+<pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.webpronews.com/prompt-lookup-in-llama-cpp-speeds-up-llm-inference-by-40-70/</guid>
+</item>
+<item>
+<title>Blizzard raises Forever beta cap again; paid entry keeps selling</title>
+<link>https://thedailygame.news/story/2026-09-28-blizzard-raises-wow-forever-beta-population-cap-a-second-time-as-60-earl--7cd3ba61</link>
+<description>Second capacity raise since the Sept 17 beta launch; the $60 early-access model (progress wiped at the end, name reservations kept) keeps drawing crowds despite criticism.</description>
+<pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://thedailygame.news/story/2026-09-28-blizzard-raises-wow-forever-beta-population-cap-a-second-time-as-60-earl--7cd3ba61</guid>
+</item>
+<item>
+<title>WoW Forever smooths out group quest drops</title>
+<link>https://thedailygame.news/story/2026-09-28-wow-forever-beta-cap-raised-again-as-blizzard-smooths-out-group-quest-dr--8cdfdc89</link>
+<description>Blizzard makes vanilla-style drop quests distribute more predictably in groups — removing the main reason to avoid other players, in line with Forever's pro-social friction-sanding.</description>
+<pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://thedailygame.news/story/2026-09-28-wow-forever-beta-cap-raised-again-as-blizzard-smooths-out-group-quest-dr--8cdfdc89</guid>
 </item>
 <item>
 <title>On-device voice assistant: STT, LLM, TTS fully offline on Android</title>
