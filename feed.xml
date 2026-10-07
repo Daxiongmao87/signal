@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Signal</title>
+<link>https://daxiongmao87.github.io/signal/</link>
+<description>Tech news matched to Patrick's interests, curated daily.</description>
+<language>en-us</language>
+<lastBuildDate>Tue, 06 Oct 2026 12:00:00 +0000</lastBuildDate>
+<item>
+<title>RuneScape 4 revealed: Unreal Engine MMO from Jagex</title>
+<link>https://hypebeast.com/2026/10/jagex-unveils-runescape-4-mmo-built-on-unreal-engine</link>
+<description>Jagex announced RuneScape 4 at RuneFest: a standalone Unreal Engine MMO set in the Sixth Age, pivoted from a Dragonwilds survival expansion into a full classic-format MMO.</description>
+<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://hypebeast.com/2026/10/jagex-unveils-runescape-4-mmo-built-on-unreal-engine</guid>
+</item>
+<item>
+<title>Fable keeps combat accessible with hidden complexity</title>
+<link>https://ikawogi.com/en/news/statement-fable-4-combat-design-2026-10</link>
+<description>Playground Games on Fable's combat: accessible but with hidden depth — targeted body-part shots that change enemy behavior, plus non-combat quest paths via dialogue, reputation, and puzzles.</description>
+<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://ikawogi.com/en/news/statement-fable-4-combat-design-2026-10</guid>
+</item>
+<item>
+<title>DwarfStar 4: the Redis guy's narrow local LLM engine</title>
+<link>https://dev.to/ashraf_chowdury09/the-redis-guy-wrote-a-local-llm-engine-that-refuses-to-be-general-thats-why-it-works-1hmo</link>
+<description>Salvatore Sanfilippo (antirez) shipped ds4, a deliberately narrow C inference engine for a short list of models (DeepSeek V4, GLM 5.x, Qwen 3.8 Flash Next) on Metal/CUDA/ROCm. ~23k stars, MIT licensed.</description>
+<pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/ashraf_chowdury09/the-redis-guy-wrote-a-local-llm-engine-that-refuses-to-be-general-thats-why-it-works-1hmo</guid>
+</item>
+<item>
+<title>llama.cpp in 2026: the engine under every local stack</title>
+<link>https://www.explainx.ai/blog/what-is-llama-cpp-run-models-locally-2026</link>
+<description>llama.cpp primer with an October 3 update: llama-server now serves Jev-style decision models on /v1/systemone, plus notes on Colibri, Hy3 1-bit GGUF, and the engine's 118k-star footprint.</description>
+<pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.explainx.ai/blog/what-is-llama-cpp-run-models-locally-2026</guid>
+</item>
+<item>
+<title>WoW Forever: Goblin barbers to be replaced in future build</title>
+<link>https://www.icy-veins.com/wow-forever/news/goblin-barbers-will-be-replaced-in-a-future-wow-forever-build/</link>
+<description>Blizzard is swapping the beta's Goblin barbers for city-appropriate races (night elves in Darnassus, tauren in Thunder Bluff) after player feedback on the vanilla vibe.</description>
+<pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.icy-veins.com/wow-forever/news/goblin-barbers-will-be-replaced-in-a-future-wow-forever-build/</guid>
+</item>
+<item>
+<title>TensorFold: 2-3x faster local inference, same tokens</title>
+<link>https://www.contextstudios.ai/blog/tensorfold-the-engine-that-makes-local-llms-2-3-faster-without-a-single</link>
+<description>Independent open-source inference engine (Apache-2.0) serving local LLMs behind an OpenAI-compatible endpoint on Metal/MLX and NVIDIA, claiming 2-3x speedups with byte-identical output.</description>
+<pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.contextstudios.ai/blog/tensorfold-the-engine-that-makes-local-llms-2-3-faster-without-a-single</guid>
+</item>
+<item>
+<title>POCKET-Darwin-180B: 180B parameters on a laptop</title>
+<link>https://dev.to/ai_openfree_b23025ef075cf/running-a-180b-parameter-llm-on-a-laptop-without-a-gpu-vidrafts-pocket-darwin-180b-160p</link>
+<description>VIDRAFT released a 4-bit GGUF build of its 180B MoE model that runs on consumer hardware (8GB VRAM + 32GB RAM or CPU-only) via sparse expert routing and graft quantization.</description>
+<pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/ai_openfree_b23025ef075cf/running-a-180b-parameter-llm-on-a-laptop-without-a-gpu-vidrafts-pocket-darwin-180b-160p</guid>
+</item>
+<item>
+<title>What's new in Ollama 0.40, and should you upgrade?</title>
+<link>https://intelligibberish.com/articles/ollama-0-40-whats-new-should-you-upgrade/</link>
+<description>Walkthrough of Ollama 0.40: decision-models API via /v1/systemone (Nimble, Tev1, Cloudflare's Clef), CAPABILITY declarations, and updated llama.cpp/MLX engines.</description>
+<pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://intelligibberish.com/articles/ollama-0-40-whats-new-should-you-upgrade/</guid>
+</item>
+<item>
+<title>WoW Forever beta capacity raised again amid record demand</title>
+<link>https://mmos.com/news/mmorpg-news/wow-forever-beta-capacity</link>
+<description>Blizzard raised the Forever beta population cap a second time as queues persisted; Josh Greenfield called the demand the biggest he'd seen in 17 years. Beta runs through Oct 21, launch Nov 4.</description>
+<pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://mmos.com/news/mmorpg-news/wow-forever-beta-capacity</guid>
+</item>
+<item>
+<title>On-device voice assistant: STT, LLM, TTS fully offline on Android</title>
+<link>https://github.com/m15-ai/droidkaigi2026-app-gvp/blob/HEAD/README.md</link>
+<description>A full voice assistant (STT + LLM + TTS) running entirely offline on a stock Pixel 10: Sherpa-ONNX or ML Kit ASR, MediaPipe/LiteRT or Gemini Nano LLMs, user-switchable models.</description>
+<pubDate>Sun, 20 Sep 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://github.com/m15-ai/droidkaigi2026-app-gvp/blob/HEAD/README.md</guid>
+</item>
+<item>
+<title>Deploying SLMs: fine-tuning vs context engineering</title>
+<link>https://mtdeveloper.vercel.app/blog/deploying-slms-in-production-fine-tuning-vs-context-engineering</link>
+<description>When to choose PEFT/LoRA fine-tuning (narrow structured tasks, strict formats, &lt;150ms TTFT on constrained hardware) vs context engineering (fast-changing data, general reasoning), plus hybrid adapter-swap architectures.</description>
+<pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://mtdeveloper.vercel.app/blog/deploying-slms-in-production-fine-tuning-vs-context-engineering</guid>
+</item>
+<item>
+<title>LLM quantization methods: GPTQ, AWQ, GGUF compared</title>
+<link>https://cast.ai/blog/demystifying-quantizations-llms/</link>
+<description>Practical 2026 defaults: GGUF Q4_K_M for laptop/CPU, AWQ-int4 or GPTQ-int4 for GPU, FP8 for H100/B200, NVFP4/BitNet at the bleeding edge. Benchmarks and when-to-use-what.</description>
+<pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://cast.ai/blog/demystifying-quantizations-llms/</guid>
+</item>
+</channel>
+</rss>
