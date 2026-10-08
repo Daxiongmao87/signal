@@ -5,14 +5,7 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 07 Oct 2026 12:00:00 +0000</lastBuildDate>
-<item>
-<title>675B LLM Shatters Expectations – One GPU, Sub-Second Latency!</title>
-<link>https://dev.to/amrithesh_dev/675-b-llm-shatters-expectations-one-gpu-sub-second-latency-1ic7</link>
-<description>A fintech team served a 675B-parameter model for in-IDE code completion on a single GPU, reporting sub-second per-chunk latency and a HumanEval score beating Llama 3-70B.</description>
-<pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/amrithesh_dev/675-b-llm-shatters-expectations-one-gpu-sub-second-latency-1ic7</guid>
-</item>
+<lastBuildDate>Tue, 06 Oct 2026 12:00:00 +0000</lastBuildDate>
 <item>
 <title>RuneScape 4 revealed: Unreal Engine MMO from Jagex</title>
 <link>https://hypebeast.com/2026/10/jagex-unveils-runescape-4-mmo-built-on-unreal-engine</link>
