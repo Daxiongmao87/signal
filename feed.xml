@@ -112,6 +112,13 @@
 <guid isPermaLink="true">https://intelligibberish.com/articles/ollama-0-40-whats-new-should-you-upgrade/</guid>
 </item>
 <item>
+<title>Blizzard bans streamer as it toughens gold rules for WoW: Forever</title>
+<link>https://www.thebrief.news/en/standard/article/27047/blizzard-bans-streamer-as-it-toughens-gold-rules-for-wow-forever</link>
+<description>Blizzard banned a streamer who encouraged viewers to buy gold on his behalf and says Forever will now punish buyers as well as sellers: gold removal, suspension, or permanent account closure.</description>
+<pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.thebrief.news/en/standard/article/27047/blizzard-bans-streamer-as-it-toughens-gold-rules-for-wow-forever</guid>
+</item>
+<item>
 <title>Ollama vs vLLM vs llama.cpp: which local engine to use</title>
 <link>https://dev.to/amareswer/ollama-vs-vllm-vs-llamacpp-which-local-llm-engine-58h6</link>
 <description>Practical dated comparison of the three local inference engines: Ollama for fast setup, llama.cpp for full tuning depth, vLLM for shared-team serving, with GGUF-on-Mac caveats.</description>
