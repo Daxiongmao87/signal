@@ -105,6 +105,13 @@
 <guid isPermaLink="true">https://intelligibberish.com/articles/ollama-0-40-whats-new-should-you-upgrade/</guid>
 </item>
 <item>
+<title>Ollama vs vLLM vs llama.cpp: which local engine to use</title>
+<link>https://dev.to/amareswer/ollama-vs-vllm-vs-llamacpp-which-local-llm-engine-58h6</link>
+<description>Practical dated comparison of the three local inference engines: Ollama for fast setup, llama.cpp for full tuning depth, vLLM for shared-team serving, with GGUF-on-Mac caveats.</description>
+<pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/amareswer/ollama-vs-vllm-vs-llamacpp-which-local-llm-engine-58h6</guid>
+</item>
+<item>
 <title>WoW Forever beta capacity raised again amid record demand</title>
 <link>https://mmos.com/news/mmorpg-news/wow-forever-beta-capacity</link>
 <description>Blizzard raised the Forever beta population cap a second time as queues persisted; Josh Greenfield called the demand the biggest he'd seen in 17 years. Beta runs through Oct 21, launch Nov 4.</description>
