@@ -70,6 +70,13 @@
 <guid isPermaLink="true">https://www.icy-veins.com/wow-forever/news/nerfed-experience-gains-from-low-level-mobs-in-wow-forever/</guid>
 </item>
 <item>
+<title>WoW Forever 2026–2027 roadmap: Nov 4 launch, December raids, Hardcore in winter, major updates spring/summer 2027</title>
+<link>https://www.iggm.com/news/wow-forever-leveling-guide-how-to-turn-quests-dungeons-professions-into-faster-xp</link>
+<description>A leveling guide rounds up Blizzard's newly revealed roadmap: global launch November 4 at 3 PM PST, three raids unlocking December 9 (Barrow Deeps, Hyjal Summit, Onyxia's Lair), a Hardcore ruleset in winter 2026/27, and two major update windows in spring and summer 2027.</description>
+<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.iggm.com/news/wow-forever-leveling-guide-how-to-turn-quests-dungeons-professions-into-faster-xp</guid>
+</item>
+<item>
 <title>DwarfStar 4: the Redis guy's narrow local LLM engine</title>
 <link>https://dev.to/ashraf_chowdury09/the-redis-guy-wrote-a-local-llm-engine-that-refuses-to-be-general-thats-why-it-works-1hmo</link>
 <description>Salvatore Sanfilippo (antirez) shipped ds4, a deliberately narrow C inference engine for a short list of models (DeepSeek V4, GLM 5.x, Qwen 3.8 Flash Next) on Metal/CUDA/ROCm. ~23k stars, MIT licensed.</description>
