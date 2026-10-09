@@ -5,7 +5,21 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 06 Oct 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Windows ML Gets llama.cpp: Run GGUF Locally on Any Hardware</title>
+<link>https://byteiota.com/windows-ml-gets-llama-cpp-run-gguf-locally-on-any-hardware/</link>
+<description>Microsoft folded llama.cpp into Windows ML, adding NPU routing (QNN, OpenVINO, TensorRT RTX) for any GGUF — and pushed CUDA kernel, speculative-decoding and multi-GPU optimizations back upstream.</description>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://byteiota.com/windows-ml-gets-llama-cpp-run-gguf-locally-on-any-hardware/</guid>
+</item>
+<item>
+<title>Nearly 4,000 Accounts Banned Due to RMT - WoW Forever Beta</title>
+<link>https://www.icy-veins.com/wow-forever/news/nearly-4000-accounts-banned-due-to-rmt-wow-forever-beta/</link>
+<description>Blizzard banned nearly 4,000 WoW Forever beta accounts over real-money trading (2,100 buyers, ~1,600 sellers/botters) and is adding a UI warning against untrusted trades and mailed gold.</description>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.icy-veins.com/wow-forever/news/nearly-4000-accounts-banned-due-to-rmt-wow-forever-beta/</guid>
+</item>
 <item>
 <title>RuneScape 4 revealed: Unreal Engine MMO from Jagex</title>
 <link>https://hypebeast.com/2026/10/jagex-unveils-runescape-4-mmo-built-on-unreal-engine</link>
