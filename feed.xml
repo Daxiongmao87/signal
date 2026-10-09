@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://www.icy-veins.com/wow-forever/news/nearly-4000-accounts-banned-due-to-rmt-wow-forever-beta/</guid>
 </item>
 <item>
+<title>Blizzard lays out its Classic Plus design pillars for WoW Forever</title>
+<link>https://gamebastion.com/n/blizzard-explains-its-philosophy-for-classic/522988</link>
+<description>The WoW: Forever team named its four design pillars - social experiences, approachable and familiar, world as the main character, journey before destination - and described balancing modern visuals against the vanilla look.</description>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://gamebastion.com/n/blizzard-explains-its-philosophy-for-classic/522988</guid>
+</item>
+<item>
 <title>Windows ML Gets llama.cpp: Run GGUF Locally on Any Hardware</title>
 <link>https://byteiota.com/windows-ml-gets-llama-cpp-run-gguf-locally-on-any-hardware/</link>
 <description>Microsoft folded llama.cpp into Windows ML, adding NPU routing (QNN, OpenVINO, TensorRT RTX) for any GGUF — and pushed CUDA kernel, speculative-decoding and multi-GPU optimizations back upstream.</description>
