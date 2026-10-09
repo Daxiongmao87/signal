@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://thedailygame.news/story/2026-10-09-wow-forever-gets-sd-skyborne-models-in-early-2027-after-beta-feedback--474388e8</guid>
 </item>
 <item>
+<title>WoW Forever beta: ~4,000 RMT accounts banned</title>
+<link>https://www.icy-veins.com/wow-forever/news/nearly-4000-accounts-banned-due-to-rmt-wow-forever-beta/</link>
+<description>Blizzard confirmed nearly 4,000 account closures on the WoW Forever beta for real-money trading — over 2,100 gold buyers and ~1,600 sellers/bots — and is adding a UI warning against untrustworthy trades.</description>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.icy-veins.com/wow-forever/news/nearly-4000-accounts-banned-due-to-rmt-wow-forever-beta/</guid>
+</item>
+<item>
 <title>Windows ML Gets llama.cpp: Run GGUF Locally on Any Hardware</title>
 <link>https://byteiota.com/windows-ml-gets-llama-cpp-run-gguf-locally-on-any-hardware/</link>
 <description>Microsoft folded llama.cpp into Windows ML, adding NPU routing (QNN, OpenVINO, TensorRT RTX) for any GGUF — and pushed CUDA kernel, speculative-decoding and multi-GPU optimizations back upstream.</description>
