@@ -56,6 +56,13 @@
 <guid isPermaLink="true">https://www.iggm.com/news/wow-forever-reputation-changes-how-old-new-factions-expand-progression</guid>
 </item>
 <item>
+<title>WoW Forever sticks with classic models after beta feedback</title>
+<link>https://game-scanner.com/news/world-of-warcraft-forever-classic-models-beta-feedback</link>
+<description>Blizzard backed off HD-only character models in the WoW Forever beta after tester pushback, keeping the classic look — and reverted a modern-looking quilboar boss to its original form.</description>
+<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://game-scanner.com/news/world-of-warcraft-forever-classic-models-beta-feedback</guid>
+</item>
+<item>
 <title>AirLLM + RLM: self-contained local inference stack</title>
 <link>https://github.com/stable-release/airllm-rlm-stack</link>
 <description>Open-source stack pairing AirLLM's layer-streamed inference with a Rust RLM harness: two-tier GGUF serving, recursive long-context navigation, and a single OpenAI-compatible API.</description>
