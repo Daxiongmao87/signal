@@ -28,6 +28,13 @@
 <guid isPermaLink="true">https://gamebastion.com/n/blizzard-explains-its-philosophy-for-classic/522988</guid>
 </item>
 <item>
+<title>Dungeon XP Was Bugged in WoW Forever — Blizzard's Fix + Dev Podcast Breakdown</title>
+<link>https://www.youtube.com/watch?v=q0ZkdxFokB4</link>
+<description>Creator rundown of Blizzard's beta dungeon-XP fix: kill XP was tied to the highest-level group member, plus a 20% dungeon kill-XP boost and highlights from the third dev podcast.</description>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.youtube.com/watch?v=q0ZkdxFokB4</guid>
+</item>
+<item>
 <title>Windows ML Gets llama.cpp: Run GGUF Locally on Any Hardware</title>
 <link>https://byteiota.com/windows-ml-gets-llama-cpp-run-gguf-locally-on-any-hardware/</link>
 <description>Microsoft folded llama.cpp into Windows ML, adding NPU routing (QNN, OpenVINO, TensorRT RTX) for any GGUF — and pushed CUDA kernel, speculative-decoding and multi-GPU optimizations back upstream.</description>
