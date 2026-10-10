@@ -56,6 +56,13 @@
 <guid isPermaLink="true">https://github.com/syniaksviatoslav/dowiz/blob/HEAD/llm_quantization_report.md</guid>
 </item>
 <item>
+<title>Superfluid: open-source local LLM server built for multi-agent workloads</title>
+<link>https://huggingface.co/blog/basecompute/superfluid</link>
+<description>Apache-2.0 server running LLMs on your own machine across llama.cpp, MLX, and BaseRT runtimes, with request prioritization so interactive chat preempts background agents, session persistence, and multi-device inference over an encrypted link.</description>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://huggingface.co/blog/basecompute/superfluid</guid>
+</item>
+<item>
 <title>Windows ML Gets llama.cpp: Run GGUF Locally on Any Hardware</title>
 <link>https://byteiota.com/windows-ml-gets-llama-cpp-run-gguf-locally-on-any-hardware/</link>
 <description>Microsoft folded llama.cpp into Windows ML, adding NPU routing (QNN, OpenVINO, TensorRT RTX) for any GGUF — and pushed CUDA kernel, speculative-decoding and multi-GPU optimizations back upstream.</description>
