@@ -84,6 +84,13 @@
 <guid isPermaLink="true">https://ranzware.com/blizzard-issues-stark-warning-to-wow-forever-gold-buyers-engaging-in-rmt-is-not-worth-putting-your-account-at-risk</guid>
 </item>
 <item>
+<title>Magnitude: open-source inference engine claiming 92% faster decode than llama.cpp on Apple Silicon</title>
+<link>https://fireup.pro/news/magnitude-vs-llama-cpp-local-llm-inference-engine</link>
+<description>YC-backed Apache-2.0 local engine that compiles and tunes kernels on the target machine instead of shipping generic ones; team claims 92% faster decode than llama.cpp on an M4 Pro Mac and 19% on NVIDIA, with a shared prefix cache for multi-agent setups. Released September 30 and hit 6,400 GitHub stars within days.</description>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://fireup.pro/news/magnitude-vs-llama-cpp-local-llm-inference-engine</guid>
+</item>
+<item>
 <title>RuneScape 4 revealed: Unreal Engine MMO from Jagex</title>
 <link>https://hypebeast.com/2026/10/jagex-unveils-runescape-4-mmo-built-on-unreal-engine</link>
 <description>Jagex announced RuneScape 4 at RuneFest: a standalone Unreal Engine MMO set in the Sixth Age, pivoted from a Dragonwilds survival expansion into a full classic-format MMO.</description>
@@ -278,13 +285,6 @@
 <description>When to choose PEFT/LoRA fine-tuning (narrow structured tasks, strict formats, &lt;150ms TTFT on constrained hardware) vs context engineering (fast-changing data, general reasoning), plus hybrid adapter-swap architectures.</description>
 <pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://mtdeveloper.vercel.app/blog/deploying-slms-in-production-fine-tuning-vs-context-engineering</guid>
-</item>
-<item>
-<title>LLM quantization methods: GPTQ, AWQ, GGUF compared</title>
-<link>https://cast.ai/blog/demystifying-quantizations-llms/</link>
-<description>Practical 2026 defaults: GGUF Q4_K_M for laptop/CPU, AWQ-int4 or GPTQ-int4 for GPU, FP8 for H100/B200, NVFP4/BitNet at the bleeding edge. Benchmarks and when-to-use-what.</description>
-<pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://cast.ai/blog/demystifying-quantizations-llms/</guid>
 </item>
 </channel>
 </rss>
