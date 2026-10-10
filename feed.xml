@@ -56,6 +56,13 @@
 <guid isPermaLink="true">https://pengen.diewe.workers.dev/lightningdev123/top-5-local-llm-tools-and-models-in-2026-1ch5</guid>
 </item>
 <item>
+<title>Blizzard Warns WoW: Forever Gold Buyers: RMT 'Not Worth Putting Your Account at Risk'</title>
+<link>https://ranzware.com/blizzard-issues-stark-warning-to-wow-forever-gold-buyers-engaging-in-rmt-is-not-worth-putting-your-account-at-risk</link>
+<description>After nearly 4,000 beta account closures, Blizzard tells WoW: Forever players it's watching gold buying closely and will escalate penalties up to permanent bans.</description>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://ranzware.com/blizzard-issues-stark-warning-to-wow-forever-gold-buyers-engaging-in-rmt-is-not-worth-putting-your-account-at-risk</guid>
+</item>
+<item>
 <title>RuneScape 4 revealed: Unreal Engine MMO from Jagex</title>
 <link>https://hypebeast.com/2026/10/jagex-unveils-runescape-4-mmo-built-on-unreal-engine</link>
 <description>Jagex announced RuneScape 4 at RuneFest: a standalone Unreal Engine MMO set in the Sixth Age, pivoted from a Dragonwilds survival expansion into a full classic-format MMO.</description>
@@ -131,6 +138,13 @@
 <description>A leveling guide rounds up Blizzard's newly revealed roadmap: global launch November 4 at 3 PM PST, three raids unlocking December 9 (Barrow Deeps, Hyjal Summit, Onyxia's Lair), a Hardcore ruleset in winter 2026/27, and two major update windows in spring and summer 2027.</description>
 <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.iggm.com/news/wow-forever-leveling-guide-how-to-turn-quests-dungeons-professions-into-faster-xp</guid>
+</item>
+<item>
+<title>Running an LLM in Your Browser: WebGPU, Model Hashes, and Truly Local Inference</title>
+<link>https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/</link>
+<description>Practical guide to in-browser LLM inference now that WebGPU is stable: 1-8B quantized open-weight models, verifying model hashes, and the fingerprinting trade-off of GPU APIs.</description>
+<pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/</guid>
 </item>
 <item>
 <title>DwarfStar 4: the Redis guy's narrow local LLM engine</title>
