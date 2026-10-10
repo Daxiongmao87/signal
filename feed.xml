@@ -5,13 +5,27 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 09 Oct 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>WoW: Forever is official: Blizzard's season-free Classic launches November 4</title>
+<link>https://en.softonic.com/articles/wow-forever-is-official-blizzards-season-free-classic-launches-november-4</link>
+<description>Blizzard dates the permanent Classic realm for November 4: slower progression, manual groups, limited finders and add-ons, framed as a long-term home rather than another season.</description>
+<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://en.softonic.com/articles/wow-forever-is-official-blizzards-season-free-classic-launches-november-4</guid>
+</item>
 <item>
 <title>WoW: Forever gets SD Skyborne models in early 2027</title>
 <link>https://thedailygame.news/story/2026-10-09-wow-forever-gets-sd-skyborne-models-in-early-2027-after-beta-feedback--474388e8</link>
 <description>After beta feedback on the HD Skyborne models, Blizzard is retouching Skyborne druid forms to match Classic's visual language now and promises a lower-detail SD model option in early 2027.</description>
 <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://thedailygame.news/story/2026-10-09-wow-forever-gets-sd-skyborne-models-in-early-2027-after-beta-feedback--474388e8</guid>
+</item>
+<item>
+<title>On-device LLM research (2026-10-09): MediaPipe/LiteRT vs Gemini Nano on mid-range Android phones</title>
+<link>https://github.com/zushikina-kun/smartspend-app/blob/HEAD/docs/handsoff/on-device-llm-research-2026-10-09.md</link>
+<description>Dated research note comparing MediaPipe/LiteRT (Gemma 4 E2B, Gemma 3n, Phi-3 Mini) against Gemini Nano via AICore: model sizes, RAM floors, tok/s, and context limits for real Android hardware.</description>
+<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://github.com/zushikina-kun/smartspend-app/blob/HEAD/docs/handsoff/on-device-llm-research-2026-10-09.md</guid>
 </item>
 <item>
 <title>WoW Forever beta: ~4,000 RMT accounts banned</title>
@@ -33,6 +47,13 @@
 <description>Creator rundown of Blizzard's beta dungeon-XP fix: kill XP was tied to the highest-level group member, plus a 20% dungeon kill-XP boost and highlights from the third dev podcast.</description>
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.youtube.com/watch?v=q0ZkdxFokB4</guid>
+</item>
+<item>
+<title>LLM Weight + Activation Quantization: Frontier Report 2023-2026</title>
+<link>https://github.com/syniaksviatoslav/dowiz/blob/HEAD/llm_quantization_report.md</link>
+<description>Fresh report gathering falsifiable quantization claims — GPTQ/AWQ/GGUF k-quants, FP8/MXFP8, SmoothQuant, SpQR, and 2-bit methods — with live-checkable citations, aimed at kernel builders.</description>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://github.com/syniaksviatoslav/dowiz/blob/HEAD/llm_quantization_report.md</guid>
 </item>
 <item>
 <title>Windows ML Gets llama.cpp: Run GGUF Locally on Any Hardware</title>
@@ -131,6 +152,13 @@
 <description>A leveling guide rounds up Blizzard's newly revealed roadmap: global launch November 4 at 3 PM PST, three raids unlocking December 9 (Barrow Deeps, Hyjal Summit, Onyxia's Lair), a Hardcore ruleset in winter 2026/27, and two major update windows in spring and summer 2027.</description>
 <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.iggm.com/news/wow-forever-leveling-guide-how-to-turn-quests-dungeons-professions-into-faster-xp</guid>
+</item>
+<item>
+<title>liminis local-inference: macOS sidecar exposing CoreML embeddings and Apple Foundation Models chat over an OpenAI-compatible API</title>
+<link>https://github.com/liminisapp/liminis-context-graph/blob/HEAD/native/local-inference/README.md</link>
+<description>A small macOS 26+ HTTP sidecar that serves on-device CoreML BGE embeddings and Apple Foundation Models chat behind OpenAI-compatible endpoints, with an ADR on the HTTP contract.</description>
+<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://github.com/liminisapp/liminis-context-graph/blob/HEAD/native/local-inference/README.md</guid>
 </item>
 <item>
 <title>Running an LLM in Your Browser: WebGPU, Model Hashes, and Truly Local Inference</title>
