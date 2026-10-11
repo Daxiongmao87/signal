@@ -63,6 +63,13 @@
 <guid isPermaLink="true">https://huggingface.co/blog/basecompute/superfluid</guid>
 </item>
 <item>
+<title>Blizzard's original plan for WoW: Forever was much smaller than what it's launching</title>
+<link>https://games.mxdwn.com/news/blizzards-original-plan-for-wow-forever-was-much-smaller-than-what-its-launching/</link>
+<description>Exec producer Stone says the first Forever pitch was vanilla with light class tweaks, but it ballooned after Season of Discovery's reception: 1,000+ new quests, nine dungeons, two raids, and a new 15v15 battleground ahead of the November 4 launch.</description>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://games.mxdwn.com/news/blizzards-original-plan-for-wow-forever-was-much-smaller-than-what-its-launching/</guid>
+</item>
+<item>
 <title>Windows ML Gets llama.cpp: Run GGUF Locally on Any Hardware</title>
 <link>https://byteiota.com/windows-ml-gets-llama-cpp-run-gguf-locally-on-any-hardware/</link>
 <description>Microsoft folded llama.cpp into Windows ML, adding NPU routing (QNN, OpenVINO, TensorRT RTX) for any GGUF — and pushed CUDA kernel, speculative-decoding and multi-GPU optimizations back upstream.</description>
@@ -278,13 +285,6 @@
 <description>A full voice assistant (STT + LLM + TTS) running entirely offline on a stock Pixel 10: Sherpa-ONNX or ML Kit ASR, MediaPipe/LiteRT or Gemini Nano LLMs, user-switchable models.</description>
 <pubDate>Sun, 20 Sep 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://github.com/m15-ai/droidkaigi2026-app-gvp/blob/HEAD/README.md</guid>
-</item>
-<item>
-<title>Deploying SLMs: fine-tuning vs context engineering</title>
-<link>https://mtdeveloper.vercel.app/blog/deploying-slms-in-production-fine-tuning-vs-context-engineering</link>
-<description>When to choose PEFT/LoRA fine-tuning (narrow structured tasks, strict formats, &lt;150ms TTFT on constrained hardware) vs context engineering (fast-changing data, general reasoning), plus hybrid adapter-swap architectures.</description>
-<pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://mtdeveloper.vercel.app/blog/deploying-slms-in-production-fine-tuning-vs-context-engineering</guid>
 </item>
 </channel>
 </rss>
