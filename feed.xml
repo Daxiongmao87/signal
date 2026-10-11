@@ -14,11 +14,25 @@
 <guid isPermaLink="true">https://ranzware.com/wow-forevers-classes-wont-be-modernized-but-blizzard-has-added-some-new-mechanics-for-engaging-depth-as-some-classes-in-world-of-warcraft-classic-were-too-simple</guid>
 </item>
 <item>
+<title>WoW: Forever beta is already breaking records; Blizzard won't cater to the loudest fans</title>
+<link>https://en.softonic.com/articles/wow-forever-beta-is-already-breaking-records-blizzard-wont-cater-to-the-loudest-fans</link>
+<description>At PAX Australia, Blizzard called the Forever beta its biggest ever and set expectations: horizontal growth, broad-feedback-driven decisions, no Italian client yet.</description>
+<pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://en.softonic.com/articles/wow-forever-beta-is-already-breaking-records-blizzard-wont-cater-to-the-loudest-fans</guid>
+</item>
+<item>
 <title>WoW: Forever is official: Blizzard's season-free Classic launches November 4</title>
 <link>https://en.softonic.com/articles/wow-forever-is-official-blizzards-season-free-classic-launches-november-4</link>
 <description>Blizzard dates the permanent Classic realm for November 4: slower progression, manual groups, limited finders and add-ons, framed as a long-term home rather than another season.</description>
 <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://en.softonic.com/articles/wow-forever-is-official-blizzards-season-free-classic-launches-november-4</guid>
+</item>
+<item>
+<title>Rapid-MLX: open-source inference server for Apple Silicon with dual OpenAI/Anthropic APIs</title>
+<link>https://smartchunks.com/rapid-mlx-open-source-apple-silicon-inference-server/</link>
+<description>New Apache-2.0 MLX-based server speaks both OpenAI and Anthropic API formats, aimed at reliable tool calling for locally run coding agents.</description>
+<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://smartchunks.com/rapid-mlx-open-source-apple-silicon-inference-server/</guid>
 </item>
 <item>
 <title>WoW: Forever gets SD Skyborne models in early 2027</title>
@@ -77,6 +91,13 @@
 <guid isPermaLink="true">https://games.mxdwn.com/news/blizzards-original-plan-for-wow-forever-was-much-smaller-than-what-its-launching/</guid>
 </item>
 <item>
+<title>Termux Assistant AI: giving an LLM shell hands inside Android</title>
+<link>https://dev.to/cr4code/i-gave-a-language-model-hands-inside-android-and-it-built-me-an-app-factory-1390</link>
+<description>Open-source MIT project bridges a WebView chat app to Termux over local HTTP so the model can run shell commands and build things on the phone.</description>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/cr4code/i-gave-a-language-model-hands-inside-android-and-it-built-me-an-app-factory-1390</guid>
+</item>
+<item>
 <title>Windows ML Gets llama.cpp: Run GGUF Locally on Any Hardware</title>
 <link>https://byteiota.com/windows-ml-gets-llama-cpp-run-gguf-locally-on-any-hardware/</link>
 <description>Microsoft folded llama.cpp into Windows ML, adding NPU routing (QNN, OpenVINO, TensorRT RTX) for any GGUF — and pushed CUDA kernel, speculative-decoding and multi-GPU optimizations back upstream.</description>
@@ -103,6 +124,13 @@
 <description>YC-backed Apache-2.0 local engine that compiles and tunes kernels on the target machine instead of shipping generic ones; team claims 92% faster decode than llama.cpp on an M4 Pro Mac and 19% on NVIDIA, with a shared prefix cache for multi-agent setups. Released September 30 and hit 6,400 GitHub stars within days.</description>
 <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://fireup.pro/news/magnitude-vs-llama-cpp-local-llm-inference-engine</guid>
+</item>
+<item>
+<title>Termux-BitNet v2.0.1: mobile GPU memory slicing for 1.58-bit on-device inference</title>
+<link>https://github.com/uno-km/termux-bitnet/blob/HEAD/RELEASE_NOTES.md</link>
+<description>Release adds vocab-slice and chunked layer dispatch to fit 1.58-bit LLM inference into mobile GPU limits, plus watchdog-timeout fixes for Mali GPUs.</description>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://github.com/uno-km/termux-bitnet/blob/HEAD/RELEASE_NOTES.md</guid>
 </item>
 <item>
 <title>RuneScape 4 revealed: Unreal Engine MMO from Jagex</title>
@@ -161,6 +189,13 @@
 <guid isPermaLink="true">https://game-scanner.com/news/world-of-warcraft-forever-classic-models-beta-feedback</guid>
 </item>
 <item>
+<title>Coding agent news: OpenAI DevDay refresh, Gemini sandboxes, Claude coding releases (week ending Oct 6)</title>
+<link>https://aiagentstore.ai/ai-agent-news/topic/coding</link>
+<description>Roundup of the week's agentic-coding moves: computer-use in the Agents API, a refreshed Codex CLI, Gemini's GA sandboxes, and new Anthropic coding releases.</description>
+<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aiagentstore.ai/ai-agent-news/topic/coding</guid>
+</item>
+<item>
 <title>AirLLM + RLM: self-contained local inference stack</title>
 <link>https://github.com/stable-release/airllm-rlm-stack</link>
 <description>Open-source stack pairing AirLLM's layer-streamed inference with a Rust RLM harness: two-tier GGUF serving, recursive long-context navigation, and a single OpenAI-compatible API.</description>
@@ -194,6 +229,13 @@
 <description>Practical guide to in-browser LLM inference now that WebGPU is stable: 1-8B quantized open-weight models, verifying model hashes, and the fingerprinting trade-off of GPU APIs.</description>
 <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/</guid>
+</item>
+<item>
+<title>DeepSeek Harness v0.2 ships native desktop apps</title>
+<link>https://iaexpertos.net/en/blog/deepseek-harness-v02-official-desktop-applications-transform-open-source-agentic-coding-en</link>
+<description>Open-source agentic coding harness moves beyond the CLI with macOS/Windows apps, a plugin manager, and compatibility with any OpenAI-compatible model.</description>
+<pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://iaexpertos.net/en/blog/deepseek-harness-v02-official-desktop-applications-transform-open-source-agentic-coding-en</guid>
 </item>
 <item>
 <title>DwarfStar 4: the Redis guy's narrow local LLM engine</title>
@@ -243,48 +285,6 @@
 <description>Blizzard banned a streamer who encouraged viewers to buy gold on his behalf and says Forever will now punish buyers as well as sellers: gold removal, suspension, or permanent account closure.</description>
 <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.thebrief.news/en/standard/article/27047/blizzard-bans-streamer-as-it-toughens-gold-rules-for-wow-forever</guid>
-</item>
-<item>
-<title>Ollama vs vLLM vs llama.cpp: which local engine to use</title>
-<link>https://dev.to/amareswer/ollama-vs-vllm-vs-llamacpp-which-local-llm-engine-58h6</link>
-<description>Practical dated comparison of the three local inference engines: Ollama for fast setup, llama.cpp for full tuning depth, vLLM for shared-team serving, with GGUF-on-Mac caveats.</description>
-<pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/amareswer/ollama-vs-vllm-vs-llamacpp-which-local-llm-engine-58h6</guid>
-</item>
-<item>
-<title>WoW Forever beta capacity raised again amid record demand</title>
-<link>https://mmos.com/news/mmorpg-news/wow-forever-beta-capacity</link>
-<description>Blizzard raised the Forever beta population cap a second time as queues persisted; Josh Greenfield called the demand the biggest he'd seen in 17 years. Beta runs through Oct 21, launch Nov 4.</description>
-<pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://mmos.com/news/mmorpg-news/wow-forever-beta-capacity</guid>
-</item>
-<item>
-<title>llama.cpp prompt lookup: 40-70% faster on repeated prefixes</title>
-<link>https://www.webpronews.com/prompt-lookup-in-llama-cpp-speeds-up-llm-inference-by-40-70/</link>
-<description>Hashes repeated prompts and reuses cached KV states instead of recomputing, aimed at apps that recycle long system or context prefixes.</description>
-<pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.webpronews.com/prompt-lookup-in-llama-cpp-speeds-up-llm-inference-by-40-70/</guid>
-</item>
-<item>
-<title>Blizzard raises Forever beta cap again; paid entry keeps selling</title>
-<link>https://thedailygame.news/story/2026-09-28-blizzard-raises-wow-forever-beta-population-cap-a-second-time-as-60-earl--7cd3ba61</link>
-<description>Second capacity raise since the Sept 17 beta launch; the $60 early-access model (progress wiped at the end, name reservations kept) keeps drawing crowds despite criticism.</description>
-<pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://thedailygame.news/story/2026-09-28-blizzard-raises-wow-forever-beta-population-cap-a-second-time-as-60-earl--7cd3ba61</guid>
-</item>
-<item>
-<title>WoW Forever smooths out group quest drops</title>
-<link>https://thedailygame.news/story/2026-09-28-wow-forever-beta-cap-raised-again-as-blizzard-smooths-out-group-quest-dr--8cdfdc89</link>
-<description>Blizzard makes vanilla-style drop quests distribute more predictably in groups — removing the main reason to avoid other players, in line with Forever's pro-social friction-sanding.</description>
-<pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://thedailygame.news/story/2026-09-28-wow-forever-beta-cap-raised-again-as-blizzard-smooths-out-group-quest-dr--8cdfdc89</guid>
-</item>
-<item>
-<title>WoW: Forever's Beta Just Keeps Getting Bigger</title>
-<link>https://www.gamespot.com/articles/wow-forevers-beta-just-keeps-getting-bigger/</link>
-<description>Blizzard has raised the WoW Forever beta population cap repeatedly ahead of the November 4 launch, with developers calling demand the strongest they've seen in years.</description>
-<pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.gamespot.com/articles/wow-forevers-beta-just-keeps-getting-bigger/</guid>
 </item>
 </channel>
 </rss>
