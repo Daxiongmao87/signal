@@ -63,6 +63,13 @@
 <guid isPermaLink="true">https://www.prnewswire.com/apac/news-releases/outsystems-agent-experience-is-now-generally-available-bringing-governed-ai-development-to-any-coding-agent-302901923.html</guid>
 </item>
 <item>
+<title>Harness acquires Augment Code assets, launches Cosmos software-factory agent</title>
+<link>https://www.prnewswire.com/news-releases/harness-acquires-augment-code-advancing-the-autonomous-sdlc-from-idea-to-production-302902604.html</link>
+<description>Harness bought Augment Code's Cosmos and Auggie CLI assets and Code Context Engine, folding its ticket-to-PR agent fleet into Harness's autonomous SDLC platform.</description>
+<pubDate>Thu, 08 Oct 2026 11:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.prnewswire.com/news-releases/harness-acquires-augment-code-advancing-the-autonomous-sdlc-from-idea-to-production-302902604.html</guid>
+</item>
+<item>
 <title>WoW Forever beta: ~4,000 RMT accounts banned</title>
 <link>https://www.icy-veins.com/wow-forever/news/nearly-4000-accounts-banned-due-to-rmt-wow-forever-beta/</link>
 <description>Blizzard confirmed nearly 4,000 account closures on the WoW Forever beta for real-money trading — over 2,100 gold buyers and ~1,600 sellers/bots — and is adding a UI warning against untrustworthy trades.</description>
@@ -278,13 +285,6 @@
 <description>Blizzard is swapping the beta's Goblin barbers for city-appropriate races (night elves in Darnassus, tauren in Thunder Bluff) after player feedback on the vanilla vibe.</description>
 <pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.icy-veins.com/wow-forever/news/goblin-barbers-will-be-replaced-in-a-future-wow-forever-build/</guid>
-</item>
-<item>
-<title>TensorFold: 2-3x faster local inference, same tokens</title>
-<link>https://www.contextstudios.ai/blog/tensorfold-the-engine-that-makes-local-llms-2-3-faster-without-a-single</link>
-<description>Independent open-source inference engine (Apache-2.0) serving local LLMs behind an OpenAI-compatible endpoint on Metal/MLX and NVIDIA, claiming 2-3x speedups with byte-identical output.</description>
-<pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.contextstudios.ai/blog/tensorfold-the-engine-that-makes-local-llms-2-3-faster-without-a-single</guid>
 </item>
 </channel>
 </rss>
