@@ -196,6 +196,13 @@
 <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-embeddinggemma-2-on-device-multimodal-search/</guid>
 </item>
 <item>
+<title>Agent Lightning v1.0: lightweight agentic RL framework that trains agents in their real harness</title>
+<link>https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/</link>
+<description>Microsoft Research Asia rebuilt Agent Lightning as a ~3,500-line RL control plane where the deployed harness participates in training; its coding pipeline lifted Qwen3.5-9B from 41.8% to 56.4% Pass@1 on SWE-bench Verified with about 6,000 samples.</description>
+<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/</guid>
+</item>
+<item>
 <title>WoW Forever Reputation Changes | How Old and New Factions Expand Progression?</title>
 <link>https://www.iggm.com/news/wow-forever-reputation-changes-how-old-new-factions-expand-progression</link>
 <description>Rundown of WoW Forever's endgame roadmap: first raids (Barrow Deeps, Hyjal Summit, Onyxia's Lair) unlock December 9, 2026, with the Forever Hardcore ruleset planned for winter 2026/27.</description>
@@ -252,6 +259,13 @@
 <guid isPermaLink="true">https://github.com/liminisapp/liminis-context-graph/blob/HEAD/native/local-inference/README.md</guid>
 </item>
 <item>
+<title>The Terminal Wars: comparing the major CLI AI coding agents</title>
+<link>https://blog.teliaz.com/2026/10/04/the-terminal-wars-comparing-the-major-cli-ai-coding-agents/</link>
+<description>Field comparison of CLI coding agents tracing their defining harness rewrites — Codex CLI's Rust rebuild and Gemini CLI's move to Antigravity — alongside Claude Code 2.0 checkpoints, subagents, and hooks.</description>
+<pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://blog.teliaz.com/2026/10/04/the-terminal-wars-comparing-the-major-cli-ai-coding-agents/</guid>
+</item>
+<item>
 <title>Running an LLM in Your Browser: WebGPU, Model Hashes, and Truly Local Inference</title>
 <link>https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/</link>
 <description>Practical guide to in-browser LLM inference now that WebGPU is stable: 1-8B quantized open-weight models, verifying model hashes, and the fingerprinting trade-off of GPU APIs.</description>
@@ -271,20 +285,6 @@
 <description>Salvatore Sanfilippo (antirez) shipped ds4, a deliberately narrow C inference engine for a short list of models (DeepSeek V4, GLM 5.x, Qwen 3.8 Flash Next) on Metal/CUDA/ROCm. ~23k stars, MIT licensed.</description>
 <pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/ashraf_chowdury09/the-redis-guy-wrote-a-local-llm-engine-that-refuses-to-be-general-thats-why-it-works-1hmo</guid>
-</item>
-<item>
-<title>llama.cpp in 2026: the engine under every local stack</title>
-<link>https://www.explainx.ai/blog/what-is-llama-cpp-run-models-locally-2026</link>
-<description>llama.cpp primer with an October 3 update: llama-server now serves Jev-style decision models on /v1/systemone, plus notes on Colibri, Hy3 1-bit GGUF, and the engine's 118k-star footprint.</description>
-<pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.explainx.ai/blog/what-is-llama-cpp-run-models-locally-2026</guid>
-</item>
-<item>
-<title>WoW Forever: Goblin barbers to be replaced in future build</title>
-<link>https://www.icy-veins.com/wow-forever/news/goblin-barbers-will-be-replaced-in-a-future-wow-forever-build/</link>
-<description>Blizzard is swapping the beta's Goblin barbers for city-appropriate races (night elves in Darnassus, tauren in Thunder Bluff) after player feedback on the vanilla vibe.</description>
-<pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.icy-veins.com/wow-forever/news/goblin-barbers-will-be-replaced-in-a-future-wow-forever-build/</guid>
 </item>
 </channel>
 </rss>
