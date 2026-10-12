@@ -119,6 +119,13 @@
 <guid isPermaLink="true">https://dev.to/cr4code/i-gave-a-language-model-hands-inside-android-and-it-built-me-an-app-factory-1390</guid>
 </item>
 <item>
+<title>Cisco unveils Webex Dialog agentic harness at WebexOne</title>
+<link>https://techmymoney.com/2026/10/08/cisco-webex-dialog-agentic-harness-webexone/</link>
+<description>Cisco previewed Webex Dialog, an agentic harness layer for its Webex AI Agent platform meant to keep customer work running across people, agents and backend systems after a chat ends; beta is slated for Q1 2027.</description>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://techmymoney.com/2026/10/08/cisco-webex-dialog-agentic-harness-webexone/</guid>
+</item>
+<item>
 <title>Windows ML Gets llama.cpp: Run GGUF Locally on Any Hardware</title>
 <link>https://byteiota.com/windows-ml-gets-llama-cpp-run-gguf-locally-on-any-hardware/</link>
 <description>Microsoft folded llama.cpp into Windows ML, adding NPU routing (QNN, OpenVINO, TensorRT RTX) for any GGUF — and pushed CUDA kernel, speculative-decoding and multi-GPU optimizations back upstream.</description>
@@ -152,6 +159,13 @@
 <description>Release adds vocab-slice and chunked layer dispatch to fit 1.58-bit LLM inference into mobile GPU limits, plus watchdog-timeout fixes for Mali GPUs.</description>
 <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://github.com/uno-km/termux-bitnet/blob/HEAD/RELEASE_NOTES.md</guid>
+</item>
+<item>
+<title>AgentEng launched: CLI, MCP, A2A and ACP support for agentic AI events</title>
+<link>https://shashikantjagtap.net/agent-engineering-hq-launched-agenteng-cli-mcp-a2a-and-acp-support-for-agentic-ai-events/</link>
+<description>Agent Engineering HQ released AgentEng, an open-source companion providing a Python CLI, MCP server, A2A service and experimental ACP client so coding assistants and other agents can query its conference programme and tooling.</description>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://shashikantjagtap.net/agent-engineering-hq-launched-agenteng-cli-mcp-a2a-and-acp-support-for-agentic-ai-events/</guid>
 </item>
 <item>
 <title>RuneScape 4 revealed: Unreal Engine MMO from Jagex</title>
@@ -271,20 +285,6 @@
 <description>Practical guide to in-browser LLM inference now that WebGPU is stable: 1-8B quantized open-weight models, verifying model hashes, and the fingerprinting trade-off of GPU APIs.</description>
 <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/</guid>
-</item>
-<item>
-<title>DeepSeek Harness v0.2 ships native desktop apps</title>
-<link>https://iaexpertos.net/en/blog/deepseek-harness-v02-official-desktop-applications-transform-open-source-agentic-coding-en</link>
-<description>Open-source agentic coding harness moves beyond the CLI with macOS/Windows apps, a plugin manager, and compatibility with any OpenAI-compatible model.</description>
-<pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://iaexpertos.net/en/blog/deepseek-harness-v02-official-desktop-applications-transform-open-source-agentic-coding-en</guid>
-</item>
-<item>
-<title>DwarfStar 4: the Redis guy's narrow local LLM engine</title>
-<link>https://dev.to/ashraf_chowdury09/the-redis-guy-wrote-a-local-llm-engine-that-refuses-to-be-general-thats-why-it-works-1hmo</link>
-<description>Salvatore Sanfilippo (antirez) shipped ds4, a deliberately narrow C inference engine for a short list of models (DeepSeek V4, GLM 5.x, Qwen 3.8 Flash Next) on Metal/CUDA/ROCm. ~23k stars, MIT licensed.</description>
-<pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/ashraf_chowdury09/the-redis-guy-wrote-a-local-llm-engine-that-refuses-to-be-general-thats-why-it-works-1hmo</guid>
 </item>
 </channel>
 </rss>
