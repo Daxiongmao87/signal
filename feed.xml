@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://pengen.diewe.workers.dev/arshtechpro/xcode-263-brings-agentic-coding-claude-and-codex-now-integrated-into-your-ide-1l5p</guid>
 </item>
 <item>
+<title>Deploying LLMs locally: Ollama, llama.cpp, vLLM and TGI compared</title>
+<link>https://dev.to/ipsphil_digital/deploying-llms-locally-ollama-llamacpp-vllm-text-generation-inference-4c0k</link>
+<description>Fresh hands-on walkthrough covering all four runtimes end to end: Ollama quick-start, llama.cpp builds and Q4_K_M quantization, vLLM serving with AWQ/GPTQ and LoRA adapters, plus TGI, with runnable configs for each.</description>
+<pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/ipsphil_digital/deploying-llms-locally-ollama-llamacpp-vllm-text-generation-inference-4c0k</guid>
+</item>
+<item>
 <title>Blizzard rules out adding existing expansion races to WoW: Forever</title>
 <link>https://www.digitaltoday.co.kr/en/view/113266/blizzard-rules-out-adding-existing-playable-races-to-wow-forever</link>
 <description>Blizzard tells TechRadar it has no plans to bring goblin, vulpera, or haranir races to WoW: Forever, instead building an independent timeline off the Warcraft III Reforged: Forsaken Kingdom campaign — with the all-new Skyborne race as the sole exception.</description>
@@ -278,13 +285,6 @@
 <description>Players measured 4-20% less XP from below-level mob kills; Blizzard confirms it is intentional, offsetting new food-buff and camping rested-XP bonuses.</description>
 <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.icy-veins.com/wow-forever/news/nerfed-experience-gains-from-low-level-mobs-in-wow-forever/</guid>
-</item>
-<item>
-<title>WoW Forever 2026–2027 roadmap: Nov 4 launch, December raids, Hardcore in winter, major updates spring/summer 2027</title>
-<link>https://www.iggm.com/news/wow-forever-leveling-guide-how-to-turn-quests-dungeons-professions-into-faster-xp</link>
-<description>A leveling guide rounds up Blizzard's newly revealed roadmap: global launch November 4 at 3 PM PST, three raids unlocking December 9 (Barrow Deeps, Hyjal Summit, Onyxia's Lair), a Hardcore ruleset in winter 2026/27, and two major update windows in spring and summer 2027.</description>
-<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.iggm.com/news/wow-forever-leveling-guide-how-to-turn-quests-dungeons-professions-into-faster-xp</guid>
 </item>
 </channel>
 </rss>
