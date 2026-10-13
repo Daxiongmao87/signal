@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://www.digitaltoday.co.kr/en/view/113266/blizzard-rules-out-adding-existing-playable-races-to-wow-forever</guid>
 </item>
 <item>
+<title>Agentic AI roundup: Google open-sources self-improving agent harness RRSI</title>
+<link>https://www.marktechpost.com/category/editors-pick/agentic-ai/</link>
+<description>Google Research open-sources RRSI, a framework that lets LLM agents rewrite their own prompts, tools, and memory — Terminal-Bench 2.1 rises from 74.2% to 80.2%; also notes a 115 ms local routing model for agent tool-selection on an RTX 3090.</description>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.marktechpost.com/category/editors-pick/agentic-ai/</guid>
+</item>
+<item>
 <title>WoW: Forever class design: no modernization, just 'engaging depth'</title>
 <link>https://ranzware.com/wow-forevers-classes-wont-be-modernized-but-blizzard-has-added-some-new-mechanics-for-engaging-depth-as-some-classes-in-world-of-warcraft-classic-were-too-simple</link>
 <description>Blizzard tells TechRadar it won't modernize WoW: Forever's classes, but some 'too simple' vanilla classes get new mechanics — judged against the four design pillars behind its Classic Plus identity.</description>
@@ -278,13 +285,6 @@
 <description>Regularized Recursive Self-Improvement lets an agent rewrite its own prompts, tools and memory with frozen weights while resisting benchmark overfit; reports up to 14.1-point gains and ~30% fewer runtime tokens.</description>
 <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://completeaitraining.com/news/google-researchers-propose-method-to-stop-self-improving-ai/</guid>
-</item>
-<item>
-<title>Nerfed Experience Gains From Low-Level Mobs in WoW Forever</title>
-<link>https://www.icy-veins.com/wow-forever/news/nerfed-experience-gains-from-low-level-mobs-in-wow-forever/</link>
-<description>Players measured 4-20% less XP from below-level mob kills; Blizzard confirms it is intentional, offsetting new food-buff and camping rested-XP bonuses.</description>
-<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.icy-veins.com/wow-forever/news/nerfed-experience-gains-from-low-level-mobs-in-wow-forever/</guid>
 </item>
 </channel>
 </rss>
