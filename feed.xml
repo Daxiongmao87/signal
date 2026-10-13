@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://pengen.diewe.workers.dev/arshtechpro/xcode-263-brings-agentic-coding-claude-and-codex-now-integrated-into-your-ide-1l5p</guid>
 </item>
 <item>
+<title>Cognitum One releases Ruflo, open-source agent meta-harness for Claude Code and Codex</title>
+<link>https://www.morningstar.com/news/accesswire/1236128msn/cognitum-one-releases-ruflo-ai-agent-orchestration-for-claude-code-and-codex-with-mission-driven-mods-and-a-single-agent-control-plane</link>
+<description>Open-source meta-harness for Claude Code and Codex that organizes agents into queen-led swarms with persistent shared memory, plus mission-driven Mods and a single control plane; the release claims 74,000 GitHub stars and 12.5M npm downloads.</description>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.morningstar.com/news/accesswire/1236128msn/cognitum-one-releases-ruflo-ai-agent-orchestration-for-claude-code-and-codex-with-mission-driven-mods-and-a-single-agent-control-plane</guid>
+</item>
+<item>
 <title>Deploying LLMs locally: Ollama, llama.cpp, vLLM and TGI compared</title>
 <link>https://dev.to/ipsphil_digital/deploying-llms-locally-ollama-llamacpp-vllm-text-generation-inference-4c0k</link>
 <description>Fresh hands-on walkthrough covering all four runtimes end to end: Ollama quick-start, llama.cpp builds and Q4_K_M quantization, vLLM serving with AWQ/GPTQ and LoRA adapters, plus TGI, with runnable configs for each.</description>
@@ -278,13 +285,6 @@
 <description>Open-source stack pairing AirLLM's layer-streamed inference with a Rust RLM harness: two-tier GGUF serving, recursive long-context navigation, and a single OpenAI-compatible API.</description>
 <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://github.com/stable-release/airllm-rlm-stack</guid>
-</item>
-<item>
-<title>RRSI: Google open-sources self-improving agent harnesses without overfitting</title>
-<link>https://completeaitraining.com/news/google-researchers-propose-method-to-stop-self-improving-ai/</link>
-<description>Regularized Recursive Self-Improvement lets an agent rewrite its own prompts, tools and memory with frozen weights while resisting benchmark overfit; reports up to 14.1-point gains and ~30% fewer runtime tokens.</description>
-<pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://completeaitraining.com/news/google-researchers-propose-method-to-stop-self-improving-ai/</guid>
 </item>
 </channel>
 </rss>
