@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 11 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 00:43:00 +0000</lastBuildDate>
+<item>
+<title>Xcode 26.3 RC brings agentic coding to the IDE: Claude Agent and Codex integrated via MCP</title>
+<link>https://pengen.diewe.workers.dev/arshtechpro/xcode-263-brings-agentic-coding-claude-and-codex-now-integrated-into-your-ide-1l5p</link>
+<description>Apple's Xcode 26.3 release candidate adds built-in agentic coding, with Anthropic's Claude Agent, OpenAI's Codex, and custom agents via MCP able to read and modify project files, build apps, and run tests directly in the IDE.</description>
+<pubDate>Tue, 13 Oct 2026 00:43:00 +0000</pubDate>
+<guid isPermaLink="true">https://pengen.diewe.workers.dev/arshtechpro/xcode-263-brings-agentic-coding-claude-and-codex-now-integrated-into-your-ide-1l5p</guid>
+</item>
 <item>
 <title>WoW: Forever class design: no modernization, just 'engaging depth'</title>
 <link>https://ranzware.com/wow-forevers-classes-wont-be-modernized-but-blizzard-has-added-some-new-mechanics-for-engaging-depth-as-some-classes-in-world-of-warcraft-classic-were-too-simple</link>
@@ -278,13 +285,6 @@
 <description>Field comparison of CLI coding agents tracing their defining harness rewrites — Codex CLI's Rust rebuild and Gemini CLI's move to Antigravity — alongside Claude Code 2.0 checkpoints, subagents, and hooks.</description>
 <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://blog.teliaz.com/2026/10/04/the-terminal-wars-comparing-the-major-cli-ai-coding-agents/</guid>
-</item>
-<item>
-<title>Running an LLM in Your Browser: WebGPU, Model Hashes, and Truly Local Inference</title>
-<link>https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/</link>
-<description>Practical guide to in-browser LLM inference now that WebGPU is stable: 1-8B quantized open-weight models, verifying model hashes, and the fingerprinting trade-off of GPU APIs.</description>
-<pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/</guid>
 </item>
 </channel>
 </rss>
