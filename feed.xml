@@ -98,6 +98,13 @@
 <guid isPermaLink="true">https://thedailygame.news/story/2026-10-09-wow-forever-gets-sd-skyborne-models-in-early-2027-after-beta-feedback--474388e8</guid>
 </item>
 <item>
+<title>Nace.AI open-sources Drex 1.5, a 9B decision model for agents</title>
+<link>https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/</link>
+<description>Nace.AI released Drex 1.5, an open 9B 'decision model' that scores a fixed set of options in one forward pass instead of generating text — built for agent routing, tool selection, and guardrails, runnable on one GPU or as a 9.5 GB Q8_0 GGUF.</description>
+<pubDate>Fri, 09 Oct 2026 04:51:34 +0000</pubDate>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/</guid>
+</item>
+<item>
 <title>On-device LLM research (2026-10-09): MediaPipe/LiteRT vs Gemini Nano on mid-range Android phones</title>
 <link>https://github.com/zushikina-kun/smartspend-app/blob/HEAD/docs/handsoff/on-device-llm-research-2026-10-09.md</link>
 <description>Dated research note comparing MediaPipe/LiteRT (Gemma 4 E2B, Gemma 3n, Phi-3 Mini) against Gemini Nano via AICore: model sizes, RAM floors, tok/s, and context limits for real Android hardware.</description>
@@ -278,13 +285,6 @@
 <description>Rundown of WoW Forever's endgame roadmap: first raids (Barrow Deeps, Hyjal Summit, Onyxia's Lair) unlock December 9, 2026, with the Forever Hardcore ruleset planned for winter 2026/27.</description>
 <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.iggm.com/news/wow-forever-reputation-changes-how-old-new-factions-expand-progression</guid>
-</item>
-<item>
-<title>WoW Forever sticks with classic models after beta feedback</title>
-<link>https://game-scanner.com/news/world-of-warcraft-forever-classic-models-beta-feedback</link>
-<description>Blizzard backed off HD-only character models in the WoW Forever beta after tester pushback, keeping the classic look — and reverted a modern-looking quilboar boss to its original form.</description>
-<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://game-scanner.com/news/world-of-warcraft-forever-classic-models-beta-feedback</guid>
 </item>
 </channel>
 </rss>
