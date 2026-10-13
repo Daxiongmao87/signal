@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://pengen.diewe.workers.dev/arshtechpro/xcode-263-brings-agentic-coding-claude-and-codex-now-integrated-into-your-ide-1l5p</guid>
 </item>
 <item>
+<title>Top 5 local LLM tools and models in 2026</title>
+<link>https://pengen.diewe.workers.dev/lightningdev123/top-5-local-llm-tools-and-models-in-2026-1ch5</link>
+<description>Just-published rundown of the local-LLM tools and open models defining 2026, from GPT-OSS 20B/120B to DeepSeek's V3.2 reasoning release and runner picks like LocalAI and Jan.</description>
+<pubDate>Tue, 13 Oct 2026 00:43:00 +0000</pubDate>
+<guid isPermaLink="true">https://pengen.diewe.workers.dev/lightningdev123/top-5-local-llm-tools-and-models-in-2026-1ch5</guid>
+</item>
+<item>
 <title>Cognitum One releases Ruflo, open-source agent meta-harness for Claude Code and Codex</title>
 <link>https://www.morningstar.com/news/accesswire/1236128msn/cognitum-one-releases-ruflo-ai-agent-orchestration-for-claude-code-and-codex-with-mission-driven-mods-and-a-single-agent-control-plane</link>
 <description>Open-source meta-harness for Claude Code and Codex that organizes agents into queen-led swarms with persistent shared memory, plus mission-driven Mods and a single control plane; the release claims 74,000 GitHub stars and 12.5M npm downloads.</description>
@@ -61,6 +68,13 @@
 <description>At PAX Australia, Blizzard called the Forever beta its biggest ever and set expectations: horizontal growth, broad-feedback-driven decisions, no Italian client yet.</description>
 <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://en.softonic.com/articles/wow-forever-beta-is-already-breaking-records-blizzard-wont-cater-to-the-loudest-fans</guid>
+</item>
+<item>
+<title>WoW: Forever's classes won't be modernized, but Blizzard adds 'engaging depth'</title>
+<link>https://ranzware.com/wow-forevers-classes-wont-be-modernized-but-blizzard-has-added-some-new-mechanics-for-engaging-depth-as-some-classes-in-world-of-warcraft-classic-were-too-simple</link>
+<description>Blizzard tells TechRadar it will keep vanilla classes instead of modernizing them, but is adding a few mechanics where some Classic-era classes felt too simple, guided by four design pillars.</description>
+<pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://ranzware.com/wow-forevers-classes-wont-be-modernized-but-blizzard-has-added-some-new-mechanics-for-engaging-depth-as-some-classes-in-world-of-warcraft-classic-were-too-simple</guid>
 </item>
 <item>
 <title>WoW: Forever is official: Blizzard's season-free Classic launches November 4</title>
@@ -271,20 +285,6 @@
 <description>Blizzard backed off HD-only character models in the WoW Forever beta after tester pushback, keeping the classic look — and reverted a modern-looking quilboar boss to its original form.</description>
 <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://game-scanner.com/news/world-of-warcraft-forever-classic-models-beta-feedback</guid>
-</item>
-<item>
-<title>Coding agent news: OpenAI DevDay refresh, Gemini sandboxes, Claude coding releases (week ending Oct 6)</title>
-<link>https://aiagentstore.ai/ai-agent-news/topic/coding</link>
-<description>Roundup of the week's agentic-coding moves: computer-use in the Agents API, a refreshed Codex CLI, Gemini's GA sandboxes, and new Anthropic coding releases.</description>
-<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aiagentstore.ai/ai-agent-news/topic/coding</guid>
-</item>
-<item>
-<title>AirLLM + RLM: self-contained local inference stack</title>
-<link>https://github.com/stable-release/airllm-rlm-stack</link>
-<description>Open-source stack pairing AirLLM's layer-streamed inference with a Rust RLM harness: two-tier GGUF serving, recursive long-context navigation, and a single OpenAI-compatible API.</description>
-<pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://github.com/stable-release/airllm-rlm-stack</guid>
 </item>
 </channel>
 </rss>
