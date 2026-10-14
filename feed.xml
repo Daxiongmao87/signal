@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 13 Oct 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 08:30:03 +0000</lastBuildDate>
+<item>
+<title>Ruflo meta-harness breakdown: missions, federation, and the model-plus-harness lesson</title>
+<link>https://dev.to/cortexflow_tech/ruflo-the-open-source-meta-harness-running-100-agent-coding-swarms-3609</link>
+<description>A builder's teardown of Ruflo's Oct-13 meta-harness release: mission-style Mods that run research-to-test loops, federated multi-machine swarms with PII gating and trust scoring, self-learning SONA memory, and the core argument that agent failures are harness failures — memory, routing, approvals, observability — not model failures.</description>
+<pubDate>Wed, 14 Oct 2026 08:30:03 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/cortexflow_tech/ruflo-the-open-source-meta-harness-running-100-agent-coding-swarms-3609</guid>
+</item>
 <item>
 <title>Liquid AI ships open-weight LFM2.5-24B-A2B for on-device agents</title>
 <link>https://www.unite.ai/liquid-ai-releases-open-weight-lfm2-5-24b-a2b-for-on-device-agents/</link>
@@ -278,13 +285,6 @@
 <description>Jagex announced RuneScape 4 at RuneFest: a standalone Unreal Engine MMO set in the Sixth Age, pivoted from a Dragonwilds survival expansion into a full classic-format MMO.</description>
 <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://hypebeast.com/2026/10/jagex-unveils-runescape-4-mmo-built-on-unreal-engine</guid>
-</item>
-<item>
-<title>Fable keeps combat accessible with hidden complexity</title>
-<link>https://ikawogi.com/en/news/statement-fable-4-combat-design-2026-10</link>
-<description>Playground Games on Fable's combat: accessible but with hidden depth — targeted body-part shots that change enemy behavior, plus non-combat quest paths via dialogue, reputation, and puzzles.</description>
-<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://ikawogi.com/en/news/statement-fable-4-combat-design-2026-10</guid>
 </item>
 </channel>
 </rss>
