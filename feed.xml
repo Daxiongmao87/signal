@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://dev.to/cortexflow_tech/ruflo-the-open-source-meta-harness-running-100-agent-coding-swarms-3609</guid>
 </item>
 <item>
+<title>Blizzard: Forever classes keep Classic kits, but 'too simple' specs gain mechanics</title>
+<link>https://www.notebookcheck.net/WoW-Forever-won-t-modernize-Classic-classes-but-Blizzard-admits-some-were-too-simple.1424285.0.html</link>
+<description>In a TechRadar interview, the Forever team says classes will stay simpler than retail but gain new mechanics where vanilla kits were barebones, using the beta's class depth as the benchmark.</description>
+<pubDate>Wed, 14 Oct 2026 00:43:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.notebookcheck.net/WoW-Forever-won-t-modernize-Classic-classes-but-Blizzard-admits-some-were-too-simple.1424285.0.html</guid>
+</item>
+<item>
 <title>Pi 1.0 Coding Agent: Open-Source Release Cuts Tokens 40%</title>
 <link>https://tech-insider.org/pi-1-0-coding-agent-tokens-cut-2026/</link>
 <description>MIT-licensed open-source terminal coding-agent harness from Earendil: provider-agnostic across 15+ model backends, a Codemode system where the model writes JavaScript to invoke tools instead of listing them in the prompt (claimed ~40% token reduction), MCP support, and hooks to local Ollama/llama.cpp endpoints; released alongside an October wave of agent updates from Claude Code, OpenCode, Copilot and GPT-6.1 Sol.</description>
@@ -278,13 +285,6 @@
 <description>YC-backed Apache-2.0 local engine that compiles and tunes kernels on the target machine instead of shipping generic ones; team claims 92% faster decode than llama.cpp on an M4 Pro Mac and 19% on NVIDIA, with a shared prefix cache for multi-agent setups. Released September 30 and hit 6,400 GitHub stars within days.</description>
 <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://fireup.pro/news/magnitude-vs-llama-cpp-local-llm-inference-engine</guid>
-</item>
-<item>
-<title>Termux-BitNet v2.0.1: mobile GPU memory slicing for 1.58-bit on-device inference</title>
-<link>https://github.com/uno-km/termux-bitnet/blob/HEAD/RELEASE_NOTES.md</link>
-<description>Release adds vocab-slice and chunked layer dispatch to fit 1.58-bit LLM inference into mobile GPU limits, plus watchdog-timeout fixes for Mali GPUs.</description>
-<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://github.com/uno-km/termux-bitnet/blob/HEAD/RELEASE_NOTES.md</guid>
 </item>
 </channel>
 </rss>
