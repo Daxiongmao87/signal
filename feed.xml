@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://dev.to/cortexflow_tech/ruflo-the-open-source-meta-harness-running-100-agent-coding-swarms-3609</guid>
 </item>
 <item>
+<title>Pi 1.0 Coding Agent: Open-Source Release Cuts Tokens 40%</title>
+<link>https://tech-insider.org/pi-1-0-coding-agent-tokens-cut-2026/</link>
+<description>MIT-licensed open-source terminal coding-agent harness from Earendil: provider-agnostic across 15+ model backends, a Codemode system where the model writes JavaScript to invoke tools instead of listing them in the prompt (claimed ~40% token reduction), MCP support, and hooks to local Ollama/llama.cpp endpoints; released alongside an October wave of agent updates from Claude Code, OpenCode, Copilot and GPT-6.1 Sol.</description>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://tech-insider.org/pi-1-0-coding-agent-tokens-cut-2026/</guid>
+</item>
+<item>
 <title>Liquid AI ships open-weight LFM2.5-24B-A2B for on-device agents</title>
 <link>https://www.unite.ai/liquid-ai-releases-open-weight-lfm2-5-24b-a2b-for-on-device-agents/</link>
 <description>Liquid AI released the final LFM2.5 model: a 24B-parameter / 2.45B-active open-weight MoE reasoning model with day-one GGUF and MLX support, benchmarked specifically for on-device agent workflows.</description>
@@ -278,13 +285,6 @@
 <description>Agent Engineering HQ released AgentEng, an open-source companion providing a Python CLI, MCP server, A2A service and experimental ACP client so coding assistants and other agents can query its conference programme and tooling.</description>
 <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://shashikantjagtap.net/agent-engineering-hq-launched-agenteng-cli-mcp-a2a-and-acp-support-for-agentic-ai-events/</guid>
-</item>
-<item>
-<title>RuneScape 4 revealed: Unreal Engine MMO from Jagex</title>
-<link>https://hypebeast.com/2026/10/jagex-unveils-runescape-4-mmo-built-on-unreal-engine</link>
-<description>Jagex announced RuneScape 4 at RuneFest: a standalone Unreal Engine MMO set in the Sixth Age, pivoted from a Dragonwilds survival expansion into a full classic-format MMO.</description>
-<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://hypebeast.com/2026/10/jagex-unveils-runescape-4-mmo-built-on-unreal-engine</guid>
 </item>
 </channel>
 </rss>
