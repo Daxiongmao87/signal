@@ -56,6 +56,13 @@
 <guid isPermaLink="true">https://www.morningstar.com/news/accesswire/1236128msn/cognitum-one-releases-ruflo-ai-agent-orchestration-for-claude-code-and-codex-with-mission-driven-mods-and-a-single-agent-control-plane</guid>
 </item>
 <item>
+<title>Introducing Superfluid: the local-AI native LLM server for multi-agent inference</title>
+<link>https://dev.to/prabod_bc/introducing-superfluid-the-local-ai-native-llm-server-for-multi-agent-inference-26mh</link>
+<description>Open-source Apache-2.0 local inference server built for many agents sharing one machine: interactive requests preempt background agent work, every token is logged so crashed sessions resume, and it serves llama.cpp, MLX and BaseRT behind OpenAI/Anthropic/Ollama APIs.</description>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/prabod_bc/introducing-superfluid-the-local-ai-native-llm-server-for-multi-agent-inference-26mh</guid>
+</item>
+<item>
 <title>Deploying LLMs locally: Ollama, llama.cpp, vLLM and TGI compared</title>
 <link>https://dev.to/ipsphil_digital/deploying-llms-locally-ollama-llamacpp-vllm-text-generation-inference-4c0k</link>
 <description>Fresh hands-on walkthrough covering all four runtimes end to end: Ollama quick-start, llama.cpp builds and Q4_K_M quantization, vLLM serving with AWQ/GPTQ and LoRA adapters, plus TGI, with runnable configs for each.</description>
@@ -278,13 +285,6 @@
 <description>Playground Games on Fable's combat: accessible but with hidden depth — targeted body-part shots that change enemy behavior, plus non-combat quest paths via dialogue, reputation, and puzzles.</description>
 <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://ikawogi.com/en/news/statement-fable-4-combat-design-2026-10</guid>
-</item>
-<item>
-<title>Reflection's Beam: open-weight model for lower-compute AI</title>
-<link>https://www.aoodax.com/en/blog/reflection-debuts-beam-open-weight-ai-model-with-lower-compute-costs-muwe7bng</link>
-<description>Reflection's new open-weight model pitches cheaper local fine-tuning and inference for teams keeping data on-premise — the 'sovereign AI factory' angle.</description>
-<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.aoodax.com/en/blog/reflection-debuts-beam-open-weight-ai-model-with-lower-compute-costs-muwe7bng</guid>
 </item>
 </channel>
 </rss>
