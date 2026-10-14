@@ -77,6 +77,13 @@
 <guid isPermaLink="true">https://dev.to/prabod_bc/introducing-superfluid-the-local-ai-native-llm-server-for-multi-agent-inference-26mh</guid>
 </item>
 <item>
+<title>OceanGPT-7B in GGUF: a marine-science specialist LLM you can run locally</title>
+<link>https://aichina.news/blog/oceangpt-7b-in-gguf-a-specialist-marine-science-llm-you-can-run-lyw2fa/</link>
+<description>A GGUF repack of OceanGPT-7B, a Qwen-7B-based model tuned for marine and ocean science, bringing a rare domain-specialist open model into llama.cpp's reach on modest local hardware.</description>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/oceangpt-7b-in-gguf-a-specialist-marine-science-llm-you-can-run-lyw2fa/</guid>
+</item>
+<item>
 <title>Deploying LLMs locally: Ollama, llama.cpp, vLLM and TGI compared</title>
 <link>https://dev.to/ipsphil_digital/deploying-llms-locally-ollama-llamacpp-vllm-text-generation-inference-4c0k</link>
 <description>Fresh hands-on walkthrough covering all four runtimes end to end: Ollama quick-start, llama.cpp builds and Q4_K_M quantization, vLLM serving with AWQ/GPTQ and LoRA adapters, plus TGI, with runnable configs for each.</description>
@@ -278,13 +285,6 @@
 <description>Release adds vocab-slice and chunked layer dispatch to fit 1.58-bit LLM inference into mobile GPU limits, plus watchdog-timeout fixes for Mali GPUs.</description>
 <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://github.com/uno-km/termux-bitnet/blob/HEAD/RELEASE_NOTES.md</guid>
-</item>
-<item>
-<title>AgentEng launched: CLI, MCP, A2A and ACP support for agentic AI events</title>
-<link>https://shashikantjagtap.net/agent-engineering-hq-launched-agenteng-cli-mcp-a2a-and-acp-support-for-agentic-ai-events/</link>
-<description>Agent Engineering HQ released AgentEng, an open-source companion providing a Python CLI, MCP server, A2A service and experimental ACP client so coding assistants and other agents can query its conference programme and tooling.</description>
-<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://shashikantjagtap.net/agent-engineering-hq-launched-agenteng-cli-mcp-a2a-and-acp-support-for-agentic-ai-events/</guid>
 </item>
 </channel>
 </rss>
