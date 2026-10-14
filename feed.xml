@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://mmohuts.com/news/wow-forever-devs-say-alts-are-central-retail-races-arent-planned-and-shaman-tanks-are-still-only-a-discussion</guid>
 </item>
 <item>
+<title>Cairn: A Work Harness for AI Coding Agents — Plans in Git, Truth in Your Tracker, Nothing Done Without Evidence</title>
+<link>https://dev.to/eventuallyconsistentcode/cairn-a-work-harness-for-ai-coding-agents-plans-in-git-truth-in-your-tracker-nothing-done-50n4</link>
+<description>Cairn is an open-source (MIT) work harness for AI coding agents — a Claude Code plugin with 39 slash commands plus a TypeScript MCP server exposing 87 typed tools — built around one law: the issue tracker is the single source of truth, with phases mirrored into the tracker, goal-backward verification, plan-versus-tracker drift math, and a ship gate that refuses to proceed when they disagree.</description>
+<pubDate>Tue, 13 Oct 2026 02:43:25 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/eventuallyconsistentcode/cairn-a-work-harness-for-ai-coding-agents-plans-in-git-truth-in-your-tracker-nothing-done-50n4</guid>
+</item>
+<item>
 <title>DXC and LangChain partner on governed agentic AI for mission-critical IT</title>
 <link>https://lifestyle.quebecnewstribune.com/story/391133/dxc-and-langchain-advance-agentic-ai-harnesses-for-mission-critical-it-operations/</link>
 <description>DXC Technology partners with LangChain to build governed agent harnesses on the LangGraph runtime and LangSmith tooling for mission-critical IT operations; DXC says its OASIS platform, already in production, cut incident resolution time 95% across 500 measured use cases.</description>
@@ -278,13 +285,6 @@
 <description>Reflection's new open-weight model pitches cheaper local fine-tuning and inference for teams keeping data on-premise — the 'sovereign AI factory' angle.</description>
 <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.aoodax.com/en/blog/reflection-debuts-beam-open-weight-ai-model-with-lower-compute-costs-muwe7bng</guid>
-</item>
-<item>
-<title>llama.cpp vs Ollama in 2026</title>
-<link>https://dev.to/mrsaynothing/llamacpp-vs-ollama-which-should-you-run-in-2026-7po</link>
-<description>Same engine under both, so measured speed gaps trace to quant choice, flash-attention and KV-cache-quant flags, and how fast Ollama merges upstream llama.cpp.</description>
-<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/mrsaynothing/llamacpp-vs-ollama-which-should-you-run-in-2026-7po</guid>
 </item>
 </channel>
 </rss>
