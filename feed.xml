@@ -5,7 +5,21 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 13 Oct 2026 01:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 12:00:00 +0000</lastBuildDate>
+<item>
+<title>Liquid AI ships open-weight LFM2.5-24B-A2B for on-device agents</title>
+<link>https://www.unite.ai/liquid-ai-releases-open-weight-lfm2-5-24b-a2b-for-on-device-agents/</link>
+<description>Liquid AI released the final LFM2.5 model: a 24B-parameter / 2.45B-active open-weight MoE reasoning model with day-one GGUF and MLX support, benchmarked specifically for on-device agent workflows.</description>
+<pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.unite.ai/liquid-ai-releases-open-weight-lfm2-5-24b-a2b-for-on-device-agents/</guid>
+</item>
+<item>
+<title>WoW Forever: alts central, retail races not planned, shaman tanks only a discussion</title>
+<link>https://mmohuts.com/news/wow-forever-devs-say-alts-are-central-retail-races-arent-planned-and-shaman-tanks-are-still-only-a-discussion</link>
+<description>Pre-launch interview details: alts and the Legacy system are the long-term loop, account-wide bank is under consideration, retail races are not planned, and the roadmap stays on Kalimdor/Eastern Kingdoms for the first years.</description>
+<pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://mmohuts.com/news/wow-forever-devs-say-alts-are-central-retail-races-arent-planned-and-shaman-tanks-are-still-only-a-discussion</guid>
+</item>
 <item>
 <title>DXC and LangChain partner on governed agentic AI for mission-critical IT</title>
 <link>https://lifestyle.quebecnewstribune.com/story/391133/dxc-and-langchain-advance-agentic-ai-harnesses-for-mission-critical-it-operations/</link>
@@ -40,6 +54,13 @@
 <description>Fresh hands-on walkthrough covering all four runtimes end to end: Ollama quick-start, llama.cpp builds and Q4_K_M quantization, vLLM serving with AWQ/GPTQ and LoRA adapters, plus TGI, with runnable configs for each.</description>
 <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/ipsphil_digital/deploying-llms-locally-ollama-llamacpp-vllm-text-generation-inference-4c0k</guid>
+</item>
+<item>
+<title>Harness acquires Augment Code, launches Cosmos software-factory agent</title>
+<link>https://uktechnews.co.uk/2026/10/12/harness-acquires-augment-code-advancing-the-autonomous-sdlc-from-idea-to-production/</link>
+<description>Harness bought coding-agent startup Augment Code and rolled out Cosmos: per-ticket agent fleets that plan, code, test, and open PRs from isolated VMs, with Augment's Code Context Engine for repo awareness.</description>
+<pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://uktechnews.co.uk/2026/10/12/harness-acquires-augment-code-advancing-the-autonomous-sdlc-from-idea-to-production/</guid>
 </item>
 <item>
 <title>Blizzard rules out adding existing expansion races to WoW: Forever</title>
@@ -124,6 +145,13 @@
 <description>Enterprise platform opens its governed development environment to Claude Code, Cursor, Codex and Kiro, enforcing system design, security guardrails and lifecycle management around whatever agent developers use.</description>
 <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.prnewswire.com/apac/news-releases/outsystems-agent-experience-is-now-generally-available-bringing-governed-ai-development-to-any-coding-agent-302901923.html</guid>
+</item>
+<item>
+<title>AI Story Engine v1.28.0: GGUF import and llama-server adapter on Android</title>
+<link>https://github.com/akln55/ai-story-engine/blob/HEAD/docs/UI_AND_AI_RUNTIME_v1.28.0.md</link>
+<description>Android app's new AI runtime direction adds local GGUF model import/selection UI plus a localhost llama-server adapter behind its AIAdapter boundary; the in-app model catalog is still unbuilt.</description>
+<pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://github.com/akln55/ai-story-engine/blob/HEAD/docs/UI_AND_AI_RUNTIME_v1.28.0.md</guid>
 </item>
 <item>
 <title>Harness acquires Augment Code assets, launches Cosmos software-factory agent</title>
@@ -257,34 +285,6 @@
 <description>Same engine under both, so measured speed gaps trace to quant choice, flash-attention and KV-cache-quant flags, and how fast Ollama merges upstream llama.cpp.</description>
 <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/mrsaynothing/llamacpp-vs-ollama-which-should-you-run-in-2026-7po</guid>
-</item>
-<item>
-<title>WoW Forever FAQ: release, zones, and what's new vs Classic</title>
-<link>https://geekoven.net/pop-geek-society/world-of-warcraft-forever-a-re-envisioning-of-classic-azeroth/</link>
-<description>A concise explainer framing Forever as a re-envisioning rather than a remaster: new zones like Mount Hyjal and the Riverglades, overhauled classic areas, and the design logic of changing content instead of faithfully recreating it.</description>
-<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://geekoven.net/pop-geek-society/world-of-warcraft-forever-a-re-envisioning-of-classic-azeroth/</guid>
-</item>
-<item>
-<title>Google Launches EmbeddingGemma 2, a Small Open Multimodal Embedding Model for On-Device Search</title>
-<link>https://www.techrepublic.com/article/news-google-embeddinggemma-2-on-device-multimodal-search/</link>
-<description>Google DeepMind's 740M-param open embedding model maps text, code, images, video, and audio into one space for on-device multimodal search and local RAG.</description>
-<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.techrepublic.com/article/news-google-embeddinggemma-2-on-device-multimodal-search/</guid>
-</item>
-<item>
-<title>Agent Lightning v1.0: lightweight agentic RL framework that trains agents in their real harness</title>
-<link>https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/</link>
-<description>Microsoft Research Asia rebuilt Agent Lightning as a ~3,500-line RL control plane where the deployed harness participates in training; its coding pipeline lifted Qwen3.5-9B from 41.8% to 56.4% Pass@1 on SWE-bench Verified with about 6,000 samples.</description>
-<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/</guid>
-</item>
-<item>
-<title>WoW Forever Reputation Changes | How Old and New Factions Expand Progression?</title>
-<link>https://www.iggm.com/news/wow-forever-reputation-changes-how-old-new-factions-expand-progression</link>
-<description>Rundown of WoW Forever's endgame roadmap: first raids (Barrow Deeps, Hyjal Summit, Onyxia's Lair) unlock December 9, 2026, with the Forever Hardcore ruleset planned for winter 2026/27.</description>
-<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.iggm.com/news/wow-forever-reputation-changes-how-old-new-factions-expand-progression</guid>
 </item>
 </channel>
 </rss>
