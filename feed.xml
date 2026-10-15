@@ -133,6 +133,13 @@
 <guid isPermaLink="true">https://www.marktechpost.com/category/editors-pick/agentic-ai/</guid>
 </item>
 <item>
+<title>The Agentic Coding Kit: a senior-engineer's AI coding setup as a config pack</title>
+<link>https://www.betterlaunch.co/product/the-agentic-coding-kit</link>
+<description>Indie launch (Oct 12): 34 drop-in files packaging a senior engineer's agent setup — behavior-controlling CLAUDE.md, scoped permission allow/deny lists, git hooks that run lint/typecheck/tests before broken agent commits land, and subagent delegation playbooks — aimed at Claude Code and Cursor users; one-time paid download.</description>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.betterlaunch.co/product/the-agentic-coding-kit</guid>
+</item>
+<item>
 <title>WoW: Forever class design: no modernization, just 'engaging depth'</title>
 <link>https://ranzware.com/wow-forevers-classes-wont-be-modernized-but-blizzard-has-added-some-new-mechanics-for-engaging-depth-as-some-classes-in-world-of-warcraft-classic-were-too-simple</link>
 <description>Blizzard tells TechRadar it won't modernize WoW: Forever's classes, but some 'too simple' vanilla classes get new mechanics — judged against the four design pillars behind its Classic Plus identity.</description>
@@ -278,13 +285,6 @@
 <description>Cisco previewed Webex Dialog, an agentic harness layer for its Webex AI Agent platform meant to keep customer work running across people, agents and backend systems after a chat ends; beta is slated for Q1 2027.</description>
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://techmymoney.com/2026/10/08/cisco-webex-dialog-agentic-harness-webexone/</guid>
-</item>
-<item>
-<title>Windows ML Gets llama.cpp: Run GGUF Locally on Any Hardware</title>
-<link>https://byteiota.com/windows-ml-gets-llama-cpp-run-gguf-locally-on-any-hardware/</link>
-<description>Microsoft folded llama.cpp into Windows ML, adding NPU routing (QNN, OpenVINO, TensorRT RTX) for any GGUF — and pushed CUDA kernel, speculative-decoding and multi-GPU optimizations back upstream.</description>
-<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://byteiota.com/windows-ml-gets-llama-cpp-run-gguf-locally-on-any-hardware/</guid>
 </item>
 </channel>
 </rss>
