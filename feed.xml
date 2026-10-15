@@ -28,6 +28,13 @@
 <guid isPermaLink="true">https://tech-insider.org/pi-1-0-coding-agent-tokens-cut-2026/</guid>
 </item>
 <item>
+<title>Refreshed practical guide to LoRA and QLoRA fine-tuning on consumer GPUs</title>
+<link>http://dev.to/ipsphil_digital/fine-tuning-llms-on-consumer-hardware-lora-guide-2024-2i73</link>
+<description>A refreshed hands-on guide to fine-tuning with LoRA and QLoRA on consumer hardware: VRAM requirements per model size, dataset formatting, and a full SFTTrainer training-script walkthrough.</description>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">http://dev.to/ipsphil_digital/fine-tuning-llms-on-consumer-hardware-lora-guide-2024-2i73</guid>
+</item>
+<item>
 <title>Liquid AI ships open-weight LFM2.5-24B-A2B for on-device agents</title>
 <link>https://www.unite.ai/liquid-ai-releases-open-weight-lfm2-5-24b-a2b-for-on-device-agents/</link>
 <description>Liquid AI released the final LFM2.5 model: a 24B-parameter / 2.45B-active open-weight MoE reasoning model with day-one GGUF and MLX support, benchmarked specifically for on-device agent workflows.</description>
@@ -278,13 +285,6 @@
 <description>After nearly 4,000 beta account closures, Blizzard tells WoW: Forever players it's watching gold buying closely and will escalate penalties up to permanent bans.</description>
 <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://ranzware.com/blizzard-issues-stark-warning-to-wow-forever-gold-buyers-engaging-in-rmt-is-not-worth-putting-your-account-at-risk</guid>
-</item>
-<item>
-<title>Magnitude: open-source inference engine claiming 92% faster decode than llama.cpp on Apple Silicon</title>
-<link>https://fireup.pro/news/magnitude-vs-llama-cpp-local-llm-inference-engine</link>
-<description>YC-backed Apache-2.0 local engine that compiles and tunes kernels on the target machine instead of shipping generic ones; team claims 92% faster decode than llama.cpp on an M4 Pro Mac and 19% on NVIDIA, with a shared prefix cache for multi-agent setups. Released September 30 and hit 6,400 GitHub stars within days.</description>
-<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://fireup.pro/news/magnitude-vs-llama-cpp-local-llm-inference-engine</guid>
 </item>
 </channel>
 </rss>
