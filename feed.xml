@@ -35,6 +35,13 @@
 <guid isPermaLink="true">http://dev.to/ipsphil_digital/fine-tuning-llms-on-consumer-hardware-lora-guide-2024-2i73</guid>
 </item>
 <item>
+<title>Third-party GGUF build of Sarashina2.2 1B for local inference</title>
+<link>https://aichina.news/blog/sarashina2-2-1b-in-gguf-a-tiny-local-llm-lands-on-modelers-cn-5lc1d5/</link>
+<description>A community GGUF repackaging of SB Intuitions' compact 1B text model, aimed at laptop and edge-box text-generation experiments through llama.cpp-style runtimes.</description>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/sarashina2-2-1b-in-gguf-a-tiny-local-llm-lands-on-modelers-cn-5lc1d5/</guid>
+</item>
+<item>
 <title>Liquid AI ships open-weight LFM2.5-24B-A2B for on-device agents</title>
 <link>https://www.unite.ai/liquid-ai-releases-open-weight-lfm2-5-24b-a2b-for-on-device-agents/</link>
 <description>Liquid AI released the final LFM2.5 model: a 24B-parameter / 2.45B-active open-weight MoE reasoning model with day-one GGUF and MLX support, benchmarked specifically for on-device agent workflows.</description>
@@ -161,6 +168,13 @@
 <guid isPermaLink="true">https://smartchunks.com/rapid-mlx-open-source-apple-silicon-inference-server/</guid>
 </item>
 <item>
+<title>Cottonfall: The Missing Resident, a free investigative-horror adventure for Foundry VTT</title>
+<link>https://github.com/boomeret/cottonfall-missing-resident</link>
+<description>A free, non-commercial GURPS investigative-horror adventure shipping as a Foundry VTT module, with five pregenerated residents and a suggested Foundry module list.</description>
+<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://github.com/boomeret/cottonfall-missing-resident</guid>
+</item>
+<item>
 <title>WoW: Forever gets SD Skyborne models in early 2027</title>
 <link>https://thedailygame.news/story/2026-10-09-wow-forever-gets-sd-skyborne-models-in-early-2027-after-beta-feedback--474388e8</link>
 <description>After beta feedback on the HD Skyborne models, Blizzard is retouching Skyborne druid forms to match Classic's visual language now and promises a lower-detail SD model option in early 2027.</description>
@@ -271,20 +285,6 @@
 <description>Microsoft folded llama.cpp into Windows ML, adding NPU routing (QNN, OpenVINO, TensorRT RTX) for any GGUF — and pushed CUDA kernel, speculative-decoding and multi-GPU optimizations back upstream.</description>
 <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://byteiota.com/windows-ml-gets-llama-cpp-run-gguf-locally-on-any-hardware/</guid>
-</item>
-<item>
-<title>Top 5 Local LLM Tools and Models in 2026</title>
-<link>https://pengen.diewe.workers.dev/lightningdev123/top-5-local-llm-tools-and-models-in-2026-1ch5</link>
-<description>A fresh roundup of the year's standout local setups, from GPT-OSS 20B/120B and DeepSeek V3.2-Exp to runners like LocalAI, Jan, and Ollama.</description>
-<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://pengen.diewe.workers.dev/lightningdev123/top-5-local-llm-tools-and-models-in-2026-1ch5</guid>
-</item>
-<item>
-<title>Blizzard Warns WoW: Forever Gold Buyers: RMT 'Not Worth Putting Your Account at Risk'</title>
-<link>https://ranzware.com/blizzard-issues-stark-warning-to-wow-forever-gold-buyers-engaging-in-rmt-is-not-worth-putting-your-account-at-risk</link>
-<description>After nearly 4,000 beta account closures, Blizzard tells WoW: Forever players it's watching gold buying closely and will escalate penalties up to permanent bans.</description>
-<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://ranzware.com/blizzard-issues-stark-warning-to-wow-forever-gold-buyers-engaging-in-rmt-is-not-worth-putting-your-account-at-risk</guid>
 </item>
 </channel>
 </rss>
