@@ -119,6 +119,13 @@
 <guid isPermaLink="true">https://super-agentic.ai/resources/super-posts/introducing-codegem-gemini-gemma-coding-harness-superqode</guid>
 </item>
 <item>
+<title>CodeGem: a Gemini/Gemma coding harness ships in SuperQode</title>
+<link>https://super-agentic.ai/resources/super-posts/introducing-codegem-gemini-gemma-coding-harness-superqode</link>
+<description>SuperQode released a coding harness tuned for Gemini and local Gemma sessions: six coding tools, Ollama/LM Studio/llama.cpp support, optional semantic search, and inspectable model adapters.</description>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://super-agentic.ai/resources/super-posts/introducing-codegem-gemini-gemma-coding-harness-superqode</guid>
+</item>
+<item>
 <title>Deploying LLMs locally: Ollama, llama.cpp, vLLM and TGI compared</title>
 <link>https://dev.to/ipsphil_digital/deploying-llms-locally-ollama-llamacpp-vllm-text-generation-inference-4c0k</link>
 <description>Fresh hands-on walkthrough covering all four runtimes end to end: Ollama quick-start, llama.cpp builds and Q4_K_M quantization, vLLM serving with AWQ/GPTQ and LoRA adapters, plus TGI, with runnable configs for each.</description>
@@ -157,6 +164,13 @@
 <title>The Agentic Coding Kit: config pack for Claude Code and Cursor</title>
 <link>https://www.betterlaunch.co/product/the-agentic-coding-kit-ee66</link>
 <description>Free 34-file drop-in pack (launched Oct 12) with guardrails, CLAUDE.md presets, subagents, slash commands, and CI/git recipes to make coding agents follow project rules.</description>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.betterlaunch.co/product/the-agentic-coding-kit-ee66</guid>
+</item>
+<item>
+<title>The Agentic Coding Kit: free 34-file config pack for AI coding assistants</title>
+<link>https://www.betterlaunch.co/product/the-agentic-coding-kit-ee66</link>
+<description>Free drop-in pack of Claude Code subagents, Cursor rules, git hooks, CI templates, and stack presets aimed at keeping AI pair programmers disciplined from the first prompt.</description>
 <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.betterlaunch.co/product/the-agentic-coding-kit-ee66</guid>
 </item>
@@ -224,6 +238,13 @@
 <guid isPermaLink="true">https://www.ttrpginsider.news/p/vtt-meets-3d-interview-with-fantasy-grounds-president-about-acquiring-eldritch-foundry</guid>
 </item>
 <item>
+<title>oxidize 0.1.0: Rust local-first LLM inference stack</title>
+<link>https://github.com/Zapdev-labs/oxidize</link>
+<description>First stable release of a Rust workspace for local-first LLM work: model loading and quantization primitives, a chat/prompt CLI, an OpenAI-compatible server, Python bindings, and offline model conversion.</description>
+<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://github.com/Zapdev-labs/oxidize</guid>
+</item>
+<item>
 <title>OutSystems Agent Experience reaches GA for any coding agent</title>
 <link>https://www.prnewswire.com/apac/news-releases/outsystems-agent-experience-is-now-generally-available-bringing-governed-ai-development-to-any-coding-agent-302901923.html</link>
 <description>Enterprise platform opens its governed development environment to Claude Code, Cursor, Codex and Kiro, enforcing system design, security guardrails and lifecycle management around whatever agent developers use.</description>
@@ -264,27 +285,6 @@
 <description>Creator rundown of Blizzard's beta dungeon-XP fix: kill XP was tied to the highest-level group member, plus a 20% dungeon kill-XP boost and highlights from the third dev podcast.</description>
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.youtube.com/watch?v=q0ZkdxFokB4</guid>
-</item>
-<item>
-<title>LLM Weight + Activation Quantization: Frontier Report 2023-2026</title>
-<link>https://github.com/syniaksviatoslav/dowiz/blob/HEAD/llm_quantization_report.md</link>
-<description>Fresh report gathering falsifiable quantization claims — GPTQ/AWQ/GGUF k-quants, FP8/MXFP8, SmoothQuant, SpQR, and 2-bit methods — with live-checkable citations, aimed at kernel builders.</description>
-<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://github.com/syniaksviatoslav/dowiz/blob/HEAD/llm_quantization_report.md</guid>
-</item>
-<item>
-<title>Superfluid: open-source local LLM server built for multi-agent workloads</title>
-<link>https://huggingface.co/blog/basecompute/superfluid</link>
-<description>Apache-2.0 server running LLMs on your own machine across llama.cpp, MLX, and BaseRT runtimes, with request prioritization so interactive chat preempts background agents, session persistence, and multi-device inference over an encrypted link.</description>
-<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://huggingface.co/blog/basecompute/superfluid</guid>
-</item>
-<item>
-<title>Blizzard's original plan for WoW: Forever was much smaller than what it's launching</title>
-<link>https://games.mxdwn.com/news/blizzards-original-plan-for-wow-forever-was-much-smaller-than-what-its-launching/</link>
-<description>Exec producer Stone says the first Forever pitch was vanilla with light class tweaks, but it ballooned after Season of Discovery's reception: 1,000+ new quests, nine dungeons, two raids, and a new 15v15 battleground ahead of the November 4 launch.</description>
-<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://games.mxdwn.com/news/blizzards-original-plan-for-wow-forever-was-much-smaller-than-what-its-launching/</guid>
 </item>
 </channel>
 </rss>
