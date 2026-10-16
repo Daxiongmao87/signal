@@ -112,6 +112,13 @@
 <guid isPermaLink="true">https://dev.to/ai_openfree_b23025ef075cf/training-an-llm-from-scratch-on-inference-only-npus-no-gpu-required-580g</guid>
 </item>
 <item>
+<title>CodeGem: a Gemini/Gemma coding harness for SuperQode</title>
+<link>https://super-agentic.ai/resources/super-posts/introducing-codegem-gemini-gemma-coding-harness-superqode</link>
+<description>New open coding-agent harness tuned for Gemini and local Gemma via Ollama/LM Studio/llama.cpp, with a durable session loop and optional semantic retrieval.</description>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://super-agentic.ai/resources/super-posts/introducing-codegem-gemini-gemma-coding-harness-superqode</guid>
+</item>
+<item>
 <title>Deploying LLMs locally: Ollama, llama.cpp, vLLM and TGI compared</title>
 <link>https://dev.to/ipsphil_digital/deploying-llms-locally-ollama-llamacpp-vllm-text-generation-inference-4c0k</link>
 <description>Fresh hands-on walkthrough covering all four runtimes end to end: Ollama quick-start, llama.cpp builds and Q4_K_M quantization, vLLM serving with AWQ/GPTQ and LoRA adapters, plus TGI, with runnable configs for each.</description>
@@ -145,6 +152,13 @@
 <description>Indie launch (Oct 12): 34 drop-in files packaging a senior engineer's agent setup — behavior-controlling CLAUDE.md, scoped permission allow/deny lists, git hooks that run lint/typecheck/tests before broken agent commits land, and subagent delegation playbooks — aimed at Claude Code and Cursor users; one-time paid download.</description>
 <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.betterlaunch.co/product/the-agentic-coding-kit</guid>
+</item>
+<item>
+<title>The Agentic Coding Kit: config pack for Claude Code and Cursor</title>
+<link>https://www.betterlaunch.co/product/the-agentic-coding-kit-ee66</link>
+<description>Free 34-file drop-in pack (launched Oct 12) with guardrails, CLAUDE.md presets, subagents, slash commands, and CI/git recipes to make coding agents follow project rules.</description>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.betterlaunch.co/product/the-agentic-coding-kit-ee66</guid>
 </item>
 <item>
 <title>WoW: Forever class design: no modernization, just 'engaging depth'</title>
@@ -271,20 +285,6 @@
 <description>Apache-2.0 server running LLMs on your own machine across llama.cpp, MLX, and BaseRT runtimes, with request prioritization so interactive chat preempts background agents, session persistence, and multi-device inference over an encrypted link.</description>
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://huggingface.co/blog/basecompute/superfluid</guid>
-</item>
-<item>
-<title>Blizzard's original plan for WoW: Forever was much smaller than what it's launching</title>
-<link>https://games.mxdwn.com/news/blizzards-original-plan-for-wow-forever-was-much-smaller-than-what-its-launching/</link>
-<description>Exec producer Stone says the first Forever pitch was vanilla with light class tweaks, but it ballooned after Season of Discovery's reception: 1,000+ new quests, nine dungeons, two raids, and a new 15v15 battleground ahead of the November 4 launch.</description>
-<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://games.mxdwn.com/news/blizzards-original-plan-for-wow-forever-was-much-smaller-than-what-its-launching/</guid>
-</item>
-<item>
-<title>Termux Assistant AI: giving an LLM shell hands inside Android</title>
-<link>https://dev.to/cr4code/i-gave-a-language-model-hands-inside-android-and-it-built-me-an-app-factory-1390</link>
-<description>Open-source MIT project bridges a WebView chat app to Termux over local HTTP so the model can run shell commands and build things on the phone.</description>
-<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/cr4code/i-gave-a-language-model-hands-inside-android-and-it-built-me-an-app-factory-1390</guid>
 </item>
 </channel>
 </rss>
