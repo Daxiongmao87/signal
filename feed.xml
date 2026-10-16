@@ -105,6 +105,13 @@
 <guid isPermaLink="true">https://aichina.news/blog/oceangpt-7b-in-gguf-a-specialist-marine-science-llm-you-can-run-lyw2fa/</guid>
 </item>
 <item>
+<title>46M-parameter model pre-trained from scratch on inference-only NPUs, released on Hugging Face</title>
+<link>https://dev.to/ai_openfree_b23025ef075cf/training-an-llm-from-scratch-on-inference-only-npus-no-gpu-required-580g</link>
+<description>Concrete proof-of-concept that backprop training can run on chips sold as inference-only: VIDRAFT pre-trained a 46M-parameter model end-to-end on a first-gen NPU with no GPU involved, and published the weights plus comparison materials on Hugging Face as the validation artifact for their NPU-native acceleration stack.</description>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/ai_openfree_b23025ef075cf/training-an-llm-from-scratch-on-inference-only-npus-no-gpu-required-580g</guid>
+</item>
+<item>
 <title>Deploying LLMs locally: Ollama, llama.cpp, vLLM and TGI compared</title>
 <link>https://dev.to/ipsphil_digital/deploying-llms-locally-ollama-llamacpp-vllm-text-generation-inference-4c0k</link>
 <description>Fresh hands-on walkthrough covering all four runtimes end to end: Ollama quick-start, llama.cpp builds and Q4_K_M quantization, vLLM serving with AWQ/GPTQ and LoRA adapters, plus TGI, with runnable configs for each.</description>
@@ -278,13 +285,6 @@
 <description>Open-source MIT project bridges a WebView chat app to Termux over local HTTP so the model can run shell commands and build things on the phone.</description>
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/cr4code/i-gave-a-language-model-hands-inside-android-and-it-built-me-an-app-factory-1390</guid>
-</item>
-<item>
-<title>Cisco unveils Webex Dialog agentic harness at WebexOne</title>
-<link>https://techmymoney.com/2026/10/08/cisco-webex-dialog-agentic-harness-webexone/</link>
-<description>Cisco previewed Webex Dialog, an agentic harness layer for its Webex AI Agent platform meant to keep customer work running across people, agents and backend systems after a chat ends; beta is slated for Q1 2027.</description>
-<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://techmymoney.com/2026/10/08/cisco-webex-dialog-agentic-harness-webexone/</guid>
 </item>
 </channel>
 </rss>
