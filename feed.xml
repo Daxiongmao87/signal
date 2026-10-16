@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 14 Oct 2026 08:30:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 00:43:00 +0000</lastBuildDate>
+<item>
+<title>Nvidia launches Nemotron 3.5 Bolt open models for local AI agents</title>
+<link>https://www.techrepublic.com/article/news-nvidia-nemotron-3-5-super-vl-bolt-ai-models/</link>
+<description>Nvidia released two open-weight Bolt models for local agents: a 74B-A9B MoE fitting 24GB via 2-bit quantization, out now on Hugging Face with Ollama and llama.cpp support, plus a 4GB E4B model due Oct. 23.</description>
+<pubDate>Fri, 16 Oct 2026 00:43:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.techrepublic.com/article/news-nvidia-nemotron-3-5-super-vl-bolt-ai-models/</guid>
+</item>
 <item>
 <title>Ruflo meta-harness breakdown: missions, federation, and the model-plus-harness lesson</title>
 <link>https://dev.to/cortexflow_tech/ruflo-the-open-source-meta-harness-running-100-agent-coding-swarms-3609</link>
@@ -278,13 +285,6 @@
 <description>Exec producer Stone says the first Forever pitch was vanilla with light class tweaks, but it ballooned after Season of Discovery's reception: 1,000+ new quests, nine dungeons, two raids, and a new 15v15 battleground ahead of the November 4 launch.</description>
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://games.mxdwn.com/news/blizzards-original-plan-for-wow-forever-was-much-smaller-than-what-its-launching/</guid>
-</item>
-<item>
-<title>Termux Assistant AI: giving an LLM shell hands inside Android</title>
-<link>https://dev.to/cr4code/i-gave-a-language-model-hands-inside-android-and-it-built-me-an-app-factory-1390</link>
-<description>Open-source MIT project bridges a WebView chat app to Termux over local HTTP so the model can run shell commands and build things on the phone.</description>
-<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/cr4code/i-gave-a-language-model-hands-inside-android-and-it-built-me-an-app-factory-1390</guid>
 </item>
 </channel>
 </rss>
