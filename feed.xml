@@ -63,6 +63,20 @@
 <guid isPermaLink="true">https://mmohuts.com/news/wow-forever-devs-say-alts-are-central-retail-races-arent-planned-and-shaman-tanks-are-still-only-a-discussion</guid>
 </item>
 <item>
+<title>Infested Buildings: four 5e adventures converted to Foundry VTT</title>
+<link>https://www.rascal.news/infested-buildings-series-from/</link>
+<description>Hod Publishing is converting Toby Lancaster's four established 5e adventures into ready-to-run Foundry VTT modules, with the campaign already funded and chasing stretch goals for soundtracks.</description>
+<pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.rascal.news/infested-buildings-series-from/</guid>
+</item>
+<item>
+<title>POCO F7 as a 32K-context LLM server: complete benchmark log</title>
+<link>https://medium.com/@v.fiedietsov/a-snapdragon-8s-gen-4-phone-as-a-32k-context-llm-server-complete-benchmark-log-3de10cf23fe0</link>
+<description>Unvarnished log of building llama.cpp natively on a Snapdragon 8s Gen 4 phone and turning it into a private LLM server, with every command, failure, and throughput number measured on-device.</description>
+<pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://medium.com/@v.fiedietsov/a-snapdragon-8s-gen-4-phone-as-a-32k-context-llm-server-complete-benchmark-log-3de10cf23fe0</guid>
+</item>
+<item>
 <title>Cairn: A Work Harness for AI Coding Agents — Plans in Git, Truth in Your Tracker, Nothing Done Without Evidence</title>
 <link>https://dev.to/eventuallyconsistentcode/cairn-a-work-harness-for-ai-coding-agents-plans-in-git-truth-in-your-tracker-nothing-done-50n4</link>
 <description>Cairn is an open-source (MIT) work harness for AI coding agents — a Claude Code plugin with 39 slash commands plus a TypeScript MCP server exposing 87 typed tools — built around one law: the issue tracker is the single source of truth, with phases mirrored into the tracker, goal-backward verification, plan-versus-tracker drift math, and a ship gate that refuses to proceed when they disagree.</description>
@@ -175,6 +189,13 @@
 <guid isPermaLink="true">https://www.betterlaunch.co/product/the-agentic-coding-kit-ee66</guid>
 </item>
 <item>
+<title>vLLM Decision 3.0: five open decision models, 0.8B to 27B</title>
+<link>https://aitoolherald.com/articles/decision-3-0-vllm-semantic-router-releases-five-open-decision-models/</link>
+<description>Open decision models for routing and guardrail layers spanning 0.8B to 27B under Apache-2.0, with local inference via vLLM's Semantic Router and planned native integration.</description>
+<pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aitoolherald.com/articles/decision-3-0-vllm-semantic-router-releases-five-open-decision-models/</guid>
+</item>
+<item>
 <title>WoW: Forever class design: no modernization, just 'engaging depth'</title>
 <link>https://ranzware.com/wow-forevers-classes-wont-be-modernized-but-blizzard-has-added-some-new-mechanics-for-engaging-depth-as-some-classes-in-world-of-warcraft-classic-were-too-simple</link>
 <description>Blizzard tells TechRadar it won't modernize WoW: Forever's classes, but some 'too simple' vanilla classes get new mechanics — judged against the four design pillars behind its Classic Plus identity.</description>
@@ -187,6 +208,13 @@
 <description>At PAX Australia, Blizzard called the Forever beta its biggest ever and set expectations: horizontal growth, broad-feedback-driven decisions, no Italian client yet.</description>
 <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://en.softonic.com/articles/wow-forever-beta-is-already-breaking-records-blizzard-wont-cater-to-the-loudest-fans</guid>
+</item>
+<item>
+<title>Termux Assistant AI v3.5.0: an LLM with hands inside Android</title>
+<link>https://dev.to/cr4code/termux-assistant-ai-v350-ai-with-hands-inside-android-1fik</link>
+<description>Release notes for an open-source experiment giving a language model a real shell on an Android phone: it builds and installs APKs on-device, posts to social platforms, and manages git, GitHub, and logs.</description>
+<pubDate>Sat, 10 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/cr4code/termux-assistant-ai-v350-ai-with-hands-inside-android-1fik</guid>
 </item>
 <item>
 <title>WoW: Forever is official: Blizzard's season-free Classic launches November 4</title>
@@ -257,34 +285,6 @@
 <description>Android app's new AI runtime direction adds local GGUF model import/selection UI plus a localhost llama-server adapter behind its AIAdapter boundary; the in-app model catalog is still unbuilt.</description>
 <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://github.com/akln55/ai-story-engine/blob/HEAD/docs/UI_AND_AI_RUNTIME_v1.28.0.md</guid>
-</item>
-<item>
-<title>Harness acquires Augment Code assets, launches Cosmos software-factory agent</title>
-<link>https://www.prnewswire.com/news-releases/harness-acquires-augment-code-advancing-the-autonomous-sdlc-from-idea-to-production-302902604.html</link>
-<description>Harness bought Augment Code's Cosmos and Auggie CLI assets and Code Context Engine, folding its ticket-to-PR agent fleet into Harness's autonomous SDLC platform.</description>
-<pubDate>Thu, 08 Oct 2026 11:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.prnewswire.com/news-releases/harness-acquires-augment-code-advancing-the-autonomous-sdlc-from-idea-to-production-302902604.html</guid>
-</item>
-<item>
-<title>WoW Forever beta: ~4,000 RMT accounts banned</title>
-<link>https://www.icy-veins.com/wow-forever/news/nearly-4000-accounts-banned-due-to-rmt-wow-forever-beta/</link>
-<description>Blizzard confirmed nearly 4,000 account closures on the WoW Forever beta for real-money trading — over 2,100 gold buyers and ~1,600 sellers/bots — and is adding a UI warning against untrustworthy trades.</description>
-<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.icy-veins.com/wow-forever/news/nearly-4000-accounts-banned-due-to-rmt-wow-forever-beta/</guid>
-</item>
-<item>
-<title>Blizzard lays out its Classic Plus design pillars for WoW Forever</title>
-<link>https://gamebastion.com/n/blizzard-explains-its-philosophy-for-classic/522988</link>
-<description>The WoW: Forever team named its four design pillars - social experiences, approachable and familiar, world as the main character, journey before destination - and described balancing modern visuals against the vanilla look.</description>
-<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://gamebastion.com/n/blizzard-explains-its-philosophy-for-classic/522988</guid>
-</item>
-<item>
-<title>Dungeon XP Was Bugged in WoW Forever — Blizzard's Fix + Dev Podcast Breakdown</title>
-<link>https://www.youtube.com/watch?v=q0ZkdxFokB4</link>
-<description>Creator rundown of Blizzard's beta dungeon-XP fix: kill XP was tied to the highest-level group member, plus a 20% dungeon kill-XP boost and highlights from the third dev podcast.</description>
-<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.youtube.com/watch?v=q0ZkdxFokB4</guid>
 </item>
 </channel>
 </rss>
