@@ -98,6 +98,13 @@
 <guid isPermaLink="true">https://medium.com/@v.fiedietsov/a-snapdragon-8s-gen-4-phone-as-a-32k-context-llm-server-complete-benchmark-log-3de10cf23fe0</guid>
 </item>
 <item>
+<title>World of Warcraft: Forever pre-purchase guide for the November 4 launch</title>
+<link>https://pixelherald.com/world-of-warcraft-forever-pre-purchase-guide-dates-classic-plus-and-whats-confirmed-for-the-november-4-launch/</link>
+<description>Pixel Herald rounds up WoW: Forever's November 4 launch, Battle.net pre-purchase upgrade tiers, and what Blizzard has confirmed about the Classic+ rebuild.</description>
+<pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://pixelherald.com/world-of-warcraft-forever-pre-purchase-guide-dates-classic-plus-and-whats-confirmed-for-the-november-4-launch/</guid>
+</item>
+<item>
 <title>Cairn: A Work Harness for AI Coding Agents — Plans in Git, Truth in Your Tracker, Nothing Done Without Evidence</title>
 <link>https://dev.to/eventuallyconsistentcode/cairn-a-work-harness-for-ai-coding-agents-plans-in-git-truth-in-your-tracker-nothing-done-50n4</link>
 <description>Cairn is an open-source (MIT) work harness for AI coding agents — a Claude Code plugin with 39 slash commands plus a TypeScript MCP server exposing 87 typed tools — built around one law: the issue tracker is the single source of truth, with phases mirrored into the tracker, goal-backward verification, plan-versus-tracker drift math, and a ship gate that refuses to proceed when they disagree.</description>
@@ -278,13 +285,6 @@
 <description>A free, non-commercial GURPS investigative-horror adventure shipping as a Foundry VTT module, with five pregenerated residents and a suggested Foundry module list.</description>
 <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://github.com/boomeret/cottonfall-missing-resident</guid>
-</item>
-<item>
-<title>Google's Data Agent Kit goes GA: free MCP tools wiring Data Cloud into coding agents</title>
-<link>https://automater.ai/news/google-data-agent-kit-ga-mcp-tools-data-cloud-coding-agents/</link>
-<description>Google shipped free MCP tools plus agent know-how skills that wire 15+ Data Cloud services into Claude Code, Codex, Cursor, VS Code, and Antigravity.</description>
-<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://automater.ai/news/google-data-agent-kit-ga-mcp-tools-data-cloud-coding-agents/</guid>
 </item>
 </channel>
 </rss>
