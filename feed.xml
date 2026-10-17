@@ -28,6 +28,13 @@
 <guid isPermaLink="true">https://www.techrepublic.com/article/news-nvidia-nemotron-3-5-super-vl-bolt-ai-models/</guid>
 </item>
 <item>
+<title>Dungeon Crawler Carl RPG + Unstoppable Project Update: Foundry has joined the party</title>
+<link>https://www.backerkit.com/c/projects/renegade-game-studios/dungeon-crawler-carl-rpg-unstoppable/updates/42856</link>
+<description>Renegade announces Foundry VTT as a pledge option alongside Fantasy Grounds, Roll20, and Alchemy for the Dungeon Crawler Carl RPG, with an October 2026 VTT launch and the bundle free for top-tier backers.</description>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.backerkit.com/c/projects/renegade-game-studios/dungeon-crawler-carl-rpg-unstoppable/updates/42856</guid>
+</item>
+<item>
 <title>llama.cpp adopts semantic versioning: v0.4.1 breaks old flags</title>
 <link>https://tech-insider.org/llama-cpp-tutorial-2026/</link>
 <description>llama.cpp's latest tagged release v0.4.1 (Sept 14, 2026) adds Maple 20B-A1B, Tencent Hy 4 and Spark2.5 support, and replaces --mmap/--mlock/--direct-io with a single --load-mode flag — check your scripts.</description>
@@ -231,6 +238,13 @@
 <guid isPermaLink="true">https://www.betterlaunch.co/product/the-agentic-coding-kit-ee66</guid>
 </item>
 <item>
+<title>Open Source LLMs in 2026: 10 Best Open-Weight Models, Compared</title>
+<link>https://www.respan.ai/blog/best-open-source-llms</link>
+<description>October roundup ranking ten open-weight models by license, size, and public benchmarks, with Qwen3.8-27B named the strongest model to serve from a single machine.</description>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.respan.ai/blog/best-open-source-llms</guid>
+</item>
+<item>
 <title>vLLM Decision 3.0: five open decision models, 0.8B to 27B</title>
 <link>https://aitoolherald.com/articles/decision-3-0-vllm-semantic-router-releases-five-open-decision-models/</link>
 <description>Open decision models for routing and guardrail layers spanning 0.8B to 27B under Apache-2.0, with local inference via vLLM's Semantic Router and planned native integration.</description>
@@ -271,20 +285,6 @@
 <description>New Apache-2.0 MLX-based server speaks both OpenAI and Anthropic API formats, aimed at reliable tool calling for locally run coding agents.</description>
 <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://smartchunks.com/rapid-mlx-open-source-apple-silicon-inference-server/</guid>
-</item>
-<item>
-<title>Cottonfall: The Missing Resident, a free investigative-horror adventure for Foundry VTT</title>
-<link>https://github.com/boomeret/cottonfall-missing-resident</link>
-<description>A free, non-commercial GURPS investigative-horror adventure shipping as a Foundry VTT module, with five pregenerated residents and a suggested Foundry module list.</description>
-<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://github.com/boomeret/cottonfall-missing-resident</guid>
-</item>
-<item>
-<title>Google's Data Agent Kit goes GA: free MCP tools wiring Data Cloud into coding agents</title>
-<link>https://automater.ai/news/google-data-agent-kit-ga-mcp-tools-data-cloud-coding-agents/</link>
-<description>Google shipped free MCP tools plus agent know-how skills that wire 15+ Data Cloud services into Claude Code, Codex, Cursor, VS Code, and Antigravity.</description>
-<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://automater.ai/news/google-data-agent-kit-ga-mcp-tools-data-cloud-coding-agents/</guid>
 </item>
 </channel>
 </rss>
