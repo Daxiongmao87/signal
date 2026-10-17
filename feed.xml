@@ -5,13 +5,34 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 16 Oct 2026 00:43:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 12:00:00 +0000</lastBuildDate>
+<item>
+<title>Codex Harness open-sourced by OpenAI</title>
+<link>https://www.mogazmasr.com/141856</link>
+<description>OpenAI open-sourced the Codex Harness execution layer (Apache-2.0), the agent core behind Codex, so teams can embed its task understanding, tool calling, and human-approval loop in their own software.</description>
+<pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.mogazmasr.com/141856</guid>
+</item>
 <item>
 <title>Nvidia launches Nemotron 3.5 Bolt open models for local AI agents</title>
 <link>https://www.techrepublic.com/article/news-nvidia-nemotron-3-5-super-vl-bolt-ai-models/</link>
 <description>Nvidia released two open-weight Bolt models for local agents: a 74B-A9B MoE fitting 24GB via 2-bit quantization, out now on Hugging Face with Ollama and llama.cpp support, plus a 4GB E4B model due Oct. 23.</description>
 <pubDate>Fri, 16 Oct 2026 00:43:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.techrepublic.com/article/news-nvidia-nemotron-3-5-super-vl-bolt-ai-models/</guid>
+</item>
+<item>
+<title>A phone as a 32K-context LLM server: full benchmark log</title>
+<link>https://medium.com/@v.fiedietsov/a-snapdragon-8s-gen-4-phone-as-a-32k-context-llm-server-complete-benchmark-log-3de10cf23fe0</link>
+<description>Measured walkthrough of building llama.cpp natively in Termux on a POCO F7 and serving it over the home network, with every command, failure, and throughput number documented on-device.</description>
+<pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://medium.com/@v.fiedietsov/a-snapdragon-8s-gen-4-phone-as-a-32k-context-llm-server-complete-benchmark-log-3de10cf23fe0</guid>
+</item>
+<item>
+<title>Infested Buildings Series coming to Foundry VTT</title>
+<link>https://www.rascal.news/infested-buildings-series-from/</link>
+<description>Hod Publishing is converting Toby Lancaster's four D&amp;D 5e Infested Buildings adventures into ready-to-run Foundry VTT modules after the project funded in under three days.</description>
+<pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.rascal.news/infested-buildings-series-from/</guid>
 </item>
 <item>
 <title>Ruflo meta-harness breakdown: missions, federation, and the model-plus-harness lesson</title>
@@ -82,6 +103,13 @@
 <description>Cairn is an open-source (MIT) work harness for AI coding agents — a Claude Code plugin with 39 slash commands plus a TypeScript MCP server exposing 87 typed tools — built around one law: the issue tracker is the single source of truth, with phases mirrored into the tracker, goal-backward verification, plan-versus-tracker drift math, and a ship gate that refuses to proceed when they disagree.</description>
 <pubDate>Tue, 13 Oct 2026 02:43:25 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/eventuallyconsistentcode/cairn-a-work-harness-for-ai-coding-agents-plans-in-git-truth-in-your-tracker-nothing-done-50n4</guid>
+</item>
+<item>
+<title>Xyntetik-Runner 1.2.0 launches</title>
+<link>https://www.thenextgentechinsider.com/pulse/xyntetik-runner-120-launches-for-efficient-local-llm-inference</link>
+<description>New Apache-2.0 local inference engine ships as a single-file executable with predictive hardware fitting and schema enforcement aimed at reliable agentic workflows on Mac, Linux, and Windows.</description>
+<pubDate>Tue, 13 Oct 2026 02:35:24 +0000</pubDate>
+<guid isPermaLink="true">https://www.thenextgentechinsider.com/pulse/xyntetik-runner-120-launches-for-efficient-local-llm-inference</guid>
 </item>
 <item>
 <title>DXC and LangChain partner on governed agentic AI for mission-critical IT</title>
@@ -217,6 +245,13 @@
 <guid isPermaLink="true">https://en.softonic.com/articles/wow-forever-beta-is-already-breaking-records-blizzard-wont-cater-to-the-loudest-fans</guid>
 </item>
 <item>
+<title>Termux Assistant AI v3.5.0: AI with hands inside Android</title>
+<link>https://dev.to/cr4code/termux-assistant-ai-v350-ai-with-hands-inside-android-1fik</link>
+<description>The on-phone coding assistant now builds APKs directly on the device (aapt2, javac, d8, apksigner), posts to Telegram/Dev.to, and fixes the install-over-downgrade problem with an auto-incrementing versionCode.</description>
+<pubDate>Sat, 10 Oct 2026 12:40:41 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/cr4code/termux-assistant-ai-v350-ai-with-hands-inside-android-1fik</guid>
+</item>
+<item>
 <title>Termux Assistant AI v3.5.0: an LLM with hands inside Android</title>
 <link>https://dev.to/cr4code/termux-assistant-ai-v350-ai-with-hands-inside-android-1fik</link>
 <description>Release notes for an open-source experiment giving a language model a real shell on an Android phone: it builds and installs APKs on-device, posts to social platforms, and manages git, GitHub, and logs.</description>
@@ -250,41 +285,6 @@
 <description>Google shipped free MCP tools plus agent know-how skills that wire 15+ Data Cloud services into Claude Code, Codex, Cursor, VS Code, and Antigravity.</description>
 <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://automater.ai/news/google-data-agent-kit-ga-mcp-tools-data-cloud-coding-agents/</guid>
-</item>
-<item>
-<title>Private phone AI: the exact Termux plus llama.cpp setup</title>
-<link>https://dev.to/tyren_rickard_code/i-run-a-private-ai-on-my-phone-heres-the-exact-set-up-3no9</link>
-<description>A reproducible recipe for a fully offline phone LLM server: Termux from F-Droid, llama.cpp, and a 769MB Gemma 3 1B quant serving 16 tok/s over HTTP.</description>
-<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/tyren_rickard_code/i-run-a-private-ai-on-my-phone-heres-the-exact-set-up-3no9</guid>
-</item>
-<item>
-<title>Z-Agent-Termux: a self-healing AI agent built on an Android phone</title>
-<link>http://dev.to/zxxzxx1314/13-hour-limit-breaking-development-i-built-an-ai-agent-with-watchdog-and-shadow-sandbox-on-an-2ofh</link>
-<description>A phone-native AI agent built entirely in Termux, with a watchdog and shadow-sandbox design so a bad code edit never bricks the system.</description>
-<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">http://dev.to/zxxzxx1314/13-hour-limit-breaking-development-i-built-an-ai-agent-with-watchdog-and-shadow-sandbox-on-an-2ofh</guid>
-</item>
-<item>
-<title>WoW: Forever gets SD Skyborne models in early 2027</title>
-<link>https://thedailygame.news/story/2026-10-09-wow-forever-gets-sd-skyborne-models-in-early-2027-after-beta-feedback--474388e8</link>
-<description>After beta feedback on the HD Skyborne models, Blizzard is retouching Skyborne druid forms to match Classic's visual language now and promises a lower-detail SD model option in early 2027.</description>
-<pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://thedailygame.news/story/2026-10-09-wow-forever-gets-sd-skyborne-models-in-early-2027-after-beta-feedback--474388e8</guid>
-</item>
-<item>
-<title>Nace.AI open-sources Drex 1.5, a 9B decision model for agents</title>
-<link>https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/</link>
-<description>Nace.AI released Drex 1.5, an open 9B 'decision model' that scores a fixed set of options in one forward pass instead of generating text — built for agent routing, tool selection, and guardrails, runnable on one GPU or as a 9.5 GB Q8_0 GGUF.</description>
-<pubDate>Fri, 09 Oct 2026 04:51:34 +0000</pubDate>
-<guid isPermaLink="true">https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/</guid>
-</item>
-<item>
-<title>On-device LLM research (2026-10-09): MediaPipe/LiteRT vs Gemini Nano on mid-range Android phones</title>
-<link>https://github.com/zushikina-kun/smartspend-app/blob/HEAD/docs/handsoff/on-device-llm-research-2026-10-09.md</link>
-<description>Dated research note comparing MediaPipe/LiteRT (Gemma 4 E2B, Gemma 3n, Phi-3 Mini) against Gemini Nano via AICore: model sizes, RAM floors, tok/s, and context limits for real Android hardware.</description>
-<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://github.com/zushikina-kun/smartspend-app/blob/HEAD/docs/handsoff/on-device-llm-research-2026-10-09.md</guid>
 </item>
 </channel>
 </rss>
