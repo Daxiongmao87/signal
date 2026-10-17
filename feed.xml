@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://www.backerkit.com/c/projects/renegade-game-studios/dungeon-crawler-carl-rpg-unstoppable/updates/42856</guid>
 </item>
 <item>
+<title>Phi-4 Mini Reasoning in GGUF: a 3.8B local reasoner lands on Modelers.cn</title>
+<link>https://aichina.news/blog/phi-4-mini-reasoning-in-gguf-a-3-8b-local-reasoner-lands-on-modelers-y5hwt3/</link>
+<description>Community GGUF repack of Microsoft's 3.8B Phi-4-mini-reasoning puts the MIT-licensed reasoning model on llama.cpp, Ollama and LM Studio at roughly 4-8 GB RAM; a third-party repack, not an official Microsoft release.</description>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/phi-4-mini-reasoning-in-gguf-a-3-8b-local-reasoner-lands-on-modelers-y5hwt3/</guid>
+</item>
+<item>
 <title>llama.cpp adopts semantic versioning: v0.4.1 breaks old flags</title>
 <link>https://tech-insider.org/llama-cpp-tutorial-2026/</link>
 <description>llama.cpp's latest tagged release v0.4.1 (Sept 14, 2026) adds Maple 20B-A1B, Tencent Hy 4 and Spark2.5 support, and replaces --mmap/--mlock/--direct-io with a single --load-mode flag — check your scripts.</description>
@@ -47,6 +54,13 @@
 <description>Builder.io open-sourced the MIT-licensed Agent-Native framework where agents and UIs share typed actions; Meta shipped Immersive Web SDK 1.0 with an MCP server so coding agents can build and test WebXR scenes; OpenBMB released PilotDeck 2.0, a model-agnostic agent harness for office work.</description>
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dailycited.com/d/2026-10-15/</guid>
+</item>
+<item>
+<title>Cadence launches agentic AI design tool to support chip design and verification</title>
+<link>https://www.datacenterdynamics.com/en/news/cadence-launches-agentic-ai-design-tool-to-support-chip-design-and-verification/</link>
+<description>Cadence launches ChipStack AI Super Agent, a multi-agent harness that automates front-end chip design and verification across its EDA tools; Altera, Nvidia, Qualcomm and Tenstorrent are named as early adopters.</description>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.datacenterdynamics.com/en/news/cadence-launches-agentic-ai-design-tool-to-support-chip-design-and-verification/</guid>
 </item>
 <item>
 <title>Ruflo meta-harness breakdown: missions, federation, and the model-plus-harness lesson</title>
@@ -271,20 +285,6 @@
 <description>Release notes for an open-source experiment giving a language model a real shell on an Android phone: it builds and installs APKs on-device, posts to social platforms, and manages git, GitHub, and logs.</description>
 <pubDate>Sat, 10 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/cr4code/termux-assistant-ai-v350-ai-with-hands-inside-android-1fik</guid>
-</item>
-<item>
-<title>WoW: Forever is official: Blizzard's season-free Classic launches November 4</title>
-<link>https://en.softonic.com/articles/wow-forever-is-official-blizzards-season-free-classic-launches-november-4</link>
-<description>Blizzard dates the permanent Classic realm for November 4: slower progression, manual groups, limited finders and add-ons, framed as a long-term home rather than another season.</description>
-<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://en.softonic.com/articles/wow-forever-is-official-blizzards-season-free-classic-launches-november-4</guid>
-</item>
-<item>
-<title>Rapid-MLX: open-source inference server for Apple Silicon with dual OpenAI/Anthropic APIs</title>
-<link>https://smartchunks.com/rapid-mlx-open-source-apple-silicon-inference-server/</link>
-<description>New Apache-2.0 MLX-based server speaks both OpenAI and Anthropic API formats, aimed at reliable tool calling for locally run coding agents.</description>
-<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://smartchunks.com/rapid-mlx-open-source-apple-silicon-inference-server/</guid>
 </item>
 </channel>
 </rss>
