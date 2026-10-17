@@ -84,6 +84,13 @@
 <guid isPermaLink="true">https://aichina.news/blog/sarashina2-2-1b-in-gguf-a-tiny-local-llm-lands-on-modelers-cn-5lc1d5/</guid>
 </item>
 <item>
+<title>AI Coding Agents Add 30% More Code, Not Software</title>
+<link>https://tech-insider.org/ai-coding-agents-30-percent-more-code-not-software-2026/</link>
+<description>October 2026 coding-agent release roundup: Copilot CLI computer-use preview, Claude Code Mods, OpenCode v1.19, Google's MCP Toolbox Java SDK, and a Microsoft Copilot redesign all shipped in the same two-week window.</description>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://tech-insider.org/ai-coding-agents-30-percent-more-code-not-software-2026/</guid>
+</item>
+<item>
 <title>Liquid AI ships open-weight LFM2.5-24B-A2B for on-device agents</title>
 <link>https://www.unite.ai/liquid-ai-releases-open-weight-lfm2-5-24b-a2b-for-on-device-agents/</link>
 <description>Liquid AI released the final LFM2.5 model: a 24B-parameter / 2.45B-active open-weight MoE reasoning model with day-one GGUF and MLX support, benchmarked specifically for on-device agent workflows.</description>
@@ -278,13 +285,6 @@
 <description>Release notes for an open-source experiment giving a language model a real shell on an Android phone: it builds and installs APKs on-device, posts to social platforms, and manages git, GitHub, and logs.</description>
 <pubDate>Sat, 10 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/cr4code/termux-assistant-ai-v350-ai-with-hands-inside-android-1fik</guid>
-</item>
-<item>
-<title>WoW: Forever is official: Blizzard's season-free Classic launches November 4</title>
-<link>https://en.softonic.com/articles/wow-forever-is-official-blizzards-season-free-classic-launches-november-4</link>
-<description>Blizzard dates the permanent Classic realm for November 4: slower progression, manual groups, limited finders and add-ons, framed as a long-term home rather than another season.</description>
-<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://en.softonic.com/articles/wow-forever-is-official-blizzards-season-free-classic-launches-november-4</guid>
 </item>
 </channel>
 </rss>
