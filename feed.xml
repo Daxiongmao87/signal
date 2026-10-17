@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 16 Oct 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 12:04:43 +0000</lastBuildDate>
+<item>
+<title>ServiceNow launches EmployeeWorks no-code agent platform</title>
+<link>https://theoutpost.ai/news-story/servicenow-debuts-no-code-ai-platform-letting-employees-build-their-own-enterprise-agents-32268/</link>
+<description>ServiceNow launched EmployeeWorks, a no-code platform letting employees build their own agents, with a ToolSmith dev environment and pre-built research and scheduling assistants.</description>
+<pubDate>Fri, 16 Oct 2026 12:04:43 +0000</pubDate>
+<guid isPermaLink="true">https://theoutpost.ai/news-story/servicenow-debuts-no-code-ai-platform-letting-employees-build-their-own-enterprise-agents-32268/</guid>
+</item>
 <item>
 <title>Codex Harness open-sourced by OpenAI</title>
 <link>https://www.mogazmasr.com/141856</link>
@@ -33,20 +40,6 @@
 <description>Builder.io open-sourced the MIT-licensed Agent-Native framework where agents and UIs share typed actions; Meta shipped Immersive Web SDK 1.0 with an MCP server so coding agents can build and test WebXR scenes; OpenBMB released PilotDeck 2.0, a model-agnostic agent harness for office work.</description>
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dailycited.com/d/2026-10-15/</guid>
-</item>
-<item>
-<title>A phone as a 32K-context LLM server: full benchmark log</title>
-<link>https://medium.com/@v.fiedietsov/a-snapdragon-8s-gen-4-phone-as-a-32k-context-llm-server-complete-benchmark-log-3de10cf23fe0</link>
-<description>Measured walkthrough of building llama.cpp natively in Termux on a POCO F7 and serving it over the home network, with every command, failure, and throughput number documented on-device.</description>
-<pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://medium.com/@v.fiedietsov/a-snapdragon-8s-gen-4-phone-as-a-32k-context-llm-server-complete-benchmark-log-3de10cf23fe0</guid>
-</item>
-<item>
-<title>Infested Buildings Series coming to Foundry VTT</title>
-<link>https://www.rascal.news/infested-buildings-series-from/</link>
-<description>Hod Publishing is converting Toby Lancaster's four D&amp;D 5e Infested Buildings adventures into ready-to-run Foundry VTT modules after the project funded in under three days.</description>
-<pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.rascal.news/infested-buildings-series-from/</guid>
 </item>
 <item>
 <title>Ruflo meta-harness breakdown: missions, federation, and the model-plus-harness lesson</title>
@@ -189,13 +182,6 @@
 <guid isPermaLink="true">https://super-agentic.ai/resources/super-posts/introducing-codegem-gemini-gemma-coding-harness-superqode</guid>
 </item>
 <item>
-<title>CodeGem: a Gemini/Gemma coding harness ships in SuperQode</title>
-<link>https://super-agentic.ai/resources/super-posts/introducing-codegem-gemini-gemma-coding-harness-superqode</link>
-<description>SuperQode released a coding harness tuned for Gemini and local Gemma sessions: six coding tools, Ollama/LM Studio/llama.cpp support, optional semantic search, and inspectable model adapters.</description>
-<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://super-agentic.ai/resources/super-posts/introducing-codegem-gemini-gemma-coding-harness-superqode</guid>
-</item>
-<item>
 <title>2026 blueprint for fine-tuning LLMs with PEFT on private codebases</title>
 <link>http://promptcrafthub.blogspot.com/2026/10/2026-blueprint-fine-tuning-llms-for.html</link>
 <description>A practical PEFT playbook covering LoRA, QLoRA, and DoRA with working code examples, aimed at tuning LLMs on private codebases.</description>
@@ -245,13 +231,6 @@
 <guid isPermaLink="true">https://www.betterlaunch.co/product/the-agentic-coding-kit-ee66</guid>
 </item>
 <item>
-<title>The Agentic Coding Kit: free 34-file config pack for AI coding assistants</title>
-<link>https://www.betterlaunch.co/product/the-agentic-coding-kit-ee66</link>
-<description>Free drop-in pack of Claude Code subagents, Cursor rules, git hooks, CI templates, and stack presets aimed at keeping AI pair programmers disciplined from the first prompt.</description>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.betterlaunch.co/product/the-agentic-coding-kit-ee66</guid>
-</item>
-<item>
 <title>vLLM Decision 3.0: five open decision models, 0.8B to 27B</title>
 <link>https://aitoolherald.com/articles/decision-3-0-vllm-semantic-router-releases-five-open-decision-models/</link>
 <description>Open decision models for routing and guardrail layers spanning 0.8B to 27B under Apache-2.0, with local inference via vLLM's Semantic Router and planned native integration.</description>
@@ -273,18 +252,39 @@
 <guid isPermaLink="true">https://en.softonic.com/articles/wow-forever-beta-is-already-breaking-records-blizzard-wont-cater-to-the-loudest-fans</guid>
 </item>
 <item>
-<title>Termux Assistant AI v3.5.0: AI with hands inside Android</title>
-<link>https://dev.to/cr4code/termux-assistant-ai-v350-ai-with-hands-inside-android-1fik</link>
-<description>The on-phone coding assistant now builds APKs directly on the device (aapt2, javac, d8, apksigner), posts to Telegram/Dev.to, and fixes the install-over-downgrade problem with an auto-incrementing versionCode.</description>
-<pubDate>Sat, 10 Oct 2026 12:40:41 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/cr4code/termux-assistant-ai-v350-ai-with-hands-inside-android-1fik</guid>
-</item>
-<item>
 <title>Termux Assistant AI v3.5.0: an LLM with hands inside Android</title>
 <link>https://dev.to/cr4code/termux-assistant-ai-v350-ai-with-hands-inside-android-1fik</link>
 <description>Release notes for an open-source experiment giving a language model a real shell on an Android phone: it builds and installs APKs on-device, posts to social platforms, and manages git, GitHub, and logs.</description>
 <pubDate>Sat, 10 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/cr4code/termux-assistant-ai-v350-ai-with-hands-inside-android-1fik</guid>
+</item>
+<item>
+<title>WoW: Forever is official: Blizzard's season-free Classic launches November 4</title>
+<link>https://en.softonic.com/articles/wow-forever-is-official-blizzards-season-free-classic-launches-november-4</link>
+<description>Blizzard dates the permanent Classic realm for November 4: slower progression, manual groups, limited finders and add-ons, framed as a long-term home rather than another season.</description>
+<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://en.softonic.com/articles/wow-forever-is-official-blizzards-season-free-classic-launches-november-4</guid>
+</item>
+<item>
+<title>Rapid-MLX: open-source inference server for Apple Silicon with dual OpenAI/Anthropic APIs</title>
+<link>https://smartchunks.com/rapid-mlx-open-source-apple-silicon-inference-server/</link>
+<description>New Apache-2.0 MLX-based server speaks both OpenAI and Anthropic API formats, aimed at reliable tool calling for locally run coding agents.</description>
+<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://smartchunks.com/rapid-mlx-open-source-apple-silicon-inference-server/</guid>
+</item>
+<item>
+<title>Cottonfall: The Missing Resident, a free investigative-horror adventure for Foundry VTT</title>
+<link>https://github.com/boomeret/cottonfall-missing-resident</link>
+<description>A free, non-commercial GURPS investigative-horror adventure shipping as a Foundry VTT module, with five pregenerated residents and a suggested Foundry module list.</description>
+<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://github.com/boomeret/cottonfall-missing-resident</guid>
+</item>
+<item>
+<title>Google's Data Agent Kit goes GA: free MCP tools wiring Data Cloud into coding agents</title>
+<link>https://automater.ai/news/google-data-agent-kit-ga-mcp-tools-data-cloud-coding-agents/</link>
+<description>Google shipped free MCP tools plus agent know-how skills that wire 15+ Data Cloud services into Claude Code, Codex, Cursor, VS Code, and Antigravity.</description>
+<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://automater.ai/news/google-data-agent-kit-ga-mcp-tools-data-cloud-coding-agents/</guid>
 </item>
 </channel>
 </rss>
