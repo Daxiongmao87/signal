@@ -140,6 +140,13 @@
 <guid isPermaLink="true">https://super-agentic.ai/resources/super-posts/introducing-codegem-gemini-gemma-coding-harness-superqode</guid>
 </item>
 <item>
+<title>2026 blueprint for fine-tuning LLMs with PEFT on private codebases</title>
+<link>http://promptcrafthub.blogspot.com/2026/10/2026-blueprint-fine-tuning-llms-for.html</link>
+<description>A practical PEFT playbook covering LoRA, QLoRA, and DoRA with working code examples, aimed at tuning LLMs on private codebases.</description>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">http://promptcrafthub.blogspot.com/2026/10/2026-blueprint-fine-tuning-llms-for.html</guid>
+</item>
+<item>
 <title>Deploying LLMs locally: Ollama, llama.cpp, vLLM and TGI compared</title>
 <link>https://dev.to/ipsphil_digital/deploying-llms-locally-ollama-llamacpp-vllm-text-generation-inference-4c0k</link>
 <description>Fresh hands-on walkthrough covering all four runtimes end to end: Ollama quick-start, llama.cpp builds and Q4_K_M quantization, vLLM serving with AWQ/GPTQ and LoRA adapters, plus TGI, with runnable configs for each.</description>
@@ -238,6 +245,27 @@
 <guid isPermaLink="true">https://github.com/boomeret/cottonfall-missing-resident</guid>
 </item>
 <item>
+<title>Google's Data Agent Kit goes GA: free MCP tools wiring Data Cloud into coding agents</title>
+<link>https://automater.ai/news/google-data-agent-kit-ga-mcp-tools-data-cloud-coding-agents/</link>
+<description>Google shipped free MCP tools plus agent know-how skills that wire 15+ Data Cloud services into Claude Code, Codex, Cursor, VS Code, and Antigravity.</description>
+<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://automater.ai/news/google-data-agent-kit-ga-mcp-tools-data-cloud-coding-agents/</guid>
+</item>
+<item>
+<title>Private phone AI: the exact Termux plus llama.cpp setup</title>
+<link>https://dev.to/tyren_rickard_code/i-run-a-private-ai-on-my-phone-heres-the-exact-set-up-3no9</link>
+<description>A reproducible recipe for a fully offline phone LLM server: Termux from F-Droid, llama.cpp, and a 769MB Gemma 3 1B quant serving 16 tok/s over HTTP.</description>
+<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/tyren_rickard_code/i-run-a-private-ai-on-my-phone-heres-the-exact-set-up-3no9</guid>
+</item>
+<item>
+<title>Z-Agent-Termux: a self-healing AI agent built on an Android phone</title>
+<link>http://dev.to/zxxzxx1314/13-hour-limit-breaking-development-i-built-an-ai-agent-with-watchdog-and-shadow-sandbox-on-an-2ofh</link>
+<description>A phone-native AI agent built entirely in Termux, with a watchdog and shadow-sandbox design so a bad code edit never bricks the system.</description>
+<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">http://dev.to/zxxzxx1314/13-hour-limit-breaking-development-i-built-an-ai-agent-with-watchdog-and-shadow-sandbox-on-an-2ofh</guid>
+</item>
+<item>
 <title>WoW: Forever gets SD Skyborne models in early 2027</title>
 <link>https://thedailygame.news/story/2026-10-09-wow-forever-gets-sd-skyborne-models-in-early-2027-after-beta-feedback--474388e8</link>
 <description>After beta feedback on the HD Skyborne models, Blizzard is retouching Skyborne druid forms to match Classic's visual language now and promises a lower-detail SD model option in early 2027.</description>
@@ -257,34 +285,6 @@
 <description>Dated research note comparing MediaPipe/LiteRT (Gemma 4 E2B, Gemma 3n, Phi-3 Mini) against Gemini Nano via AICore: model sizes, RAM floors, tok/s, and context limits for real Android hardware.</description>
 <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://github.com/zushikina-kun/smartspend-app/blob/HEAD/docs/handsoff/on-device-llm-research-2026-10-09.md</guid>
-</item>
-<item>
-<title>Fantasy Grounds Acquires Eldritch Foundry: VTT Meets 3D Minis</title>
-<link>https://www.ttrpginsider.news/p/vtt-meets-3d-interview-with-fantasy-grounds-president-about-acquiring-eldritch-foundry</link>
-<description>SmiteWorks bought Eldritch Foundry's 3D character-builder assets to push Fantasy Grounds toward 3D minis, with the founder's team staying on as consultants.</description>
-<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.ttrpginsider.news/p/vtt-meets-3d-interview-with-fantasy-grounds-president-about-acquiring-eldritch-foundry</guid>
-</item>
-<item>
-<title>oxidize 0.1.0: Rust local-first LLM inference stack</title>
-<link>https://github.com/Zapdev-labs/oxidize</link>
-<description>First stable release of a Rust workspace for local-first LLM work: model loading and quantization primitives, a chat/prompt CLI, an OpenAI-compatible server, Python bindings, and offline model conversion.</description>
-<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://github.com/Zapdev-labs/oxidize</guid>
-</item>
-<item>
-<title>OutSystems Agent Experience reaches GA for any coding agent</title>
-<link>https://www.prnewswire.com/apac/news-releases/outsystems-agent-experience-is-now-generally-available-bringing-governed-ai-development-to-any-coding-agent-302901923.html</link>
-<description>Enterprise platform opens its governed development environment to Claude Code, Cursor, Codex and Kiro, enforcing system design, security guardrails and lifecycle management around whatever agent developers use.</description>
-<pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.prnewswire.com/apac/news-releases/outsystems-agent-experience-is-now-generally-available-bringing-governed-ai-development-to-any-coding-agent-302901923.html</guid>
-</item>
-<item>
-<title>AI Story Engine v1.28.0: GGUF import and llama-server adapter on Android</title>
-<link>https://github.com/akln55/ai-story-engine/blob/HEAD/docs/UI_AND_AI_RUNTIME_v1.28.0.md</link>
-<description>Android app's new AI runtime direction adds local GGUF model import/selection UI plus a localhost llama-server adapter behind its AIAdapter boundary; the in-app model catalog is still unbuilt.</description>
-<pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://github.com/akln55/ai-story-engine/blob/HEAD/docs/UI_AND_AI_RUNTIME_v1.28.0.md</guid>
 </item>
 </channel>
 </rss>
