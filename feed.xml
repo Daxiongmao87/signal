@@ -28,6 +28,13 @@
 <guid isPermaLink="true">https://tech-insider.org/llama-cpp-tutorial-2026/</guid>
 </item>
 <item>
+<title>Oct 15 AI roundup: Builder.io Agent-Native, Meta Immersive Web SDK 1.0, PilotDeck 2.0</title>
+<link>https://dailycited.com/d/2026-10-15/</link>
+<description>Builder.io open-sourced the MIT-licensed Agent-Native framework where agents and UIs share typed actions; Meta shipped Immersive Web SDK 1.0 with an MCP server so coding agents can build and test WebXR scenes; OpenBMB released PilotDeck 2.0, a model-agnostic agent harness for office work.</description>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dailycited.com/d/2026-10-15/</guid>
+</item>
+<item>
 <title>A phone as a 32K-context LLM server: full benchmark log</title>
 <link>https://medium.com/@v.fiedietsov/a-snapdragon-8s-gen-4-phone-as-a-32k-context-llm-server-complete-benchmark-log-3de10cf23fe0</link>
 <description>Measured walkthrough of building llama.cpp natively in Termux on a POCO F7 and serving it over the home network, with every command, failure, and throughput number documented on-device.</description>
@@ -278,13 +285,6 @@
 <description>Blizzard dates the permanent Classic realm for November 4: slower progression, manual groups, limited finders and add-ons, framed as a long-term home rather than another season.</description>
 <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://en.softonic.com/articles/wow-forever-is-official-blizzards-season-free-classic-launches-november-4</guid>
-</item>
-<item>
-<title>Rapid-MLX: open-source inference server for Apple Silicon with dual OpenAI/Anthropic APIs</title>
-<link>https://smartchunks.com/rapid-mlx-open-source-apple-silicon-inference-server/</link>
-<description>New Apache-2.0 MLX-based server speaks both OpenAI and Anthropic API formats, aimed at reliable tool calling for locally run coding agents.</description>
-<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://smartchunks.com/rapid-mlx-open-source-apple-silicon-inference-server/</guid>
 </item>
 </channel>
 </rss>
