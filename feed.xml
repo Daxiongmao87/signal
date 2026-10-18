@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 17 Oct 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Google Open-Sources Harness2, a Recursive Agent Harnessing Framework</title>
+<link>https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/</link>
+<description>Google Research open-sourced a framework that improves the eight harness components around a frozen model (prompts, tools, memory, subagents, skills); a single refinement step lifted several agent setups on their benchmarks.</description>
+<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/</guid>
+</item>
 <item>
 <title>JetBrains Mellum 2.1: 12B Apache-2.0 MoE coding model you can self-host</title>
 <link>https://tech-insider.org/jetbrains-mellum-2-1-open-coding-model-2026/</link>
@@ -278,13 +285,6 @@
 <description>Google Research open-sources RRSI, a framework that lets LLM agents rewrite their own prompts, tools, and memory — Terminal-Bench 2.1 rises from 74.2% to 80.2%; also notes a 115 ms local routing model for agent tool-selection on an RTX 3090.</description>
 <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.marktechpost.com/category/editors-pick/agentic-ai/</guid>
-</item>
-<item>
-<title>The Agentic Coding Kit: a senior-engineer's AI coding setup as a config pack</title>
-<link>https://www.betterlaunch.co/product/the-agentic-coding-kit</link>
-<description>Indie launch (Oct 12): 34 drop-in files packaging a senior engineer's agent setup — behavior-controlling CLAUDE.md, scoped permission allow/deny lists, git hooks that run lint/typecheck/tests before broken agent commits land, and subagent delegation playbooks — aimed at Claude Code and Cursor users; one-time paid download.</description>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.betterlaunch.co/product/the-agentic-coding-kit</guid>
 </item>
 </channel>
 </rss>
