@@ -84,13 +84,6 @@
 <guid isPermaLink="true">https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-GGUF</guid>
 </item>
 <item>
-<title>NVIDIA Nemotron Labs Dory1.0-4B: a loopable 4B reasoning model for local agents</title>
-<link>https://local-ai-models.ai/local-ai-models.html</link>
-<description>NVIDIA released the 4B Dory1.0 on October 16 for English reasoning, coding, and tool use; one checkpoint supports adjustable inference loops and ships BF16, NVFP4, and Q5_K_M GGUF builds.</description>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://local-ai-models.ai/local-ai-models.html</guid>
-</item>
-<item>
 <title>BitCPM4-1B: a ternary 1.58-bit 1B model in GGUF</title>
 <link>https://aichina.news/blog/tiny-but-mighty-the-ternary-1-58-bit-bitcpm4-1b-for-edge-ai-6cwms1/</link>
 <description>OpenBMB's ternary-quantized 1B model lands as a third-party GGUF build, aimed at llama.cpp-class runtimes on CPUs and edge hardware.</description>
@@ -285,6 +278,13 @@
 <description>Fresh hands-on walkthrough covering all four runtimes end to end: Ollama quick-start, llama.cpp builds and Q4_K_M quantization, vLLM serving with AWQ/GPTQ and LoRA adapters, plus TGI, with runnable configs for each.</description>
 <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/ipsphil_digital/deploying-llms-locally-ollama-llamacpp-vllm-text-generation-inference-4c0k</guid>
+</item>
+<item>
+<title>Harness acquires Augment Code, launches Cosmos software-factory agent</title>
+<link>https://uktechnews.co.uk/2026/10/12/harness-acquires-augment-code-advancing-the-autonomous-sdlc-from-idea-to-production/</link>
+<description>Harness bought coding-agent startup Augment Code and rolled out Cosmos: per-ticket agent fleets that plan, code, test, and open PRs from isolated VMs, with Augment's Code Context Engine for repo awareness.</description>
+<pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://uktechnews.co.uk/2026/10/12/harness-acquires-augment-code-advancing-the-autonomous-sdlc-from-idea-to-production/</guid>
 </item>
 </channel>
 </rss>
