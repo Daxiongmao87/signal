@@ -28,6 +28,20 @@
 <guid isPermaLink="true">https://www.mogazmasr.com/146558</guid>
 </item>
 <item>
+<title>Open Source AI Weekly: Five Developments to Watch, October 9-15</title>
+<link>https://osrepos.com/blog/open-source-ai-weekly-five-developments-to-watch-october-9-15</link>
+<description>Weekly roundup of open-source AI for Oct 9-15, including Cloudflare's open-weight multimodal decision model Clef-omni and what weights-without-cheap-hardware means for local evaluation.</description>
+<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://osrepos.com/blog/open-source-ai-weekly-five-developments-to-watch-october-9-15</guid>
+</item>
+<item>
+<title>OpenCode 2.0: 75+ AI Models, One API Key</title>
+<link>https://trendintech.com/opencode-2-0-api-coding-agent-2026/</link>
+<description>OpenCode 2.0 ships background-service execution plus a new API and SDK, model-agnostic across 75+ providers, stacked against Claude Code 2.1.302 and Codex CLI 0.162.0 October releases.</description>
+<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://trendintech.com/opencode-2-0-api-coding-agent-2026/</guid>
+</item>
+<item>
 <title>ServiceNow launches EmployeeWorks no-code agent platform</title>
 <link>https://theoutpost.ai/news-story/servicenow-debuts-no-code-ai-platform-letting-employees-build-their-own-enterprise-agents-32268/</link>
 <description>ServiceNow launched EmployeeWorks, a no-code platform letting employees build their own agents, with a ToolSmith dev environment and pre-built research and scheduling assistants.</description>
@@ -271,20 +285,6 @@
 <description>Harness bought coding-agent startup Augment Code and rolled out Cosmos: per-ticket agent fleets that plan, code, test, and open PRs from isolated VMs, with Augment's Code Context Engine for repo awareness.</description>
 <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://uktechnews.co.uk/2026/10/12/harness-acquires-augment-code-advancing-the-autonomous-sdlc-from-idea-to-production/</guid>
-</item>
-<item>
-<title>Blizzard rules out adding existing expansion races to WoW: Forever</title>
-<link>https://www.digitaltoday.co.kr/en/view/113266/blizzard-rules-out-adding-existing-playable-races-to-wow-forever</link>
-<description>Blizzard tells TechRadar it has no plans to bring goblin, vulpera, or haranir races to WoW: Forever, instead building an independent timeline off the Warcraft III Reforged: Forsaken Kingdom campaign — with the all-new Skyborne race as the sole exception.</description>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.digitaltoday.co.kr/en/view/113266/blizzard-rules-out-adding-existing-playable-races-to-wow-forever</guid>
-</item>
-<item>
-<title>Agentic AI roundup: Google open-sources self-improving agent harness RRSI</title>
-<link>https://www.marktechpost.com/category/editors-pick/agentic-ai/</link>
-<description>Google Research open-sources RRSI, a framework that lets LLM agents rewrite their own prompts, tools, and memory — Terminal-Bench 2.1 rises from 74.2% to 80.2%; also notes a 115 ms local routing model for agent tool-selection on an RTX 3090.</description>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.marktechpost.com/category/editors-pick/agentic-ai/</guid>
 </item>
 </channel>
 </rss>
