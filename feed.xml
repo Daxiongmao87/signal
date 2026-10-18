@@ -224,6 +224,13 @@
 <guid isPermaLink="true">http://promptcrafthub.blogspot.com/2026/10/2026-blueprint-fine-tuning-llms-for.html</guid>
 </item>
 <item>
+<title>Liquid AI's LFM2.5-24B-A2B: 24B-param MoE, 2B active per pass</title>
+<link>https://extrapolator.ai/2026/10/13/lfm2-5-24b-a2b-targets-fast-private-on-device-agent-workflows/</link>
+<description>Liquid AI's newest open-weight MoE activates only 2B of 24B params per forward pass, aimed at single-GPU local agentic workloads.</description>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://extrapolator.ai/2026/10/13/lfm2-5-24b-a2b-targets-fast-private-on-device-agent-workflows/</guid>
+</item>
+<item>
 <title>Deploying LLMs locally: Ollama, llama.cpp, vLLM and TGI compared</title>
 <link>https://dev.to/ipsphil_digital/deploying-llms-locally-ollama-llamacpp-vllm-text-generation-inference-4c0k</link>
 <description>Fresh hands-on walkthrough covering all four runtimes end to end: Ollama quick-start, llama.cpp builds and Q4_K_M quantization, vLLM serving with AWQ/GPTQ and LoRA adapters, plus TGI, with runnable configs for each.</description>
@@ -278,13 +285,6 @@
 <description>Open decision models for routing and guardrail layers spanning 0.8B to 27B under Apache-2.0, with local inference via vLLM's Semantic Router and planned native integration.</description>
 <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aitoolherald.com/articles/decision-3-0-vllm-semantic-router-releases-five-open-decision-models/</guid>
-</item>
-<item>
-<title>WoW: Forever class design: no modernization, just 'engaging depth'</title>
-<link>https://ranzware.com/wow-forevers-classes-wont-be-modernized-but-blizzard-has-added-some-new-mechanics-for-engaging-depth-as-some-classes-in-world-of-warcraft-classic-were-too-simple</link>
-<description>Blizzard tells TechRadar it won't modernize WoW: Forever's classes, but some 'too simple' vanilla classes get new mechanics — judged against the four design pillars behind its Classic Plus identity.</description>
-<pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://ranzware.com/wow-forevers-classes-wont-be-modernized-but-blizzard-has-added-some-new-mechanics-for-engaging-depth-as-some-classes-in-world-of-warcraft-classic-were-too-simple</guid>
 </item>
 </channel>
 </rss>
