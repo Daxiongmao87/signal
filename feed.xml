@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://tech-insider.org/jetbrains-mellum-2-1-open-coding-model-2026/</guid>
 </item>
 <item>
+<title>WoW Forever unveiled at BlizzCon 2026: horizontal Classic+ expansion detailed</title>
+<link>https://www.mogazmasr.com/146558</link>
+<description>BlizzCon 2026 reveal positions WoW Forever as a permanent third branch: revamped and new zones, three raids, a new battleground, and the Skyborne elves at level 60.</description>
+<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.mogazmasr.com/146558</guid>
+</item>
+<item>
 <title>ServiceNow launches EmployeeWorks no-code agent platform</title>
 <link>https://theoutpost.ai/news-story/servicenow-debuts-no-code-ai-platform-letting-employees-build-their-own-enterprise-agents-32268/</link>
 <description>ServiceNow launched EmployeeWorks, a no-code platform letting employees build their own agents, with a ToolSmith dev environment and pre-built research and scheduling assistants.</description>
@@ -75,6 +82,13 @@
 <description>Cadence launches ChipStack AI Super Agent, a multi-agent harness that automates front-end chip design and verification across its EDA tools; Altera, Nvidia, Qualcomm and Tenstorrent are named as early adopters.</description>
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.datacenterdynamics.com/en/news/cadence-launches-agentic-ai-design-tool-to-support-chip-design-and-verification/</guid>
+</item>
+<item>
+<title>BAND for Developers: shared hub tracking every active AI coding agent</title>
+<link>https://bitcomme.com/ai-coding-agent-tools-2026/</link>
+<description>BAND's new desktop app gives teams one workspace to see what every running coding agent is doing, replacing terminal-and-tab hunting.</description>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://bitcomme.com/ai-coding-agent-tools-2026/</guid>
 </item>
 <item>
 <title>Ruflo meta-harness breakdown: missions, federation, and the model-plus-harness lesson</title>
@@ -271,20 +285,6 @@
 <description>Free 34-file drop-in pack (launched Oct 12) with guardrails, CLAUDE.md presets, subagents, slash commands, and CI/git recipes to make coding agents follow project rules.</description>
 <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.betterlaunch.co/product/the-agentic-coding-kit-ee66</guid>
-</item>
-<item>
-<title>Open Source LLMs in 2026: 10 Best Open-Weight Models, Compared</title>
-<link>https://www.respan.ai/blog/best-open-source-llms</link>
-<description>October roundup ranking ten open-weight models by license, size, and public benchmarks, with Qwen3.8-27B named the strongest model to serve from a single machine.</description>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.respan.ai/blog/best-open-source-llms</guid>
-</item>
-<item>
-<title>vLLM Decision 3.0: five open decision models, 0.8B to 27B</title>
-<link>https://aitoolherald.com/articles/decision-3-0-vllm-semantic-router-releases-five-open-decision-models/</link>
-<description>Open decision models for routing and guardrail layers spanning 0.8B to 27B under Apache-2.0, with local inference via vLLM's Semantic Router and planned native integration.</description>
-<pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aitoolherald.com/articles/decision-3-0-vllm-semantic-router-releases-five-open-decision-models/</guid>
 </item>
 </channel>
 </rss>
