@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://tech-insider.org/jetbrains-mellum-2-1-open-coding-model-2026/</guid>
 </item>
 <item>
+<title>Google Research open-sources Harness², a recursive self-refining agent harness</title>
+<link>https://www.linkedin.com/posts/shubhamsaboo_google-research-just-open-sourced-a-recursive-activity-7517459738759118848-GMvx</link>
+<description>Google Research open-sourced Harness², a 100% open-source framework where the agent rewrites its own harness (prompt, tools, memory, skills) per task via propose-probe-compose, improving scores by up to 11.8 points per round without ground truth.</description>
+<pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.linkedin.com/posts/shubhamsaboo_google-research-just-open-sourced-a-recursive-activity-7517459738759118848-GMvx</guid>
+</item>
+<item>
 <title>WoW Forever unveiled at BlizzCon 2026: horizontal Classic+ expansion detailed</title>
 <link>https://www.mogazmasr.com/146558</link>
 <description>BlizzCon 2026 reveal positions WoW Forever as a permanent third branch: revamped and new zones, three raids, a new battleground, and the Skyborne elves at level 60.</description>
@@ -278,13 +285,6 @@
 <description>A practical PEFT playbook covering LoRA, QLoRA, and DoRA with working code examples, aimed at tuning LLMs on private codebases.</description>
 <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">http://promptcrafthub.blogspot.com/2026/10/2026-blueprint-fine-tuning-llms-for.html</guid>
-</item>
-<item>
-<title>Liquid AI's LFM2.5-24B-A2B: 24B-param MoE, 2B active per pass</title>
-<link>https://extrapolator.ai/2026/10/13/lfm2-5-24b-a2b-targets-fast-private-on-device-agent-workflows/</link>
-<description>Liquid AI's newest open-weight MoE activates only 2B of 24B params per forward pass, aimed at single-GPU local agentic workloads.</description>
-<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://extrapolator.ai/2026/10/13/lfm2-5-24b-a2b-targets-fast-private-on-device-agent-workflows/</guid>
 </item>
 </channel>
 </rss>
