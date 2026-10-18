@@ -42,6 +42,13 @@
 <guid isPermaLink="true">https://www.linkedin.com/posts/shubhamsaboo_google-research-just-open-sourced-a-recursive-activity-7517459738759118848-GMvx</guid>
 </item>
 <item>
+<title>Schematron-3B GGUF lands on Modelers.cn</title>
+<link>https://aichina.news/blog/schematron-3b-comes-to-modelers-cn-a-cpu-friendly-gguf-curio-for-mban9b/</link>
+<description>A ~3B text-generation model from 'inference-net' got a CPU-friendly GGUF conversion from DevQuasar and a mirror on Modelers.cn — roughly a 2-3 GB footprint at 4-bit, sized for edge experiments and quick local prototyping.</description>
+<pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/schematron-3b-comes-to-modelers-cn-a-cpu-friendly-gguf-curio-for-mban9b/</guid>
+</item>
+<item>
 <title>WoW Forever unveiled at BlizzCon 2026: horizontal Classic+ expansion detailed</title>
 <link>https://www.mogazmasr.com/146558</link>
 <description>BlizzCon 2026 reveal positions WoW Forever as a permanent third branch: revamped and new zones, three raids, a new battleground, and the Skyborne elves at level 60.</description>
@@ -278,13 +285,6 @@
 <description>Concrete proof-of-concept that backprop training can run on chips sold as inference-only: VIDRAFT pre-trained a 46M-parameter model end-to-end on a first-gen NPU with no GPU involved, and published the weights plus comparison materials on Hugging Face as the validation artifact for their NPU-native acceleration stack.</description>
 <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/ai_openfree_b23025ef075cf/training-an-llm-from-scratch-on-inference-only-npus-no-gpu-required-580g</guid>
-</item>
-<item>
-<title>CodeGem: a Gemini/Gemma coding harness for SuperQode</title>
-<link>https://super-agentic.ai/resources/super-posts/introducing-codegem-gemini-gemma-coding-harness-superqode</link>
-<description>New open coding-agent harness tuned for Gemini and local Gemma via Ollama/LM Studio/llama.cpp, with a durable session loop and optional semantic retrieval.</description>
-<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://super-agentic.ai/resources/super-posts/introducing-codegem-gemini-gemma-coding-harness-superqode</guid>
 </item>
 </channel>
 </rss>
