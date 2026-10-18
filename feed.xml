@@ -63,6 +63,13 @@
 <guid isPermaLink="true">https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-GGUF</guid>
 </item>
 <item>
+<title>BitCPM4-1B: a ternary 1.58-bit 1B model in GGUF</title>
+<link>https://aichina.news/blog/tiny-but-mighty-the-ternary-1-58-bit-bitcpm4-1b-for-edge-ai-6cwms1/</link>
+<description>OpenBMB's ternary-quantized 1B model lands as a third-party GGUF build, aimed at llama.cpp-class runtimes on CPUs and edge hardware.</description>
+<pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/tiny-but-mighty-the-ternary-1-58-bit-bitcpm4-1b-for-edge-ai-6cwms1/</guid>
+</item>
+<item>
 <title>llama.cpp adopts semantic versioning: v0.4.1 breaks old flags</title>
 <link>https://tech-insider.org/llama-cpp-tutorial-2026/</link>
 <description>llama.cpp's latest tagged release v0.4.1 (Sept 14, 2026) adds Maple 20B-A1B, Tencent Hy 4 and Spark2.5 support, and replaces --mmap/--mlock/--direct-io with a single --load-mode flag — check your scripts.</description>
@@ -278,13 +285,6 @@
 <description>Indie launch (Oct 12): 34 drop-in files packaging a senior engineer's agent setup — behavior-controlling CLAUDE.md, scoped permission allow/deny lists, git hooks that run lint/typecheck/tests before broken agent commits land, and subagent delegation playbooks — aimed at Claude Code and Cursor users; one-time paid download.</description>
 <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.betterlaunch.co/product/the-agentic-coding-kit</guid>
-</item>
-<item>
-<title>The Agentic Coding Kit: config pack for Claude Code and Cursor</title>
-<link>https://www.betterlaunch.co/product/the-agentic-coding-kit-ee66</link>
-<description>Free 34-file drop-in pack (launched Oct 12) with guardrails, CLAUDE.md presets, subagents, slash commands, and CI/git recipes to make coding agents follow project rules.</description>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.betterlaunch.co/product/the-agentic-coding-kit-ee66</guid>
 </item>
 </channel>
 </rss>
