@@ -14,6 +14,20 @@
 <guid isPermaLink="true">https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/</guid>
 </item>
 <item>
+<title>vLLM 0.32.0 adds structured decisions and a system-level endpoint</title>
+<link>https://olud.ai/news/2026-10-18.html</link>
+<description>vLLM 0.32.0 lands with a structured-decisions feature and a new systemone endpoint for system-level inference control, per the olud.ai daily tracker.</description>
+<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://olud.ai/news/2026-10-18.html</guid>
+</item>
+<item>
+<title>ALIEN RPG Evolved Edition launches on Foundry VTT</title>
+<link>https://www.gamespress.com/The-ALIEN-RPG-Evolved-Edition-and-Rapture-Protocol-Launched-on-the-Fou</link>
+<description>Free League's ALIEN RPG Evolved Edition core rules, starter set, and Rapture Protocol arrive as premium Foundry VTT modules with integrated rules and automation.</description>
+<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.gamespress.com/The-ALIEN-RPG-Evolved-Edition-and-Rapture-Protocol-Launched-on-the-Fou</guid>
+</item>
+<item>
 <title>JetBrains Mellum 2.1: 12B Apache-2.0 MoE coding model you can self-host</title>
 <link>https://tech-insider.org/jetbrains-mellum-2-1-open-coding-model-2026/</link>
 <description>JetBrains shipped Mellum 2.1, a 12B-total / 2.5B-active mixture-of-experts coding model under Apache 2.0 on Hugging Face; RL post-training inside real repos took SWE-bench Verified from 2.0 to 47.0, with GGUF builds for local inference.</description>
@@ -271,20 +285,6 @@
 <description>Liquid AI's newest open-weight MoE activates only 2B of 24B params per forward pass, aimed at single-GPU local agentic workloads.</description>
 <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://extrapolator.ai/2026/10/13/lfm2-5-24b-a2b-targets-fast-private-on-device-agent-workflows/</guid>
-</item>
-<item>
-<title>Deploying LLMs locally: Ollama, llama.cpp, vLLM and TGI compared</title>
-<link>https://dev.to/ipsphil_digital/deploying-llms-locally-ollama-llamacpp-vllm-text-generation-inference-4c0k</link>
-<description>Fresh hands-on walkthrough covering all four runtimes end to end: Ollama quick-start, llama.cpp builds and Q4_K_M quantization, vLLM serving with AWQ/GPTQ and LoRA adapters, plus TGI, with runnable configs for each.</description>
-<pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/ipsphil_digital/deploying-llms-locally-ollama-llamacpp-vllm-text-generation-inference-4c0k</guid>
-</item>
-<item>
-<title>Harness acquires Augment Code, launches Cosmos software-factory agent</title>
-<link>https://uktechnews.co.uk/2026/10/12/harness-acquires-augment-code-advancing-the-autonomous-sdlc-from-idea-to-production/</link>
-<description>Harness bought coding-agent startup Augment Code and rolled out Cosmos: per-ticket agent fleets that plan, code, test, and open PRs from isolated VMs, with Augment's Code Context Engine for repo awareness.</description>
-<pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://uktechnews.co.uk/2026/10/12/harness-acquires-augment-code-advancing-the-autonomous-sdlc-from-idea-to-production/</guid>
 </item>
 </channel>
 </rss>
