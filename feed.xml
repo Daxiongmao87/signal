@@ -182,6 +182,13 @@
 <guid isPermaLink="true">https://tech-insider.org/ai-coding-agents-30-percent-more-code-not-software-2026/</guid>
 </item>
 <item>
+<title>GGUF vs safetensors — the runtime decides, not the format</title>
+<link>https://dev.to/mrsaynothing/gguf-vs-safetensors-the-runtime-decides-not-the-format-3pm1</link>
+<description>Weighs the same Qwen3-0.6B in GGUF and safetensors to argue the format choice is really about which runtimes will open the file.</description>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/mrsaynothing/gguf-vs-safetensors-the-runtime-decides-not-the-format-3pm1</guid>
+</item>
+<item>
 <title>Liquid AI ships open-weight LFM2.5-24B-A2B for on-device agents</title>
 <link>https://www.unite.ai/liquid-ai-releases-open-weight-lfm2-5-24b-a2b-for-on-device-agents/</link>
 <description>Liquid AI released the final LFM2.5 model: a 24B-parameter / 2.45B-active open-weight MoE reasoning model with day-one GGUF and MLX support, benchmarked specifically for on-device agent workflows.</description>
@@ -278,13 +285,6 @@
 <description>New open coding-agent harness tuned for Gemini and local Gemma via Ollama/LM Studio/llama.cpp, with a durable session loop and optional semantic retrieval.</description>
 <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://super-agentic.ai/resources/super-posts/introducing-codegem-gemini-gemma-coding-harness-superqode</guid>
-</item>
-<item>
-<title>2026 blueprint for fine-tuning LLMs with PEFT on private codebases</title>
-<link>http://promptcrafthub.blogspot.com/2026/10/2026-blueprint-fine-tuning-llms-for.html</link>
-<description>A practical PEFT playbook covering LoRA, QLoRA, and DoRA with working code examples, aimed at tuning LLMs on private codebases.</description>
-<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">http://promptcrafthub.blogspot.com/2026/10/2026-blueprint-fine-tuning-llms-for.html</guid>
 </item>
 </channel>
 </rss>
