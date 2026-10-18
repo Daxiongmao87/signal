@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 16 Oct 2026 12:04:43 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 12:00:00 +0000</lastBuildDate>
+<item>
+<title>JetBrains Mellum 2.1: 12B Apache-2.0 MoE coding model you can self-host</title>
+<link>https://tech-insider.org/jetbrains-mellum-2-1-open-coding-model-2026/</link>
+<description>JetBrains shipped Mellum 2.1, a 12B-total / 2.5B-active mixture-of-experts coding model under Apache 2.0 on Hugging Face; RL post-training inside real repos took SWE-bench Verified from 2.0 to 47.0, with GGUF builds for local inference.</description>
+<pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://tech-insider.org/jetbrains-mellum-2-1-open-coding-model-2026/</guid>
+</item>
 <item>
 <title>ServiceNow launches EmployeeWorks no-code agent platform</title>
 <link>https://theoutpost.ai/news-story/servicenow-debuts-no-code-ai-platform-letting-employees-build-their-own-enterprise-agents-32268/</link>
@@ -278,13 +285,6 @@
 <description>At PAX Australia, Blizzard called the Forever beta its biggest ever and set expectations: horizontal growth, broad-feedback-driven decisions, no Italian client yet.</description>
 <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://en.softonic.com/articles/wow-forever-beta-is-already-breaking-records-blizzard-wont-cater-to-the-loudest-fans</guid>
-</item>
-<item>
-<title>Termux Assistant AI v3.5.0: an LLM with hands inside Android</title>
-<link>https://dev.to/cr4code/termux-assistant-ai-v350-ai-with-hands-inside-android-1fik</link>
-<description>Release notes for an open-source experiment giving a language model a real shell on an Android phone: it builds and installs APKs on-device, posts to social platforms, and manages git, GitHub, and logs.</description>
-<pubDate>Sat, 10 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/cr4code/termux-assistant-ai-v350-ai-with-hands-inside-android-1fik</guid>
 </item>
 </channel>
 </rss>
