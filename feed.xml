@@ -112,6 +112,13 @@
 <guid isPermaLink="true">https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-GGUF</guid>
 </item>
 <item>
+<title>NVIDIA Dory1.0-4B: 4B reasoning model with adjustable inference loops</title>
+<link>https://local-ai-models.ai/local-ai-models.html</link>
+<description>NVIDIA's October 16 release of a 4B reasoning and coding model where you dial compute per token by changing loop counts without retraining; published with BF16, MXFP8, NVFP4, and GGUF builds plus vLLM and llama.cpp recipes.</description>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://local-ai-models.ai/local-ai-models.html</guid>
+</item>
+<item>
 <title>BitCPM4-1B: a ternary 1.58-bit 1B model in GGUF</title>
 <link>https://aichina.news/blog/tiny-but-mighty-the-ternary-1-58-bit-bitcpm4-1b-for-edge-ai-6cwms1/</link>
 <description>OpenBMB's ternary-quantized 1B model lands as a third-party GGUF build, aimed at llama.cpp-class runtimes on CPUs and edge hardware.</description>
@@ -278,13 +285,6 @@
 <description>A GGUF repack of OceanGPT-7B, a Qwen-7B-based model tuned for marine and ocean science, bringing a rare domain-specialist open model into llama.cpp's reach on modest local hardware.</description>
 <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/oceangpt-7b-in-gguf-a-specialist-marine-science-llm-you-can-run-lyw2fa/</guid>
-</item>
-<item>
-<title>46M-parameter model pre-trained from scratch on inference-only NPUs, released on Hugging Face</title>
-<link>https://dev.to/ai_openfree_b23025ef075cf/training-an-llm-from-scratch-on-inference-only-npus-no-gpu-required-580g</link>
-<description>Concrete proof-of-concept that backprop training can run on chips sold as inference-only: VIDRAFT pre-trained a 46M-parameter model end-to-end on a first-gen NPU with no GPU involved, and published the weights plus comparison materials on Hugging Face as the validation artifact for their NPU-native acceleration stack.</description>
-<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/ai_openfree_b23025ef075cf/training-an-llm-from-scratch-on-inference-only-npus-no-gpu-required-580g</guid>
 </item>
 </channel>
 </rss>
