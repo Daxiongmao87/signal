@@ -28,6 +28,13 @@
 <guid isPermaLink="true">https://carteakey.dev/blog/local-inference/local-llm-optimization/</guid>
 </item>
 <item>
+<title>Sentinel-IR on Android: install it in Termux and verify the output</title>
+<link>http://dev.to/jackymencz/sentinel-ir-on-android-install-it-in-termux-and-verify-the-output-step-by-step-371g</link>
+<description>Step-by-step walkthrough installing the sentinel-ir 0.1.1 JS analysis package in Termux, running its WASM parser, and verifying the JSON output on a phone.</description>
+<pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">http://dev.to/jackymencz/sentinel-ir-on-android-install-it-in-termux-and-verify-the-output-step-by-step-371g</guid>
+</item>
+<item>
 <title>DeepLearning.AI adds free browser-based agentic coding lab</title>
 <link>https://blockchain.news/ainews/deeplearning-ai-launches-agentic-coding-lab-with-live-preview</link>
 <description>DeepLearning.AI folded a browser-based agentic coding lab with live preview into its on-device memory course, free to enroll with no installs.</description>
@@ -54,13 +61,6 @@
 <description>Free League's ALIEN RPG Evolved Edition core rules, starter set, and Rapture Protocol arrive as premium Foundry VTT modules with integrated rules and automation.</description>
 <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.gamespress.com/The-ALIEN-RPG-Evolved-Edition-and-Rapture-Protocol-Launched-on-the-Fou</guid>
-</item>
-<item>
-<title>OpenCode 2.0 goes model-agnostic</title>
-<link>https://trendintech.com/opencode-2-0-api-coding-agent-2026/</link>
-<description>The MIT-licensed open coding agent ships 2.0 with a background service, a new API and SDK, and model-agnostic access across 75+ providers, chasing the same background-automation use case as Claude Code and Codex CLI.</description>
-<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://trendintech.com/opencode-2-0-api-coding-agent-2026/</guid>
 </item>
 <item>
 <title>Gemma 3 4B QAT-int4 checkpoint re-quantized into GGUF for local desktops</title>
