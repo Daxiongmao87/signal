@@ -91,6 +91,20 @@
 <guid isPermaLink="true">https://www.promptquorum.com/local-llms/small-local-llm-models</guid>
 </item>
 <item>
+<title>IBM Granite 3.2 8B Instruct lands in GGUF for offline inference</title>
+<link>https://aichina.news/blog/new-on-modelers-cn-ibm-granite-3-2-8b-instruct-in-gguf-for-local-603rfo/</link>
+<description>Third-party GGUF build of IBM's 8B instruction-tuned Granite 3.2 (preview) published on Modelers.cn, aimed at laptop and edge use via llama.cpp-class runtimes; model card is sparse and provenance is unverified.</description>
+<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/new-on-modelers-cn-ibm-granite-3-2-8b-instruct-in-gguf-for-local-603rfo/</guid>
+</item>
+<item>
+<title>IBM Granite 8B Code with 128K context gets a local GGUF build</title>
+<link>https://aichina.news/blog/128k-context-zero-cost-ibm-s-granite-8b-code-goes-local-on-modelers-cn-glswv4/</link>
+<description>A community GGUF conversion of IBM's Granite 8B Code base model, notable for pairing an 8B parameter count with a claimed 128K-token context window for local codebase-scale work; long-context quality is unverified.</description>
+<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/128k-context-zero-cost-ibm-s-granite-8b-code-goes-local-on-modelers-cn-glswv4/</guid>
+</item>
+<item>
 <title>ServiceNow launches EmployeeWorks no-code agent platform</title>
 <link>https://theoutpost.ai/news-story/servicenow-debuts-no-code-ai-platform-letting-employees-build-their-own-enterprise-agents-32268/</link>
 <description>ServiceNow launched EmployeeWorks, a no-code platform letting employees build their own agents, with a ToolSmith dev environment and pre-built research and scheduling assistants.</description>
@@ -271,20 +285,6 @@
 <description>Cairn is an open-source (MIT) work harness for AI coding agents — a Claude Code plugin with 39 slash commands plus a TypeScript MCP server exposing 87 typed tools — built around one law: the issue tracker is the single source of truth, with phases mirrored into the tracker, goal-backward verification, plan-versus-tracker drift math, and a ship gate that refuses to proceed when they disagree.</description>
 <pubDate>Tue, 13 Oct 2026 02:43:25 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/eventuallyconsistentcode/cairn-a-work-harness-for-ai-coding-agents-plans-in-git-truth-in-your-tracker-nothing-done-50n4</guid>
-</item>
-<item>
-<title>Xyntetik-Runner 1.2.0 launches</title>
-<link>https://www.thenextgentechinsider.com/pulse/xyntetik-runner-120-launches-for-efficient-local-llm-inference</link>
-<description>New Apache-2.0 local inference engine ships as a single-file executable with predictive hardware fitting and schema enforcement aimed at reliable agentic workflows on Mac, Linux, and Windows.</description>
-<pubDate>Tue, 13 Oct 2026 02:35:24 +0000</pubDate>
-<guid isPermaLink="true">https://www.thenextgentechinsider.com/pulse/xyntetik-runner-120-launches-for-efficient-local-llm-inference</guid>
-</item>
-<item>
-<title>DXC and LangChain partner on governed agentic AI for mission-critical IT</title>
-<link>https://lifestyle.quebecnewstribune.com/story/391133/dxc-and-langchain-advance-agentic-ai-harnesses-for-mission-critical-it-operations/</link>
-<description>DXC Technology partners with LangChain to build governed agent harnesses on the LangGraph runtime and LangSmith tooling for mission-critical IT operations; DXC says its OASIS platform, already in production, cut incident resolution time 95% across 500 measured use cases.</description>
-<pubDate>Tue, 13 Oct 2026 01:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://lifestyle.quebecnewstribune.com/story/391133/dxc-and-langchain-advance-agentic-ai-harnesses-for-mission-critical-it-operations/</guid>
 </item>
 </channel>
 </rss>
