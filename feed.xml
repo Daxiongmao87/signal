@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 18 Oct 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>NVIDIA's new open models push agents onto enterprise servers and local PCs</title>
+<link>https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/</link>
+<description>NVIDIA's Nemotron 3.5 Bolt family targets local agentic work: a 74B-A9B model for multistep tool calling on a single machine, plus a smaller E4B conversational model due later this month, alongside the multimodal Super VL.</description>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/</guid>
+</item>
 <item>
 <title>Local LLM inference optimization guide: Oct 18 update</title>
 <link>https://carteakey.dev/blog/local-inference/local-llm-optimization/</link>
@@ -47,6 +54,13 @@
 <description>The MIT-licensed open coding agent ships 2.0 with a background service, a new API and SDK, and model-agnostic access across 75+ providers, chasing the same background-automation use case as Claude Code and Codex CLI.</description>
 <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://trendintech.com/opencode-2-0-api-coding-agent-2026/</guid>
+</item>
+<item>
+<title>Gemma 3 4B QAT-int4 checkpoint re-quantized into GGUF for local desktops</title>
+<link>https://aichina.news/blog/bringing-googles-gemma-3-quality-to-your-desktop-a-new-gguf-ukyhj7/</link>
+<description>DevQuasar's new Modelers.cn release takes Google's official QAT int4 Gemma 3 4B instruct checkpoint and re-quantizes it into GGUF, claiming better quality than plain post-training quants at the same width for laptop-class llama.cpp setups.</description>
+<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/bringing-googles-gemma-3-quality-to-your-desktop-a-new-gguf-ukyhj7/</guid>
 </item>
 <item>
 <title>JetBrains Mellum 2.1: 12B Apache-2.0 MoE coding model you can self-host</title>
@@ -271,20 +285,6 @@
 <description>A community GGUF repackaging of SB Intuitions' compact 1B text model, aimed at laptop and edge-box text-generation experiments through llama.cpp-style runtimes.</description>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/sarashina2-2-1b-in-gguf-a-tiny-local-llm-lands-on-modelers-cn-5lc1d5/</guid>
-</item>
-<item>
-<title>AI Coding Agents Add 30% More Code, Not Software</title>
-<link>https://tech-insider.org/ai-coding-agents-30-percent-more-code-not-software-2026/</link>
-<description>October 2026 coding-agent release roundup: Copilot CLI computer-use preview, Claude Code Mods, OpenCode v1.19, Google's MCP Toolbox Java SDK, and a Microsoft Copilot redesign all shipped in the same two-week window.</description>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://tech-insider.org/ai-coding-agents-30-percent-more-code-not-software-2026/</guid>
-</item>
-<item>
-<title>GGUF vs safetensors — the runtime decides, not the format</title>
-<link>https://dev.to/mrsaynothing/gguf-vs-safetensors-the-runtime-decides-not-the-format-3pm1</link>
-<description>Weighs the same Qwen3-0.6B in GGUF and safetensors to argue the format choice is really about which runtimes will open the file.</description>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/mrsaynothing/gguf-vs-safetensors-the-runtime-decides-not-the-format-3pm1</guid>
 </item>
 </channel>
 </rss>
