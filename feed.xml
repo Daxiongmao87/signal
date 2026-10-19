@@ -217,6 +217,13 @@
 <guid isPermaLink="true">https://aichina.news/blog/tiny-llama-local-speed-meta-s-llama-3-2-1b-arrives-as-gguf-on-4mc8gq/</guid>
 </item>
 <item>
+<title>NVIDIA's Nemotron Nano 4B Hits GGUF: A Compact Powerhouse for Local Devs</title>
+<link>https://aichina.news/blog/nvidia-s-nemotron-nano-4b-hits-gguf-a-compact-powerhouse-for-local-k7pk0b/</link>
+<description>A community GGUF conversion of NVIDIA's pruned-and-distilled Llama-3.1-Nemotron-Nano-4B-v1.1 with a 128K context window, squeezed to about 3GB at 4-bit for local Ollama or LM Studio setups.</description>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/nvidia-s-nemotron-nano-4b-hits-gguf-a-compact-powerhouse-for-local-k7pk0b/</guid>
+</item>
+<item>
 <title>PrismML releases ternary-weight Bonsai 2 models for local agents</title>
 <link>https://runtimewire.com/article/prismml-bonsai-2-small-models-on-device-ai</link>
 <description>PrismML's free Apache 2.0 Bonsai 2 family (2B, 4B, 9B) uses ternary weights to fit local agents on phones and wearables, with vision and tool calling included.</description>
@@ -278,13 +285,6 @@
 <description>In a TechRadar interview, the Forever team says classes will stay simpler than retail but gain new mechanics where vanilla kits were barebones, using the beta's class depth as the benchmark.</description>
 <pubDate>Wed, 14 Oct 2026 00:43:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.notebookcheck.net/WoW-Forever-won-t-modernize-Classic-classes-but-Blizzard-admits-some-were-too-simple.1424285.0.html</guid>
-</item>
-<item>
-<title>Pi 1.0 Coding Agent: Open-Source Release Cuts Tokens 40%</title>
-<link>https://tech-insider.org/pi-1-0-coding-agent-tokens-cut-2026/</link>
-<description>MIT-licensed open-source terminal coding-agent harness from Earendil: provider-agnostic across 15+ model backends, a Codemode system where the model writes JavaScript to invoke tools instead of listing them in the prompt (claimed ~40% token reduction), MCP support, and hooks to local Ollama/llama.cpp endpoints; released alongside an October wave of agent updates from Claude Code, OpenCode, Copilot and GPT-6.1 Sol.</description>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://tech-insider.org/pi-1-0-coding-agent-tokens-cut-2026/</guid>
 </item>
 </channel>
 </rss>
