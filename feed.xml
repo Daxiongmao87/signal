@@ -91,6 +91,20 @@
 <guid isPermaLink="true">https://aichina.news/blog/a-27b-qwen-in-int4-onnx-modelers-cn-s-new-local-llm-build-is-worth-a-jx6hdf/</guid>
 </item>
 <item>
+<title>Ornith-1.0-9B GGUF lands on Modelers.cn for local inference</title>
+<link>https://aichina.news/blog/new-on-modelers-cn-ornith-1-0-9b-gguf-puts-a-compact-local-llm-in-hzoo07/</link>
+<description>Community-built GGUF quant of the obscure 9B Ornith-1.0 model, packaged for llama.cpp, Ollama, and LM Studio on consumer hardware.</description>
+<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/new-on-modelers-cn-ornith-1-0-9b-gguf-puts-a-compact-local-llm-in-hzoo07/</guid>
+</item>
+<item>
+<title>Meta's 950M MobileLLM-R1 base model gets a GGUF build</title>
+<link>https://aichina.news/blog/tiny-meta-model-hits-modelers-cn-the-950m-mobilellm-r1-for-edge-a8bgrf/</link>
+<description>Sub-1B MobileLLM-R1 checkpoint (2T training tokens) converted to GGUF, small enough to run on laptops and edge devices without a GPU.</description>
+<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/tiny-meta-model-hits-modelers-cn-the-950m-mobilellm-r1-for-edge-a8bgrf/</guid>
+</item>
+<item>
 <title>JetBrains Mellum 2.1: 12B Apache-2.0 MoE coding model you can self-host</title>
 <link>https://tech-insider.org/jetbrains-mellum-2-1-open-coding-model-2026/</link>
 <description>JetBrains shipped Mellum 2.1, a 12B-total / 2.5B-active mixture-of-experts coding model under Apache 2.0 on Hugging Face; RL post-training inside real repos took SWE-bench Verified from 2.0 to 47.0, with GGUF builds for local inference.</description>
@@ -271,20 +285,6 @@
 <description>Cadence launches ChipStack AI Super Agent, a multi-agent harness that automates front-end chip design and verification across its EDA tools; Altera, Nvidia, Qualcomm and Tenstorrent are named as early adopters.</description>
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.datacenterdynamics.com/en/news/cadence-launches-agentic-ai-design-tool-to-support-chip-design-and-verification/</guid>
-</item>
-<item>
-<title>BAND for Developers: shared hub tracking every active AI coding agent</title>
-<link>https://bitcomme.com/ai-coding-agent-tools-2026/</link>
-<description>BAND's new desktop app gives teams one workspace to see what every running coding agent is doing, replacing terminal-and-tab hunting.</description>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://bitcomme.com/ai-coding-agent-tools-2026/</guid>
-</item>
-<item>
-<title>zeta 0.5B GGUF: a CPU-friendly half-billion-parameter text generator</title>
-<link>https://aichina.news/blog/meet-zeta-0-5b-gguf-a-cpu-friendly-tiny-text-generator-on-modelers-cn-2q5klm/</link>
-<description>A 0.5B-parameter text generator repackaged as GGUF so CPU-only developers can run local inference on modest laptops and edge boards.</description>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/meet-zeta-0-5b-gguf-a-cpu-friendly-tiny-text-generator-on-modelers-cn-2q5klm/</guid>
 </item>
 </channel>
 </rss>
