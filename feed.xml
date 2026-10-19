@@ -63,6 +63,20 @@
 <guid isPermaLink="true">https://aichina.news/blog/bringing-googles-gemma-3-quality-to-your-desktop-a-new-gguf-ukyhj7/</guid>
 </item>
 <item>
+<title>Flow-Judge v0.1 Lands on Modelers.cn as a Tiny, Local LLM Judge — With a Few Caveats</title>
+<link>https://aichina.news/blog/flow-judge-v0-1-lands-on-modelers-cn-as-a-tiny-local-llm-judge-with-a-2wq9vr/</link>
+<description>A community GGUF build of Flow-Judge v0.1 — a 3.8B model fine-tuned from Qwen2.5-3B-Instruct as a locally runnable LLM-as-a-judge for scoring AI and RAG outputs; note it's a third-party quant on Huawei's Modelers.cn hub, not an official release.</description>
+<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/flow-judge-v0-1-lands-on-modelers-cn-as-a-tiny-local-llm-judge-with-a-2wq9vr/</guid>
+</item>
+<item>
+<title>Run Google's Gemma 3 1B Locally: A New GGUF Release on Modelers.cn</title>
+<link>https://aichina.news/blog/run-google-s-gemma-3-1b-locally-a-new-gguf-release-on-modelers-cn-obgu7p/</link>
+<description>A third-party GGUF conversion of Google's quantization-aware-trained Gemma 3 1B int4 checkpoint, packaged so the tiny model runs on CPU via llama.cpp-compatible stacks; quality should beat plain post-training quants at the same size.</description>
+<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/run-google-s-gemma-3-1b-locally-a-new-gguf-release-on-modelers-cn-obgu7p/</guid>
+</item>
+<item>
 <title>JetBrains Mellum 2.1: 12B Apache-2.0 MoE coding model you can self-host</title>
 <link>https://tech-insider.org/jetbrains-mellum-2-1-open-coding-model-2026/</link>
 <description>JetBrains shipped Mellum 2.1, a 12B-total / 2.5B-active mixture-of-experts coding model under Apache 2.0 on Hugging Face; RL post-training inside real repos took SWE-bench Verified from 2.0 to 47.0, with GGUF builds for local inference.</description>
@@ -271,20 +285,6 @@
 <description>MIT-licensed open-source terminal coding-agent harness from Earendil: provider-agnostic across 15+ model backends, a Codemode system where the model writes JavaScript to invoke tools instead of listing them in the prompt (claimed ~40% token reduction), MCP support, and hooks to local Ollama/llama.cpp endpoints; released alongside an October wave of agent updates from Claude Code, OpenCode, Copilot and GPT-6.1 Sol.</description>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://tech-insider.org/pi-1-0-coding-agent-tokens-cut-2026/</guid>
-</item>
-<item>
-<title>Refreshed practical guide to LoRA and QLoRA fine-tuning on consumer GPUs</title>
-<link>http://dev.to/ipsphil_digital/fine-tuning-llms-on-consumer-hardware-lora-guide-2024-2i73</link>
-<description>A refreshed hands-on guide to fine-tuning with LoRA and QLoRA on consumer hardware: VRAM requirements per model size, dataset formatting, and a full SFTTrainer training-script walkthrough.</description>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">http://dev.to/ipsphil_digital/fine-tuning-llms-on-consumer-hardware-lora-guide-2024-2i73</guid>
-</item>
-<item>
-<title>Third-party GGUF build of Sarashina2.2 1B for local inference</title>
-<link>https://aichina.news/blog/sarashina2-2-1b-in-gguf-a-tiny-local-llm-lands-on-modelers-cn-5lc1d5/</link>
-<description>A community GGUF repackaging of SB Intuitions' compact 1B text model, aimed at laptop and edge-box text-generation experiments through llama.cpp-style runtimes.</description>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/sarashina2-2-1b-in-gguf-a-tiny-local-llm-lands-on-modelers-cn-5lc1d5/</guid>
 </item>
 </channel>
 </rss>
