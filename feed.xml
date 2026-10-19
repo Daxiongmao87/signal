@@ -126,6 +126,13 @@
 <guid isPermaLink="true">https://aichina.news/blog/tiny-model-big-brain-open-rs2-goes-local-on-modelers-cn-tn3wlu/</guid>
 </item>
 <item>
+<title>Kyutai's Helium-1 2B arrives as GGUF on Modelers.cn</title>
+<link>https://aichina.news/blog/lightweight-multilingual-ai-helium-1-2b-hits-huawei-s-ascend-platform-ur9kjn/</link>
+<description>DevQuasar packaged Kyutai's compact multilingual Helium-1 2B in GGUF, making it a one-click download for llama.cpp, Ollama, and LM Studio users.</description>
+<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/lightweight-multilingual-ai-helium-1-2b-hits-huawei-s-ascend-platform-ur9kjn/</guid>
+</item>
+<item>
 <title>ServiceNow launches EmployeeWorks no-code agent platform</title>
 <link>https://theoutpost.ai/news-story/servicenow-debuts-no-code-ai-platform-letting-employees-build-their-own-enterprise-agents-32268/</link>
 <description>ServiceNow launched EmployeeWorks, a no-code platform letting employees build their own agents, with a ToolSmith dev environment and pre-built research and scheduling assistants.</description>
@@ -173,6 +180,20 @@
 <description>NVIDIA's October 16 release of a 4B reasoning and coding model where you dial compute per token by changing loop counts without retraining; published with BF16, MXFP8, NVFP4, and GGUF builds plus vLLM and llama.cpp recipes.</description>
 <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://local-ai-models.ai/local-ai-models.html</guid>
+</item>
+<item>
+<title>Meta's Llama 3.2 1B lands on Modelers.cn as GGUF</title>
+<link>https://aichina.news/blog/tiny-llama-local-speed-meta-s-llama-3-2-1b-arrives-as-gguf-on-4mc8gq/</link>
+<description>A third-party GGUF repackaging of Meta's 1.24B-parameter Llama 3.2 1B gives Modelers.cn users a ready-to-run tiny model without touching Hugging Face.</description>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/tiny-llama-local-speed-meta-s-llama-3-2-1b-arrives-as-gguf-on-4mc8gq/</guid>
+</item>
+<item>
+<title>PrismML releases ternary-weight Bonsai 2 models for local agents</title>
+<link>https://runtimewire.com/article/prismml-bonsai-2-small-models-on-device-ai</link>
+<description>PrismML's free Apache 2.0 Bonsai 2 family (2B, 4B, 9B) uses ternary weights to fit local agents on phones and wearables, with vision and tool calling included.</description>
+<pubDate>Thu, 15 Oct 2026 20:40:04 +0000</pubDate>
+<guid isPermaLink="true">https://runtimewire.com/article/prismml-bonsai-2-small-models-on-device-ai</guid>
 </item>
 <item>
 <title>BitCPM4-1B: a ternary 1.58-bit 1B model in GGUF</title>
@@ -264,27 +285,6 @@
 <description>Weighs the same Qwen3-0.6B in GGUF and safetensors to argue the format choice is really about which runtimes will open the file.</description>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/mrsaynothing/gguf-vs-safetensors-the-runtime-decides-not-the-format-3pm1</guid>
-</item>
-<item>
-<title>Intel Inference Microservices: Xeon setup and limits</title>
-<link>https://bigchange.ai/blog/intel-inference-microservices-xeon-container-explainer</link>
-<description>Intel's first Inference Microservices release packages per-model vLLM containers for Xeon hosts that auto-select a serving profile at startup, exposed behind an OpenAI-compatible API.</description>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://bigchange.ai/blog/intel-inference-microservices-xeon-container-explainer</guid>
-</item>
-<item>
-<title>A Snapdragon 8s Gen 4 phone as a 32K-context LLM server</title>
-<link>https://medium.com/@v.fiedietsov/a-snapdragon-8s-gen-4-phone-as-a-32k-context-llm-server-complete-benchmark-log-3de10cf23fe0</link>
-<description>Full unvarnished benchmark log of turning a POCO F7 (12 GB RAM) into a private LLM server, with llama.cpp built natively in Termux and every command and failure measured on-device.</description>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://medium.com/@v.fiedietsov/a-snapdragon-8s-gen-4-phone-as-a-32k-context-llm-server-complete-benchmark-log-3de10cf23fe0</guid>
-</item>
-<item>
-<title>Liquid AI ships open-weight LFM2.5-24B-A2B for on-device agents</title>
-<link>https://www.unite.ai/liquid-ai-releases-open-weight-lfm2-5-24b-a2b-for-on-device-agents/</link>
-<description>Liquid AI released the final LFM2.5 model: a 24B-parameter / 2.45B-active open-weight MoE reasoning model with day-one GGUF and MLX support, benchmarked specifically for on-device agent workflows.</description>
-<pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.unite.ai/liquid-ai-releases-open-weight-lfm2-5-24b-a2b-for-on-device-agents/</guid>
 </item>
 </channel>
 </rss>
