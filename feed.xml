@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/</guid>
 </item>
 <item>
+<title>NVIDIA Ships New Open-Weight Models for Agents, Including a 24 GB Bolt</title>
+<link>https://bytetechlab.com/blog/2026/artificial-intelligence/nvidia-nemotron-3-5-super-vl-bolt-the-open-weight-ai-agent-revolution/</link>
+<description>NVIDIA's new open-weight Nemotron family for agents, including the Bolt 74B-A9B model tuned to run in 24 GB of memory for local agentic workloads.</description>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://bytetechlab.com/blog/2026/artificial-intelligence/nvidia-nemotron-3-5-super-vl-bolt-the-open-weight-ai-agent-revolution/</guid>
+</item>
+<item>
 <title>Local LLM inference optimization guide: Oct 18 update</title>
 <link>https://carteakey.dev/blog/local-inference/local-llm-optimization/</link>
 <description>Rolling benchmark guide refreshed Oct 18 with new findings: Q8_0 PLE decode up 31.7% at 0 VRAM, dynamic per-expert VRAM caching hitting 74.8 tok/s at 128k, and Gated-DeltaNet holding 262k context on a 12GB card.</description>
@@ -75,6 +82,13 @@
 <description>A third-party GGUF conversion of Google's quantization-aware-trained Gemma 3 1B int4 checkpoint, packaged so the tiny model runs on CPU via llama.cpp-compatible stacks; quality should beat plain post-training quants at the same size.</description>
 <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/run-google-s-gemma-3-1b-locally-a-new-gguf-release-on-modelers-cn-obgu7p/</guid>
+</item>
+<item>
+<title>A 27B Qwen Open-Weight Build in int4 ONNX for Local Inference</title>
+<link>https://aichina.news/blog/a-27b-qwen-in-int4-onnx-modelers-cn-s-new-local-llm-build-is-worth-a-jx6hdf/</link>
+<description>A 27B Qwen-family open-weight build packaged as int4 ONNX, targeting local inference on Windows, Linux, CPU, GPU, and NPU backends.</description>
+<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/a-27b-qwen-in-int4-onnx-modelers-cn-s-new-local-llm-build-is-worth-a-jx6hdf/</guid>
 </item>
 <item>
 <title>JetBrains Mellum 2.1: 12B Apache-2.0 MoE coding model you can self-host</title>
@@ -271,20 +285,6 @@
 <description>A 0.5B-parameter text generator repackaged as GGUF so CPU-only developers can run local inference on modest laptops and edge boards.</description>
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/meet-zeta-0-5b-gguf-a-cpu-friendly-tiny-text-generator-on-modelers-cn-2q5klm/</guid>
-</item>
-<item>
-<title>Ruflo meta-harness breakdown: missions, federation, and the model-plus-harness lesson</title>
-<link>https://dev.to/cortexflow_tech/ruflo-the-open-source-meta-harness-running-100-agent-coding-swarms-3609</link>
-<description>A builder's teardown of Ruflo's Oct-13 meta-harness release: mission-style Mods that run research-to-test loops, federated multi-machine swarms with PII gating and trust scoring, self-learning SONA memory, and the core argument that agent failures are harness failures — memory, routing, approvals, observability — not model failures.</description>
-<pubDate>Wed, 14 Oct 2026 08:30:03 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/cortexflow_tech/ruflo-the-open-source-meta-harness-running-100-agent-coding-swarms-3609</guid>
-</item>
-<item>
-<title>Blizzard: Forever classes keep Classic kits, but 'too simple' specs gain mechanics</title>
-<link>https://www.notebookcheck.net/WoW-Forever-won-t-modernize-Classic-classes-but-Blizzard-admits-some-were-too-simple.1424285.0.html</link>
-<description>In a TechRadar interview, the Forever team says classes will stay simpler than retail but gain new mechanics where vanilla kits were barebones, using the beta's class depth as the benchmark.</description>
-<pubDate>Wed, 14 Oct 2026 00:43:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.notebookcheck.net/WoW-Forever-won-t-modernize-Classic-classes-but-Blizzard-admits-some-were-too-simple.1424285.0.html</guid>
 </item>
 </channel>
 </rss>
