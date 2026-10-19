@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://www.gamespress.com/The-ALIEN-RPG-Evolved-Edition-and-Rapture-Protocol-Launched-on-the-Fou</guid>
 </item>
 <item>
+<title>OpenCode 2.0 goes model-agnostic</title>
+<link>https://trendintech.com/opencode-2-0-api-coding-agent-2026/</link>
+<description>The MIT-licensed open coding agent ships 2.0 with a background service, a new API and SDK, and model-agnostic access across 75+ providers, chasing the same background-automation use case as Claude Code and Codex CLI.</description>
+<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://trendintech.com/opencode-2-0-api-coding-agent-2026/</guid>
+</item>
+<item>
 <title>JetBrains Mellum 2.1: 12B Apache-2.0 MoE coding model you can self-host</title>
 <link>https://tech-insider.org/jetbrains-mellum-2-1-open-coding-model-2026/</link>
 <description>JetBrains shipped Mellum 2.1, a 12B-total / 2.5B-active mixture-of-experts coding model under Apache 2.0 on Hugging Face; RL post-training inside real repos took SWE-bench Verified from 2.0 to 47.0, with GGUF builds for local inference.</description>
@@ -245,6 +252,13 @@
 <guid isPermaLink="true">https://bigchange.ai/blog/intel-inference-microservices-xeon-container-explainer</guid>
 </item>
 <item>
+<title>A Snapdragon 8s Gen 4 phone as a 32K-context LLM server</title>
+<link>https://medium.com/@v.fiedietsov/a-snapdragon-8s-gen-4-phone-as-a-32k-context-llm-server-complete-benchmark-log-3de10cf23fe0</link>
+<description>Full unvarnished benchmark log of turning a POCO F7 (12 GB RAM) into a private LLM server, with llama.cpp built natively in Termux and every command and failure measured on-device.</description>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://medium.com/@v.fiedietsov/a-snapdragon-8s-gen-4-phone-as-a-32k-context-llm-server-complete-benchmark-log-3de10cf23fe0</guid>
+</item>
+<item>
 <title>Liquid AI ships open-weight LFM2.5-24B-A2B for on-device agents</title>
 <link>https://www.unite.ai/liquid-ai-releases-open-weight-lfm2-5-24b-a2b-for-on-device-agents/</link>
 <description>Liquid AI released the final LFM2.5 model: a 24B-parameter / 2.45B-active open-weight MoE reasoning model with day-one GGUF and MLX support, benchmarked specifically for on-device agent workflows.</description>
@@ -271,20 +285,6 @@
 <description>Unvarnished log of building llama.cpp natively on a Snapdragon 8s Gen 4 phone and turning it into a private LLM server, with every command, failure, and throughput number measured on-device.</description>
 <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://medium.com/@v.fiedietsov/a-snapdragon-8s-gen-4-phone-as-a-32k-context-llm-server-complete-benchmark-log-3de10cf23fe0</guid>
-</item>
-<item>
-<title>World of Warcraft: Forever pre-purchase guide for the November 4 launch</title>
-<link>https://pixelherald.com/world-of-warcraft-forever-pre-purchase-guide-dates-classic-plus-and-whats-confirmed-for-the-november-4-launch/</link>
-<description>Pixel Herald rounds up WoW: Forever's November 4 launch, Battle.net pre-purchase upgrade tiers, and what Blizzard has confirmed about the Classic+ rebuild.</description>
-<pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://pixelherald.com/world-of-warcraft-forever-pre-purchase-guide-dates-classic-plus-and-whats-confirmed-for-the-november-4-launch/</guid>
-</item>
-<item>
-<title>Cairn: A Work Harness for AI Coding Agents — Plans in Git, Truth in Your Tracker, Nothing Done Without Evidence</title>
-<link>https://dev.to/eventuallyconsistentcode/cairn-a-work-harness-for-ai-coding-agents-plans-in-git-truth-in-your-tracker-nothing-done-50n4</link>
-<description>Cairn is an open-source (MIT) work harness for AI coding agents — a Claude Code plugin with 39 slash commands plus a TypeScript MCP server exposing 87 typed tools — built around one law: the issue tracker is the single source of truth, with phases mirrored into the tracker, goal-backward verification, plan-versus-tracker drift math, and a ship gate that refuses to proceed when they disagree.</description>
-<pubDate>Tue, 13 Oct 2026 02:43:25 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/eventuallyconsistentcode/cairn-a-work-harness-for-ai-coding-agents-plans-in-git-truth-in-your-tracker-nothing-done-50n4</guid>
 </item>
 </channel>
 </rss>
