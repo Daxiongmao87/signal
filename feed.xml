@@ -105,6 +105,13 @@
 <guid isPermaLink="true">https://aichina.news/blog/tiny-meta-model-hits-modelers-cn-the-950m-mobilellm-r1-for-edge-a8bgrf/</guid>
 </item>
 <item>
+<title>GitLab 19.5: the governed agentic software factory</title>
+<link>https://www.efficientlyconnected.com/gitlab-19-5-agentic-governance-software-factory/</link>
+<description>GitLab 19.5 leans into agentic development with an MCP server letting external coding agents run GitLab Duo workflows, plus a new Secrets Manager for pipeline jobs and early access to an agent-oriented SCM architecture.</description>
+<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.efficientlyconnected.com/gitlab-19-5-agentic-governance-software-factory/</guid>
+</item>
+<item>
 <title>JetBrains Mellum 2.1: 12B Apache-2.0 MoE coding model you can self-host</title>
 <link>https://tech-insider.org/jetbrains-mellum-2-1-open-coding-model-2026/</link>
 <description>JetBrains shipped Mellum 2.1, a 12B-total / 2.5B-active mixture-of-experts coding model under Apache 2.0 on Hugging Face; RL post-training inside real repos took SWE-bench Verified from 2.0 to 47.0, with GGUF builds for local inference.</description>
@@ -278,13 +285,6 @@
 <description>Builder.io open-sourced the MIT-licensed Agent-Native framework where agents and UIs share typed actions; Meta shipped Immersive Web SDK 1.0 with an MCP server so coding agents can build and test WebXR scenes; OpenBMB released PilotDeck 2.0, a model-agnostic agent harness for office work.</description>
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dailycited.com/d/2026-10-15/</guid>
-</item>
-<item>
-<title>Cadence launches agentic AI design tool to support chip design and verification</title>
-<link>https://www.datacenterdynamics.com/en/news/cadence-launches-agentic-ai-design-tool-to-support-chip-design-and-verification/</link>
-<description>Cadence launches ChipStack AI Super Agent, a multi-agent harness that automates front-end chip design and verification across its EDA tools; Altera, Nvidia, Qualcomm and Tenstorrent are named as early adopters.</description>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.datacenterdynamics.com/en/news/cadence-launches-agentic-ai-design-tool-to-support-chip-design-and-verification/</guid>
 </item>
 </channel>
 </rss>
