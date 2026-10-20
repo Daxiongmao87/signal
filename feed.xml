@@ -56,6 +56,13 @@
 <guid isPermaLink="true">https://www.promptquorum.com/power-local-llm/run-ai-on-tablet-ipad-android</guid>
 </item>
 <item>
+<title>Running OpenAI's gpt-oss open-weight models locally on Windows</title>
+<link>https://assistouest.fr/en/blog/artificial-intelligence/using-chatgpt-oss-locally-with-openais-open-weight-templates/</link>
+<description>Fresh walkthrough of running gpt-oss-20B (~21B, consumer GPU) and gpt-oss-120B (~117B, multi-GPU) offline with Ollama on Windows: hardware tiers, quant behavior, and 128k-context agent workloads.</description>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://assistouest.fr/en/blog/artificial-intelligence/using-chatgpt-oss-locally-with-openais-open-weight-templates/</guid>
+</item>
+<item>
 <title>Local LLM inference optimization guide: Oct 18 update</title>
 <link>https://carteakey.dev/blog/local-inference/local-llm-optimization/</link>
 <description>Rolling benchmark guide refreshed Oct 18 with new findings: Q8_0 PLE decode up 31.7% at 0 VRAM, dynamic per-expert VRAM caching hitting 74.8 tok/s at 128k, and Gated-DeltaNet holding 262k context on a 12GB card.</description>
@@ -278,13 +285,6 @@
 <description>NVIDIA published Dory1.0-4B on October 16, a 4B looped (latent-recurrent) model whose shared layer block re-runs per token to trade compute for quality, with 256K context and official GGUF builds for local inference.</description>
 <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-GGUF</guid>
-</item>
-<item>
-<title>NVIDIA Dory1.0-4B: 4B reasoning model with adjustable inference loops</title>
-<link>https://local-ai-models.ai/local-ai-models.html</link>
-<description>NVIDIA's October 16 release of a 4B reasoning and coding model where you dial compute per token by changing loop counts without retraining; published with BF16, MXFP8, NVFP4, and GGUF builds plus vLLM and llama.cpp recipes.</description>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://local-ai-models.ai/local-ai-models.html</guid>
 </item>
 </channel>
 </rss>
