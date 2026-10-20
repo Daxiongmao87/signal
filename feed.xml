@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://thewowdb.com/classicpluscopium/</guid>
 </item>
 <item>
+<title>Idea Harness v0.7.0: safer AI coding with verifiable changes</title>
+<link>https://undercodenews.com/idea-harness-just-updated-v070-builds-on-safer-ai-coding-verifiable-changes-and-human-controlled-automation-video/</link>
+<description>The coding-agent harness ships v0.7.0 built around verifiable, human-approved code changes, following the v0.6.0 release with its editable planning graph, secret detection, and git-native commits.</description>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://undercodenews.com/idea-harness-just-updated-v070-builds-on-safer-ai-coding-verifiable-changes-and-human-controlled-automation-video/</guid>
+</item>
+<item>
 <title>Local LLM inference optimization guide: Oct 18 update</title>
 <link>https://carteakey.dev/blog/local-inference/local-llm-optimization/</link>
 <description>Rolling benchmark guide refreshed Oct 18 with new findings: Q8_0 PLE decode up 31.7% at 0 VRAM, dynamic per-expert VRAM caching hitting 74.8 tok/s at 128k, and Gated-DeltaNet holding 262k context on a 12GB card.</description>
@@ -124,6 +131,13 @@
 <description>GitLab 19.5 leans into agentic development with an MCP server letting external coding agents run GitLab Duo workflows, plus a new Secrets Manager for pipeline jobs and early access to an agent-oriented SCM architecture.</description>
 <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.efficientlyconnected.com/gitlab-19-5-agentic-governance-software-factory/</guid>
+</item>
+<item>
+<title>SmolLM-135M packaged for AMD Ryzen AI 1.7 hybrid NPU execution</title>
+<link>https://aichina.news/blog/tiny-local-and-slightly-out-of-place-smollm-135m-comes-to-amd-ryzen-vj7tql/</link>
+<description>A 135M-parameter SmolLM instruct build repackaged as ONNX aimed at AMD Ryzen AI 1.7 hybrid-NPU laptops, a niche few local models serve; the listing is a bare mirror of the upstream release, so check AMD docs for the runtime recipe.</description>
+<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/tiny-local-and-slightly-out-of-place-smollm-135m-comes-to-amd-ryzen-vj7tql/</guid>
 </item>
 <item>
 <title>JetBrains Mellum 2.1: 12B Apache-2.0 MoE coding model you can self-host</title>
@@ -271,20 +285,6 @@
 <description>A community GGUF conversion of NVIDIA's pruned-and-distilled Llama-3.1-Nemotron-Nano-4B-v1.1 with a 128K context window, squeezed to about 3GB at 4-bit for local Ollama or LM Studio setups.</description>
 <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/nvidia-s-nemotron-nano-4b-hits-gguf-a-compact-powerhouse-for-local-k7pk0b/</guid>
-</item>
-<item>
-<title>PrismML releases ternary-weight Bonsai 2 models for local agents</title>
-<link>https://runtimewire.com/article/prismml-bonsai-2-small-models-on-device-ai</link>
-<description>PrismML's free Apache 2.0 Bonsai 2 family (2B, 4B, 9B) uses ternary weights to fit local agents on phones and wearables, with vision and tool calling included.</description>
-<pubDate>Thu, 15 Oct 2026 20:40:04 +0000</pubDate>
-<guid isPermaLink="true">https://runtimewire.com/article/prismml-bonsai-2-small-models-on-device-ai</guid>
-</item>
-<item>
-<title>BitCPM4-1B: a ternary 1.58-bit 1B model in GGUF</title>
-<link>https://aichina.news/blog/tiny-but-mighty-the-ternary-1-58-bit-bitcpm4-1b-for-edge-ai-6cwms1/</link>
-<description>OpenBMB's ternary-quantized 1B model lands as a third-party GGUF build, aimed at llama.cpp-class runtimes on CPUs and edge hardware.</description>
-<pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/tiny-but-mighty-the-ternary-1-58-bit-bitcpm4-1b-for-edge-ai-6cwms1/</guid>
 </item>
 </channel>
 </rss>
