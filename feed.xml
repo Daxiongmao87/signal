@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://techstrong.ai/agentic-ai/google-research-releases-harness%c2%b2-to-improve-ai-agents-without-retraining-models/</guid>
 </item>
 <item>
+<title>Xojo 2026 Release 3 introduces Agentic Mode for the IDE</title>
+<link>https://www.prnewswire.com/news-releases/xojo-2026-release-3-introduces-agentic-mode-bringing-ai-agents-directly-into-the-development-workflow-302914429.html</link>
+<description>Xojo's cross-platform IDE gains an Agentic Mode that lets AI coding agents edit projects, catch compile errors on their own, and work as first-class collaborators, alongside a rebuilt AI assistant named Jade.</description>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.prnewswire.com/news-releases/xojo-2026-release-3-introduces-agentic-mode-bringing-ai-agents-directly-into-the-development-workflow-302914429.html</guid>
+</item>
+<item>
 <title>Flozic launches natural-language AI Agent Builder</title>
 <link>https://www.prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html</link>
 <description>Flozic's new builder turns business goals into deployed agents with 80+ templates, visual config, and execution logs — a natural-language take on the agentic harness stack.</description>
@@ -278,13 +285,6 @@
 <description>ServiceNow launched EmployeeWorks, a no-code platform letting employees build their own agents, with a ToolSmith dev environment and pre-built research and scheduling assistants.</description>
 <pubDate>Fri, 16 Oct 2026 12:04:43 +0000</pubDate>
 <guid isPermaLink="true">https://theoutpost.ai/news-story/servicenow-debuts-no-code-ai-platform-letting-employees-build-their-own-enterprise-agents-32268/</guid>
-</item>
-<item>
-<title>Codex Harness open-sourced by OpenAI</title>
-<link>https://www.mogazmasr.com/141856</link>
-<description>OpenAI open-sourced the Codex Harness execution layer (Apache-2.0), the agent core behind Codex, so teams can embed its task understanding, tool calling, and human-approval loop in their own software.</description>
-<pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.mogazmasr.com/141856</guid>
 </item>
 </channel>
 </rss>
