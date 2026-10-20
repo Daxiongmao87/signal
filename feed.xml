@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 00:43:00 +0000</lastBuildDate>
+<item>
+<title>Ready Server bundles OpenAI-compatible inference into VPS plans</title>
+<link>https://www.fathom.news/ready-server-opens-1-llm-api/</link>
+<description>VPS provider Ready Server rolled out an OpenAI-compatible interface so all its VPS customers get private-network inference on open models with no API keys and no per-token billing, folding AI cost into flat infrastructure spend.</description>
+<pubDate>Tue, 20 Oct 2026 00:43:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.fathom.news/ready-server-opens-1-llm-api/</guid>
+</item>
 <item>
 <title>Google Research releases Harness², open-source agent harness optimizer</title>
 <link>https://techstrong.ai/agentic-ai/google-research-releases-harness%c2%b2-to-improve-ai-agents-without-retraining-models/</link>
@@ -278,13 +285,6 @@
 <description>OpenAI open-sourced the Codex Harness execution layer (Apache-2.0), the agent core behind Codex, so teams can embed its task understanding, tool calling, and human-approval loop in their own software.</description>
 <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.mogazmasr.com/141856</guid>
-</item>
-<item>
-<title>Nvidia launches Nemotron 3.5 Bolt open models for local AI agents</title>
-<link>https://www.techrepublic.com/article/news-nvidia-nemotron-3-5-super-vl-bolt-ai-models/</link>
-<description>Nvidia released two open-weight Bolt models for local agents: a 74B-A9B MoE fitting 24GB via 2-bit quantization, out now on Hugging Face with Ollama and llama.cpp support, plus a 4GB E4B model due Oct. 23.</description>
-<pubDate>Fri, 16 Oct 2026 00:43:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.techrepublic.com/article/news-nvidia-nemotron-3-5-super-vl-bolt-ai-models/</guid>
 </item>
 </channel>
 </rss>
