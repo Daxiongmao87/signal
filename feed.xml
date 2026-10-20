@@ -28,6 +28,13 @@
 <guid isPermaLink="true">https://trendintech.com/vs-code-1-142-copilot-agent-host-policies-2026/</guid>
 </item>
 <item>
+<title>WoW Forever watch: beta ends Oct 21, launch countdown at Nov 4</title>
+<link>https://thewowdb.com/classicpluscopium/</link>
+<description>Datamine-checked rundown of the Classic+ launch: beta closes Oct 21, name reservations Oct 27 to Nov 3, then a permanent level-60 Azeroth with Skyborne elves and Undead Paladins on Nov 4.</description>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://thewowdb.com/classicpluscopium/</guid>
+</item>
+<item>
 <title>Local LLM inference optimization guide: Oct 18 update</title>
 <link>https://carteakey.dev/blog/local-inference/local-llm-optimization/</link>
 <description>Rolling benchmark guide refreshed Oct 18 with new findings: Q8_0 PLE decode up 31.7% at 0 VRAM, dynamic per-expert VRAM caching hitting 74.8 tok/s at 128k, and Gated-DeltaNet holding 262k context on a 12GB card.</description>
@@ -278,13 +285,6 @@
 <description>OpenBMB's ternary-quantized 1B model lands as a third-party GGUF build, aimed at llama.cpp-class runtimes on CPUs and edge hardware.</description>
 <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/tiny-but-mighty-the-ternary-1-58-bit-bitcpm4-1b-for-edge-ai-6cwms1/</guid>
-</item>
-<item>
-<title>llama.cpp adopts semantic versioning: v0.4.1 breaks old flags</title>
-<link>https://tech-insider.org/llama-cpp-tutorial-2026/</link>
-<description>llama.cpp's latest tagged release v0.4.1 (Sept 14, 2026) adds Maple 20B-A1B, Tencent Hy 4 and Spark2.5 support, and replaces --mmap/--mlock/--direct-io with a single --load-mode flag — check your scripts.</description>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://tech-insider.org/llama-cpp-tutorial-2026/</guid>
 </item>
 </channel>
 </rss>
