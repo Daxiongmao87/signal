@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://bytetechlab.com/blog/2026/artificial-intelligence/nvidia-nemotron-3-5-super-vl-bolt-the-open-weight-ai-agent-revolution/</guid>
 </item>
 <item>
+<title>VS Code 1.142, OpenCode 2.0, Codex CLI 0.163: October's coding-agent release roundup</title>
+<link>https://trendintech.com/vs-code-1-142-copilot-agent-host-policies-2026/</link>
+<description>A single timeline of October's coding-agent releases: VS Code 1.142 shipping Copilot agent host policies, OpenCode 2.0's background service and API, plus updates from Codex CLI, Claude Code, Cursor, and Copilot.</description>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://trendintech.com/vs-code-1-142-copilot-agent-host-policies-2026/</guid>
+</item>
+<item>
 <title>Local LLM inference optimization guide: Oct 18 update</title>
 <link>https://carteakey.dev/blog/local-inference/local-llm-optimization/</link>
 <description>Rolling benchmark guide refreshed Oct 18 with new findings: Q8_0 PLE decode up 31.7% at 0 VRAM, dynamic per-expert VRAM caching hitting 74.8 tok/s at 128k, and Gated-DeltaNet holding 262k context on a 12GB card.</description>
@@ -278,13 +285,6 @@
 <description>llama.cpp's latest tagged release v0.4.1 (Sept 14, 2026) adds Maple 20B-A1B, Tencent Hy 4 and Spark2.5 support, and replaces --mmap/--mlock/--direct-io with a single --load-mode flag — check your scripts.</description>
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://tech-insider.org/llama-cpp-tutorial-2026/</guid>
-</item>
-<item>
-<title>Oct 15 AI roundup: Builder.io Agent-Native, Meta Immersive Web SDK 1.0, PilotDeck 2.0</title>
-<link>https://dailycited.com/d/2026-10-15/</link>
-<description>Builder.io open-sourced the MIT-licensed Agent-Native framework where agents and UIs share typed actions; Meta shipped Immersive Web SDK 1.0 with an MCP server so coding agents can build and test WebXR scenes; OpenBMB released PilotDeck 2.0, a model-agnostic agent harness for office work.</description>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dailycited.com/d/2026-10-15/</guid>
 </item>
 </channel>
 </rss>
