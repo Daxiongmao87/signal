@@ -126,6 +126,13 @@
 <guid isPermaLink="true">https://www.gamespress.com/Vaesen-and-Symbaroum-RPGs-launched-on-the-Foundry-Virtual-Tabletop</guid>
 </item>
 <item>
+<title>Axolotl vs Unsloth vs TorchTune compared in 2026 benchmarks</title>
+<link>https://www.spheron.network/blog/axolotl-vs-unsloth-vs-torchtune/</link>
+<description>Head-to-head on an 8B QLoRA job: Unsloth fastest on a single GPU, Axolotl leads multi-GPU and multimodal, TorchTune for PyTorch-native control.</description>
+<pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.spheron.network/blog/axolotl-vs-unsloth-vs-torchtune/</guid>
+</item>
+<item>
 <title>DeepLearning.AI adds free browser-based agentic coding lab</title>
 <link>https://blockchain.news/ainews/deeplearning-ai-launches-agentic-coding-lab-with-live-preview</link>
 <description>DeepLearning.AI folded a browser-based agentic coding lab with live preview into its on-device memory course, free to enroll with no installs.</description>
@@ -231,6 +238,13 @@
 <guid isPermaLink="true">https://aichina.news/blog/schematron-3b-comes-to-modelers-cn-a-cpu-friendly-gguf-curio-for-mban9b/</guid>
 </item>
 <item>
+<title>IBM Granite 3.1 8B goes local as a Q4_K_M GGUF build</title>
+<link>https://aichina.news/blog/localising-ibm-s-enterprise-power-the-new-granite-3-1-8b-gguf-release-8zwzt9/</link>
+<description>Community conversion packs IBM's Apache-2.0 8B model with its 128K context into a ~4.7GB GGUF for llama.cpp, Ollama and LM Studio.</description>
+<pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/localising-ibm-s-enterprise-power-the-new-granite-3-1-8b-gguf-release-8zwzt9/</guid>
+</item>
+<item>
 <title>WoW Forever unveiled at BlizzCon 2026: horizontal Classic+ expansion detailed</title>
 <link>https://www.mogazmasr.com/146558</link>
 <description>BlizzCon 2026 reveal positions WoW Forever as a permanent third branch: revamped and new zones, three raids, a new battleground, and the Skyborne elves at level 60.</description>
@@ -271,20 +285,6 @@
 <description>Third-party GGUF build of IBM's 8B instruction-tuned Granite 3.2 (preview) published on Modelers.cn, aimed at laptop and edge use via llama.cpp-class runtimes; model card is sparse and provenance is unverified.</description>
 <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/new-on-modelers-cn-ibm-granite-3-2-8b-instruct-in-gguf-for-local-603rfo/</guid>
-</item>
-<item>
-<title>IBM Granite 8B Code with 128K context gets a local GGUF build</title>
-<link>https://aichina.news/blog/128k-context-zero-cost-ibm-s-granite-8b-code-goes-local-on-modelers-cn-glswv4/</link>
-<description>A community GGUF conversion of IBM's Granite 8B Code base model, notable for pairing an 8B parameter count with a claimed 128K-token context window for local codebase-scale work; long-context quality is unverified.</description>
-<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/128k-context-zero-cost-ibm-s-granite-8b-code-goes-local-on-modelers-cn-glswv4/</guid>
-</item>
-<item>
-<title>Open-RS2: tiny 1.5B reasoning model lands in GGUF</title>
-<link>https://aichina.news/blog/tiny-model-big-brain-open-rs2-goes-local-on-modelers-cn-tn3wlu/</link>
-<description>A 1.5B reasoning model in GGUF from the DeepSeek-R1-Distill-Qwen-1.5B line with an open GRPO recipe, built for offline laptop experimentation.</description>
-<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/tiny-model-big-brain-open-rs2-goes-local-on-modelers-cn-tn3wlu/</guid>
 </item>
 </channel>
 </rss>
