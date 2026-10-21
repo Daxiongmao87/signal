@@ -133,6 +133,13 @@
 <guid isPermaLink="true">https://shattered.io/vs-code-1-137-agent-host-dev-containers-2026/</guid>
 </item>
 <item>
+<title>Android local LLM apps 2026: speed, NPU and setup tested</title>
+<link>https://www.promptquorum.com/power-local-llm/best-local-llm-apps-android-2026</link>
+<description>A tested 2026 roundup of Android on-device LLM apps covering speed, NPU use and setup, treating Termux's sideload-and-shell path as Android's unique edge over iOS.</description>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.promptquorum.com/power-local-llm/best-local-llm-apps-android-2026</guid>
+</item>
+<item>
 <title>Local LLM inference optimization guide: Oct 18 update</title>
 <link>https://carteakey.dev/blog/local-inference/local-llm-optimization/</link>
 <description>Rolling benchmark guide refreshed Oct 18 with new findings: Q8_0 PLE decode up 31.7% at 0 VRAM, dynamic per-expert VRAM caching hitting 74.8 tok/s at 128k, and Gated-DeltaNet holding 262k context on a 12GB card.</description>
@@ -278,13 +285,6 @@
 <description>BlizzCon 2026 reveal positions WoW Forever as a permanent third branch: revamped and new zones, three raids, a new battleground, and the Skyborne elves at level 60.</description>
 <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.mogazmasr.com/146558</guid>
-</item>
-<item>
-<title>Open Source AI Weekly: Five Developments to Watch, October 9-15</title>
-<link>https://osrepos.com/blog/open-source-ai-weekly-five-developments-to-watch-october-9-15</link>
-<description>Weekly roundup of open-source AI for Oct 9-15, including Cloudflare's open-weight multimodal decision model Clef-omni and what weights-without-cheap-hardware means for local evaluation.</description>
-<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://osrepos.com/blog/open-source-ai-weekly-five-developments-to-watch-october-9-15</guid>
 </item>
 </channel>
 </rss>
