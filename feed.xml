@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 20 Oct 2026 00:43:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>OpenChamber 2.5.0: one agentic dev session across devices</title>
+<link>https://devopspack.com/openchamber-agentic-development-environment-ai-coding/</link>
+<description>MIT-licensed agentic dev environment that runs coding agents locally and hands the live session to your phone over an encrypted relay, plus multi-run worktrees that put several models' diffs side by side for comparison.</description>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://devopspack.com/openchamber-agentic-development-environment-ai-coding/</guid>
+</item>
 <item>
 <title>Ready Server bundles OpenAI-compatible inference into VPS plans</title>
 <link>https://www.fathom.news/ready-server-opens-1-llm-api/</link>
@@ -278,13 +285,6 @@
 <description>Community GGUF conversion of IBM's Apache-2.0 Granite 3.0 2B base model so it runs offline via llama.cpp on laptops, edge boxes and tight memory budgets; completion-style base, so best as a fine-tuning or completion starting point rather than a chat assistant.</description>
 <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/a-tiny-granite-for-local-llms-ibm-s-2b-base-model-goes-gguf-on-iic72y/</guid>
-</item>
-<item>
-<title>Best small LLMs 2026: top 4B models that actually run locally</title>
-<link>https://www.promptquorum.com/local-llms/small-local-llm-models</link>
-<description>Freshly refreshed roundup of small 2B-4B open models for laptops, phones and air-gapped boxes, with licensing notes and per-model hardware guidance.</description>
-<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.promptquorum.com/local-llms/small-local-llm-models</guid>
 </item>
 </channel>
 </rss>
