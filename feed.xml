@@ -112,6 +112,13 @@
 <guid isPermaLink="true">https://www.thenextgentechinsider.com/pulse/bitrun-enables-high-performance-1-bit-llm-inference-on-consumer-cpus</guid>
 </item>
 <item>
+<title>WoW Forever beta extended to October 23, name reservations open October 27</title>
+<link>https://store.steampowered.com/news/group/9869/view/705534727891717197</link>
+<description>Blizzard extends the WoW Forever beta three days past its original October 20 end date, then opens name reservations for three characters per player; more than a million beta characters were already created.</description>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://store.steampowered.com/news/group/9869/view/705534727891717197</guid>
+</item>
+<item>
 <title>Flozic launches natural-language AI Agent Builder</title>
 <link>https://www.prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html</link>
 <description>Flozic's new builder turns business goals into deployed agents with 80+ templates, visual config, and execution logs — a natural-language take on the agentic harness stack.</description>
@@ -278,13 +285,6 @@
 <description>A 27B Qwen-family open-weight build packaged as int4 ONNX, targeting local inference on Windows, Linux, CPU, GPU, and NPU backends.</description>
 <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/a-27b-qwen-in-int4-onnx-modelers-cn-s-new-local-llm-build-is-worth-a-jx6hdf/</guid>
-</item>
-<item>
-<title>Ornith-1.0-9B GGUF lands on Modelers.cn for local inference</title>
-<link>https://aichina.news/blog/new-on-modelers-cn-ornith-1-0-9b-gguf-puts-a-compact-local-llm-in-hzoo07/</link>
-<description>Community-built GGUF quant of the obscure 9B Ornith-1.0 model, packaged for llama.cpp, Ollama, and LM Studio on consumer hardware.</description>
-<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/new-on-modelers-cn-ornith-1-0-9b-gguf-puts-a-compact-local-llm-in-hzoo07/</guid>
 </item>
 </channel>
 </rss>
