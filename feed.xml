@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://selfhostpilot.com/deepinfer-open-source-inference-engine/</guid>
 </item>
 <item>
+<title>NVIDIA quietly open-sources Flare, a local inference server for Blackwell</title>
+<link>https://veduis.com/blog/nvidia-flare-architecture-local-inference/</link>
+<description>NVIDIA published Flare, an Apache 2.0 local inference server built for SM120/SM121 Blackwell hardware (RTX PRO 6000, DGX Spark): Rust serve-time runtime, CUDA graphs, FP8 KV cache by default, with recipes for Qwen Flash, GLM and DeepSeek models. Verified via the real NVIDIA/flare-local-inference repo and NVIDIA developer forum discussion.</description>
+<pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://veduis.com/blog/nvidia-flare-architecture-local-inference/</guid>
+</item>
+<item>
 <title>Ready Server bundles OpenAI-compatible inference into VPS plans</title>
 <link>https://www.fathom.news/ready-server-opens-1-llm-api/</link>
 <description>VPS provider Ready Server rolled out an OpenAI-compatible interface so all its VPS customers get private-network inference on open models with no API keys and no per-token billing, folding AI cost into flat infrastructure spend.</description>
@@ -278,13 +285,6 @@
 <description>Sub-1B MobileLLM-R1 checkpoint (2T training tokens) converted to GGUF, small enough to run on laptops and edge devices without a GPU.</description>
 <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/tiny-meta-model-hits-modelers-cn-the-950m-mobilellm-r1-for-edge-a8bgrf/</guid>
-</item>
-<item>
-<title>GitLab 19.5: the governed agentic software factory</title>
-<link>https://www.efficientlyconnected.com/gitlab-19-5-agentic-governance-software-factory/</link>
-<description>GitLab 19.5 leans into agentic development with an MCP server letting external coding agents run GitLab Duo workflows, plus a new Secrets Manager for pipeline jobs and early access to an agent-oriented SCM architecture.</description>
-<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.efficientlyconnected.com/gitlab-19-5-agentic-governance-software-factory/</guid>
 </item>
 </channel>
 </rss>
