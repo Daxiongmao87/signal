@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://devopspack.com/openchamber-agentic-development-environment-ai-coding/</guid>
 </item>
 <item>
+<title>DeepInfer: DeepSeek's open-source inference engine (batch-only, one model family)</title>
+<link>https://selfhostpilot.com/deepinfer-open-source-inference-engine/</link>
+<description>DeepSeek published DeepInfer, a vLLM-derived open-source engine tuned for serving its V4.1-Flash model at scale — but it does offline batch inference, not a general-purpose chat server.</description>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://selfhostpilot.com/deepinfer-open-source-inference-engine/</guid>
+</item>
+<item>
 <title>Ready Server bundles OpenAI-compatible inference into VPS plans</title>
 <link>https://www.fathom.news/ready-server-opens-1-llm-api/</link>
 <description>VPS provider Ready Server rolled out an OpenAI-compatible interface so all its VPS customers get private-network inference on open models with no API keys and no per-token billing, folding AI cost into flat infrastructure spend.</description>
@@ -40,6 +47,13 @@
 <description>llm-d hit 1.0 as a CNCF-governed open-source layer for serving open models across GPU fleets, backed by Red Hat, IBM, Google and Nvidia, aimed at the serving cost side of AI rather than training.</description>
 <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.martincid.com/technology-sv/llm-d-1-0-open-source-ai-inference-red-hat-ibm-google-nvidia/</guid>
+</item>
+<item>
+<title>GMG AI Agent: open-source, LLM-agnostic agent for ServiceNow (Apache 2.0)</title>
+<link>https://www.linkedin.com/posts/chris-gatlin-1993904a_servicenow-opensource-agenticai-activity-7518293497196544000-da9j</link>
+<description>A floating-panel AI agent built inside ServiceNow was open-sourced under Apache 2.0: LLM-agnostic, server-enforced confirm-before-write, and per-user spend caps.</description>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.linkedin.com/posts/chris-gatlin-1993904a_servicenow-opensource-agenticai-activity-7518293497196544000-da9j</guid>
 </item>
 <item>
 <title>Flozic launches natural-language AI Agent Builder</title>
@@ -271,20 +285,6 @@
 <description>Weekly roundup of open-source AI for Oct 9-15, including Cloudflare's open-weight multimodal decision model Clef-omni and what weights-without-cheap-hardware means for local evaluation.</description>
 <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://osrepos.com/blog/open-source-ai-weekly-five-developments-to-watch-october-9-15</guid>
-</item>
-<item>
-<title>OpenCode 2.0: 75+ AI Models, One API Key</title>
-<link>https://trendintech.com/opencode-2-0-api-coding-agent-2026/</link>
-<description>OpenCode 2.0 ships background-service execution plus a new API and SDK, model-agnostic across 75+ providers, stacked against Claude Code 2.1.302 and Codex CLI 0.162.0 October releases.</description>
-<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://trendintech.com/opencode-2-0-api-coding-agent-2026/</guid>
-</item>
-<item>
-<title>IBM Granite 3.0 2B base lands on Modelers.cn as a third-party GGUF</title>
-<link>https://aichina.news/blog/a-tiny-granite-for-local-llms-ibm-s-2b-base-model-goes-gguf-on-iic72y/</link>
-<description>Community GGUF conversion of IBM's Apache-2.0 Granite 3.0 2B base model so it runs offline via llama.cpp on laptops, edge boxes and tight memory budgets; completion-style base, so best as a fine-tuning or completion starting point rather than a chat assistant.</description>
-<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/a-tiny-granite-for-local-llms-ibm-s-2b-base-model-goes-gguf-on-iic72y/</guid>
 </item>
 </channel>
 </rss>
