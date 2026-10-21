@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://selfhostpilot.com/deepinfer-open-source-inference-engine/</guid>
 </item>
 <item>
+<title>Beam-1.0-501B-A23B-VQ-GGUF: experimental vector-quantized GGUF of Reflection's Beam 501B</title>
+<link>https://huggingface.co/Baekpica/Beam-1.0-501B-A23B-VQ-GGUF</link>
+<description>Community researcher pushes Reflection's 1TB Beam 1.0 501B MoE down to ~100GB of GGUF via 8-dimensional vector quantization (~1.5 bits per routed-expert weight), revised Oct 21 with calibration-weighted Lloyd re-conversion.</description>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://huggingface.co/Baekpica/Beam-1.0-501B-A23B-VQ-GGUF</guid>
+</item>
+<item>
 <title>NVIDIA quietly open-sources Flare, a local inference server for Blackwell</title>
 <link>https://veduis.com/blog/nvidia-flare-architecture-local-inference/</link>
 <description>NVIDIA published Flare, an Apache 2.0 local inference server built for SM120/SM121 Blackwell hardware (RTX PRO 6000, DGX Spark): Rust serve-time runtime, CUDA graphs, FP8 KV cache by default, with recipes for Qwen Flash, GLM and DeepSeek models. Verified via the real NVIDIA/flare-local-inference repo and NVIDIA developer forum discussion.</description>
@@ -278,13 +285,6 @@
 <description>Community-built GGUF quant of the obscure 9B Ornith-1.0 model, packaged for llama.cpp, Ollama, and LM Studio on consumer hardware.</description>
 <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/new-on-modelers-cn-ornith-1-0-9b-gguf-puts-a-compact-local-llm-in-hzoo07/</guid>
-</item>
-<item>
-<title>Meta's 950M MobileLLM-R1 base model gets a GGUF build</title>
-<link>https://aichina.news/blog/tiny-meta-model-hits-modelers-cn-the-950m-mobilellm-r1-for-edge-a8bgrf/</link>
-<description>Sub-1B MobileLLM-R1 checkpoint (2T training tokens) converted to GGUF, small enough to run on laptops and edge devices without a GPU.</description>
-<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/tiny-meta-model-hits-modelers-cn-the-950m-mobilellm-r1-for-edge-a8bgrf/</guid>
 </item>
 </channel>
 </rss>
