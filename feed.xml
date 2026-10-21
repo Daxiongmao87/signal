@@ -56,6 +56,13 @@
 <guid isPermaLink="true">https://www.linkedin.com/posts/chris-gatlin-1993904a_servicenow-opensource-agenticai-activity-7518293497196544000-da9j</guid>
 </item>
 <item>
+<title>The Forge: Foundry VTT v14 build 367 lands, build 368 on the way</title>
+<link>https://blog.forge-vtt.com/september-2026-developer-update/</link>
+<description>The Forge's September update announces Foundry VTT v14 build 367 on the platform, a Bazaar updater fix for installing incompatible content, and build 368 coming next, alongside a completed hosting move from DigitalOcean to OVH.</description>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://blog.forge-vtt.com/september-2026-developer-update/</guid>
+</item>
+<item>
 <title>Flozic launches natural-language AI Agent Builder</title>
 <link>https://www.prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html</link>
 <description>Flozic's new builder turns business goals into deployed agents with 80+ templates, visual config, and execution logs — a natural-language take on the agentic harness stack.</description>
@@ -278,13 +285,6 @@
 <description>Community conversion packs IBM's Apache-2.0 8B model with its 128K context into a ~4.7GB GGUF for llama.cpp, Ollama and LM Studio.</description>
 <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/localising-ibm-s-enterprise-power-the-new-granite-3-1-8b-gguf-release-8zwzt9/</guid>
-</item>
-<item>
-<title>WoW Forever unveiled at BlizzCon 2026: horizontal Classic+ expansion detailed</title>
-<link>https://www.mogazmasr.com/146558</link>
-<description>BlizzCon 2026 reveal positions WoW Forever as a permanent third branch: revamped and new zones, three raids, a new battleground, and the Skyborne elves at level 60.</description>
-<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.mogazmasr.com/146558</guid>
 </item>
 </channel>
 </rss>
