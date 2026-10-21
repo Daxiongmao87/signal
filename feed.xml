@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 12:32:27 +0000</lastBuildDate>
+<item>
+<title>mabl adds an agentic testing harness for agent-written code</title>
+<link>https://www.prnewswire.com/news-releases/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents-302914831.html</link>
+<description>mabl's release puts agent guardrails and independent verification of coding-agent output inside the terminal, before the pull request.</description>
+<pubDate>Wed, 21 Oct 2026 12:32:27 +0000</pubDate>
+<guid isPermaLink="true">https://www.prnewswire.com/news-releases/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents-302914831.html</guid>
+</item>
 <item>
 <title>OpenChamber 2.5.0: one agentic dev session across devices</title>
 <link>https://devopspack.com/openchamber-agentic-development-environment-ai-coding/</link>
@@ -75,6 +82,13 @@
 <description>Managed sessions, tool orchestration and sandboxes from the open-source Codex harness, exposed as a single API call for all developers.</description>
 <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/</guid>
+</item>
+<item>
+<title>BitRun: 1-bit ternary LLMs on consumer CPUs</title>
+<link>https://www.thenextgentechinsider.com/pulse/bitrun-enables-high-performance-1-bit-llm-inference-on-consumer-cpus</link>
+<description>A standalone runner for 1-bit ternary LLMs on ordinary CPUs, reportedly topping 100 tokens per second on Apple Silicon.</description>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.thenextgentechinsider.com/pulse/bitrun-enables-high-performance-1-bit-llm-inference-on-consumer-cpus</guid>
 </item>
 <item>
 <title>Flozic launches natural-language AI Agent Builder</title>
@@ -271,20 +285,6 @@
 <description>A 135M-parameter SmolLM instruct build repackaged as ONNX aimed at AMD Ryzen AI 1.7 hybrid-NPU laptops, a niche few local models serve; the listing is a bare mirror of the upstream release, so check AMD docs for the runtime recipe.</description>
 <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/tiny-local-and-slightly-out-of-place-smollm-135m-comes-to-amd-ryzen-vj7tql/</guid>
-</item>
-<item>
-<title>JetBrains Mellum 2.1: 12B Apache-2.0 MoE coding model you can self-host</title>
-<link>https://tech-insider.org/jetbrains-mellum-2-1-open-coding-model-2026/</link>
-<description>JetBrains shipped Mellum 2.1, a 12B-total / 2.5B-active mixture-of-experts coding model under Apache 2.0 on Hugging Face; RL post-training inside real repos took SWE-bench Verified from 2.0 to 47.0, with GGUF builds for local inference.</description>
-<pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://tech-insider.org/jetbrains-mellum-2-1-open-coding-model-2026/</guid>
-</item>
-<item>
-<title>Google Research open-sources Harness², a recursive self-refining agent harness</title>
-<link>https://www.linkedin.com/posts/shubhamsaboo_google-research-just-open-sourced-a-recursive-activity-7517459738759118848-GMvx</link>
-<description>Google Research open-sourced Harness², a 100% open-source framework where the agent rewrites its own harness (prompt, tools, memory, skills) per task via propose-probe-compose, improving scores by up to 11.8 points per round without ground truth.</description>
-<pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.linkedin.com/posts/shubhamsaboo_google-research-just-open-sourced-a-recursive-activity-7517459738759118848-GMvx</guid>
 </item>
 </channel>
 </rss>
