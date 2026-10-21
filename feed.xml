@@ -63,6 +63,20 @@
 <guid isPermaLink="true">https://blog.forge-vtt.com/september-2026-developer-update/</guid>
 </item>
 <item>
+<title>Google Research releases Harness2, an open-source agent-harness refiner</title>
+<link>https://techstrong.ai/agentic-ai/google-research-releases-harness²-to-improve-ai-agents-without-retraining-models/</link>
+<description>Apache-2.0 framework that iteratively rewrites an agent's prompts, memory, tools and orchestration at runtime to lift benchmark scores without retraining.</description>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://techstrong.ai/agentic-ai/google-research-releases-harness²-to-improve-ai-agents-without-retraining-models/</guid>
+</item>
+<item>
+<title>OpenAI launches Agents API in public beta, built on the Codex harness</title>
+<link>https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/</link>
+<description>Managed sessions, tool orchestration and sandboxes from the open-source Codex harness, exposed as a single API call for all developers.</description>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/</guid>
+</item>
+<item>
 <title>Flozic launches natural-language AI Agent Builder</title>
 <link>https://www.prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html</link>
 <description>Flozic's new builder turns business goals into deployed agents with 80+ templates, visual config, and execution logs — a natural-language take on the agentic harness stack.</description>
@@ -271,20 +285,6 @@
 <description>Google Research open-sourced Harness², a 100% open-source framework where the agent rewrites its own harness (prompt, tools, memory, skills) per task via propose-probe-compose, improving scores by up to 11.8 points per round without ground truth.</description>
 <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.linkedin.com/posts/shubhamsaboo_google-research-just-open-sourced-a-recursive-activity-7517459738759118848-GMvx</guid>
-</item>
-<item>
-<title>Schematron-3B GGUF lands on Modelers.cn</title>
-<link>https://aichina.news/blog/schematron-3b-comes-to-modelers-cn-a-cpu-friendly-gguf-curio-for-mban9b/</link>
-<description>A ~3B text-generation model from 'inference-net' got a CPU-friendly GGUF conversion from DevQuasar and a mirror on Modelers.cn — roughly a 2-3 GB footprint at 4-bit, sized for edge experiments and quick local prototyping.</description>
-<pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/schematron-3b-comes-to-modelers-cn-a-cpu-friendly-gguf-curio-for-mban9b/</guid>
-</item>
-<item>
-<title>IBM Granite 3.1 8B goes local as a Q4_K_M GGUF build</title>
-<link>https://aichina.news/blog/localising-ibm-s-enterprise-power-the-new-granite-3-1-8b-gguf-release-8zwzt9/</link>
-<description>Community conversion packs IBM's Apache-2.0 8B model with its 128K context into a ~4.7GB GGUF for llama.cpp, Ollama and LM Studio.</description>
-<pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/localising-ibm-s-enterprise-power-the-new-granite-3-1-8b-gguf-release-8zwzt9/</guid>
 </item>
 </channel>
 </rss>
