@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://www.prnewswire.com/news-releases/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents-302914831.html</guid>
 </item>
 <item>
+<title>Xojo 2026 Release 3 adds Agentic Mode for AI coding agents</title>
+<link>https://techedgeai.com/xojo-adds-agentic-mode-for-ai-assisted-app-development/</link>
+<description>Xojo 2026r3 lets AI coding agents edit projects, trigger builds, and read compiler feedback directly inside its cross-platform IDE.</description>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://techedgeai.com/xojo-adds-agentic-mode-for-ai-assisted-app-development/</guid>
+</item>
+<item>
 <title>OpenChamber 2.5.0: one agentic dev session across devices</title>
 <link>https://devopspack.com/openchamber-agentic-development-environment-ai-coding/</link>
 <description>MIT-licensed agentic dev environment that runs coding agents locally and hands the live session to your phone over an encrypted relay, plus multi-run worktrees that put several models' diffs side by side for comparison.</description>
@@ -278,13 +285,6 @@
 <description>GitLab 19.5 leans into agentic development with an MCP server letting external coding agents run GitLab Duo workflows, plus a new Secrets Manager for pipeline jobs and early access to an agent-oriented SCM architecture.</description>
 <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.efficientlyconnected.com/gitlab-19-5-agentic-governance-software-factory/</guid>
-</item>
-<item>
-<title>SmolLM-135M packaged for AMD Ryzen AI 1.7 hybrid NPU execution</title>
-<link>https://aichina.news/blog/tiny-local-and-slightly-out-of-place-smollm-135m-comes-to-amd-ryzen-vj7tql/</link>
-<description>A 135M-parameter SmolLM instruct build repackaged as ONNX aimed at AMD Ryzen AI 1.7 hybrid-NPU laptops, a niche few local models serve; the listing is a bare mirror of the upstream release, so check AMD docs for the runtime recipe.</description>
-<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/tiny-local-and-slightly-out-of-place-smollm-135m-comes-to-amd-ryzen-vj7tql/</guid>
 </item>
 </channel>
 </rss>
