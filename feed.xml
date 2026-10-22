@@ -119,6 +119,20 @@
 <guid isPermaLink="true">https://store.steampowered.com/news/group/9869/view/705534727891717197</guid>
 </item>
 <item>
+<title>Recursive releases Flint, a 40B open-weights coding model tuned for 125+ tok/s local inference</title>
+<link>https://xenospectrum.com/en/recursive-flint-local-coding-model/</link>
+<description>Recursive released Flint, a 40B-parameter MoE coding model with only 2.5B active per token; Apache 2.0 weights, 4-bit-quantized output layer, and a fused Metal decode kernel aimed at local coding-agent speeds on an M4 Pro.</description>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://xenospectrum.com/en/recursive-flint-local-coding-model/</guid>
+</item>
+<item>
+<title>Xojo 2026 Release 3 adds Agentic Mode: external coding agents driving a real compiler loop</title>
+<link>https://tech-insider.org/xojo-agentic-mode-5-tool-coding-wave-2026/</link>
+<description>Xojo 2026 R3 ships Agentic Mode, letting an external coding agent edit a Xojo project, trigger a reload, run or compile it, and iterate against real compiler errors in an automated edit-test-fix loop.</description>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://tech-insider.org/xojo-agentic-mode-5-tool-coding-wave-2026/</guid>
+</item>
+<item>
 <title>Flozic launches natural-language AI Agent Builder</title>
 <link>https://www.prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html</link>
 <description>Flozic's new builder turns business goals into deployed agents with 80+ templates, visual config, and execution logs — a natural-language take on the agentic harness stack.</description>
@@ -271,20 +285,6 @@
 <description>DevQuasar's new Modelers.cn release takes Google's official QAT int4 Gemma 3 4B instruct checkpoint and re-quantizes it into GGUF, claiming better quality than plain post-training quants at the same width for laptop-class llama.cpp setups.</description>
 <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/bringing-googles-gemma-3-quality-to-your-desktop-a-new-gguf-ukyhj7/</guid>
-</item>
-<item>
-<title>Flow-Judge v0.1 Lands on Modelers.cn as a Tiny, Local LLM Judge — With a Few Caveats</title>
-<link>https://aichina.news/blog/flow-judge-v0-1-lands-on-modelers-cn-as-a-tiny-local-llm-judge-with-a-2wq9vr/</link>
-<description>A community GGUF build of Flow-Judge v0.1 — a 3.8B model fine-tuned from Qwen2.5-3B-Instruct as a locally runnable LLM-as-a-judge for scoring AI and RAG outputs; note it's a third-party quant on Huawei's Modelers.cn hub, not an official release.</description>
-<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/flow-judge-v0-1-lands-on-modelers-cn-as-a-tiny-local-llm-judge-with-a-2wq9vr/</guid>
-</item>
-<item>
-<title>Run Google's Gemma 3 1B Locally: A New GGUF Release on Modelers.cn</title>
-<link>https://aichina.news/blog/run-google-s-gemma-3-1b-locally-a-new-gguf-release-on-modelers-cn-obgu7p/</link>
-<description>A third-party GGUF conversion of Google's quantization-aware-trained Gemma 3 1B int4 checkpoint, packaged so the tiny model runs on CPU via llama.cpp-compatible stacks; quality should beat plain post-training quants at the same size.</description>
-<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/run-google-s-gemma-3-1b-locally-a-new-gguf-release-on-modelers-cn-obgu7p/</guid>
 </item>
 </channel>
 </rss>
