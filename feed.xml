@@ -70,6 +70,13 @@
 <guid isPermaLink="true">https://www.software-mirrors.com/products/unsloth</guid>
 </item>
 <item>
+<title>llm-d 1.0: open-source inference layer for agents, from Red Hat/IBM/Google/NVIDIA</title>
+<link>https://www.martincid.com/technology-sv/llm-d-1-0-open-source-ai-inference-red-hat-ibm-google-nvidia/</link>
+<description>CNCF-governed serving project hits 1.0 with priority/fairness scheduling, a highly-available router, and session-aware routing; contributors demoed serving a 750B-class open-weight model at claimed multi-million-token-per-minute throughput.</description>
+<pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.martincid.com/technology-sv/llm-d-1-0-open-source-ai-inference-red-hat-ibm-google-nvidia/</guid>
+</item>
+<item>
 <title>Ready Server bundles OpenAI-compatible inference into VPS plans</title>
 <link>https://www.fathom.news/ready-server-opens-1-llm-api/</link>
 <description>VPS provider Ready Server rolled out an OpenAI-compatible interface so all its VPS customers get private-network inference on open models with no API keys and no per-token billing, folding AI cost into flat infrastructure spend.</description>
@@ -278,13 +285,6 @@
 <description>Head-to-head on an 8B QLoRA job: Unsloth fastest on a single GPU, Axolotl leads multi-GPU and multimodal, TorchTune for PyTorch-native control.</description>
 <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.spheron.network/blog/axolotl-vs-unsloth-vs-torchtune/</guid>
-</item>
-<item>
-<title>DeepLearning.AI adds free browser-based agentic coding lab</title>
-<link>https://blockchain.news/ainews/deeplearning-ai-launches-agentic-coding-lab-with-live-preview</link>
-<description>DeepLearning.AI folded a browser-based agentic coding lab with live preview into its on-device memory course, free to enroll with no installs.</description>
-<pubDate>Sun, 18 Oct 2026 08:05:00 +0000</pubDate>
-<guid isPermaLink="true">https://blockchain.news/ainews/deeplearning-ai-launches-agentic-coding-lab-with-live-preview</guid>
 </item>
 </channel>
 </rss>
