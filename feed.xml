@@ -77,6 +77,13 @@
 <guid isPermaLink="true">https://www.linkedin.com/posts/cong-lu-ml_introducing-flint-recursive-activity-7518719113180065792-GDqK</guid>
 </item>
 <item>
+<title>Crucible, a free game system built for Foundry VTT Version 14, enters alpha</title>
+<link>https://www.foundryvtt-hub.com/package/crucible/</link>
+<description>A free, VTT-native game system targeting Foundry v14's alpha phase, leaning on compendiums and automation for GM-built creatures.</description>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.foundryvtt-hub.com/package/crucible/</guid>
+</item>
+<item>
 <title>NVIDIA quietly open-sources Flare, a local inference server for Blackwell</title>
 <link>https://veduis.com/blog/nvidia-flare-architecture-local-inference/</link>
 <description>NVIDIA published Flare, an Apache 2.0 local inference server built for SM120/SM121 Blackwell hardware (RTX PRO 6000, DGX Spark): Rust serve-time runtime, CUDA graphs, FP8 KV cache by default, with recipes for Qwen Flash, GLM and DeepSeek models. Verified via the real NVIDIA/flare-local-inference repo and NVIDIA developer forum discussion.</description>
@@ -189,6 +196,13 @@
 <guid isPermaLink="true">https://research.strata2signal.com/a-harness-that-rewrites-itself/index.html</guid>
 </item>
 <item>
+<title>Hugging Face ships AnyLanguageModel 1.0 for local models on Apple platforms</title>
+<link>https://huggingface.co/blog/anylanguagemodel-1-0</link>
+<description>HF's Swift library hits 1.0 for on-device LLM apps, with the post spotlighting small GGUF models like Gemma 4 E2B QAT and a 4-bit MLX build of Qwen3.8-27B.</description>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://huggingface.co/blog/anylanguagemodel-1-0</guid>
+</item>
+<item>
 <title>Flozic launches natural-language AI Agent Builder</title>
 <link>https://www.prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html</link>
 <description>Flozic's new builder turns business goals into deployed agents with 80+ templates, visual config, and execution logs — a natural-language take on the agentic harness stack.</description>
@@ -271,20 +285,6 @@
 <description>October 2026 roundup of agentic coding tools: VS Code 1.137 moves agents into isolated dev containers with automations and voice mode, alongside Copilot model swaps, Cursor Gemini 4 Argon support, DeepSeek V4.1-Flash-1017 and MiniMax M3.1 Flash.</description>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://shattered.io/vs-code-1-137-agent-host-dev-containers-2026/</guid>
-</item>
-<item>
-<title>Android local LLM apps 2026: speed, NPU and setup tested</title>
-<link>https://www.promptquorum.com/power-local-llm/best-local-llm-apps-android-2026</link>
-<description>A tested 2026 roundup of Android on-device LLM apps covering speed, NPU use and setup, treating Termux's sideload-and-shell path as Android's unique edge over iOS.</description>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.promptquorum.com/power-local-llm/best-local-llm-apps-android-2026</guid>
-</item>
-<item>
-<title>DeepSeek open-sources DeepInfer, its in-house inference stack</title>
-<link>https://gizmodo.com/deepseek-dials-up-the-pressure-on-openai-and-anthropic-with-open-source-inference-tool-2000828261</link>
-<description>DeepSeek put its production inference framework on GitHub, shipping it first against its V4-1 Flash model — another cost-pressure move on OpenAI and Anthropic.</description>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://gizmodo.com/deepseek-dials-up-the-pressure-on-openai-and-anthropic-with-open-source-inference-tool-2000828261</guid>
 </item>
 </channel>
 </rss>
