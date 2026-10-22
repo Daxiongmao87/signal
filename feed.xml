@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 21 Oct 2026 12:32:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 12:34:35 +0000</lastBuildDate>
+<item>
+<title>mabl launches agentic testing harness</title>
+<link>https://signalnewsrichmond.com/press-releases/122349/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents/</link>
+<description>mabl released an agentic testing harness targeting the verification bottleneck coding agents create, reporting 1.58M unique failures analyzed across 3.3M agent sessions in the prior 90 days.</description>
+<pubDate>Wed, 21 Oct 2026 12:34:35 +0000</pubDate>
+<guid isPermaLink="true">https://signalnewsrichmond.com/press-releases/122349/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents/</guid>
+</item>
 <item>
 <title>mabl adds an agentic testing harness for agent-written code</title>
 <link>https://www.prnewswire.com/news-releases/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents-302914831.html</link>
@@ -26,6 +33,13 @@
 <description>DeepInfer is genuine: DeepSeek's Apache-2.0 production inference kernels for its models, with ~3,300 GitHub stars within days. But the 155-trillion-tokens-a-day and $38-per-card-per-hour figures circulating online are not backed by the repository itself.</description>
 <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://explainx.ai/blog/deepseek-deepinfer-open-source-inference-engine-v4-1-flash-155-trillion-tokens-claimed-vs-verified-2026</guid>
+</item>
+<item>
+<title>New Unsloth Phi-3 brainstorming LoRA adapter</title>
+<link>https://aichina.news/blog/sparking-ideas-new-unsloth-phi-3-brainstorming-adapter-lands-on-jihloa/</link>
+<description>A new lightweight PEFT/LoRA adapter for Microsoft's Phi-3-medium, tuned for brainstorming and ideation, that attaches to the base model without the cost of running a full 14B model locally.</description>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/sparking-ideas-new-unsloth-phi-3-brainstorming-adapter-lands-on-jihloa/</guid>
 </item>
 <item>
 <title>OpenChamber 2.5.0: one agentic dev session across devices</title>
@@ -271,20 +285,6 @@
 <description>Step-by-step walkthrough installing the sentinel-ir 0.1.1 JS analysis package in Termux, running its WASM parser, and verifying the JSON output on a phone.</description>
 <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">http://dev.to/jackymencz/sentinel-ir-on-android-install-it-in-termux-and-verify-the-output-step-by-step-371g</guid>
-</item>
-<item>
-<title>Vaesen and Symbaroum launch on Foundry VTT</title>
-<link>https://www.gamespress.com/Vaesen-and-Symbaroum-RPGs-launched-on-the-Foundry-Virtual-Tabletop</link>
-<description>Free League released both core rulebooks as official Foundry modules, sold standalone or as print-plus-virtual bundles in its webshop.</description>
-<pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.gamespress.com/Vaesen-and-Symbaroum-RPGs-launched-on-the-Foundry-Virtual-Tabletop</guid>
-</item>
-<item>
-<title>Axolotl vs Unsloth vs TorchTune compared in 2026 benchmarks</title>
-<link>https://www.spheron.network/blog/axolotl-vs-unsloth-vs-torchtune/</link>
-<description>Head-to-head on an 8B QLoRA job: Unsloth fastest on a single GPU, Axolotl leads multi-GPU and multimodal, TorchTune for PyTorch-native control.</description>
-<pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.spheron.network/blog/axolotl-vs-unsloth-vs-torchtune/</guid>
 </item>
 </channel>
 </rss>
