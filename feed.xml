@@ -63,6 +63,13 @@
 <guid isPermaLink="true">https://veduis.com/blog/nvidia-flare-architecture-local-inference/</guid>
 </item>
 <item>
+<title>Unsloth v0.1.909-beta: context-parallel, optimizer offload, FSDP2 LoRA</title>
+<link>https://www.software-mirrors.com/products/unsloth</link>
+<description>Latest Unsloth beta ships context-parallel (Ulysses) training, opt-in CPU offload of optimizer state, first-class FSDP2 LoRA finetuning, and fused preference-loss options.</description>
+<pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.software-mirrors.com/products/unsloth</guid>
+</item>
+<item>
 <title>Ready Server bundles OpenAI-compatible inference into VPS plans</title>
 <link>https://www.fathom.news/ready-server-opens-1-llm-api/</link>
 <description>VPS provider Ready Server rolled out an OpenAI-compatible interface so all its VPS customers get private-network inference on open models with no API keys and no per-token billing, folding AI cost into flat infrastructure spend.</description>
@@ -278,13 +285,6 @@
 <description>DeepLearning.AI folded a browser-based agentic coding lab with live preview into its on-device memory course, free to enroll with no installs.</description>
 <pubDate>Sun, 18 Oct 2026 08:05:00 +0000</pubDate>
 <guid isPermaLink="true">https://blockchain.news/ainews/deeplearning-ai-launches-agentic-coding-lab-with-live-preview</guid>
-</item>
-<item>
-<title>Google Open-Sources Harness2, a Recursive Agent Harnessing Framework</title>
-<link>https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/</link>
-<description>Google Research open-sourced a framework that improves the eight harness components around a frozen model (prompts, tools, memory, subagents, skills); a single refinement step lifted several agent setups on their benchmarks.</description>
-<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/</guid>
 </item>
 </channel>
 </rss>
