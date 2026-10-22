@@ -203,6 +203,13 @@
 <guid isPermaLink="true">https://www.promptquorum.com/power-local-llm/best-local-llm-apps-android-2026</guid>
 </item>
 <item>
+<title>DeepSeek open-sources DeepInfer, its in-house inference stack</title>
+<link>https://gizmodo.com/deepseek-dials-up-the-pressure-on-openai-and-anthropic-with-open-source-inference-tool-2000828261</link>
+<description>DeepSeek put its production inference framework on GitHub, shipping it first against its V4-1 Flash model — another cost-pressure move on OpenAI and Anthropic.</description>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://gizmodo.com/deepseek-dials-up-the-pressure-on-openai-and-anthropic-with-open-source-inference-tool-2000828261</guid>
+</item>
+<item>
 <title>Local LLM inference optimization guide: Oct 18 update</title>
 <link>https://carteakey.dev/blog/local-inference/local-llm-optimization/</link>
 <description>Rolling benchmark guide refreshed Oct 18 with new findings: Q8_0 PLE decode up 31.7% at 0 VRAM, dynamic per-expert VRAM caching hitting 74.8 tok/s at 128k, and Gated-DeltaNet holding 262k context on a 12GB card.</description>
@@ -278,13 +285,6 @@
 <description>A third-party GGUF conversion of Google's quantization-aware-trained Gemma 3 1B int4 checkpoint, packaged so the tiny model runs on CPU via llama.cpp-compatible stacks; quality should beat plain post-training quants at the same size.</description>
 <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/run-google-s-gemma-3-1b-locally-a-new-gguf-release-on-modelers-cn-obgu7p/</guid>
-</item>
-<item>
-<title>A 27B Qwen Open-Weight Build in int4 ONNX for Local Inference</title>
-<link>https://aichina.news/blog/a-27b-qwen-in-int4-onnx-modelers-cn-s-new-local-llm-build-is-worth-a-jx6hdf/</link>
-<description>A 27B Qwen-family open-weight build packaged as int4 ONNX, targeting local inference on Windows, Linux, CPU, GPU, and NPU backends.</description>
-<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/a-27b-qwen-in-int4-onnx-modelers-cn-s-new-local-llm-build-is-worth-a-jx6hdf/</guid>
 </item>
 </channel>
 </rss>
