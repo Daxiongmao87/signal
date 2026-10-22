@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 21 Oct 2026 12:34:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 23:29:13 +0000</lastBuildDate>
+<item>
+<title>Recursive ships Flint, an open-weight 40B MoE coding model with 2.5B active</title>
+<link>https://www.linkedin.com/posts/marktechpost_aimodel-openweight-codingmodel-activity-7518815690431045633-HmCx</link>
+<description>Recursive Superintelligence released Flint, a 40B-parameter mixture-of-experts coding model with ~2.5B active parameters per token, Apache 2.0 weights, 262K context, built with help from its automated Eureka Machine research system.</description>
+<pubDate>Wed, 21 Oct 2026 23:29:13 +0000</pubDate>
+<guid isPermaLink="true">https://www.linkedin.com/posts/marktechpost_aimodel-openweight-codingmodel-activity-7518815690431045633-HmCx</guid>
+</item>
 <item>
 <title>mabl launches agentic testing harness</title>
 <link>https://signalnewsrichmond.com/press-releases/122349/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents/</link>
@@ -175,6 +182,13 @@
 <guid isPermaLink="true">https://tech-insider.org/xojo-agentic-mode-5-tool-coding-wave-2026/</guid>
 </item>
 <item>
+<title>Field guide: Google's Harness² lets an agent rewrite its own harness mid-task</title>
+<link>https://research.strata2signal.com/a-harness-that-rewrites-itself/index.html</link>
+<description>An independent code-level walkthrough of Google Research's open-source Harness², which refines an agent's prompts, tools, skills and scripts between attempts on the same task and reports benchmark gains of up to ~12 points.</description>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://research.strata2signal.com/a-harness-that-rewrites-itself/index.html</guid>
+</item>
+<item>
 <title>Flozic launches natural-language AI Agent Builder</title>
 <link>https://www.prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html</link>
 <description>Flozic's new builder turns business goals into deployed agents with 80+ templates, visual config, and execution logs — a natural-language take on the agentic harness stack.</description>
@@ -271,20 +285,6 @@
 <description>DeepSeek put its production inference framework on GitHub, shipping it first against its V4-1 Flash model — another cost-pressure move on OpenAI and Anthropic.</description>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://gizmodo.com/deepseek-dials-up-the-pressure-on-openai-and-anthropic-with-open-source-inference-tool-2000828261</guid>
-</item>
-<item>
-<title>Local LLM inference optimization guide: Oct 18 update</title>
-<link>https://carteakey.dev/blog/local-inference/local-llm-optimization/</link>
-<description>Rolling benchmark guide refreshed Oct 18 with new findings: Q8_0 PLE decode up 31.7% at 0 VRAM, dynamic per-expert VRAM caching hitting 74.8 tok/s at 128k, and Gated-DeltaNet holding 262k context on a 12GB card.</description>
-<pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://carteakey.dev/blog/local-inference/local-llm-optimization/</guid>
-</item>
-<item>
-<title>Sentinel-IR on Android: install it in Termux and verify the output</title>
-<link>http://dev.to/jackymencz/sentinel-ir-on-android-install-it-in-termux-and-verify-the-output-step-by-step-371g</link>
-<description>Step-by-step walkthrough installing the sentinel-ir 0.1.1 JS analysis package in Termux, running its WASM parser, and verifying the JSON output on a phone.</description>
-<pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">http://dev.to/jackymencz/sentinel-ir-on-android-install-it-in-termux-and-verify-the-output-step-by-step-371g</guid>
 </item>
 </channel>
 </rss>
