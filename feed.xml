@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://techedgeai.com/xojo-adds-agentic-mode-for-ai-assisted-app-development/</guid>
 </item>
 <item>
+<title>DeepSeek's DeepInfer: separating the repo from the hype</title>
+<link>https://explainx.ai/blog/deepseek-deepinfer-open-source-inference-engine-v4-1-flash-155-trillion-tokens-claimed-vs-verified-2026</link>
+<description>DeepInfer is genuine: DeepSeek's Apache-2.0 production inference kernels for its models, with ~3,300 GitHub stars within days. But the 155-trillion-tokens-a-day and $38-per-card-per-hour figures circulating online are not backed by the repository itself.</description>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://explainx.ai/blog/deepseek-deepinfer-open-source-inference-engine-v4-1-flash-155-trillion-tokens-claimed-vs-verified-2026</guid>
+</item>
+<item>
 <title>OpenChamber 2.5.0: one agentic dev session across devices</title>
 <link>https://devopspack.com/openchamber-agentic-development-environment-ai-coding/</link>
 <description>MIT-licensed agentic dev environment that runs coding agents locally and hands the live session to your phone over an encrypted relay, plus multi-run worktrees that put several models' diffs side by side for comparison.</description>
@@ -154,6 +161,13 @@
 <guid isPermaLink="true">https://trendintech.com/microsoft-scope-open-source-ai-coding-agent-testing-2026/</guid>
 </item>
 <item>
+<title>Harness²: how to auto-tune an agent's harness without retraining</title>
+<link>https://7minai.com/news/google-harness2-recursive-agent-harnessing-opencode-codex/</link>
+<description>Google Cloud AI Research open-sourced Harness², an Apache-2.0 framework that rewrites an agent's prompts, memory, skills and tools while model weights stay frozen; one step lifted GLM-5 by up to 11.5 points on WorkBuddy-Bench. Includes a no-credentials local demo and setup for OpenCode/Codex executors.</description>
+<pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://7minai.com/news/google-harness2-recursive-agent-harnessing-opencode-codex/</guid>
+</item>
+<item>
 <title>NVIDIA's new open models push agents onto enterprise servers and local PCs</title>
 <link>https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/</link>
 <description>NVIDIA's Nemotron 3.5 Bolt family targets local agentic work: a 74B-A9B model for multistep tool calling on a single machine, plus a smaller E4B conversational model due later this month, alongside the multimodal Super VL.</description>
@@ -271,20 +285,6 @@
 <description>Google Research open-sourced a framework that improves the eight harness components around a frozen model (prompts, tools, memory, subagents, skills); a single refinement step lifted several agent setups on their benchmarks.</description>
 <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/</guid>
-</item>
-<item>
-<title>vLLM 0.32.0 adds structured decisions and a system-level endpoint</title>
-<link>https://olud.ai/news/2026-10-18.html</link>
-<description>vLLM 0.32.0 lands with a structured-decisions feature and a new systemone endpoint for system-level inference control, per the olud.ai daily tracker.</description>
-<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://olud.ai/news/2026-10-18.html</guid>
-</item>
-<item>
-<title>ALIEN RPG Evolved Edition launches on Foundry VTT</title>
-<link>https://www.gamespress.com/The-ALIEN-RPG-Evolved-Edition-and-Rapture-Protocol-Launched-on-the-Fou</link>
-<description>Free League's ALIEN RPG Evolved Edition core rules, starter set, and Rapture Protocol arrive as premium Foundry VTT modules with integrated rules and automation.</description>
-<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.gamespress.com/The-ALIEN-RPG-Evolved-Edition-and-Rapture-Protocol-Launched-on-the-Fou</guid>
 </item>
 </channel>
 </rss>
