@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 21 Oct 2026 23:29:13 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 18:54:00 +0000</lastBuildDate>
+<item>
+<title>You.com launches Inference Router for open-weight models with enterprise SLAs</title>
+<link>https://www.businesswire.com/news/home/20261022440904/en/You.com-Launches-Inference-Router-Bringing-Enterprise-Grade-Reliability-to-Open-Weight-AI-Models-On-Demand</link>
+<description>New routing service sends requests to open-weight models served by Parasail, Inception, Meta and Alibaba Cloud under enterprise SLAs; early customers report roughly halved inference bills.</description>
+<pubDate>Thu, 22 Oct 2026 18:54:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.businesswire.com/news/home/20261022440904/en/You.com-Launches-Inference-Router-Bringing-Enterprise-Grade-Reliability-to-Open-Weight-AI-Models-On-Demand</guid>
+</item>
 <item>
 <title>Recursive ships Flint, an open-weight 40B MoE coding model with 2.5B active</title>
 <link>https://www.linkedin.com/posts/marktechpost_aimodel-openweight-codingmodel-activity-7518815690431045633-HmCx</link>
@@ -278,13 +285,6 @@
 <description>Spheron walkthrough pairing Unsloth's new Dynamic 2.0 GGUF quants with llama.cpp on rented GPUs, claiming up to 50% cost reduction at Q4_K_M with near-BF16 perplexity.</description>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.spheron.network/blog/gguf-dynamic-quantization-gpu-cloud/</guid>
-</item>
-<item>
-<title>VS Code 1.137 runs AI agents in dev containers; October 2026 coding-tool roundup</title>
-<link>https://shattered.io/vs-code-1-137-agent-host-dev-containers-2026/</link>
-<description>October 2026 roundup of agentic coding tools: VS Code 1.137 moves agents into isolated dev containers with automations and voice mode, alongside Copilot model swaps, Cursor Gemini 4 Argon support, DeepSeek V4.1-Flash-1017 and MiniMax M3.1 Flash.</description>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://shattered.io/vs-code-1-137-agent-host-dev-containers-2026/</guid>
 </item>
 </channel>
 </rss>
