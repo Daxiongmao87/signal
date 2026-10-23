@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 22 Oct 2026 18:54:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 12:00:00 +0000</lastBuildDate>
+<item>
+<title>AI This Week: open tools for safer agents</title>
+<link>https://trewknowledge.com/2026/10/23/ai-this-week-open-tools-for-safer-agents/</link>
+<description>Weekly roundup of open agent tooling, including Google's self-refining Harness² framework, big jumps in COBOL-migration benchmarks, and new open infrastructure for safer agents.</description>
+<pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://trewknowledge.com/2026/10/23/ai-this-week-open-tools-for-safer-agents/</guid>
+</item>
 <item>
 <title>You.com launches Inference Router for open-weight models with enterprise SLAs</title>
 <link>https://www.businesswire.com/news/home/20261022440904/en/You.com-Launches-Inference-Router-Bringing-Enterprise-Grade-Reliability-to-Open-Weight-AI-Models-On-Demand</link>
@@ -278,13 +285,6 @@
 <description>The coding-agent harness ships v0.7.0 built around verifiable, human-approved code changes, following the v0.6.0 release with its editable planning graph, secret detection, and git-native commits.</description>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://undercodenews.com/idea-harness-just-updated-v070-builds-on-safer-ai-coding-verifiable-changes-and-human-controlled-automation-video/</guid>
-</item>
-<item>
-<title>Running a local LLM on iPad and Android tablet in 2026, Termux route included</title>
-<link>https://www.promptquorum.com/power-local-llm/run-ai-on-tablet-ipad-android</link>
-<description>Fresh rundown of the phone/tablet on-device stack: Termux + Ollama remains the full-ecosystem path on Android, while PocketPal AI and Google AI Edge Gallery (both updated 2026-10-16) are the no-terminal alternatives; Snapdragon 8 Gen 3 / Dimensity 9300 hold ~15-25 tok/s on 1.7B models.</description>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.promptquorum.com/power-local-llm/run-ai-on-tablet-ipad-android</guid>
 </item>
 </channel>
 </rss>
