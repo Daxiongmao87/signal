@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://www.businesswire.com/news/home/20261022440904/en/You.com-Launches-Inference-Router-Bringing-Enterprise-Grade-Reliability-to-Open-Weight-AI-Models-On-Demand</guid>
 </item>
 <item>
+<title>Harness Kit 0.12.0: one governance plane for eight coding agents</title>
+<link>https://undercodenews.com/harness-kit-just-updated-version-0120-brings-unified-governance-to-eight-ai-coding-agents/</link>
+<description>Oct 22 nightly adds whole-harness portability across Claude Code, Cursor, Copilot, Codex, OpenCode, Windsurf, Gemini and Junie: capture, reconcile, deploy and roll back full harness configs.</description>
+<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://undercodenews.com/harness-kit-just-updated-version-0120-brings-unified-governance-to-eight-ai-coding-agents/</guid>
+</item>
+<item>
 <title>Recursive ships Flint, an open-weight 40B MoE coding model with 2.5B active</title>
 <link>https://www.linkedin.com/posts/marktechpost_aimodel-openweight-codingmodel-activity-7518815690431045633-HmCx</link>
 <description>Recursive Superintelligence released Flint, a 40B-parameter mixture-of-experts coding model with ~2.5B active parameters per token, Apache 2.0 weights, 262K context, built with help from its automated Eureka Machine research system.</description>
@@ -278,13 +285,6 @@
 <description>Fresh walkthrough of running gpt-oss-20B (~21B, consumer GPU) and gpt-oss-120B (~117B, multi-GPU) offline with Ollama on Windows: hardware tiers, quant behavior, and 128k-context agent workloads.</description>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://assistouest.fr/en/blog/artificial-intelligence/using-chatgpt-oss-locally-with-openais-open-weight-templates/</guid>
-</item>
-<item>
-<title>Unsloth Dynamic 2.0 GGUF quants cut cloud GPU costs ~50%</title>
-<link>https://www.spheron.network/blog/gguf-dynamic-quantization-gpu-cloud/</link>
-<description>Spheron walkthrough pairing Unsloth's new Dynamic 2.0 GGUF quants with llama.cpp on rented GPUs, claiming up to 50% cost reduction at Q4_K_M with near-BF16 perplexity.</description>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.spheron.network/blog/gguf-dynamic-quantization-gpu-cloud/</guid>
 </item>
 </channel>
 </rss>
