@@ -112,13 +112,6 @@
 <guid isPermaLink="true">https://www.foundryvtt-hub.com/package/crucible/</guid>
 </item>
 <item>
-<title>Recursive Flint: 40B MoE open-weight coding model for local agents</title>
-<link>https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/</link>
-<description>Recursive's first open model is a 40B mixture-of-experts coder with 2.5B active params and Apache 2.0 weights on Hugging Face, built in under four months with the company's Eureka automated research system.</description>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/</guid>
-</item>
-<item>
 <title>NVIDIA quietly open-sources Flare, a local inference server for Blackwell</title>
 <link>https://veduis.com/blog/nvidia-flare-architecture-local-inference/</link>
 <description>NVIDIA published Flare, an Apache 2.0 local inference server built for SM120/SM121 Blackwell hardware (RTX PRO 6000, DGX Spark): Rust serve-time runtime, CUDA graphs, FP8 KV cache by default, with recipes for Qwen Flash, GLM and DeepSeek models. Verified via the real NVIDIA/flare-local-inference repo and NVIDIA developer forum discussion.</description>
@@ -285,6 +278,13 @@
 <description>Datamine-checked rundown of the Classic+ launch: beta closes Oct 21, name reservations Oct 27 to Nov 3, then a permanent level-60 Azeroth with Skyborne elves and Undead Paladins on Nov 4.</description>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://thewowdb.com/classicpluscopium/</guid>
+</item>
+<item>
+<title>Idea Harness v0.7.0: safer AI coding with verifiable changes</title>
+<link>https://undercodenews.com/idea-harness-just-updated-v070-builds-on-safer-ai-coding-verifiable-changes-and-human-controlled-automation-video/</link>
+<description>The coding-agent harness ships v0.7.0 built around verifiable, human-approved code changes, following the v0.6.0 release with its editable planning graph, secret detection, and git-native commits.</description>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://undercodenews.com/idea-harness-just-updated-v070-builds-on-safer-ai-coding-verifiable-changes-and-human-controlled-automation-video/</guid>
 </item>
 </channel>
 </rss>
