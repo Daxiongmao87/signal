@@ -217,6 +217,13 @@
 <guid isPermaLink="true">https://huggingface.co/blog/anylanguagemodel-1-0</guid>
 </item>
 <item>
+<title>Xojo 2026 Release 3 ships Agentic Mode for agent-driven development</title>
+<link>https://tech-insider.org/xojo-agentic-mode-5-tool-coding-wave-2026/</link>
+<description>Xojo 2026 Release 3 adds Agentic Mode, an IDE-side loop that lets external coding agents edit a project, recompile it, and read the compiler errors back for automated fix iterations.</description>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://tech-insider.org/xojo-agentic-mode-5-tool-coding-wave-2026/</guid>
+</item>
+<item>
 <title>Flozic launches natural-language AI Agent Builder</title>
 <link>https://www.prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html</link>
 <description>Flozic's new builder turns business goals into deployed agents with 80+ templates, visual config, and execution logs — a natural-language take on the agentic harness stack.</description>
@@ -278,13 +285,6 @@
 <description>Fresh rundown of the phone/tablet on-device stack: Termux + Ollama remains the full-ecosystem path on Android, while PocketPal AI and Google AI Edge Gallery (both updated 2026-10-16) are the no-terminal alternatives; Snapdragon 8 Gen 3 / Dimensity 9300 hold ~15-25 tok/s on 1.7B models.</description>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.promptquorum.com/power-local-llm/run-ai-on-tablet-ipad-android</guid>
-</item>
-<item>
-<title>Running OpenAI's gpt-oss open-weight models locally on Windows</title>
-<link>https://assistouest.fr/en/blog/artificial-intelligence/using-chatgpt-oss-locally-with-openais-open-weight-templates/</link>
-<description>Fresh walkthrough of running gpt-oss-20B (~21B, consumer GPU) and gpt-oss-120B (~117B, multi-GPU) offline with Ollama on Windows: hardware tiers, quant behavior, and 128k-context agent workloads.</description>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://assistouest.fr/en/blog/artificial-intelligence/using-chatgpt-oss-locally-with-openais-open-weight-templates/</guid>
 </item>
 </channel>
 </rss>
