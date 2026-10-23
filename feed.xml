@@ -28,6 +28,13 @@
 <guid isPermaLink="true">https://www.linkedin.com/posts/marktechpost_aimodel-openweight-codingmodel-activity-7518815690431045633-HmCx</guid>
 </item>
 <item>
+<title>Flint: Recursive's 40B MoE open-weight coding model</title>
+<link>https://www.linkedin.com/posts/marktechpost_aimodel-openweight-codingmodel-activity-7518815690431045633-HmCx</link>
+<description>Recursive Superintelligence released Flint, a 40B MoE local coding model with only 2.5B active params, Apache-2.0 weights on Hugging Face, 74.2% on SWE-bench Verified, and a 4-bit build around 23GB.</description>
+<pubDate>Wed, 21 Oct 2026 23:29:13 +0000</pubDate>
+<guid isPermaLink="true">https://www.linkedin.com/posts/marktechpost_aimodel-openweight-codingmodel-activity-7518815690431045633-HmCx</guid>
+</item>
+<item>
 <title>mabl launches agentic testing harness</title>
 <link>https://signalnewsrichmond.com/press-releases/122349/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents/</link>
 <description>mabl released an agentic testing harness targeting the verification bottleneck coding agents create, reporting 1.58M unique failures analyzed across 3.3M agent sessions in the prior 90 days.</description>
@@ -61,6 +68,13 @@
 <description>A new lightweight PEFT/LoRA adapter for Microsoft's Phi-3-medium, tuned for brainstorming and ideation, that attaches to the base model without the cost of running a full 14B model locally.</description>
 <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/sparking-ideas-new-unsloth-phi-3-brainstorming-adapter-lands-on-jihloa/</guid>
+</item>
+<item>
+<title>DeepSeek open-sources DeepInfer, its in-house inference stack</title>
+<link>https://latent.space/p/ainews-deepseek-deepinfer-open-source/</link>
+<description>DeepSeek open-sourced DeepInfer, the production inference framework behind V4.1 Flash, with reported single-cluster throughput of 155 trillion tokens per day; open questions on how portable it is beyond DeepSeek's own stack.</description>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://latent.space/p/ainews-deepseek-deepinfer-open-source/</guid>
 </item>
 <item>
 <title>OpenChamber 2.5.0: one agentic dev session across devices</title>
@@ -117,6 +131,20 @@
 <description>CNCF-governed serving project hits 1.0 with priority/fairness scheduling, a highly-available router, and session-aware routing; contributors demoed serving a 750B-class open-weight model at claimed multi-million-token-per-minute throughput.</description>
 <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.martincid.com/technology-sv/llm-d-1-0-open-source-ai-inference-red-hat-ibm-google-nvidia/</guid>
+</item>
+<item>
+<title>NVIDIA Flare: open-source local inference for Blackwell workstations</title>
+<link>https://veduis.com/blog/nvidia-flare-architecture-local-inference/</link>
+<description>NVIDIA quietly published Flare, an Apache-2.0 local inference server hardware-co-designed for Blackwell SM120/SM121 (RTX PRO 6000, DGX Spark), aimed at running long-context coding agents without memory stalls or Python overhead.</description>
+<pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://veduis.com/blog/nvidia-flare-architecture-local-inference/</guid>
+</item>
+<item>
+<title>Field guide: Google Research's Harness², the harness that rewrites itself</title>
+<link>https://research.strata2signal.com/a-harness-that-rewrites-itself/index.html</link>
+<description>A code-and-paper reading of Google Research's Harness² (agents rewrite their own prompts, skills and scripts between attempts, up to ~11.8 points of gains), including what one step costs, what it touches on your machine, and whether it can target a local GPU.</description>
+<pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://research.strata2signal.com/a-harness-that-rewrites-itself/index.html</guid>
 </item>
 <item>
 <title>Ready Server bundles OpenAI-compatible inference into VPS plans</title>
@@ -257,34 +285,6 @@
 <description>A single timeline of October's coding-agent releases: VS Code 1.142 shipping Copilot agent host policies, OpenCode 2.0's background service and API, plus updates from Codex CLI, Claude Code, Cursor, and Copilot.</description>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://trendintech.com/vs-code-1-142-copilot-agent-host-policies-2026/</guid>
-</item>
-<item>
-<title>WoW Forever watch: beta ends Oct 21, launch countdown at Nov 4</title>
-<link>https://thewowdb.com/classicpluscopium/</link>
-<description>Datamine-checked rundown of the Classic+ launch: beta closes Oct 21, name reservations Oct 27 to Nov 3, then a permanent level-60 Azeroth with Skyborne elves and Undead Paladins on Nov 4.</description>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://thewowdb.com/classicpluscopium/</guid>
-</item>
-<item>
-<title>Idea Harness v0.7.0: safer AI coding with verifiable changes</title>
-<link>https://undercodenews.com/idea-harness-just-updated-v070-builds-on-safer-ai-coding-verifiable-changes-and-human-controlled-automation-video/</link>
-<description>The coding-agent harness ships v0.7.0 built around verifiable, human-approved code changes, following the v0.6.0 release with its editable planning graph, secret detection, and git-native commits.</description>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://undercodenews.com/idea-harness-just-updated-v070-builds-on-safer-ai-coding-verifiable-changes-and-human-controlled-automation-video/</guid>
-</item>
-<item>
-<title>Running a local LLM on iPad and Android tablet in 2026, Termux route included</title>
-<link>https://www.promptquorum.com/power-local-llm/run-ai-on-tablet-ipad-android</link>
-<description>Fresh rundown of the phone/tablet on-device stack: Termux + Ollama remains the full-ecosystem path on Android, while PocketPal AI and Google AI Edge Gallery (both updated 2026-10-16) are the no-terminal alternatives; Snapdragon 8 Gen 3 / Dimensity 9300 hold ~15-25 tok/s on 1.7B models.</description>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.promptquorum.com/power-local-llm/run-ai-on-tablet-ipad-android</guid>
-</item>
-<item>
-<title>Running OpenAI's gpt-oss open-weight models locally on Windows</title>
-<link>https://assistouest.fr/en/blog/artificial-intelligence/using-chatgpt-oss-locally-with-openais-open-weight-templates/</link>
-<description>Fresh walkthrough of running gpt-oss-20B (~21B, consumer GPU) and gpt-oss-120B (~117B, multi-GPU) offline with Ollama on Windows: hardware tiers, quant behavior, and 128k-context agent workloads.</description>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://assistouest.fr/en/blog/artificial-intelligence/using-chatgpt-oss-locally-with-openais-open-weight-templates/</guid>
 </item>
 </channel>
 </rss>
