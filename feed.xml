@@ -56,6 +56,13 @@
 <guid isPermaLink="true">https://www.prnewswire.com/news-releases/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents-302914831.html</guid>
 </item>
 <item>
+<title>mabl ships an agentic testing harness aimed at AI-written code</title>
+<link>https://lifestyle.houstonnewstoday.com/story/956568/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents/</link>
+<description>mabl's new harness runs its own agents against AI-generated code and feeds the failures back to the coding agents, built on 3.3M agent sessions analyzed over 90 days.</description>
+<pubDate>Wed, 21 Oct 2026 12:32:25 +0000</pubDate>
+<guid isPermaLink="true">https://lifestyle.houstonnewstoday.com/story/956568/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents/</guid>
+</item>
+<item>
 <title>Xojo 2026 Release 3 adds Agentic Mode for AI coding agents</title>
 <link>https://techedgeai.com/xojo-adds-agentic-mode-for-ai-assisted-app-development/</link>
 <description>Xojo 2026r3 lets AI coding agents edit projects, trigger builds, and read compiler feedback directly inside its cross-platform IDE.</description>
@@ -124,6 +131,13 @@
 <description>A free, VTT-native game system targeting Foundry v14's alpha phase, leaning on compendiums and automation for GM-built creatures.</description>
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.foundryvtt-hub.com/package/crucible/</guid>
+</item>
+<item>
+<title>Recursive launches Flint, an open-weight laptop coding model largely built by AI</title>
+<link>https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/</link>
+<description>Recursive's first model is a 40B-parameter MoE with 2.5B active per token, released under Apache 2.0 with Hugging Face weights and day-one support in Ollama, LM Studio, llama.cpp, and OpenHands.</description>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/</guid>
 </item>
 <item>
 <title>NVIDIA quietly open-sources Flare, a local inference server for Blackwell</title>
@@ -271,20 +285,6 @@
 <description>Google Cloud AI Research open-sourced Harness², an Apache-2.0 framework that rewrites an agent's prompts, memory, skills and tools while model weights stay frozen; one step lifted GLM-5 by up to 11.5 points on WorkBuddy-Bench. Includes a no-credentials local demo and setup for OpenCode/Codex executors.</description>
 <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://7minai.com/news/google-harness2-recursive-agent-harnessing-opencode-codex/</guid>
-</item>
-<item>
-<title>Liquid AI LFM2.5-24B-A2B: open-weights MoE for on-device agents</title>
-<link>https://www.webpronews.com/liquid-ai-releases-24b-open-source-model-optimized-for-consumer-gpus/</link>
-<description>Liquid AI's 24B MoE (2B active) open-weights model built for agent workloads on laptops, with llama.cpp, MLX, vLLM, and ONNX support.</description>
-<pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.webpronews.com/liquid-ai-releases-24b-open-source-model-optimized-for-consumer-gpus/</guid>
-</item>
-<item>
-<title>NVIDIA's new open models push agents onto enterprise servers and local PCs</title>
-<link>https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/</link>
-<description>NVIDIA's Nemotron 3.5 Bolt family targets local agentic work: a 74B-A9B model for multistep tool calling on a single machine, plus a smaller E4B conversational model due later this month, alongside the multimodal Super VL.</description>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/</guid>
 </item>
 </channel>
 </rss>
