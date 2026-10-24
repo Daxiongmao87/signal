@@ -168,20 +168,6 @@
 <guid isPermaLink="true">https://www.software-mirrors.com/products/unsloth</guid>
 </item>
 <item>
-<title>llm-d 1.0: open-source inference stack from Red Hat, IBM, Google, Nvidia</title>
-<link>https://www.martincid.com/technology-sv/llm-d-1-0-open-source-ai-inference-red-hat-ibm-google-nvidia/</link>
-<description>The CNCF open-source inference project hits 1.0, adding priority and fairness controls plus session-aware routing so latency-sensitive agents can share one GPU fleet.</description>
-<pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.martincid.com/technology-sv/llm-d-1-0-open-source-ai-inference-red-hat-ibm-google-nvidia/</guid>
-</item>
-<item>
-<title>NVIDIA Flare: Blackwell-tuned local inference server</title>
-<link>https://veduis.com/blog/nvidia-flare-architecture-local-inference/</link>
-<description>NVIDIA published its Apache-2.0 Flare inference server on Oct 20: a hardware-co-designed local engine aimed at Blackwell workstations and DGX Spark for long-context coding-agent and tool-use loops without running out of memory.</description>
-<pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://veduis.com/blog/nvidia-flare-architecture-local-inference/</guid>
-</item>
-<item>
 <title>Ready Server bundles OpenAI-compatible inference into VPS plans</title>
 <link>https://www.fathom.news/ready-server-opens-1-llm-api/</link>
 <description>VPS provider Ready Server rolled out an OpenAI-compatible interface so all its VPS customers get private-network inference on open models with no API keys and no per-token billing, folding AI cost into flat infrastructure spend.</description>
@@ -280,11 +266,25 @@
 <guid isPermaLink="true">https://huggingface.co/blog/anylanguagemodel-1-0</guid>
 </item>
 <item>
-<title>Xojo 2026 Release 3 ships Agentic Mode for agent-driven development</title>
-<link>https://tech-insider.org/xojo-agentic-mode-5-tool-coding-wave-2026/</link>
-<description>Xojo 2026 Release 3 adds Agentic Mode, an IDE-side loop that lets external coding agents edit a project, recompile it, and read the compiler errors back for automated fix iterations.</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://tech-insider.org/xojo-agentic-mode-5-tool-coding-wave-2026/</guid>
+<title>Flozic launches natural-language AI Agent Builder</title>
+<link>https://www.prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html</link>
+<description>Flozic's new builder turns business goals into deployed agents with 80+ templates, visual config, and execution logs — a natural-language take on the agentic harness stack.</description>
+<pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html</guid>
+</item>
+<item>
+<title>Microsoft open-sources Scope, an agent-testing harness</title>
+<link>https://trendintech.com/microsoft-scope-open-source-ai-coding-agent-testing-2026/</link>
+<description>Microsoft DevRel released Scope (MIT, self-hosted) on Oct 19: it runs coding agents like Copilot and Claude Code through the same tasks side by side and scores the actual output.</description>
+<pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://trendintech.com/microsoft-scope-open-source-ai-coding-agent-testing-2026/</guid>
+</item>
+<item>
+<title>Harness²: how to auto-tune an agent's harness without retraining</title>
+<link>https://7minai.com/news/google-harness2-recursive-agent-harnessing-opencode-codex/</link>
+<description>Google Cloud AI Research open-sourced Harness², an Apache-2.0 framework that rewrites an agent's prompts, memory, skills and tools while model weights stay frozen; one step lifted GLM-5 by up to 11.5 points on WorkBuddy-Bench. Includes a no-credentials local demo and setup for OpenCode/Codex executors.</description>
+<pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://7minai.com/news/google-harness2-recursive-agent-harnessing-opencode-codex/</guid>
 </item>
 </channel>
 </rss>
