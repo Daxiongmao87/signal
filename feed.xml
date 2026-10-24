@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://pasqualepillitteri.it/en/news/26578/flint-ai-recursive-local-coding-model</guid>
 </item>
 <item>
+<title>TanStack AI 1.0 ships a stable, provider-agnostic agent toolkit</title>
+<link>https://genznewz.com/tanstack-ai-10-ships-stable-agent-toolkit-for-web-apps</link>
+<description>TanStack AI reaches 1.0 with stable agent, subagent, and MCP APIs across 76 packages, plus an experimental multi-environment harness.</description>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://genznewz.com/tanstack-ai-10-ships-stable-agent-toolkit-for-web-apps</guid>
+</item>
+<item>
 <title>You.com launches Inference Router for open-weight models with enterprise SLAs</title>
 <link>https://www.businesswire.com/news/home/20261022440904/en/You.com-Launches-Inference-Router-Bringing-Enterprise-Grade-Reliability-to-Open-Weight-AI-Models-On-Demand</link>
 <description>New routing service sends requests to open-weight models served by Parasail, Inception, Meta and Alibaba Cloud under enterprise SLAs; early customers report roughly halved inference bills.</description>
@@ -278,13 +285,6 @@
 <description>HF's Swift library hits 1.0 for on-device LLM apps, with the post spotlighting small GGUF models like Gemma 4 E2B QAT and a 4-bit MLX build of Qwen3.8-27B.</description>
 <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://huggingface.co/blog/anylanguagemodel-1-0</guid>
-</item>
-<item>
-<title>Flozic launches natural-language AI Agent Builder</title>
-<link>https://www.prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html</link>
-<description>Flozic's new builder turns business goals into deployed agents with 80+ templates, visual config, and execution logs — a natural-language take on the agentic harness stack.</description>
-<pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html</guid>
 </item>
 </channel>
 </rss>
