@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://trewknowledge.com/2026/10/23/ai-this-week-open-tools-for-safer-agents/</guid>
 </item>
 <item>
+<title>Flint AI: Recursive's open-weight coding model for laptops</title>
+<link>https://pasqualepillitteri.it/en/news/26578/flint-ai-recursive-local-coding-model</link>
+<description>Recursive's Flint ships Apache-2.0 open weights tuned for laptops rather than servers, with OpenHands supporting it through OpenRouter or a local endpoint from release day.</description>
+<pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://pasqualepillitteri.it/en/news/26578/flint-ai-recursive-local-coding-model</guid>
+</item>
+<item>
 <title>You.com launches Inference Router for open-weight models with enterprise SLAs</title>
 <link>https://www.businesswire.com/news/home/20261022440904/en/You.com-Launches-Inference-Router-Bringing-Enterprise-Grade-Reliability-to-Open-Weight-AI-Models-On-Demand</link>
 <description>New routing service sends requests to open-weight models served by Parasail, Inception, Meta and Alibaba Cloud under enterprise SLAs; early customers report roughly halved inference bills.</description>
@@ -278,13 +285,6 @@
 <description>Microsoft DevRel released Scope (MIT, self-hosted) on Oct 19: it runs coding agents like Copilot and Claude Code through the same tasks side by side and scores the actual output.</description>
 <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://trendintech.com/microsoft-scope-open-source-ai-coding-agent-testing-2026/</guid>
-</item>
-<item>
-<title>Harness²: how to auto-tune an agent's harness without retraining</title>
-<link>https://7minai.com/news/google-harness2-recursive-agent-harnessing-opencode-codex/</link>
-<description>Google Cloud AI Research open-sourced Harness², an Apache-2.0 framework that rewrites an agent's prompts, memory, skills and tools while model weights stay frozen; one step lifted GLM-5 by up to 11.5 points on WorkBuddy-Bench. Includes a no-credentials local demo and setup for OpenCode/Codex executors.</description>
-<pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://7minai.com/news/google-harness2-recursive-agent-harnessing-opencode-codex/</guid>
 </item>
 </channel>
 </rss>
