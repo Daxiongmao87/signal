@@ -49,6 +49,13 @@
 <guid isPermaLink="true">https://aichina.news/blog/amd-s-new-onnx-phi-3-5-mini-a-local-ai-powerhouse-for-ryzen-ai-laptops-7ckq1c/</guid>
 </item>
 <item>
+<title>Lumabri shards LLM inference across local machines in pure C</title>
+<link>https://www.clawdbytes.com/article/2026-10-22-show-hn-lumabri-run-large-ai-models-across-your-computers-and-serverspure-c</link>
+<description>A new open-source tool splits model layers across several household computers so a model too big for one machine's RAM can still run fully locally, with each machine approving its share before anything loads.</description>
+<pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.clawdbytes.com/article/2026-10-22-show-hn-lumabri-run-large-ai-models-across-your-computers-and-serverspure-c</guid>
+</item>
+<item>
 <title>Harness Kit 0.12.0: one governance plane for eight coding agents</title>
 <link>https://undercodenews.com/harness-kit-just-updated-version-0120-brings-unified-governance-to-eight-ai-coding-agents/</link>
 <description>Oct 22 nightly adds whole-harness portability across Claude Code, Cursor, Copilot, Codex, OpenCode, Windsurf, Gemini and Junie: capture, reconcile, deploy and roll back full harness configs.</description>
@@ -278,13 +285,6 @@
 <description>An independent code-level walkthrough of Google Research's open-source Harness², which refines an agent's prompts, tools, skills and scripts between attempts on the same task and reports benchmark gains of up to ~12 points.</description>
 <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://research.strata2signal.com/a-harness-that-rewrites-itself/index.html</guid>
-</item>
-<item>
-<title>Hugging Face ships AnyLanguageModel 1.0 for local models on Apple platforms</title>
-<link>https://huggingface.co/blog/anylanguagemodel-1-0</link>
-<description>HF's Swift library hits 1.0 for on-device LLM apps, with the post spotlighting small GGUF models like Gemma 4 E2B QAT and a 4-bit MLX build of Qwen3.8-27B.</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://huggingface.co/blog/anylanguagemodel-1-0</guid>
 </item>
 </channel>
 </rss>
