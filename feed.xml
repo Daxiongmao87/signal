@@ -112,6 +112,13 @@
 <guid isPermaLink="true">https://www.europesays.com/3324339/</guid>
 </item>
 <item>
+<title>DeepSeek open-sources DeepInfer, its V4.1-Flash serving stack</title>
+<link>https://aiweekly.co/alerts/deepseek-open-sources-deepinfer-its-v41-flash-serving-stack</link>
+<description>DeepSeek released DeepInfer, the Apache-2.0 inference framework behind its V4.1-Flash production services, claiming 155 trillion tokens per day per cluster with first-class support for both Nvidia SM100 and Huawei Ascend 950.</description>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aiweekly.co/alerts/deepseek-open-sources-deepinfer-its-v41-flash-serving-stack</guid>
+</item>
+<item>
 <title>OpenChamber 2.5.0: one agentic dev session across devices</title>
 <link>https://devopspack.com/openchamber-agentic-development-environment-ai-coding/</link>
 <description>MIT-licensed agentic dev environment that runs coding agents locally and hands the live session to your phone over an encrypted relay, plus multi-run worktrees that put several models' diffs side by side for comparison.</description>
@@ -278,13 +285,6 @@
 <description>Microsoft DevRel released Scope (MIT, self-hosted) on Oct 19: it runs coding agents like Copilot and Claude Code through the same tasks side by side and scores the actual output.</description>
 <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://trendintech.com/microsoft-scope-open-source-ai-coding-agent-testing-2026/</guid>
-</item>
-<item>
-<title>Harness²: how to auto-tune an agent's harness without retraining</title>
-<link>https://7minai.com/news/google-harness2-recursive-agent-harnessing-opencode-codex/</link>
-<description>Google Cloud AI Research open-sourced Harness², an Apache-2.0 framework that rewrites an agent's prompts, memory, skills and tools while model weights stay frozen; one step lifted GLM-5 by up to 11.5 points on WorkBuddy-Bench. Includes a no-credentials local demo and setup for OpenCode/Codex executors.</description>
-<pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://7minai.com/news/google-harness2-recursive-agent-harnessing-opencode-codex/</guid>
 </item>
 </channel>
 </rss>
