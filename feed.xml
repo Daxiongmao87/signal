@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://www.linkedin.com/posts/marktechpost_aimodel-openweight-codingmodel-activity-7518815690431045633-HmCx</guid>
 </item>
 <item>
+<title>Recursive Flint: 40B MoE coding model with 2.5B active params</title>
+<link>https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/</link>
+<description>Recursive's first model: a 40B MoE coding model with only 2.5B active params per token, Apache-2.0 weights on Hugging Face, aimed at local agentic coding at 125+ tok/s on a MacBook.</description>
+<pubDate>Wed, 21 Oct 2026 23:29:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/</guid>
+</item>
+<item>
 <title>mabl launches agentic testing harness</title>
 <link>https://signalnewsrichmond.com/press-releases/122349/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents/</link>
 <description>mabl released an agentic testing harness targeting the verification bottleneck coding agents create, reporting 1.58M unique failures analyzed across 3.3M agent sessions in the prior 90 days.</description>
@@ -75,6 +82,13 @@
 <description>DeepSeek open-sourced DeepInfer, the production inference framework behind V4.1 Flash, with reported single-cluster throughput of 155 trillion tokens per day; open questions on how portable it is beyond DeepSeek's own stack.</description>
 <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://latent.space/p/ainews-deepseek-deepinfer-open-source/</guid>
+</item>
+<item>
+<title>Xojo 2026 R3 adds Agentic Mode for AI coding agents</title>
+<link>https://www.europesays.com/3324339/</link>
+<description>Xojo's new release lets external coding agents edit projects, trigger rebuilds, and read compiler errors back, forming an automated edit-test-fix loop.</description>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.europesays.com/3324339/</guid>
 </item>
 <item>
 <title>OpenChamber 2.5.0: one agentic dev session across devices</title>
@@ -124,6 +138,13 @@
 <description>Latest Unsloth beta ships context-parallel (Ulysses) training, opt-in CPU offload of optimizer state, first-class FSDP2 LoRA finetuning, and fused preference-loss options.</description>
 <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.software-mirrors.com/products/unsloth</guid>
+</item>
+<item>
+<title>llm-d 1.0: open-source inference stack from Red Hat, IBM, Google, Nvidia</title>
+<link>https://www.martincid.com/technology-sv/llm-d-1-0-open-source-ai-inference-red-hat-ibm-google-nvidia/</link>
+<description>The CNCF open-source inference project hits 1.0, adding priority and fairness controls plus session-aware routing so latency-sensitive agents can share one GPU fleet.</description>
+<pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.martincid.com/technology-sv/llm-d-1-0-open-source-ai-inference-red-hat-ibm-google-nvidia/</guid>
 </item>
 <item>
 <title>Ready Server bundles OpenAI-compatible inference into VPS plans</title>
@@ -252,39 +273,18 @@
 <guid isPermaLink="true">https://7minai.com/news/google-harness2-recursive-agent-harnessing-opencode-codex/</guid>
 </item>
 <item>
+<title>Liquid AI LFM2.5-24B-A2B: open-weights MoE for on-device agents</title>
+<link>https://www.webpronews.com/liquid-ai-releases-24b-open-source-model-optimized-for-consumer-gpus/</link>
+<description>Liquid AI's 24B MoE (2B active) open-weights model built for agent workloads on laptops, with llama.cpp, MLX, vLLM, and ONNX support.</description>
+<pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.webpronews.com/liquid-ai-releases-24b-open-source-model-optimized-for-consumer-gpus/</guid>
+</item>
+<item>
 <title>NVIDIA's new open models push agents onto enterprise servers and local PCs</title>
 <link>https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/</link>
 <description>NVIDIA's Nemotron 3.5 Bolt family targets local agentic work: a 74B-A9B model for multistep tool calling on a single machine, plus a smaller E4B conversational model due later this month, alongside the multimodal Super VL.</description>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/</guid>
-</item>
-<item>
-<title>NVIDIA Ships New Open-Weight Models for Agents, Including a 24 GB Bolt</title>
-<link>https://bytetechlab.com/blog/2026/artificial-intelligence/nvidia-nemotron-3-5-super-vl-bolt-the-open-weight-ai-agent-revolution/</link>
-<description>NVIDIA's new open-weight Nemotron family for agents, including the Bolt 74B-A9B model tuned to run in 24 GB of memory for local agentic workloads.</description>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://bytetechlab.com/blog/2026/artificial-intelligence/nvidia-nemotron-3-5-super-vl-bolt-the-open-weight-ai-agent-revolution/</guid>
-</item>
-<item>
-<title>VS Code 1.142, OpenCode 2.0, Codex CLI 0.163: October's coding-agent release roundup</title>
-<link>https://trendintech.com/vs-code-1-142-copilot-agent-host-policies-2026/</link>
-<description>A single timeline of October's coding-agent releases: VS Code 1.142 shipping Copilot agent host policies, OpenCode 2.0's background service and API, plus updates from Codex CLI, Claude Code, Cursor, and Copilot.</description>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://trendintech.com/vs-code-1-142-copilot-agent-host-policies-2026/</guid>
-</item>
-<item>
-<title>WoW Forever watch: beta ends Oct 21, launch countdown at Nov 4</title>
-<link>https://thewowdb.com/classicpluscopium/</link>
-<description>Datamine-checked rundown of the Classic+ launch: beta closes Oct 21, name reservations Oct 27 to Nov 3, then a permanent level-60 Azeroth with Skyborne elves and Undead Paladins on Nov 4.</description>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://thewowdb.com/classicpluscopium/</guid>
-</item>
-<item>
-<title>Idea Harness v0.7.0: safer AI coding with verifiable changes</title>
-<link>https://undercodenews.com/idea-harness-just-updated-v070-builds-on-safer-ai-coding-verifiable-changes-and-human-controlled-automation-video/</link>
-<description>The coding-agent harness ships v0.7.0 built around verifiable, human-approved code changes, following the v0.6.0 release with its editable planning graph, secret detection, and git-native commits.</description>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://undercodenews.com/idea-harness-just-updated-v070-builds-on-safer-ai-coding-verifiable-changes-and-human-controlled-automation-video/</guid>
 </item>
 </channel>
 </rss>
