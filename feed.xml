@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 23 Oct 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Microsoft open-sources Agensh, a leaderless 1,024-agent coding harness</title>
+<link>https://ai.dosa.dev/blog/today-in-ai-2026-10-25/</link>
+<description>Microsoft Research releases a decentralized coding harness where workers claim their own subtasks and merge into a shared repo, scaled to 1,024 agents in its ProgramBench tests.</description>
+<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://ai.dosa.dev/blog/today-in-ai-2026-10-25/</guid>
+</item>
 <item>
 <title>AI This Week: open tools for safer agents</title>
 <link>https://trewknowledge.com/2026/10/23/ai-this-week-open-tools-for-safer-agents/</link>
@@ -278,13 +285,6 @@
 <description>Xojo 2026 R3 ships Agentic Mode, letting an external coding agent edit a Xojo project, trigger a reload, run or compile it, and iterate against real compiler errors in an automated edit-test-fix loop.</description>
 <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://tech-insider.org/xojo-agentic-mode-5-tool-coding-wave-2026/</guid>
-</item>
-<item>
-<title>Field guide: Google's Harness² lets an agent rewrite its own harness mid-task</title>
-<link>https://research.strata2signal.com/a-harness-that-rewrites-itself/index.html</link>
-<description>An independent code-level walkthrough of Google Research's open-source Harness², which refines an agent's prompts, tools, skills and scripts between attempts on the same task and reports benchmark gains of up to ~12 points.</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://research.strata2signal.com/a-harness-that-rewrites-itself/index.html</guid>
 </item>
 </channel>
 </rss>
