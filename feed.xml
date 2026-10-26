@@ -5,14 +5,7 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 26 Oct 2026 04:40:57 +0000</lastBuildDate>
-<item>
-<title>Hobbyists squeeze trillion-parameter models onto laptops via quantization and offloading</title>
-<link>https://startupfortune.com/hobbyists-are-squeezing-trillion-parameter-ai-models-onto-laptops/</link>
-<description>Surveys how Q4_K_M quantization plus SSD streaming lets oversized open-weight models technically run on consumer laptops, while stressing the demo speeds (around 2-5 tok/s) make it a proof of concept rather than a practical setup.</description>
-<pubDate>Mon, 26 Oct 2026 04:40:57 +0000</pubDate>
-<guid isPermaLink="true">https://startupfortune.com/hobbyists-are-squeezing-trillion-parameter-ai-models-onto-laptops/</guid>
-</item>
+<lastBuildDate>Sun, 25 Oct 2026 12:00:00 +0000</lastBuildDate>
 <item>
 <title>Lucie-7B Goes GGUF: A French Open LLM You Can Now Run Locally</title>
 <link>https://aichina.news/blog/lucie-7b-goes-gguf-a-french-open-llm-you-can-now-run-locally-straight-odexod/</link>
@@ -285,6 +278,13 @@
 <description>A standalone runner for 1-bit ternary LLMs on ordinary CPUs, reportedly topping 100 tokens per second on Apple Silicon.</description>
 <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.thenextgentechinsider.com/pulse/bitrun-enables-high-performance-1-bit-llm-inference-on-consumer-cpus</guid>
+</item>
+<item>
+<title>WoW Forever beta extended to October 23, name reservations open October 27</title>
+<link>https://store.steampowered.com/news/group/9869/view/705534727891717197</link>
+<description>Blizzard extends the WoW Forever beta three days past its original October 20 end date, then opens name reservations for three characters per player; more than a million beta characters were already created.</description>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://store.steampowered.com/news/group/9869/view/705534727891717197</guid>
 </item>
 </channel>
 </rss>
