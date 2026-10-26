@@ -21,13 +21,6 @@
 <guid isPermaLink="true">https://techtoheart.com/microsofts-1024-agent-harness-is-real-but-builders-should-copy-the-pattern-not-the-swarm/</guid>
 </item>
 <item>
-<title>Hobbyists Are Squeezing Trillion-Parameter AI Models Onto Laptops</title>
-<link>https://startupfortune.com/hobbyists-are-squeezing-trillion-parameter-ai-models-onto-laptops/</link>
-<description>A look at how quantization and layer offloading let hobbyists run very large open-weight models on laptops and gaming rigs, with the trade-off being single-digit tokens per second rather than practical speed.</description>
-<pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://startupfortune.com/hobbyists-are-squeezing-trillion-parameter-ai-models-onto-laptops/</guid>
-</item>
-<item>
 <title>Microsoft open-sources Agensh, a leaderless 1,024-agent coding harness</title>
 <link>https://ai.dosa.dev/blog/today-in-ai-2026-10-25/</link>
 <description>Microsoft Research releases a decentralized coding harness where workers claim their own subtasks and merge into a shared repo, scaled to 1,024 agents in its ProgramBench tests.</description>
@@ -285,6 +278,13 @@
 <description>Apache-2.0 framework that iteratively rewrites an agent's prompts, memory, tools and orchestration at runtime to lift benchmark scores without retraining.</description>
 <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://techstrong.ai/agentic-ai/google-research-releases-harness²-to-improve-ai-agents-without-retraining-models/</guid>
+</item>
+<item>
+<title>OpenAI launches Agents API in public beta, built on the Codex harness</title>
+<link>https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/</link>
+<description>Managed sessions, tool orchestration and sandboxes from the open-source Codex harness, exposed as a single API call for all developers.</description>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/</guid>
 </item>
 </channel>
 </rss>
