@@ -14,11 +14,25 @@
 <guid isPermaLink="true">https://www.businesswire.com/news/home/20261027724926/en/Dataiku-Introduces-Headless-Bringing-Governed-Data-and-AI-Work-to-Agentic-Coding-Tools</guid>
 </item>
 <item>
+<title>Small, Fast, Local: MTS AI's Cotype Nano Arrives on Modelers.cn</title>
+<link>https://aichina.news/blog/small-fast-local-mts-ais-cotype-nano-arrives-on-modelers-cn-xlbyc2/</link>
+<description>A GGUF build of MTS AI's compact Cotype Nano model lands on Modelers.cn, giving llama.cpp, Ollama, and LM Studio users a lightweight local option.</description>
+<pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/small-fast-local-mts-ais-cotype-nano-arrives-on-modelers-cn-xlbyc2/</guid>
+</item>
+<item>
 <title>Epic VTT beta update: repairs and December 1 launch goal</title>
 <link>https://medium.com/@d20epiclevel/epic-vtt-beta-update-progress-repairs-and-our-december-1-launch-goal-edc21de3f8cf</link>
 <description>Browser-based VTT Epic VTT reports beta progress on campaign persistence, multiplayer sync, and permissions as it holds a December 1 public-launch target.</description>
 <pubDate>Tue, 27 Oct 2026 02:43:51 +0000</pubDate>
 <guid isPermaLink="true">https://medium.com/@d20epiclevel/epic-vtt-beta-update-progress-repairs-and-our-december-1-launch-goal-edc21de3f8cf</guid>
+</item>
+<item>
+<title>Tiny LLM, Giant Context: Menlo's Lucy-128k Now Available on Modelers.cn</title>
+<link>https://aichina.news/blog/tiny-llm-giant-context-menlo-s-lucy-128k-now-available-on-modelers-cn-ujtqgs/</link>
+<description>Menlo Research's Lucy-128k arrives as a GGUF build with a 128k-token context window, aimed at long-document local research agents.</description>
+<pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/tiny-llm-giant-context-menlo-s-lucy-128k-now-available-on-modelers-cn-ujtqgs/</guid>
 </item>
 <item>
 <title>Lucie-7B Goes GGUF: A French Open LLM You Can Now Run Locally</title>
@@ -271,20 +285,6 @@
 <description>Recursive's first model is a 40B-parameter MoE with 2.5B active per token, released under Apache 2.0 with Hugging Face weights and day-one support in Ollama, LM Studio, llama.cpp, and OpenHands.</description>
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/</guid>
-</item>
-<item>
-<title>NVIDIA quietly open-sources Flare, a local inference server for Blackwell</title>
-<link>https://veduis.com/blog/nvidia-flare-architecture-local-inference/</link>
-<description>NVIDIA published Flare, an Apache 2.0 local inference server built for SM120/SM121 Blackwell hardware (RTX PRO 6000, DGX Spark): Rust serve-time runtime, CUDA graphs, FP8 KV cache by default, with recipes for Qwen Flash, GLM and DeepSeek models. Verified via the real NVIDIA/flare-local-inference repo and NVIDIA developer forum discussion.</description>
-<pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://veduis.com/blog/nvidia-flare-architecture-local-inference/</guid>
-</item>
-<item>
-<title>Unsloth v0.1.909-beta: context-parallel, optimizer offload, FSDP2 LoRA</title>
-<link>https://www.software-mirrors.com/products/unsloth</link>
-<description>Latest Unsloth beta ships context-parallel (Ulysses) training, opt-in CPU offload of optimizer state, first-class FSDP2 LoRA finetuning, and fused preference-loss options.</description>
-<pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.software-mirrors.com/products/unsloth</guid>
 </item>
 </channel>
 </rss>
