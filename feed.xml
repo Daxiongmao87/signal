@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 25 Oct 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 02:43:51 +0000</lastBuildDate>
+<item>
+<title>Epic VTT beta update: repairs and December 1 launch goal</title>
+<link>https://medium.com/@d20epiclevel/epic-vtt-beta-update-progress-repairs-and-our-december-1-launch-goal-edc21de3f8cf</link>
+<description>Browser-based VTT Epic VTT reports beta progress on campaign persistence, multiplayer sync, and permissions as it holds a December 1 public-launch target.</description>
+<pubDate>Tue, 27 Oct 2026 02:43:51 +0000</pubDate>
+<guid isPermaLink="true">https://medium.com/@d20epiclevel/epic-vtt-beta-update-progress-repairs-and-our-december-1-launch-goal-edc21de3f8cf</guid>
+</item>
 <item>
 <title>Lucie-7B Goes GGUF: A French Open LLM You Can Now Run Locally</title>
 <link>https://aichina.news/blog/lucie-7b-goes-gguf-a-french-open-llm-you-can-now-run-locally-straight-odexod/</link>
@@ -278,13 +285,6 @@
 <description>Xojo's cross-platform IDE gains an Agentic Mode that lets AI coding agents edit projects, catch compile errors on their own, and work as first-class collaborators, alongside a rebuilt AI assistant named Jade.</description>
 <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.prnewswire.com/news-releases/xojo-2026-release-3-introduces-agentic-mode-bringing-ai-agents-directly-into-the-development-workflow-302914429.html</guid>
-</item>
-<item>
-<title>llm-d 1.0: Red Hat, IBM, Google and Nvidia bet that AI's real bill is inference, not training</title>
-<link>https://www.martincid.com/technology-sv/llm-d-1-0-open-source-ai-inference-red-hat-ibm-google-nvidia/</link>
-<description>llm-d hit 1.0 as a CNCF-governed open-source layer for serving open models across GPU fleets, backed by Red Hat, IBM, Google and Nvidia, aimed at the serving cost side of AI rather than training.</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.martincid.com/technology-sv/llm-d-1-0-open-source-ai-inference-red-hat-ibm-google-nvidia/</guid>
 </item>
 </channel>
 </rss>
