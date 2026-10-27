@@ -28,6 +28,13 @@
 <guid isPermaLink="true">https://medium.com/@d20epiclevel/epic-vtt-beta-update-progress-repairs-and-our-december-1-launch-goal-edc21de3f8cf</guid>
 </item>
 <item>
+<title>Llama Guard 3 1B goes local as a GGUF build</title>
+<link>https://aichina.news/blog/llama-guard-3-1b-goes-local-a-tiny-safety-classifier-lands-on-0u4lzc/</link>
+<description>A community GGUF conversion of Meta's 1.2B-parameter Llama Guard 3 safety classifier, packaged for llama.cpp so prompt and output screening can run fully on-device — though it is a mirrored conversion, not an official Meta release.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/llama-guard-3-1b-goes-local-a-tiny-safety-classifier-lands-on-0u4lzc/</guid>
+</item>
+<item>
 <title>Tiny LLM, Giant Context: Menlo's Lucy-128k Now Available on Modelers.cn</title>
 <link>https://aichina.news/blog/tiny-llm-giant-context-menlo-s-lucy-128k-now-available-on-modelers-cn-ujtqgs/</link>
 <description>Menlo Research's Lucy-128k arrives as a GGUF build with a 128k-token context window, aimed at long-document local research agents.</description>
@@ -278,13 +285,6 @@
 <description>Community researcher pushes Reflection's 1TB Beam 1.0 501B MoE down to ~100GB of GGUF via 8-dimensional vector quantization (~1.5 bits per routed-expert weight), revised Oct 21 with calibration-weighted Lloyd re-conversion.</description>
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://huggingface.co/Baekpica/Beam-1.0-501B-A23B-VQ-GGUF</guid>
-</item>
-<item>
-<title>Recursive releases Flint, a 40B MoE open-weight local coder</title>
-<link>https://www.linkedin.com/posts/cong-lu-ml_introducing-flint-recursive-activity-7518719113180065792-GDqK</link>
-<description>Recursive's Flint is a 40B mixture-of-experts model with only 2.5B active parameters per token, released under Apache 2.0 and tuned for local coding work at 125+ tok/s on an M4 Pro.</description>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.linkedin.com/posts/cong-lu-ml_introducing-flint-recursive-activity-7518719113180065792-GDqK</guid>
 </item>
 </channel>
 </rss>
