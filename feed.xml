@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://paktechstan.com/microsoft-open-sources-agensh-a-leaderless-harness-that-runs-1-024-coding-agents-at-once</guid>
 </item>
 <item>
+<title>Microsoft open-sources Agensh, a leaderless harness scaling to 1,024 coding agents</title>
+<link>https://vibehacker.com/news/microsoft-open-sources-agensh-a-coding-agent-harness-that-scaled-to-1-024-agents</link>
+<description>Microsoft Research's MIT-licensed Agensh drops the central orchestrator: workers claim sub-tasks, share findings, and merge through a shared workspace, with reported pass-rate gains as agent counts scale.</description>
+<pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://vibehacker.com/news/microsoft-open-sources-agensh-a-coding-agent-harness-that-scaled-to-1-024-agents</guid>
+</item>
+<item>
 <title>Microsoft open-sources Agensh, a leaderless 1,024-agent coding harness</title>
 <link>https://ai.dosa.dev/blog/today-in-ai-2026-10-25/</link>
 <description>Microsoft Research releases a decentralized coding harness where workers claim their own subtasks and merge into a shared repo, scaled to 1,024 agents in its ProgramBench tests.</description>
@@ -103,6 +110,13 @@
 <description>A new open-source tool splits model layers across several household computers so a model too big for one machine's RAM can still run fully locally, with each machine approving its share before anything loads.</description>
 <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.clawdbytes.com/article/2026-10-22-show-hn-lumabri-run-large-ai-models-across-your-computers-and-serverspure-c</guid>
+</item>
+<item>
+<title>WoW Forever adds a Roleplay-PvP ruleset at launch</title>
+<link>https://wowforevernow.com/</link>
+<description>Blizzard will offer a Roleplay-PvP ruleset when WoW Forever launches November 4, with name reservations opening October 27.</description>
+<pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://wowforevernow.com/</guid>
 </item>
 <item>
 <title>Harness Kit 0.12.0: one governance plane for eight coding agents</title>
@@ -271,20 +285,6 @@
 <description>VPS provider Ready Server rolled out an OpenAI-compatible interface so all its VPS customers get private-network inference on open models with no API keys and no per-token billing, folding AI cost into flat infrastructure spend.</description>
 <pubDate>Tue, 20 Oct 2026 00:43:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.fathom.news/ready-server-opens-1-llm-api/</guid>
-</item>
-<item>
-<title>Google Research releases Harness², open-source agent harness optimizer</title>
-<link>https://techstrong.ai/agentic-ai/google-research-releases-harness%c2%b2-to-improve-ai-agents-without-retraining-models/</link>
-<description>Google Research open-sourced Harness² under Apache 2.0: a framework that improves AI agents by iteratively rewriting the harness around a fixed model, targeting teams that cannot or will not retrain weights.</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://techstrong.ai/agentic-ai/google-research-releases-harness%c2%b2-to-improve-ai-agents-without-retraining-models/</guid>
-</item>
-<item>
-<title>Xojo 2026 Release 3 introduces Agentic Mode for the IDE</title>
-<link>https://www.prnewswire.com/news-releases/xojo-2026-release-3-introduces-agentic-mode-bringing-ai-agents-directly-into-the-development-workflow-302914429.html</link>
-<description>Xojo's cross-platform IDE gains an Agentic Mode that lets AI coding agents edit projects, catch compile errors on their own, and work as first-class collaborators, alongside a rebuilt AI assistant named Jade.</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.prnewswire.com/news-releases/xojo-2026-release-3-introduces-agentic-mode-bringing-ai-agents-directly-into-the-development-workflow-302914429.html</guid>
 </item>
 </channel>
 </rss>
