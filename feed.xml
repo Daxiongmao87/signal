@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 27 Oct 2026 02:43:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 12:00:00 +0000</lastBuildDate>
+<item>
+<title>Dataiku launches Headless for agentic coding tools</title>
+<link>https://www.businesswire.com/news/home/20261027724926/en/Dataiku-Introduces-Headless-Bringing-Governed-Data-and-AI-Work-to-Agentic-Coding-Tools</link>
+<description>Dataiku's new Headless capability lets coding agents build, migrate, and inspect governed data projects from Claude Code, Codex, Cursor, and similar tools without leaving the editor.</description>
+<pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.businesswire.com/news/home/20261027724926/en/Dataiku-Introduces-Headless-Bringing-Governed-Data-and-AI-Work-to-Agentic-Coding-Tools</guid>
+</item>
 <item>
 <title>Epic VTT beta update: repairs and December 1 launch goal</title>
 <link>https://medium.com/@d20epiclevel/epic-vtt-beta-update-progress-repairs-and-our-december-1-launch-goal-edc21de3f8cf</link>
@@ -217,6 +224,13 @@
 <guid isPermaLink="true">https://news-ai.co/recursive-flint-local-ai-coding-model/</guid>
 </item>
 <item>
+<title>Experimental 1.5-bit vector-quantized GGUF of Ling-3.1-flash lands on Hugging Face</title>
+<link>https://huggingface.co/Baekpica/Ling-3.1-flash-VQ-GGUF</link>
+<description>An experimental vector-quantized GGUF conversion squeezes Ling-3.1-flash's routed experts to about 1.5 bits per weight, though it needs a custom runtime and carries explicit quality caveats.</description>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://huggingface.co/Baekpica/Ling-3.1-flash-VQ-GGUF</guid>
+</item>
+<item>
 <title>OpenChamber 2.5.0: one agentic dev session across devices</title>
 <link>https://devopspack.com/openchamber-agentic-development-environment-ai-coding/</link>
 <description>MIT-licensed agentic dev environment that runs coding agents locally and hands the live session to your phone over an encrypted relay, plus multi-run worktrees that put several models' diffs side by side for comparison.</description>
@@ -271,20 +285,6 @@
 <description>Latest Unsloth beta ships context-parallel (Ulysses) training, opt-in CPU offload of optimizer state, first-class FSDP2 LoRA finetuning, and fused preference-loss options.</description>
 <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.software-mirrors.com/products/unsloth</guid>
-</item>
-<item>
-<title>DeepInfer: DeepSeek's open-source inference engine</title>
-<link>https://explore.n1n.ai/blog/deepinfer-inside-deepseeks-open-source-inference-engine-2026-10-21</link>
-<description>DeepSeek open-sourced DeepInfer, the Apache-2.0 inference framework behind its production serving, starting with offline batch inference for DeepSeek-V4.1-Flash.</description>
-<pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://explore.n1n.ai/blog/deepinfer-inside-deepseeks-open-source-inference-engine-2026-10-21</guid>
-</item>
-<item>
-<title>Ready Server bundles OpenAI-compatible inference into VPS plans</title>
-<link>https://www.fathom.news/ready-server-opens-1-llm-api/</link>
-<description>VPS provider Ready Server rolled out an OpenAI-compatible interface so all its VPS customers get private-network inference on open models with no API keys and no per-token billing, folding AI cost into flat infrastructure spend.</description>
-<pubDate>Tue, 20 Oct 2026 00:43:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.fathom.news/ready-server-opens-1-llm-api/</guid>
 </item>
 </channel>
 </rss>
