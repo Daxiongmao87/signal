@@ -35,6 +35,20 @@
 <guid isPermaLink="true">https://aichina.news/blog/tiny-llm-giant-context-menlo-s-lucy-128k-now-available-on-modelers-cn-ujtqgs/</guid>
 </item>
 <item>
+<title>LocoOperator 4B GGUF lands on Modelers.cn</title>
+<link>https://aichina.news/blog/locooperator-4b-gguf-lands-on-modelers-cn-a-tiny-local-first-operator-aw0m7f/</link>
+<description>A community GGUF conversion of a small 4B operator-style model, packaged for llama.cpp, Ollama and LM Studio, though its model card lists no benchmarks or clear provenance.</description>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/locooperator-4b-gguf-lands-on-modelers-cn-a-tiny-local-first-operator-aw0m7f/</guid>
+</item>
+<item>
+<title>Axolotl v0.21.0 adds fine-tuning support for Reflection's Beam</title>
+<link>https://tech-insider.org/au/fine-tuning-reflection-beam-axolotl-2026/</link>
+<description>Axolotl's latest release ships Beam support with QLoRA on a single 8xH200 node, FSDP2 configs and expert-parallel LoRA recipes for B200 GPUs.</description>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://tech-insider.org/au/fine-tuning-reflection-beam-axolotl-2026/</guid>
+</item>
+<item>
 <title>Lucie-7B Goes GGUF: A French Open LLM You Can Now Run Locally</title>
 <link>https://aichina.news/blog/lucie-7b-goes-gguf-a-french-open-llm-you-can-now-run-locally-straight-odexod/</link>
 <description>OpenLLM-France's French-oriented 7B instruct model repackaged in GGUF, so it runs through llama.cpp-style runtimes on a laptop or workstation without a full Transformers setup.</description>
@@ -271,20 +285,6 @@
 <description>Recursive's Flint is a 40B mixture-of-experts model with only 2.5B active parameters per token, released under Apache 2.0 and tuned for local coding work at 125+ tok/s on an M4 Pro.</description>
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.linkedin.com/posts/cong-lu-ml_introducing-flint-recursive-activity-7518719113180065792-GDqK</guid>
-</item>
-<item>
-<title>Crucible, a free game system built for Foundry VTT Version 14, enters alpha</title>
-<link>https://www.foundryvtt-hub.com/package/crucible/</link>
-<description>A free, VTT-native game system targeting Foundry v14's alpha phase, leaning on compendiums and automation for GM-built creatures.</description>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.foundryvtt-hub.com/package/crucible/</guid>
-</item>
-<item>
-<title>Recursive launches Flint, an open-weight laptop coding model largely built by AI</title>
-<link>https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/</link>
-<description>Recursive's first model is a 40B-parameter MoE with 2.5B active per token, released under Apache 2.0 with Hugging Face weights and day-one support in Ollama, LM Studio, llama.cpp, and OpenHands.</description>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/</guid>
 </item>
 </channel>
 </rss>
