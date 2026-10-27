@@ -189,6 +189,13 @@
 <guid isPermaLink="true">https://huggingface.co/AtomicChat/Qwen3.8-Flash-Next-GGUF</guid>
 </item>
 <item>
+<title>Recursive Flint: open-weight coding model built to run locally</title>
+<link>https://news-ai.co/recursive-flint-local-ai-coding-model/</link>
+<description>Recursive's Apache-2.0 Flint is a 39.8B MoE coding model with about 2.5B active parameters per token, paired with a local inference engine aimed at high-memory Apple Silicon Macs.</description>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://news-ai.co/recursive-flint-local-ai-coding-model/</guid>
+</item>
+<item>
 <title>OpenChamber 2.5.0: one agentic dev session across devices</title>
 <link>https://devopspack.com/openchamber-agentic-development-environment-ai-coding/</link>
 <description>MIT-licensed agentic dev environment that runs coding agents locally and hands the live session to your phone over an encrypted relay, plus multi-run worktrees that put several models' diffs side by side for comparison.</description>
@@ -278,13 +285,6 @@
 <description>llm-d hit 1.0 as a CNCF-governed open-source layer for serving open models across GPU fleets, backed by Red Hat, IBM, Google and Nvidia, aimed at the serving cost side of AI rather than training.</description>
 <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.martincid.com/technology-sv/llm-d-1-0-open-source-ai-inference-red-hat-ibm-google-nvidia/</guid>
-</item>
-<item>
-<title>GMG AI Agent: open-source, LLM-agnostic agent for ServiceNow (Apache 2.0)</title>
-<link>https://www.linkedin.com/posts/chris-gatlin-1993904a_servicenow-opensource-agenticai-activity-7518293497196544000-da9j</link>
-<description>A floating-panel AI agent built inside ServiceNow was open-sourced under Apache 2.0: LLM-agnostic, server-enforced confirm-before-write, and per-user spend caps.</description>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.linkedin.com/posts/chris-gatlin-1993904a_servicenow-opensource-agenticai-activity-7518293497196544000-da9j</guid>
 </item>
 </channel>
 </rss>
