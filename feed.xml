@@ -56,6 +56,13 @@
 <guid isPermaLink="true">https://tech-insider.org/au/fine-tuning-reflection-beam-axolotl-2026/</guid>
 </item>
 <item>
+<title>LM Studio vs Ollama vs llama.cpp (2026): Speed and Setup</title>
+<link>https://www.betterclaw.io/blog/ollama-vs-lm-studio</link>
+<description>A freshly updated rundown of the local-runner landscape: Ollama is back on llama.cpp's llama-server for GGUF models with MLX as the Apple Silicon default, and LM Studio's 0.4.0 line no longer needs the desktop app installed.</description>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.betterclaw.io/blog/ollama-vs-lm-studio</guid>
+</item>
+<item>
 <title>Lucie-7B Goes GGUF: A French Open LLM You Can Now Run Locally</title>
 <link>https://aichina.news/blog/lucie-7b-goes-gguf-a-french-open-llm-you-can-now-run-locally-straight-odexod/</link>
 <description>OpenLLM-France's French-oriented 7B instruct model repackaged in GGUF, so it runs through llama.cpp-style runtimes on a laptop or workstation without a full Transformers setup.</description>
@@ -278,13 +285,6 @@
 <description>DeepSeek published DeepInfer, a vLLM-derived open-source engine tuned for serving its V4.1-Flash model at scale — but it does offline batch inference, not a general-purpose chat server.</description>
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://selfhostpilot.com/deepinfer-open-source-inference-engine/</guid>
-</item>
-<item>
-<title>Beam-1.0-501B-A23B-VQ-GGUF: experimental vector-quantized GGUF of Reflection's Beam 501B</title>
-<link>https://huggingface.co/Baekpica/Beam-1.0-501B-A23B-VQ-GGUF</link>
-<description>Community researcher pushes Reflection's 1TB Beam 1.0 501B MoE down to ~100GB of GGUF via 8-dimensional vector quantization (~1.5 bits per routed-expert weight), revised Oct 21 with calibration-weighted Lloyd re-conversion.</description>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://huggingface.co/Baekpica/Beam-1.0-501B-A23B-VQ-GGUF</guid>
 </item>
 </channel>
 </rss>
