@@ -140,6 +140,13 @@
 <guid isPermaLink="true">https://genznewz.com/tanstack-ai-10-ships-stable-agent-toolkit-for-web-apps</guid>
 </item>
 <item>
+<title>llama.cpp --n-cpu-moe: a 35B MoE model at readable speed on an 8GB laptop GPU</title>
+<link>https://www.xda-developers.com/i-stopped-thinking-my-8gb-gpu-was-too-small-after-learning-to-offload-moe-llm-layers-to-ram/</link>
+<description>Offloading the first 28 layers' MoE expert weights to system RAM with llama.cpp's --n-cpu-moe flag lifted a 35B MoE model from about 4 to about 33 tokens per second on an 8GB laptop GPU, keeping attention, embeddings and KV cache in VRAM.</description>
+<pubDate>Thu, 22 Oct 2026 20:30:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.xda-developers.com/i-stopped-thinking-my-8gb-gpu-was-too-small-after-learning-to-offload-moe-llm-layers-to-ram/</guid>
+</item>
+<item>
 <title>You.com launches Inference Router for open-weight models with enterprise SLAs</title>
 <link>https://www.businesswire.com/news/home/20261022440904/en/You.com-Launches-Inference-Router-Bringing-Enterprise-Grade-Reliability-to-Open-Weight-AI-Models-On-Demand</link>
 <description>New routing service sends requests to open-weight models served by Parasail, Inception, Meta and Alibaba Cloud under enterprise SLAs; early customers report roughly halved inference bills.</description>
@@ -278,13 +285,6 @@
 <description>An experimental vector-quantized GGUF conversion squeezes Ling-3.1-flash's routed experts to about 1.5 bits per weight, though it needs a custom runtime and carries explicit quality caveats.</description>
 <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://huggingface.co/Baekpica/Ling-3.1-flash-VQ-GGUF</guid>
-</item>
-<item>
-<title>OpenChamber 2.5.0: one agentic dev session across devices</title>
-<link>https://devopspack.com/openchamber-agentic-development-environment-ai-coding/</link>
-<description>MIT-licensed agentic dev environment that runs coding agents locally and hands the live session to your phone over an encrypted relay, plus multi-run worktrees that put several models' diffs side by side for comparison.</description>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://devopspack.com/openchamber-agentic-development-environment-ai-coding/</guid>
 </item>
 </channel>
 </rss>
