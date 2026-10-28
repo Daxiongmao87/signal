@@ -91,6 +91,13 @@
 <guid isPermaLink="true">https://vibehacker.com/news/microsoft-open-sources-agensh-a-coding-agent-harness-that-scaled-to-1-024-agents</guid>
 </item>
 <item>
+<title>Microsoft Open-Sources Agensh, a Multi-Agent Harness for 1,024 Agents</title>
+<link>https://cryptonwz.com/microsoft-open-sources-agensh-a-multi-agent-harness-for-1024-agents/</link>
+<description>Microsoft Research released a leaderless coding-agent harness where workers claim their own subtasks and merge into a shared repo, scaling from 1 to 1,024 agents on ProgramBench.</description>
+<pubDate>Sun, 25 Oct 2026 08:02:04 +0000</pubDate>
+<guid isPermaLink="true">https://cryptonwz.com/microsoft-open-sources-agensh-a-multi-agent-harness-for-1024-agents/</guid>
+</item>
+<item>
 <title>Microsoft open-sources Agensh, a leaderless 1,024-agent coding harness</title>
 <link>https://ai.dosa.dev/blog/today-in-ai-2026-10-25/</link>
 <description>Microsoft Research releases a decentralized coding harness where workers claim their own subtasks and merge into a shared repo, scaled to 1,024 agents in its ProgramBench tests.</description>
@@ -278,13 +285,6 @@
 <description>MIT-licensed agentic dev environment that runs coding agents locally and hands the live session to your phone over an encrypted relay, plus multi-run worktrees that put several models' diffs side by side for comparison.</description>
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://devopspack.com/openchamber-agentic-development-environment-ai-coding/</guid>
-</item>
-<item>
-<title>DeepInfer: DeepSeek's open-source inference engine (batch-only, one model family)</title>
-<link>https://selfhostpilot.com/deepinfer-open-source-inference-engine/</link>
-<description>DeepSeek published DeepInfer, a vLLM-derived open-source engine tuned for serving its V4.1-Flash model at scale — but it does offline batch inference, not a general-purpose chat server.</description>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://selfhostpilot.com/deepinfer-open-source-inference-engine/</guid>
 </item>
 </channel>
 </rss>
