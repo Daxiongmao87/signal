@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 27 Oct 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Cognitum One Unveils MetaHarness, an Open-Source Factory for Agent Harnesses</title>
+<link>https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/cognitum-one-unveils-metaharness-the-open-source-factory-for-bran-1242525</link>
+<description>Announced at GitHub Universe 2026, MetaHarness generates a branded, governed coding-agent harness from a repo or blank page, with its own CLI, MCP server, scoped memory, and signed releases, while the model stays swappable.</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/cognitum-one-unveils-metaharness-the-open-source-factory-for-bran-1242525</guid>
+</item>
 <item>
 <title>Dataiku launches Headless for agentic coding tools</title>
 <link>https://www.businesswire.com/news/home/20261027724926/en/Dataiku-Introduces-Headless-Bringing-Governed-Data-and-AI-Work-to-Agentic-Coding-Tools</link>
@@ -278,13 +285,6 @@
 <description>Recursive's Apache-2.0 Flint is a 39.8B MoE coding model with about 2.5B active parameters per token, paired with a local inference engine aimed at high-memory Apple Silicon Macs.</description>
 <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://news-ai.co/recursive-flint-local-ai-coding-model/</guid>
-</item>
-<item>
-<title>Experimental 1.5-bit vector-quantized GGUF of Ling-3.1-flash lands on Hugging Face</title>
-<link>https://huggingface.co/Baekpica/Ling-3.1-flash-VQ-GGUF</link>
-<description>An experimental vector-quantized GGUF conversion squeezes Ling-3.1-flash's routed experts to about 1.5 bits per weight, though it needs a custom runtime and carries explicit quality caveats.</description>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://huggingface.co/Baekpica/Ling-3.1-flash-VQ-GGUF</guid>
 </item>
 </channel>
 </rss>
