@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 28 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 12:00:00 +0000</lastBuildDate>
+<item>
+<title>MCP Suite Pro v1.0.2 aligns LM Studio and Ollama timeouts for large local models</title>
+<link>https://itch.io/devlog/1735512/v102-release-lm-studio-ollama-timeout-alignment-for-large-contexts.amp</link>
+<description>Small devlog release standardizing local-model timeouts at 300 seconds so heavy quantized weights (14B-70B) finish loading into VRAM without premature HTTP aborts, plus env-var controls for the LM Studio, Ollama, and chat timeouts.</description>
+<pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://itch.io/devlog/1735512/v102-release-lm-studio-ollama-timeout-alignment-for-large-contexts.amp</guid>
+</item>
 <item>
 <title>Cognitum One Unveils MetaHarness, an Open-Source Factory for Agent Harnesses</title>
 <link>https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/cognitum-one-unveils-metaharness-the-open-source-factory-for-bran-1242525</link>
@@ -26,6 +33,13 @@
 <description>A GGUF build of MTS AI's compact Cotype Nano model lands on Modelers.cn, giving llama.cpp, Ollama, and LM Studio users a lightweight local option.</description>
 <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/small-fast-local-mts-ais-cotype-nano-arrives-on-modelers-cn-xlbyc2/</guid>
+</item>
+<item>
+<title>Codein v1.0.7: lightweight Termux AI terminal agent gets easier to launch</title>
+<link>https://undercodenews.com/codein-v107-just-updated-a-lightweight-ai-terminal-agent-gets-easier-to-launch-video/</link>
+<description>Termux-based terminal agent launcher update adding AI provider support and chat history, aimed at running AI-assisted terminal workflows on Android devices and modest hardware.</description>
+<pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://undercodenews.com/codein-v107-just-updated-a-lightweight-ai-terminal-agent-gets-easier-to-launch-video/</guid>
 </item>
 <item>
 <title>Epic VTT beta update: repairs and December 1 launch goal</title>
@@ -271,20 +285,6 @@
 <description>DeepSeek open-sourced DeepInfer, the production inference framework behind V4.1 Flash, with reported single-cluster throughput of 155 trillion tokens per day; open questions on how portable it is beyond DeepSeek's own stack.</description>
 <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://latent.space/p/ainews-deepseek-deepinfer-open-source/</guid>
-</item>
-<item>
-<title>Xojo 2026 R3 adds Agentic Mode for AI coding agents</title>
-<link>https://www.europesays.com/3324339/</link>
-<description>Xojo's new release lets external coding agents edit projects, trigger rebuilds, and read compiler errors back, forming an automated edit-test-fix loop.</description>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.europesays.com/3324339/</guid>
-</item>
-<item>
-<title>DeepSeek open-sources DeepInfer, its V4.1-Flash serving stack</title>
-<link>https://aiweekly.co/alerts/deepseek-open-sources-deepinfer-its-v41-flash-serving-stack</link>
-<description>DeepSeek released DeepInfer, the Apache-2.0 inference framework behind its V4.1-Flash production services, claiming 155 trillion tokens per day per cluster with first-class support for both Nvidia SM100 and Huawei Ascend 950.</description>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aiweekly.co/alerts/deepseek-open-sources-deepinfer-its-v41-flash-serving-stack</guid>
 </item>
 </channel>
 </rss>
