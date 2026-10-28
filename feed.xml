@@ -42,6 +42,13 @@
 <guid isPermaLink="true">https://aichina.news/blog/llama-guard-3-1b-goes-local-a-tiny-safety-classifier-lands-on-0u4lzc/</guid>
 </item>
 <item>
+<title>OllamaServer: one-click Ollama on Android, no Termux needed</title>
+<link>https://pengen.diewe.workers.dev/copilotkit/google-https-github.com/sunshine0523/OllamaServer</link>
+<description>A new Android app starts the Ollama service with one tap, pulls official models, and accepts custom GGUF uploads, removing the Termux setup step for on-device inference.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://pengen.diewe.workers.dev/copilotkit/google-https-github.com/sunshine0523/OllamaServer</guid>
+</item>
+<item>
 <title>Tiny LLM, Giant Context: Menlo's Lucy-128k Now Available on Modelers.cn</title>
 <link>https://aichina.news/blog/tiny-llm-giant-context-menlo-s-lucy-128k-now-available-on-modelers-cn-ujtqgs/</link>
 <description>Menlo Research's Lucy-128k arrives as a GGUF build with a 128k-token context window, aimed at long-document local research agents.</description>
@@ -68,6 +75,13 @@
 <description>A freshly updated rundown of the local-runner landscape: Ollama is back on llama.cpp's llama-server for GGUF models with MLX as the Apple Silicon default, and LM Studio's 0.4.0 line no longer needs the desktop app installed.</description>
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.betterclaw.io/blog/ollama-vs-lm-studio</guid>
+</item>
+<item>
+<title>Hobbyists are squeezing trillion-parameter models onto laptops</title>
+<link>https://startupfortune.com/hobbyists-are-squeezing-trillion-parameter-ai-models-onto-laptops/</link>
+<description>Quantization and SSD streaming let hobbyists run enormous open-weight models on consumer rigs and MacBooks, slowly if at all fast, as the floor for serious local inference keeps dropping.</description>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://startupfortune.com/hobbyists-are-squeezing-trillion-parameter-ai-models-onto-laptops/</guid>
 </item>
 <item>
 <title>Lucie-7B Goes GGUF: A French Open LLM You Can Now Run Locally</title>
@@ -271,20 +285,6 @@
 <description>DeepSeek released DeepInfer, the Apache-2.0 inference framework behind its V4.1-Flash production services, claiming 155 trillion tokens per day per cluster with first-class support for both Nvidia SM100 and Huawei Ascend 950.</description>
 <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aiweekly.co/alerts/deepseek-open-sources-deepinfer-its-v41-flash-serving-stack</guid>
-</item>
-<item>
-<title>Qwen3.8-Flash-Next arrives as GGUF</title>
-<link>https://huggingface.co/AtomicChat/Qwen3.8-Flash-Next-GGUF</link>
-<description>Community GGUF build of Qwen's Qwen3.8-Flash-Next with imatrix-based Q4_K_M quants, ready for llama.cpp, Ollama, and LM Studio.</description>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://huggingface.co/AtomicChat/Qwen3.8-Flash-Next-GGUF</guid>
-</item>
-<item>
-<title>Recursive Flint: open-weight coding model built to run locally</title>
-<link>https://news-ai.co/recursive-flint-local-ai-coding-model/</link>
-<description>Recursive's Apache-2.0 Flint is a 39.8B MoE coding model with about 2.5B active parameters per token, paired with a local inference engine aimed at high-memory Apple Silicon Macs.</description>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://news-ai.co/recursive-flint-local-ai-coding-model/</guid>
 </item>
 </channel>
 </rss>
