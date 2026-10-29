@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 28 Oct 2026 20:37:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Infini-AI-Lab releases Hermit, an open-source harness adapter framework for AI agents</title>
+<link>https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/</link>
+<description>Hermit trains a small external adapter that tunes Codex or Claude Code agents to new tasks while leaving both the model and the harness frozen, with local vLLM, SGLang, or Ollama backends.</description>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/</guid>
+</item>
 <item>
 <title>October 2026 Developer Update</title>
 <link>https://blog.forge-vtt.com/october-2026-developer-update/</link>
@@ -278,13 +285,6 @@
 <description>Blizzard will offer a Roleplay-PvP ruleset when WoW Forever launches November 4, with name reservations opening October 27.</description>
 <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://wowforevernow.com/</guid>
-</item>
-<item>
-<title>Harness Kit 0.12.0: one governance plane for eight coding agents</title>
-<link>https://undercodenews.com/harness-kit-just-updated-version-0120-brings-unified-governance-to-eight-ai-coding-agents/</link>
-<description>Oct 22 nightly adds whole-harness portability across Claude Code, Cursor, Copilot, Codex, OpenCode, Windsurf, Gemini and Junie: capture, reconcile, deploy and roll back full harness configs.</description>
-<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://undercodenews.com/harness-kit-just-updated-version-0120-brings-unified-governance-to-eight-ai-coding-agents/</guid>
 </item>
 </channel>
 </rss>
