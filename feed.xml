@@ -154,6 +154,13 @@
 <guid isPermaLink="true">https://ai-tldr.dev/models/lfm3-1-7b/</guid>
 </item>
 <item>
+<title>What Is WoW Forever?</title>
+<link>https://eternadex.com/en/was-ist-wow-forever/</link>
+<description>A current rundown of Blizzard's Classic Plus project ahead of its November 4 launch, covering the subscription model, name reservation window, and new systems like the Skyborne race and Legacy progression.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://eternadex.com/en/was-ist-wow-forever/</guid>
+</item>
+<item>
 <title>Tiny LLM, Giant Context: Menlo's Lucy-128k Now Available on Modelers.cn</title>
 <link>https://aichina.news/blog/tiny-llm-giant-context-menlo-s-lucy-128k-now-available-on-modelers-cn-ujtqgs/</link>
 <description>Menlo Research's Lucy-128k arrives as a GGUF build with a 128k-token context window, aimed at long-document local research agents.</description>
@@ -278,13 +285,6 @@
 <description>Offloading the first 28 layers' MoE expert weights to system RAM with llama.cpp's --n-cpu-moe flag lifted a 35B MoE model from about 4 to about 33 tokens per second on an 8GB laptop GPU, keeping attention, embeddings and KV cache in VRAM.</description>
 <pubDate>Thu, 22 Oct 2026 20:30:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.xda-developers.com/i-stopped-thinking-my-8gb-gpu-was-too-small-after-learning-to-offload-moe-llm-layers-to-ram/</guid>
-</item>
-<item>
-<title>You.com launches Inference Router for open-weight models with enterprise SLAs</title>
-<link>https://www.businesswire.com/news/home/20261022440904/en/You.com-Launches-Inference-Router-Bringing-Enterprise-Grade-Reliability-to-Open-Weight-AI-Models-On-Demand</link>
-<description>New routing service sends requests to open-weight models served by Parasail, Inception, Meta and Alibaba Cloud under enterprise SLAs; early customers report roughly halved inference bills.</description>
-<pubDate>Thu, 22 Oct 2026 18:54:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.businesswire.com/news/home/20261022440904/en/You.com-Launches-Inference-Router-Bringing-Enterprise-Grade-Reliability-to-Open-Weight-AI-Models-On-Demand</guid>
 </item>
 </channel>
 </rss>
