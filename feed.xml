@@ -140,6 +140,13 @@
 <guid isPermaLink="true">https://aichina.news/blog/new-on-modelers-cn-devquasar-s-llama-3-2-3b-gguf-for-local-inference-ncmrhp/</guid>
 </item>
 <item>
+<title>LFM3-1.7B: Liquid AI's 1.7B Model for Local Agents</title>
+<link>https://ai-tldr.dev/models/lfm3-1-7b/</link>
+<description>A benchmark-focused breakdown of Liquid AI's 1.7B LFM3 text model for local agents, with llama.cpp edge speeds and memory use across Mac, Ryzen AI, and iPhone hardware.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://ai-tldr.dev/models/lfm3-1-7b/</guid>
+</item>
+<item>
 <title>Tiny LLM, Giant Context: Menlo's Lucy-128k Now Available on Modelers.cn</title>
 <link>https://aichina.news/blog/tiny-llm-giant-context-menlo-s-lucy-128k-now-available-on-modelers-cn-ujtqgs/</link>
 <description>Menlo Research's Lucy-128k arrives as a GGUF build with a 128k-token context window, aimed at long-document local research agents.</description>
@@ -231,6 +238,13 @@
 <guid isPermaLink="true">https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/</guid>
 </item>
 <item>
+<title>Microsoft Open-Sources Agensh, a 1,024-Agent Harness With No Leader</title>
+<link>https://geroundtable.com/microsoft-agensh-1024-agent-harness/</link>
+<description>Microsoft Research's open-source Agensh coordinates up to 1,024 coding agents without a central orchestrator, with workers claiming tasks and merging progress through a shared workspace and context board.</description>
+<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://geroundtable.com/microsoft-agensh-1024-agent-harness/</guid>
+</item>
+<item>
 <title>AI This Week: open tools for safer agents</title>
 <link>https://trewknowledge.com/2026/10/23/ai-this-week-open-tools-for-safer-agents/</link>
 <description>Weekly roundup of open agent tooling, including Google's self-refining Harness² framework, big jumps in COBOL-migration benchmarks, and new open infrastructure for safer agents.</description>
@@ -271,20 +285,6 @@
 <description>A community builder extracted the draft-head from a Ling-3.0-tiny UBTree release so it runs on stock llama.cpp via dflash speculative decoding, reporting roughly 8% faster prose and 61% faster code generation.</description>
 <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://vibingtalk.com/index.php?threads/ling-3-0-tiny-ubtree-dflash-draft-for-stock-mainline-llama-cpp-8-prose-61-code-speedup.1896522/</guid>
-</item>
-<item>
-<title>AMD's New ONNX Phi-3.5 Mini: A Local AI Powerhouse for Ryzen AI Laptops</title>
-<link>https://aichina.news/blog/amd-s-new-onnx-phi-3-5-mini-a-local-ai-powerhouse-for-ryzen-ai-laptops-7ckq1c/</link>
-<description>Modelers.cn published a 4-bit ONNX build of Microsoft's Phi-3.5-mini tuned for AMD Ryzen AI 300-series NPUs, shrinking the model to a 2-3GB footprint for fully on-device inference on Strix Point laptops.</description>
-<pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/amd-s-new-onnx-phi-3-5-mini-a-local-ai-powerhouse-for-ryzen-ai-laptops-7ckq1c/</guid>
-</item>
-<item>
-<title>Lumabri shards LLM inference across local machines in pure C</title>
-<link>https://www.clawdbytes.com/article/2026-10-22-show-hn-lumabri-run-large-ai-models-across-your-computers-and-serverspure-c</link>
-<description>A new open-source tool splits model layers across several household computers so a model too big for one machine's RAM can still run fully locally, with each machine approving its share before anything loads.</description>
-<pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.clawdbytes.com/article/2026-10-22-show-hn-lumabri-run-large-ai-models-across-your-computers-and-serverspure-c</guid>
 </item>
 </channel>
 </rss>
