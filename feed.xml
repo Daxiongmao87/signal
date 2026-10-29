@@ -63,6 +63,13 @@
 <guid isPermaLink="true">https://medium.com/data-science-in-your-pocket/lfm3-1-7b-best-small-llm-is-here-fdca5ae0d632</guid>
 </item>
 <item>
+<title>NVIDIA Launches Open-Weight Speech Model and 463,062-Hour Audio Dataset</title>
+<link>https://www.unite.ai/nvidia-launches-open-weight-speech-model-and-463-062-hour-audio-dataset/</link>
+<description>NVIDIA's Nemotron 3.5 Transcribe pairs transcription, translation, speaker attribution, and audio Q&amp;A in one open-weight checkpoint that runs on a single GPU, alongside a 463,062-hour open speech dataset.</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.unite.ai/nvidia-launches-open-weight-speech-model-and-463-062-hour-audio-dataset/</guid>
+</item>
+<item>
 <title>Dataiku launches Headless for agentic coding tools</title>
 <link>https://www.businesswire.com/news/home/20261027724926/en/Dataiku-Introduces-Headless-Bringing-Governed-Data-and-AI-Work-to-Agentic-Coding-Tools</link>
 <description>Dataiku's new Headless capability lets coding agents build, migrate, and inspect governed data projects from Claude Code, Codex, Cursor, and similar tools without leaving the editor.</description>
@@ -278,13 +285,6 @@
 <description>New routing service sends requests to open-weight models served by Parasail, Inception, Meta and Alibaba Cloud under enterprise SLAs; early customers report roughly halved inference bills.</description>
 <pubDate>Thu, 22 Oct 2026 18:54:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.businesswire.com/news/home/20261022440904/en/You.com-Launches-Inference-Router-Bringing-Enterprise-Grade-Reliability-to-Open-Weight-AI-Models-On-Demand</guid>
-</item>
-<item>
-<title>Ling-3.0-tiny DFlash draft for stock llama.cpp</title>
-<link>https://vibingtalk.com/index.php?threads/ling-3-0-tiny-ubtree-dflash-draft-for-stock-mainline-llama-cpp-8-prose-61-code-speedup.1896522/</link>
-<description>A community builder extracted the draft-head from a Ling-3.0-tiny UBTree release so it runs on stock llama.cpp via dflash speculative decoding, reporting roughly 8% faster prose and 61% faster code generation.</description>
-<pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://vibingtalk.com/index.php?threads/ling-3-0-tiny-ubtree-dflash-draft-for-stock-mainline-llama-cpp-8-prose-61-code-speedup.1896522/</guid>
 </item>
 </channel>
 </rss>
