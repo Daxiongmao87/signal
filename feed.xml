@@ -21,6 +21,20 @@
 <guid isPermaLink="true">https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/cognitum-one-unveils-metaharness-the-open-source-factory-for-bran-1242525</guid>
 </item>
 <item>
+<title>GitHub Agentic Workflows reaches general availability</title>
+<link>https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available/</link>
+<description>GitHub's open-source project for automating reasoning-based tasks with coding agents inside Actions is now generally available, compiling natural-language Markdown workflow definitions into standard Actions YAML with sandboxed, read-only-by-default execution.</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available/</guid>
+</item>
+<item>
+<title>WoW Forever aims for four-month raid tiers and PC gamepad support at launch</title>
+<link>https://mmohuts.com/news/world-of-warcraft-forever-aims-for-four-month-raid-tiers-and-pc-gamepad-support-at-launch</link>
+<description>Blizzard plans a roughly four-month patch rhythm with raid tiers and PvP seasons about three times a year, plus PC gamepad support, while keeping the launch focus on Eastern Kingdoms and Kalimdor.</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://mmohuts.com/news/world-of-warcraft-forever-aims-for-four-month-raid-tiers-and-pc-gamepad-support-at-launch</guid>
+</item>
+<item>
 <title>Dataiku launches Headless for agentic coding tools</title>
 <link>https://www.businesswire.com/news/home/20261027724926/en/Dataiku-Introduces-Headless-Bringing-Governed-Data-and-AI-Work-to-Agentic-Coding-Tools</link>
 <description>Dataiku's new Headless capability lets coding agents build, migrate, and inspect governed data projects from Claude Code, Codex, Cursor, and similar tools without leaving the editor.</description>
@@ -82,6 +96,20 @@
 <description>A llama.cpp-compatible GGUF conversion of Liquid AI's experimental 2.6B hybrid-attention model, aimed at evaluating the LFM2 family on CPUs, Apple Silicon, and consumer GPUs.</description>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/liquid-ais-compact-2-6b-model-goes-local-a-gguf-build-for-edge-sl7mvl/</guid>
+</item>
+<item>
+<title>Liquid AI releases LFM3, six small open-weight models for local hardware</title>
+<link>https://webdiga.com/lfm3-local/</link>
+<description>Six roughly 2B-parameter models covering text, vision, audio and decision tasks, with llama.cpp built from source as the fastest local route and the tiny text model reaching about 40 tokens per second on CPU in testing.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://webdiga.com/lfm3-local/</guid>
+</item>
+<item>
+<title>DevQuasar's Llama 3.2 3B GGUF lands on Modelers.cn for local inference</title>
+<link>https://aichina.news/blog/new-on-modelers-cn-devquasar-s-llama-3-2-3b-gguf-for-local-inference-ncmrhp/</link>
+<description>A GGUF packaging of Meta's 3B Llama 3.2 model for offline text generation on laptops and constrained devices via llama.cpp-compatible runtimes, with no Ascend-specific optimization on the card.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/new-on-modelers-cn-devquasar-s-llama-3-2-3b-gguf-for-local-inference-ncmrhp/</guid>
 </item>
 <item>
 <title>Tiny LLM, Giant Context: Menlo's Lucy-128k Now Available on Modelers.cn</title>
@@ -257,34 +285,6 @@
 <description>Recursive's first model: a 40B MoE coding model with only 2.5B active params per token, Apache-2.0 weights on Hugging Face, aimed at local agentic coding at 125+ tok/s on a MacBook.</description>
 <pubDate>Wed, 21 Oct 2026 23:29:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/</guid>
-</item>
-<item>
-<title>mabl launches agentic testing harness</title>
-<link>https://signalnewsrichmond.com/press-releases/122349/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents/</link>
-<description>mabl released an agentic testing harness targeting the verification bottleneck coding agents create, reporting 1.58M unique failures analyzed across 3.3M agent sessions in the prior 90 days.</description>
-<pubDate>Wed, 21 Oct 2026 12:34:35 +0000</pubDate>
-<guid isPermaLink="true">https://signalnewsrichmond.com/press-releases/122349/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents/</guid>
-</item>
-<item>
-<title>mabl adds an agentic testing harness for agent-written code</title>
-<link>https://www.prnewswire.com/news-releases/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents-302914831.html</link>
-<description>mabl's release puts agent guardrails and independent verification of coding-agent output inside the terminal, before the pull request.</description>
-<pubDate>Wed, 21 Oct 2026 12:32:27 +0000</pubDate>
-<guid isPermaLink="true">https://www.prnewswire.com/news-releases/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents-302914831.html</guid>
-</item>
-<item>
-<title>mabl ships an agentic testing harness aimed at AI-written code</title>
-<link>https://lifestyle.houstonnewstoday.com/story/956568/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents/</link>
-<description>mabl's new harness runs its own agents against AI-generated code and feeds the failures back to the coding agents, built on 3.3M agent sessions analyzed over 90 days.</description>
-<pubDate>Wed, 21 Oct 2026 12:32:25 +0000</pubDate>
-<guid isPermaLink="true">https://lifestyle.houstonnewstoday.com/story/956568/mabl-introduces-agentic-testing-harness-to-clear-the-verification-bottleneck-created-by-coding-agents/</guid>
-</item>
-<item>
-<title>Xojo 2026 Release 3 adds Agentic Mode for AI coding agents</title>
-<link>https://techedgeai.com/xojo-adds-agentic-mode-for-ai-assisted-app-development/</link>
-<description>Xojo 2026r3 lets AI coding agents edit projects, trigger builds, and read compiler feedback directly inside its cross-platform IDE.</description>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://techedgeai.com/xojo-adds-agentic-mode-for-ai-assisted-app-development/</guid>
 </item>
 </channel>
 </rss>
