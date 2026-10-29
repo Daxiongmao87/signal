@@ -63,6 +63,27 @@
 <guid isPermaLink="true">https://pengen.diewe.workers.dev/copilotkit/google-https-github.com/sunshine0523/OllamaServer</guid>
 </item>
 <item>
+<title>SuperNova-Lite reasoning model arrives as GGUF for local runs</title>
+<link>https://aichina.news/blog/local-reasoning-no-cloud-required-supernova-lite-arrives-as-gguf-on-q0ck4u/</link>
+<description>A community GGUF packaging of Arcee AI's 8B SuperNova-Lite, a DeepSeek-R1-distilled reasoner, sized to run on consumer hardware at roughly 5-6 GB in 4-bit.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/local-reasoning-no-cloud-required-supernova-lite-arrives-as-gguf-on-q0ck4u/</guid>
+</item>
+<item>
+<title>Lang-Exster 0.5B Instruct lands in ONNX for tiny on-device use</title>
+<link>https://aichina.news/blog/tiny-portable-apache-2-0-lang-exster-0-5b-instruct-onnx-lands-on-5pz7u8/</link>
+<description>A half-billion-parameter Apache-2.0 instruction model exported to ONNX for portable CPU and edge inference, with a conversion path to Huawei Ascend NPUs.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/tiny-portable-apache-2-0-lang-exster-0-5b-instruct-onnx-lands-on-5pz7u8/</guid>
+</item>
+<item>
+<title>Liquid AI's compact LFM2-2.6B-Exp gets a GGUF build for edge testing</title>
+<link>https://aichina.news/blog/liquid-ais-compact-2-6b-model-goes-local-a-gguf-build-for-edge-sl7mvl/</link>
+<description>A llama.cpp-compatible GGUF conversion of Liquid AI's experimental 2.6B hybrid-attention model, aimed at evaluating the LFM2 family on CPUs, Apple Silicon, and consumer GPUs.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/liquid-ais-compact-2-6b-model-goes-local-a-gguf-build-for-edge-sl7mvl/</guid>
+</item>
+<item>
 <title>Tiny LLM, Giant Context: Menlo's Lucy-128k Now Available on Modelers.cn</title>
 <link>https://aichina.news/blog/tiny-llm-giant-context-menlo-s-lucy-128k-now-available-on-modelers-cn-ujtqgs/</link>
 <description>Menlo Research's Lucy-128k arrives as a GGUF build with a 128k-token context window, aimed at long-document local research agents.</description>
@@ -264,27 +285,6 @@
 <description>Xojo 2026r3 lets AI coding agents edit projects, trigger builds, and read compiler feedback directly inside its cross-platform IDE.</description>
 <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://techedgeai.com/xojo-adds-agentic-mode-for-ai-assisted-app-development/</guid>
-</item>
-<item>
-<title>DeepSeek's DeepInfer: separating the repo from the hype</title>
-<link>https://explainx.ai/blog/deepseek-deepinfer-open-source-inference-engine-v4-1-flash-155-trillion-tokens-claimed-vs-verified-2026</link>
-<description>DeepInfer is genuine: DeepSeek's Apache-2.0 production inference kernels for its models, with ~3,300 GitHub stars within days. But the 155-trillion-tokens-a-day and $38-per-card-per-hour figures circulating online are not backed by the repository itself.</description>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://explainx.ai/blog/deepseek-deepinfer-open-source-inference-engine-v4-1-flash-155-trillion-tokens-claimed-vs-verified-2026</guid>
-</item>
-<item>
-<title>New Unsloth Phi-3 brainstorming LoRA adapter</title>
-<link>https://aichina.news/blog/sparking-ideas-new-unsloth-phi-3-brainstorming-adapter-lands-on-jihloa/</link>
-<description>A new lightweight PEFT/LoRA adapter for Microsoft's Phi-3-medium, tuned for brainstorming and ideation, that attaches to the base model without the cost of running a full 14B model locally.</description>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/sparking-ideas-new-unsloth-phi-3-brainstorming-adapter-lands-on-jihloa/</guid>
-</item>
-<item>
-<title>DeepSeek open-sources DeepInfer, its in-house inference stack</title>
-<link>https://latent.space/p/ainews-deepseek-deepinfer-open-source/</link>
-<description>DeepSeek open-sourced DeepInfer, the production inference framework behind V4.1 Flash, with reported single-cluster throughput of 155 trillion tokens per day; open questions on how portable it is beyond DeepSeek's own stack.</description>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://latent.space/p/ainews-deepseek-deepinfer-open-source/</guid>
 </item>
 </channel>
 </rss>
