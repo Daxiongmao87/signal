@@ -56,6 +56,13 @@
 <guid isPermaLink="true">https://www.youtube.com/watch?v=dBsFl3fU5yM</guid>
 </item>
 <item>
+<title>LFM3-1.7B: Best Small LLM is here</title>
+<link>https://medium.com/data-science-in-your-pocket/lfm3-1-7b-best-small-llm-is-here-fdca5ae0d632</link>
+<description>A hands-on look at Liquid AI's 1.7B LFM3 text model, released October 27, covering its 256K context, agentic focus, and how it runs locally on modest hardware.</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://medium.com/data-science-in-your-pocket/lfm3-1-7b-best-small-llm-is-here-fdca5ae0d632</guid>
+</item>
+<item>
 <title>Dataiku launches Headless for agentic coding tools</title>
 <link>https://www.businesswire.com/news/home/20261027724926/en/Dataiku-Introduces-Headless-Bringing-Governed-Data-and-AI-Work-to-Agentic-Coding-Tools</link>
 <description>Dataiku's new Headless capability lets coding agents build, migrate, and inspect governed data projects from Claude Code, Codex, Cursor, and similar tools without leaving the editor.</description>
@@ -278,13 +285,6 @@
 <description>A new open-source tool splits model layers across several household computers so a model too big for one machine's RAM can still run fully locally, with each machine approving its share before anything loads.</description>
 <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.clawdbytes.com/article/2026-10-22-show-hn-lumabri-run-large-ai-models-across-your-computers-and-serverspure-c</guid>
-</item>
-<item>
-<title>WoW Forever adds a Roleplay-PvP ruleset at launch</title>
-<link>https://wowforevernow.com/</link>
-<description>Blizzard will offer a Roleplay-PvP ruleset when WoW Forever launches November 4, with name reservations opening October 27.</description>
-<pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://wowforevernow.com/</guid>
 </item>
 </channel>
 </rss>
