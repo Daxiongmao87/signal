@@ -42,6 +42,13 @@
 <guid isPermaLink="true">https://mmohuts.com/news/world-of-warcraft-forever-aims-for-four-month-raid-tiers-and-pc-gamepad-support-at-launch</guid>
 </item>
 <item>
+<title>Stop Buying GPUs: Turn Your Phone Into eGPU For Local AI</title>
+<link>https://www.youtube.com/watch?v=dBsFl3fU5yM</link>
+<description>A walkthrough of running llama.cpp in Termux so an Android phone serves as an offline local AI backend for a PC over USB, including which model sizes fit phone RAM.</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.youtube.com/watch?v=dBsFl3fU5yM</guid>
+</item>
+<item>
 <title>Dataiku launches Headless for agentic coding tools</title>
 <link>https://www.businesswire.com/news/home/20261027724926/en/Dataiku-Introduces-Headless-Bringing-Governed-Data-and-AI-Work-to-Agentic-Coding-Tools</link>
 <description>Dataiku's new Headless capability lets coding agents build, migrate, and inspect governed data projects from Claude Code, Codex, Cursor, and similar tools without leaving the editor.</description>
@@ -278,13 +285,6 @@
 <description>Oct 22 nightly adds whole-harness portability across Claude Code, Cursor, Copilot, Codex, OpenCode, Windsurf, Gemini and Junie: capture, reconcile, deploy and roll back full harness configs.</description>
 <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://undercodenews.com/harness-kit-just-updated-version-0120-brings-unified-governance-to-eight-ai-coding-agents/</guid>
-</item>
-<item>
-<title>Recursive ships Flint, an open-weight 40B MoE coding model with 2.5B active</title>
-<link>https://www.linkedin.com/posts/marktechpost_aimodel-openweight-codingmodel-activity-7518815690431045633-HmCx</link>
-<description>Recursive Superintelligence released Flint, a 40B-parameter mixture-of-experts coding model with ~2.5B active parameters per token, Apache 2.0 weights, 262K context, built with help from its automated Eureka Machine research system.</description>
-<pubDate>Wed, 21 Oct 2026 23:29:13 +0000</pubDate>
-<guid isPermaLink="true">https://www.linkedin.com/posts/marktechpost_aimodel-openweight-codingmodel-activity-7518815690431045633-HmCx</guid>
 </item>
 </channel>
 </rss>
