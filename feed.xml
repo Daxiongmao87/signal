@@ -245,6 +245,13 @@
 <guid isPermaLink="true">https://startupfortune.com/hobbyists-are-squeezing-trillion-parameter-ai-models-onto-laptops/</guid>
 </item>
 <item>
+<title>KAVLR: an AI terminal leash built entirely on a phone in Termux</title>
+<link>https://dev.to/koda2026/the-kavlr-chronicles-how-we-built-an-ai-terminal-leash-that-blocked-its-own-deletion-41cb</link>
+<description>A developer diary of building a fail-closed security gate for autonomous coding agents on a $150 Android phone in Termux, grading the semantic action of each command rather than its text.</description>
+<pubDate>Sun, 25 Oct 2026 14:06:45 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/koda2026/the-kavlr-chronicles-how-we-built-an-ai-terminal-leash-that-blocked-its-own-deletion-41cb</guid>
+</item>
+<item>
 <title>Lucie-7B Goes GGUF: A French Open LLM You Can Now Run Locally</title>
 <link>https://aichina.news/blog/lucie-7b-goes-gguf-a-french-open-llm-you-can-now-run-locally-straight-odexod/</link>
 <description>OpenLLM-France's French-oriented 7B instruct model repackaged in GGUF, so it runs through llama.cpp-style runtimes on a laptop or workstation without a full Transformers setup.</description>
@@ -278,13 +285,6 @@
 <description>Microsoft Research released a leaderless coding-agent harness where workers claim their own subtasks and merge into a shared repo, scaling from 1 to 1,024 agents on ProgramBench.</description>
 <pubDate>Sun, 25 Oct 2026 08:02:04 +0000</pubDate>
 <guid isPermaLink="true">https://cryptonwz.com/microsoft-open-sources-agensh-a-multi-agent-harness-for-1024-agents/</guid>
-</item>
-<item>
-<title>Microsoft open-sources Agensh, a leaderless 1,024-agent coding harness</title>
-<link>https://ai.dosa.dev/blog/today-in-ai-2026-10-25/</link>
-<description>Microsoft Research releases a decentralized coding harness where workers claim their own subtasks and merge into a shared repo, scaled to 1,024 agents in its ProgramBench tests.</description>
-<pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://ai.dosa.dev/blog/today-in-ai-2026-10-25/</guid>
 </item>
 </channel>
 </rss>
