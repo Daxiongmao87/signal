@@ -77,6 +77,13 @@
 <guid isPermaLink="true">https://www.unite.ai/nvidia-launches-open-weight-speech-model-and-463-062-hour-audio-dataset/</guid>
 </item>
 <item>
+<title>Microsoft opens the Copilot Harness to enterprise developers</title>
+<link>https://www.techtimes.com/articles/329667/20261029/microsoft-copilot-harness-opens-enterprise-developers-model-flexibility-platform-lock.htm</link>
+<description>Microsoft put the orchestration engine behind GitHub Copilot into public preview via the Foundry Agent Service, offering sandboxed compute, policy controls, and multi-model routing to outside teams.</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.techtimes.com/articles/329667/20261029/microsoft-copilot-harness-opens-enterprise-developers-model-flexibility-platform-lock.htm</guid>
+</item>
+<item>
 <title>Dataiku launches Headless for agentic coding tools</title>
 <link>https://www.businesswire.com/news/home/20261027724926/en/Dataiku-Introduces-Headless-Bringing-Governed-Data-and-AI-Work-to-Agentic-Coding-Tools</link>
 <description>Dataiku's new Headless capability lets coding agents build, migrate, and inspect governed data projects from Claude Code, Codex, Cursor, and similar tools without leaving the editor.</description>
@@ -278,13 +285,6 @@
 <description>Weekly roundup of open agent tooling, including Google's self-refining Harness² framework, big jumps in COBOL-migration benchmarks, and new open infrastructure for safer agents.</description>
 <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://trewknowledge.com/2026/10/23/ai-this-week-open-tools-for-safer-agents/</guid>
-</item>
-<item>
-<title>Flint AI: Recursive's open-weight coding model for laptops</title>
-<link>https://pasqualepillitteri.it/en/news/26578/flint-ai-recursive-local-coding-model</link>
-<description>Recursive's Flint ships Apache-2.0 open weights tuned for laptops rather than servers, with OpenHands supporting it through OpenRouter or a local endpoint from release day.</description>
-<pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://pasqualepillitteri.it/en/news/26578/flint-ai-recursive-local-coding-model</guid>
 </item>
 </channel>
 </rss>
