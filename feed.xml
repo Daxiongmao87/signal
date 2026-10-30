@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Microsoft opens its Copilot agent harness through Foundry</title>
+<link>https://pivotnews.ai/build/microsoft-opens-its-copilot-agent-harness-through-foundry</link>
+<description>Coverage of Microsoft opening the Copilot orchestration harness to outside developers via Foundry, including its sandboxing, MCP support, and the free-until-December pricing window.</description>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://pivotnews.ai/build/microsoft-opens-its-copilot-agent-harness-through-foundry</guid>
+</item>
 <item>
 <title>Infini-AI-Lab releases Hermit, an open-source harness adapter framework for AI agents</title>
 <link>https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/</link>
@@ -82,6 +89,13 @@
 <description>Microsoft put the orchestration engine behind GitHub Copilot into public preview via the Foundry Agent Service, offering sandboxed compute, policy controls, and multi-model routing to outside teams.</description>
 <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.techtimes.com/articles/329667/20261029/microsoft-copilot-harness-opens-enterprise-developers-model-flexibility-platform-lock.htm</guid>
+</item>
+<item>
+<title>Liquid AI LFM3: Why A 1.7B Model Is Now A Business Option</title>
+<link>https://flowtivity.ai/blog/lfm3-liquid-ai-small-models-for-business/</link>
+<description>A look at what makes the 1.7B LFM3 text model practical on-device: about 1 GB at 4-bit, a 256K context window, and single-GPU fine-tuning.</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://flowtivity.ai/blog/lfm3-liquid-ai-small-models-for-business/</guid>
 </item>
 <item>
 <title>Dataiku launches Headless for agentic coding tools</title>
@@ -182,6 +196,13 @@
 <guid isPermaLink="true">https://lapaasvoice.com/liquid-ai-releases-lfm3-six-open-weight-ai-models-built-on-a-new-tri-hybrid-architecture/</guid>
 </item>
 <item>
+<title>Introducing LFM3: Every Modality for Specialized Intelligence</title>
+<link>https://www.liquid.ai/blog/lfm3?ref=taaft&amp;utm_source=taaft&amp;utm_medium=referral</link>
+<description>Liquid AI's official LFM3 announcement: six open-weight models around 2B parameters, built to be fine-tuned locally and run on phones, laptops, and edge hardware.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.liquid.ai/blog/lfm3?ref=taaft&amp;utm_source=taaft&amp;utm_medium=referral</guid>
+</item>
+<item>
 <title>Tiny LLM, Giant Context: Menlo's Lucy-128k Now Available on Modelers.cn</title>
 <link>https://aichina.news/blog/tiny-llm-giant-context-menlo-s-lucy-128k-now-available-on-modelers-cn-ujtqgs/</link>
 <description>Menlo Research's Lucy-128k arrives as a GGUF build with a 128k-token context window, aimed at long-document local research agents.</description>
@@ -264,27 +285,6 @@
 <description>A Galaxy S23 FE runs Gemma 4 E2B through Termux llama.cpp at usable speeds only while the app stays visible; backgrounded, Android throttles it to three cores and about 0.1 tok/s, a quirk fixed by running Termux and Chrome in split-screen.</description>
 <pubDate>Sat, 24 Oct 2026 20:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.xda-developers.com/tried-old-samsung-galaxy-local-llm-hosting-machine-worked-better-expected/</guid>
-</item>
-<item>
-<title>Microsoft open-sources Agensh, a decentralized harness for up to 1,024 agents</title>
-<link>https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/</link>
-<description>Microsoft Research's decentralized harness drops the central orchestrator: workers claim their own subtasks, share findings, and merge into a common Git repo, scaling in tests to 1,024 agents on ProgramBench.</description>
-<pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/</guid>
-</item>
-<item>
-<title>Microsoft Open-Sources Agensh, a 1,024-Agent Harness With No Leader</title>
-<link>https://geroundtable.com/microsoft-agensh-1024-agent-harness/</link>
-<description>Microsoft Research's open-source Agensh coordinates up to 1,024 coding agents without a central orchestrator, with workers claiming tasks and merging progress through a shared workspace and context board.</description>
-<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://geroundtable.com/microsoft-agensh-1024-agent-harness/</guid>
-</item>
-<item>
-<title>AI This Week: open tools for safer agents</title>
-<link>https://trewknowledge.com/2026/10/23/ai-this-week-open-tools-for-safer-agents/</link>
-<description>Weekly roundup of open agent tooling, including Google's self-refining Harness² framework, big jumps in COBOL-migration benchmarks, and new open infrastructure for safer agents.</description>
-<pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://trewknowledge.com/2026/10/23/ai-this-week-open-tools-for-safer-agents/</guid>
 </item>
 </channel>
 </rss>
