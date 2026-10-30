@@ -210,6 +210,13 @@
 <guid isPermaLink="true">https://www.liquid.ai/blog/lfm3?ref=taaft&amp;utm_source=taaft&amp;utm_medium=referral</guid>
 </item>
 <item>
+<title>Opera WebAI brings local AI models into the browser</title>
+<link>https://i10x.ai/news?p=6689</link>
+<description>Opera's early-preview WebAI turns Opera One into an on-device inference engine, letting sites call small local models like Gemma through new Prompt, Decision, and Semantic Embeddings APIs instead of cloud services.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://i10x.ai/news?p=6689</guid>
+</item>
+<item>
 <title>Tiny LLM, Giant Context: Menlo's Lucy-128k Now Available on Modelers.cn</title>
 <link>https://aichina.news/blog/tiny-llm-giant-context-menlo-s-lucy-128k-now-available-on-modelers-cn-ujtqgs/</link>
 <description>Menlo Research's Lucy-128k arrives as a GGUF build with a 128k-token context window, aimed at long-document local research agents.</description>
@@ -278,13 +285,6 @@
 <description>Microsoft Research's MIT-licensed Agensh drops the central orchestrator: workers claim sub-tasks, share findings, and merge through a shared workspace, with reported pass-rate gains as agent counts scale.</description>
 <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://vibehacker.com/news/microsoft-open-sources-agensh-a-coding-agent-harness-that-scaled-to-1-024-agents</guid>
-</item>
-<item>
-<title>Microsoft Open-Sources Agensh, a Multi-Agent Harness for 1,024 Agents</title>
-<link>https://cryptonwz.com/microsoft-open-sources-agensh-a-multi-agent-harness-for-1024-agents/</link>
-<description>Microsoft Research released a leaderless coding-agent harness where workers claim their own subtasks and merge into a shared repo, scaling from 1 to 1,024 agents on ProgramBench.</description>
-<pubDate>Sun, 25 Oct 2026 08:02:04 +0000</pubDate>
-<guid isPermaLink="true">https://cryptonwz.com/microsoft-open-sources-agensh-a-multi-agent-harness-for-1024-agents/</guid>
 </item>
 </channel>
 </rss>
