@@ -98,6 +98,13 @@
 <guid isPermaLink="true">https://flowtivity.ai/blog/lfm3-liquid-ai-small-models-for-business/</guid>
 </item>
 <item>
+<title>DeepSeek Harness can delegate tasks to Codex and Claude Code</title>
+<link>https://dailyinference.news/articles/2026-10-30-everything-is-a-plugin-deepseek-hands-tasks-to-codex-and-claude-code/</link>
+<description>DeepSeek's experimental Harness pre-release adds a plugin that hands independent coding tasks to locally installed Codex or Claude Code command-line tools, so the main agent delegates instead of doing every subtask itself.</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dailyinference.news/articles/2026-10-30-everything-is-a-plugin-deepseek-hands-tasks-to-codex-and-claude-code/</guid>
+</item>
+<item>
 <title>Dataiku launches Headless for agentic coding tools</title>
 <link>https://www.businesswire.com/news/home/20261027724926/en/Dataiku-Introduces-Headless-Bringing-Governed-Data-and-AI-Work-to-Agentic-Coding-Tools</link>
 <description>Dataiku's new Headless capability lets coding agents build, migrate, and inspect governed data projects from Claude Code, Codex, Cursor, and similar tools without leaving the editor.</description>
@@ -278,13 +285,6 @@
 <description>Microsoft Research releases a decentralized coding harness where workers claim their own subtasks and merge into a shared repo, scaled to 1,024 agents in its ProgramBench tests.</description>
 <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://ai.dosa.dev/blog/today-in-ai-2026-10-25/</guid>
-</item>
-<item>
-<title>Old Galaxy phone as a local LLM host: Termux works, but only in the foreground</title>
-<link>https://www.xda-developers.com/tried-old-samsung-galaxy-local-llm-hosting-machine-worked-better-expected/</link>
-<description>A Galaxy S23 FE runs Gemma 4 E2B through Termux llama.cpp at usable speeds only while the app stays visible; backgrounded, Android throttles it to three cores and about 0.1 tok/s, a quirk fixed by running Termux and Chrome in split-screen.</description>
-<pubDate>Sat, 24 Oct 2026 20:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.xda-developers.com/tried-old-samsung-galaxy-local-llm-hosting-machine-worked-better-expected/</guid>
 </item>
 </channel>
 </rss>
