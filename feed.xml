@@ -105,6 +105,13 @@
 <guid isPermaLink="true">https://dailyinference.news/articles/2026-10-30-everything-is-a-plugin-deepseek-hands-tasks-to-codex-and-claude-code/</guid>
 </item>
 <item>
+<title>Microsoft's Copilot harness opens to outside developers via Foundry</title>
+<link>https://letsdatascience.com/news/microsoft-opens-copilot-harness-to-developers-in-foundry-age-46459786</link>
+<description>Microsoft has put the agent loop and sandbox behind Copilot Code, Studio, and VS Code into public preview on Foundry Agent Service, letting developers build agents on the same managed harness while supplying their own instructions, skills, and tools.</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://letsdatascience.com/news/microsoft-opens-copilot-harness-to-developers-in-foundry-age-46459786</guid>
+</item>
+<item>
 <title>Dataiku launches Headless for agentic coding tools</title>
 <link>https://www.businesswire.com/news/home/20261027724926/en/Dataiku-Introduces-Headless-Bringing-Governed-Data-and-AI-Work-to-Agentic-Coding-Tools</link>
 <description>Dataiku's new Headless capability lets coding agents build, migrate, and inspect governed data projects from Claude Code, Codex, Cursor, and similar tools without leaving the editor.</description>
@@ -278,13 +285,6 @@
 <description>A builder's read on Agensh: copy its shared workspace rules, task claiming, and merge handling as infrastructure, rather than chasing thousand-agent swarms as the default.</description>
 <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://techtoheart.com/microsofts-1024-agent-harness-is-real-but-builders-should-copy-the-pattern-not-the-swarm/</guid>
-</item>
-<item>
-<title>Microsoft open-sources Agensh, a leaderless harness for 1,024 coding agents</title>
-<link>https://paktechstan.com/microsoft-open-sources-agensh-a-leaderless-harness-that-runs-1-024-coding-agents-at-once</link>
-<description>Microsoft Research's Agensh drops the lead agent entirely: every worker runs the same claim-act-verify-merge loop over a shared workspace, scaling from one to 1,024 agents in tests.</description>
-<pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://paktechstan.com/microsoft-open-sources-agensh-a-leaderless-harness-that-runs-1-024-coding-agents-at-once</guid>
 </item>
 </channel>
 </rss>
