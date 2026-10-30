@@ -217,6 +217,13 @@
 <guid isPermaLink="true">https://i10x.ai/news?p=6689</guid>
 </item>
 <item>
+<title>Liquid AI's LFM3 family bets on small specialized models for on-device AI</title>
+<link>https://www.aiintelreport.com/frontier-models/liquid-ai-lfm3-open-weight-2b-on-device</link>
+<description>Six 2B-class open-weight models share one 1.73B backbone across text, vision, audio, omni, and decision variants, with the text model fitting in about 1 GB at 4-bit quantization and a 256K context window.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.aiintelreport.com/frontier-models/liquid-ai-lfm3-open-weight-2b-on-device</guid>
+</item>
+<item>
 <title>Tiny LLM, Giant Context: Menlo's Lucy-128k Now Available on Modelers.cn</title>
 <link>https://aichina.news/blog/tiny-llm-giant-context-menlo-s-lucy-128k-now-available-on-modelers-cn-ujtqgs/</link>
 <description>Menlo Research's Lucy-128k arrives as a GGUF build with a 128k-token context window, aimed at long-document local research agents.</description>
@@ -278,13 +285,6 @@
 <description>Microsoft Research's Agensh drops the lead agent entirely: every worker runs the same claim-act-verify-merge loop over a shared workspace, scaling from one to 1,024 agents in tests.</description>
 <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://paktechstan.com/microsoft-open-sources-agensh-a-leaderless-harness-that-runs-1-024-coding-agents-at-once</guid>
-</item>
-<item>
-<title>Microsoft open-sources Agensh, a leaderless harness scaling to 1,024 coding agents</title>
-<link>https://vibehacker.com/news/microsoft-open-sources-agensh-a-coding-agent-harness-that-scaled-to-1-024-agents</link>
-<description>Microsoft Research's MIT-licensed Agensh drops the central orchestrator: workers claim sub-tasks, share findings, and merge through a shared workspace, with reported pass-rate gains as agent counts scale.</description>
-<pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://vibehacker.com/news/microsoft-open-sources-agensh-a-coding-agent-harness-that-scaled-to-1-024-agents</guid>
 </item>
 </channel>
 </rss>
