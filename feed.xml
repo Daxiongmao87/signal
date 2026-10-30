@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/</guid>
 </item>
 <item>
+<title>Don't expect rapid World of Warcraft: Forever updates as Blizzard confirms post-launch will be 'more laid back'</title>
+<link>https://frvr.com/blog/news/dont-expect-rapid-world-of-warcraft-forever-updates-post-launch-laid-back/</link>
+<description>Blizzard says WoW Forever will add content roughly every four months after its November 4 launch, deliberately keeping a slower pace than its other games.</description>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://frvr.com/blog/news/dont-expect-rapid-world-of-warcraft-forever-updates-post-launch-laid-back/</guid>
+</item>
+<item>
 <title>October 2026 Developer Update</title>
 <link>https://blog.forge-vtt.com/october-2026-developer-update/</link>
 <description>The Forge's October update recaps its livestream: V14 builds 368 and 369 now available, a demo of Game Environments keeping per-game Foundry setups separate, and a new free BGK board game, reVAMP.</description>
@@ -161,6 +168,13 @@
 <guid isPermaLink="true">https://eternadex.com/en/was-ist-wow-forever/</guid>
 </item>
 <item>
+<title>Liquid AI Releases LFM3, Six Open-Weight AI Models Built on a New Tri-Hybrid Architecture</title>
+<link>https://lapaasvoice.com/liquid-ai-releases-lfm3-six-open-weight-ai-models-built-on-a-new-tri-hybrid-architecture/</link>
+<description>Liquid AI's six-model LFM3 family spans text, vision, audio and decision models in the 1.7B to 2.2B range, built for local and private deployment on modest hardware.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://lapaasvoice.com/liquid-ai-releases-lfm3-six-open-weight-ai-models-built-on-a-new-tri-hybrid-architecture/</guid>
+</item>
+<item>
 <title>Tiny LLM, Giant Context: Menlo's Lucy-128k Now Available on Modelers.cn</title>
 <link>https://aichina.news/blog/tiny-llm-giant-context-menlo-s-lucy-128k-now-available-on-modelers-cn-ujtqgs/</link>
 <description>Menlo Research's Lucy-128k arrives as a GGUF build with a 128k-token context window, aimed at long-document local research agents.</description>
@@ -271,20 +285,6 @@
 <description>Recursive's Flint ships Apache-2.0 open weights tuned for laptops rather than servers, with OpenHands supporting it through OpenRouter or a local endpoint from release day.</description>
 <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://pasqualepillitteri.it/en/news/26578/flint-ai-recursive-local-coding-model</guid>
-</item>
-<item>
-<title>TanStack AI 1.0 ships a stable, provider-agnostic agent toolkit</title>
-<link>https://genznewz.com/tanstack-ai-10-ships-stable-agent-toolkit-for-web-apps</link>
-<description>TanStack AI reaches 1.0 with stable agent, subagent, and MCP APIs across 76 packages, plus an experimental multi-environment harness.</description>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://genznewz.com/tanstack-ai-10-ships-stable-agent-toolkit-for-web-apps</guid>
-</item>
-<item>
-<title>llama.cpp --n-cpu-moe: a 35B MoE model at readable speed on an 8GB laptop GPU</title>
-<link>https://www.xda-developers.com/i-stopped-thinking-my-8gb-gpu-was-too-small-after-learning-to-offload-moe-llm-layers-to-ram/</link>
-<description>Offloading the first 28 layers' MoE expert weights to system RAM with llama.cpp's --n-cpu-moe flag lifted a 35B MoE model from about 4 to about 33 tokens per second on an 8GB laptop GPU, keeping attention, embeddings and KV cache in VRAM.</description>
-<pubDate>Thu, 22 Oct 2026 20:30:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.xda-developers.com/i-stopped-thinking-my-8gb-gpu-was-too-small-after-learning-to-offload-moe-llm-layers-to-ram/</guid>
 </item>
 </channel>
 </rss>
