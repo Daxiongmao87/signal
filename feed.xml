@@ -21,11 +21,25 @@
 <guid isPermaLink="true">https://dev.to/_sudo/clearport-giving-the-ghost-a-machine-local-ai-on-android-hf26challenge-1793</guid>
 </item>
 <item>
+<title>Factory ships Droid 1.0, a model-independent coding agent harness</title>
+<link>https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/</link>
+<description>Droid 1.0 makes programmatic tool calling the default, letting one model request drive hundreds of tool calls through a sandboxed script, and ships as a desktop app, terminal UI, and Node SDK.</description>
+<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/</guid>
+</item>
+<item>
 <title>Microsoft opens its Copilot agent harness through Foundry</title>
 <link>https://pivotnews.ai/build/microsoft-opens-its-copilot-agent-harness-through-foundry</link>
 <description>Coverage of Microsoft opening the Copilot orchestration harness to outside developers via Foundry, including its sandboxing, MCP support, and the free-until-December pricing window.</description>
 <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://pivotnews.ai/build/microsoft-opens-its-copilot-agent-harness-through-foundry</guid>
+</item>
+<item>
+<title>LFM3 runs fully offline on phones through the Private Mind app</title>
+<link>https://www.haiai123.com/en/hot/4757</link>
+<description>Private Mind, an open-source app, now runs Liquid AI's LFM3 family on iOS and Android entirely offline, with the 1.7B text model reaching about 40 tokens per second on an iPhone 16 Pro.</description>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.haiai123.com/en/hot/4757</guid>
 </item>
 <item>
 <title>Infini-AI-Lab releases Hermit, an open-source harness adapter framework for AI agents</title>
@@ -271,20 +285,6 @@
 <description>A freshly updated rundown of the local-runner landscape: Ollama is back on llama.cpp's llama-server for GGUF models with MLX as the Apple Silicon default, and LM Studio's 0.4.0 line no longer needs the desktop app installed.</description>
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.betterclaw.io/blog/ollama-vs-lm-studio</guid>
-</item>
-<item>
-<title>Hobbyists are squeezing trillion-parameter models onto laptops</title>
-<link>https://startupfortune.com/hobbyists-are-squeezing-trillion-parameter-ai-models-onto-laptops/</link>
-<description>Quantization and SSD streaming let hobbyists run enormous open-weight models on consumer rigs and MacBooks, slowly if at all fast, as the floor for serious local inference keeps dropping.</description>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://startupfortune.com/hobbyists-are-squeezing-trillion-parameter-ai-models-onto-laptops/</guid>
-</item>
-<item>
-<title>KAVLR: an AI terminal leash built entirely on a phone in Termux</title>
-<link>https://dev.to/koda2026/the-kavlr-chronicles-how-we-built-an-ai-terminal-leash-that-blocked-its-own-deletion-41cb</link>
-<description>A developer diary of building a fail-closed security gate for autonomous coding agents on a $150 Android phone in Termux, grading the semantic action of each command rather than its text.</description>
-<pubDate>Sun, 25 Oct 2026 14:06:45 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/koda2026/the-kavlr-chronicles-how-we-built-an-ai-terminal-leash-that-blocked-its-own-deletion-41cb</guid>
 </item>
 </channel>
 </rss>
