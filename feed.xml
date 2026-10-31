@@ -5,7 +5,21 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Dataiku Headless brings governed data work into agentic coding tools</title>
+<link>https://onetechavenue.com/dataiku-introduces-headless-bringing-governed-data-and-ai-work-to-agentic-coding-tools/</link>
+<description>Dataiku launches Headless, a plugin letting Claude Code, Codex, Cursor and other coding agents build and migrate governed Dataiku projects without leaving the editor.</description>
+<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://onetechavenue.com/dataiku-introduces-headless-bringing-governed-data-and-ai-work-to-agentic-coding-tools/</guid>
+</item>
+<item>
+<title>Clearport runs a local AI chat client entirely on Android via Termux</title>
+<link>https://dev.to/_sudo/clearport-giving-the-ghost-a-machine-local-ai-on-android-hf26challenge-1793</link>
+<description>Clearport pairs a Flutter chat app with a Termux CLI that serves llama-server on loopback, keeping prompts and models fully on the phone with no account or cloud call.</description>
+<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/_sudo/clearport-giving-the-ghost-a-machine-local-ai-on-android-hf26challenge-1793</guid>
+</item>
 <item>
 <title>Microsoft opens its Copilot agent harness through Foundry</title>
 <link>https://pivotnews.ai/build/microsoft-opens-its-copilot-agent-harness-through-foundry</link>
@@ -271,20 +285,6 @@
 <description>A developer diary of building a fail-closed security gate for autonomous coding agents on a $150 Android phone in Termux, grading the semantic action of each command rather than its text.</description>
 <pubDate>Sun, 25 Oct 2026 14:06:45 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/koda2026/the-kavlr-chronicles-how-we-built-an-ai-terminal-leash-that-blocked-its-own-deletion-41cb</guid>
-</item>
-<item>
-<title>Lucie-7B Goes GGUF: A French Open LLM You Can Now Run Locally</title>
-<link>https://aichina.news/blog/lucie-7b-goes-gguf-a-french-open-llm-you-can-now-run-locally-straight-odexod/</link>
-<description>OpenLLM-France's French-oriented 7B instruct model repackaged in GGUF, so it runs through llama.cpp-style runtimes on a laptop or workstation without a full Transformers setup.</description>
-<pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/lucie-7b-goes-gguf-a-french-open-llm-you-can-now-run-locally-straight-odexod/</guid>
-</item>
-<item>
-<title>Agensh's real lesson is the coordination layer, not the swarm</title>
-<link>https://techtoheart.com/microsofts-1024-agent-harness-is-real-but-builders-should-copy-the-pattern-not-the-swarm/</link>
-<description>A builder's read on Agensh: copy its shared workspace rules, task claiming, and merge handling as infrastructure, rather than chasing thousand-agent swarms as the default.</description>
-<pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://techtoheart.com/microsofts-1024-agent-harness-is-real-but-builders-should-copy-the-pattern-not-the-swarm/</guid>
 </item>
 </channel>
 </rss>
