@@ -42,6 +42,13 @@
 <guid isPermaLink="true">https://www.haiai123.com/en/hot/4757</guid>
 </item>
 <item>
+<title>WoW: Forever launch times locked in for November 4, with nine new dungeons at launch</title>
+<link>https://pro-gamer.gg/?p=10078</link>
+<description>Blizzard's simultaneous global launch lands November 4 at 3pm PT, with nine new dungeons, a level-60 cap, and tier 1 raids unlocking December 9.</description>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://pro-gamer.gg/?p=10078</guid>
+</item>
+<item>
 <title>Infini-AI-Lab releases Hermit, an open-source harness adapter framework for AI agents</title>
 <link>https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/</link>
 <description>Hermit trains a small external adapter that tunes Codex or Claude Code agents to new tasks while leaving both the model and the harness frozen, with local vLLM, SGLang, or Ollama backends.</description>
@@ -61,6 +68,13 @@
 <description>Mistral's 1T-parameter mixture-of-experts model ships open weights with day-one llama.cpp GGUF builds, a 1M-token context window, and FP8 plus 4-bit variants for local and multi-GPU runs.</description>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.llms.blog/posts/mistral-large-4-open-weights-hugging-face</guid>
+</item>
+<item>
+<title>Foundry VTT modules and UVTT files coming for nearly a full map library</title>
+<link>https://www.patreon.com/WilliamOLaw/posts/weekly-news-and-173578374</link>
+<description>A mapmaker's weekly update promises Foundry modules and UVTT files for almost every map, plus free compendium rules and playable one-to-two-session stories for larger dungeons.</description>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.patreon.com/WilliamOLaw/posts/weekly-news-and-173578374</guid>
 </item>
 <item>
 <title>October 2026 Developer Update</title>
@@ -271,20 +285,6 @@
 <description>Six 2B-class open-weight models share one 1.73B backbone across text, vision, audio, omni, and decision variants, with the text model fitting in about 1 GB at 4-bit quantization and a 256K context window.</description>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.aiintelreport.com/frontier-models/liquid-ai-lfm3-open-weight-2b-on-device</guid>
-</item>
-<item>
-<title>Ollama v0.40.12 targets prompt speed and small-image detail</title>
-<link>https://www.remio.ai/post/ollama-v0-40-12-targets-prompt-speed-and-small-image-detail</link>
-<description>Ollama's v0.40.12 release candidate speeds up prompt processing on Apple Silicon via native sliding-window attention, adds DFlash2 support and small-image fixes for compact Gemma 4, and bumps its llama.cpp dependency — decode speed unchanged.</description>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.remio.ai/post/ollama-v0-40-12-targets-prompt-speed-and-small-image-detail</guid>
-</item>
-<item>
-<title>Tiny LLM, Giant Context: Menlo's Lucy-128k Now Available on Modelers.cn</title>
-<link>https://aichina.news/blog/tiny-llm-giant-context-menlo-s-lucy-128k-now-available-on-modelers-cn-ujtqgs/</link>
-<description>Menlo Research's Lucy-128k arrives as a GGUF build with a 128k-token context window, aimed at long-document local research agents.</description>
-<pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/tiny-llm-giant-context-menlo-s-lucy-128k-now-available-on-modelers-cn-ujtqgs/</guid>
 </item>
 </channel>
 </rss>
