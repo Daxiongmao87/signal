@@ -273,18 +273,18 @@
 <guid isPermaLink="true">https://www.aiintelreport.com/frontier-models/liquid-ai-lfm3-open-weight-2b-on-device</guid>
 </item>
 <item>
+<title>Ollama v0.40.12 targets prompt speed and small-image detail</title>
+<link>https://www.remio.ai/post/ollama-v0-40-12-targets-prompt-speed-and-small-image-detail</link>
+<description>Ollama's v0.40.12 release candidate speeds up prompt processing on Apple Silicon via native sliding-window attention, adds DFlash2 support and small-image fixes for compact Gemma 4, and bumps its llama.cpp dependency — decode speed unchanged.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.remio.ai/post/ollama-v0-40-12-targets-prompt-speed-and-small-image-detail</guid>
+</item>
+<item>
 <title>Tiny LLM, Giant Context: Menlo's Lucy-128k Now Available on Modelers.cn</title>
 <link>https://aichina.news/blog/tiny-llm-giant-context-menlo-s-lucy-128k-now-available-on-modelers-cn-ujtqgs/</link>
 <description>Menlo Research's Lucy-128k arrives as a GGUF build with a 128k-token context window, aimed at long-document local research agents.</description>
 <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/tiny-llm-giant-context-menlo-s-lucy-128k-now-available-on-modelers-cn-ujtqgs/</guid>
-</item>
-<item>
-<title>LocoOperator 4B GGUF lands on Modelers.cn</title>
-<link>https://aichina.news/blog/locooperator-4b-gguf-lands-on-modelers-cn-a-tiny-local-first-operator-aw0m7f/</link>
-<description>A community GGUF conversion of a small 4B operator-style model, packaged for llama.cpp, Ollama and LM Studio, though its model card lists no benchmarks or clear provenance.</description>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/locooperator-4b-gguf-lands-on-modelers-cn-a-tiny-local-first-operator-aw0m7f/</guid>
 </item>
 </channel>
 </rss>
