@@ -56,6 +56,13 @@
 <guid isPermaLink="true">https://frvr.com/blog/news/dont-expect-rapid-world-of-warcraft-forever-updates-post-launch-laid-back/</guid>
 </item>
 <item>
+<title>Mistral Large 4 weights are out, with day-one llama.cpp GGUF support</title>
+<link>https://www.llms.blog/posts/mistral-large-4-open-weights-hugging-face</link>
+<description>Mistral's 1T-parameter mixture-of-experts model ships open weights with day-one llama.cpp GGUF builds, a 1M-token context window, and FP8 plus 4-bit variants for local and multi-GPU runs.</description>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.llms.blog/posts/mistral-large-4-open-weights-hugging-face</guid>
+</item>
+<item>
 <title>October 2026 Developer Update</title>
 <link>https://blog.forge-vtt.com/october-2026-developer-update/</link>
 <description>The Forge's October update recaps its livestream: V14 builds 368 and 369 now available, a demo of Game Environments keeping per-game Foundry setups separate, and a new free BGK board game, reVAMP.</description>
@@ -278,13 +285,6 @@
 <description>A community GGUF conversion of a small 4B operator-style model, packaged for llama.cpp, Ollama and LM Studio, though its model card lists no benchmarks or clear provenance.</description>
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/locooperator-4b-gguf-lands-on-modelers-cn-a-tiny-local-first-operator-aw0m7f/</guid>
-</item>
-<item>
-<title>Axolotl v0.21.0 adds fine-tuning support for Reflection's Beam</title>
-<link>https://tech-insider.org/au/fine-tuning-reflection-beam-axolotl-2026/</link>
-<description>Axolotl's latest release ships Beam support with QLoRA on a single 8xH200 node, FSDP2 configs and expert-parallel LoRA recipes for B200 GPUs.</description>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://tech-insider.org/au/fine-tuning-reflection-beam-axolotl-2026/</guid>
 </item>
 </channel>
 </rss>
