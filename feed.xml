@@ -140,6 +140,13 @@
 <guid isPermaLink="true">https://letsdatascience.com/news/microsoft-opens-copilot-harness-to-developers-in-foundry-age-46459786</guid>
 </item>
 <item>
+<title>MiniCPM-OCR 1.0 pairs a small document parser with a checker that flags its own mistakes</title>
+<link>https://flowtivity.ai/blog/minicpm-ocr-1-0-jev-local-document-parser/</link>
+<description>OpenBMB's 1.3B parser and 2B checker run locally on one consumer GPU, scoring each parsed region so only uncertain parts need human review.</description>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://flowtivity.ai/blog/minicpm-ocr-1-0-jev-local-document-parser/</guid>
+</item>
+<item>
 <title>Dataiku launches Headless for agentic coding tools</title>
 <link>https://www.businesswire.com/news/home/20261027724926/en/Dataiku-Introduces-Headless-Bringing-Governed-Data-and-AI-Work-to-Agentic-Coding-Tools</link>
 <description>Dataiku's new Headless capability lets coding agents build, migrate, and inspect governed data projects from Claude Code, Codex, Cursor, and similar tools without leaving the editor.</description>
@@ -278,13 +285,6 @@
 <description>Axolotl's latest release ships Beam support with QLoRA on a single 8xH200 node, FSDP2 configs and expert-parallel LoRA recipes for B200 GPUs.</description>
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://tech-insider.org/au/fine-tuning-reflection-beam-axolotl-2026/</guid>
-</item>
-<item>
-<title>LM Studio vs Ollama vs llama.cpp (2026): Speed and Setup</title>
-<link>https://www.betterclaw.io/blog/ollama-vs-lm-studio</link>
-<description>A freshly updated rundown of the local-runner landscape: Ollama is back on llama.cpp's llama-server for GGUF models with MLX as the Apple Silicon default, and LM Studio's 0.4.0 line no longer needs the desktop app installed.</description>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.betterclaw.io/blog/ollama-vs-lm-studio</guid>
 </item>
 </channel>
 </rss>
