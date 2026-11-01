@@ -21,20 +21,6 @@
 <guid isPermaLink="true">https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/</guid>
 </item>
 <item>
-<title>DeepSeek's open-source super-agent takes on Claude Code</title>
-<link>https://raisink.com/news/ai-content-tools/deepseek-unveils-open-source-super-agent-coding-tool-in-challenge-to-anthropic-s-claude-code</link>
-<description>DeepSeek's MIT-licensed super-agent prototype watches developer chats, spots coding issues unprompted, and proposes fixes, positioning its Harness tooling against Claude Code.</description>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://raisink.com/news/ai-content-tools/deepseek-unveils-open-source-super-agent-coding-tool-in-challenge-to-anthropic-s-claude-code</guid>
-</item>
-<item>
-<title>DeepSeek's super-agent prototype juggles several coding jobs at once</title>
-<link>https://asiadaily.org/news/17152/</link>
-<description>DeepSeek's Harness-team prototype turns repo requests into parallel worker sessions, with early simulated tests completing 95 percent of tasks within about 16 minutes.</description>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://asiadaily.org/news/17152/</guid>
-</item>
-<item>
 <title>DeepSeek drops a free coding agent that takes requests from GitHub</title>
 <link>https://dailyinference.news/articles/2026-11-01-deepseek-drops-a-free-coding-agent-that-takes-requests-from-github/</link>
 <description>DeepSeek's MIT-licensed dsh-superagent prototype watches a single GitHub repo, takes authorized requests, and answers with proposed code changes or pull requests, with a human-review panel in the loop.</description>
@@ -285,6 +271,20 @@
 <description>A half-billion-parameter Apache-2.0 instruction model exported to ONNX for portable CPU and edge inference, with a conversion path to Huawei Ascend NPUs.</description>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/tiny-portable-apache-2-0-lang-exster-0-5b-instruct-onnx-lands-on-5pz7u8/</guid>
+</item>
+<item>
+<title>Liquid AI's compact LFM2-2.6B-Exp gets a GGUF build for edge testing</title>
+<link>https://aichina.news/blog/liquid-ais-compact-2-6b-model-goes-local-a-gguf-build-for-edge-sl7mvl/</link>
+<description>A llama.cpp-compatible GGUF conversion of Liquid AI's experimental 2.6B hybrid-attention model, aimed at evaluating the LFM2 family on CPUs, Apple Silicon, and consumer GPUs.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/liquid-ais-compact-2-6b-model-goes-local-a-gguf-build-for-edge-sl7mvl/</guid>
+</item>
+<item>
+<title>Liquid AI releases LFM3, six small open-weight models for local hardware</title>
+<link>https://webdiga.com/lfm3-local/</link>
+<description>Six roughly 2B-parameter models covering text, vision, audio and decision tasks, with llama.cpp built from source as the fastest local route and the tiny text model reaching about 40 tokens per second on CPU in testing.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://webdiga.com/lfm3-local/</guid>
 </item>
 </channel>
 </rss>
