@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://startupfortune.com/deepseek-open-sources-the-architecture-behind-its-super-agent/</guid>
 </item>
 <item>
+<title>DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent</title>
+<link>https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/</link>
+<description>A technical rundown of DeepSeek's MIT-licensed super-agent bundle for Harness, covering its router-worker design, runtime requirements, and how it compares with Copilot, Claude Code, and Codex.</description>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/</guid>
+</item>
+<item>
 <title>DeepSeek drops a free coding agent that takes requests from GitHub</title>
 <link>https://dailyinference.news/articles/2026-11-01-deepseek-drops-a-free-coding-agent-that-takes-requests-from-github/</link>
 <description>DeepSeek's MIT-licensed dsh-superagent prototype watches a single GitHub repo, takes authorized requests, and answers with proposed code changes or pull requests, with a human-review panel in the loop.</description>
@@ -278,13 +285,6 @@
 <description>A GGUF packaging of Meta's 3B Llama 3.2 model for offline text generation on laptops and constrained devices via llama.cpp-compatible runtimes, with no Ascend-specific optimization on the card.</description>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/new-on-modelers-cn-devquasar-s-llama-3-2-3b-gguf-for-local-inference-ncmrhp/</guid>
-</item>
-<item>
-<title>LFM3-1.7B: Liquid AI's 1.7B Model for Local Agents</title>
-<link>https://ai-tldr.dev/models/lfm3-1-7b/</link>
-<description>A benchmark-focused breakdown of Liquid AI's 1.7B LFM3 text model for local agents, with llama.cpp edge speeds and memory use across Mac, Ryzen AI, and iPhone hardware.</description>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://ai-tldr.dev/models/lfm3-1-7b/</guid>
 </item>
 </channel>
 </rss>
