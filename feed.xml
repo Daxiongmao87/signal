@@ -63,13 +63,6 @@
 <guid isPermaLink="true">https://www.aiaffairs.com/technology/deepseek-harness-super-agent-coding-prototype/</guid>
 </item>
 <item>
-<title>DeepSeek Unveils Open-Source 'Super-Agent' Coding Tool</title>
-<link>https://raisink.com/news/ai-content-tools/deepseek-unveils-open-source-super-agent-coding-tool-in-challenge-to-anthropic-s-claude-code</link>
-<description>A second take on DeepSeek's proactive coding-agent prototype, framing it as a direct open-source challenge to Claude Code and noting its event-driven design and open questions around scale and security.</description>
-<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://raisink.com/news/ai-content-tools/deepseek-unveils-open-source-super-agent-coding-tool-in-challenge-to-anthropic-s-claude-code</guid>
-</item>
-<item>
 <title>Microsoft opens its Copilot agent harness through Foundry</title>
 <link>https://pivotnews.ai/build/microsoft-opens-its-copilot-agent-harness-through-foundry</link>
 <description>Coverage of Microsoft opening the Copilot orchestration harness to outside developers via Foundry, including its sandboxing, MCP support, and the free-until-December pricing window.</description>
@@ -285,6 +278,13 @@
 <description>Six roughly 2B-parameter models covering text, vision, audio and decision tasks, with llama.cpp built from source as the fastest local route and the tiny text model reaching about 40 tokens per second on CPU in testing.</description>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://webdiga.com/lfm3-local/</guid>
+</item>
+<item>
+<title>DevQuasar's Llama 3.2 3B GGUF lands on Modelers.cn for local inference</title>
+<link>https://aichina.news/blog/new-on-modelers-cn-devquasar-s-llama-3-2-3b-gguf-for-local-inference-ncmrhp/</link>
+<description>A GGUF packaging of Meta's 3B Llama 3.2 model for offline text generation on laptops and constrained devices via llama.cpp-compatible runtimes, with no Ascend-specific optimization on the card.</description>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aichina.news/blog/new-on-modelers-cn-devquasar-s-llama-3-2-3b-gguf-for-local-inference-ncmrhp/</guid>
 </item>
 </channel>
 </rss>
