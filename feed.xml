@@ -28,6 +28,13 @@
 <guid isPermaLink="true">https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/</guid>
 </item>
 <item>
+<title>DeepSeek Harness team releases coding agent prototype for GitHub</title>
+<link>https://www.aiaffairs.com/technology/deepseek-harness-super-agent-coding-prototype/</link>
+<description>An MIT-licensed research prototype puts a resident router over isolated worker sessions to handle permitted requests in a single GitHub repo and return proposed code changes.</description>
+<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.aiaffairs.com/technology/deepseek-harness-super-agent-coding-prototype/</guid>
+</item>
+<item>
 <title>Microsoft opens its Copilot agent harness through Foundry</title>
 <link>https://pivotnews.ai/build/microsoft-opens-its-copilot-agent-harness-through-foundry</link>
 <description>Coverage of Microsoft opening the Copilot orchestration harness to outside developers via Foundry, including its sandboxing, MCP support, and the free-until-December pricing window.</description>
@@ -278,13 +285,6 @@
 <description>Liquid AI's official LFM3 announcement: six open-weight models around 2B parameters, built to be fine-tuned locally and run on phones, laptops, and edge hardware.</description>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.liquid.ai/blog/lfm3?ref=taaft&amp;utm_source=taaft&amp;utm_medium=referral</guid>
-</item>
-<item>
-<title>Opera WebAI brings local AI models into the browser</title>
-<link>https://i10x.ai/news?p=6689</link>
-<description>Opera's early-preview WebAI turns Opera One into an on-device inference engine, letting sites call small local models like Gemma through new Prompt, Decision, and Semantic Embeddings APIs instead of cloud services.</description>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://i10x.ai/news?p=6689</guid>
 </item>
 </channel>
 </rss>
