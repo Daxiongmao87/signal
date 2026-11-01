@@ -35,6 +35,20 @@
 <guid isPermaLink="true">https://windowsforum.com/news/speed-up-local-ai-on-windows-with-llama-cpp-moe-offloading-and-speculative-decoding.450409/</guid>
 </item>
 <item>
+<title>DeepSeek's open-source Super-agent prototype takes GitHub requests</title>
+<link>https://raisink.com/news/ai-content-tools/deepseek-unveils-open-source-super-agent-coding-tool-in-challenge-to-anthropic-s-claude-code</link>
+<description>DeepSeek's Harness team published an MIT-licensed prototype that watches repo conversations, picks up coding issues unprompted, and returns fixes as pull requests through a Router-and-Worker design.</description>
+<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://raisink.com/news/ai-content-tools/deepseek-unveils-open-source-super-agent-coding-tool-in-challenge-to-anthropic-s-claude-code</guid>
+</item>
+<item>
+<title>DeepSeek Super-agent prototype: one repo, many parallel coding jobs</title>
+<link>https://asiadaily.org/news/17152/</link>
+<description>A second look at DeepSeek's Oct 31 prototype: a persistent Router turns authorized GitHub requests into separate Worker sessions, with early simulated tests claiming faster completion than single-session setups.</description>
+<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://asiadaily.org/news/17152/</guid>
+</item>
+<item>
 <title>Dataiku Headless brings governed data work into agentic coding tools</title>
 <link>https://onetechavenue.com/dataiku-introduces-headless-bringing-governed-data-and-ai-work-to-agentic-coding-tools/</link>
 <description>Dataiku launches Headless, a plugin letting Claude Code, Codex, Cursor and other coding agents build and migrate governed Dataiku projects without leaving the editor.</description>
@@ -271,20 +285,6 @@
 <description>A half-billion-parameter Apache-2.0 instruction model exported to ONNX for portable CPU and edge inference, with a conversion path to Huawei Ascend NPUs.</description>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/tiny-portable-apache-2-0-lang-exster-0-5b-instruct-onnx-lands-on-5pz7u8/</guid>
-</item>
-<item>
-<title>Liquid AI's compact LFM2-2.6B-Exp gets a GGUF build for edge testing</title>
-<link>https://aichina.news/blog/liquid-ais-compact-2-6b-model-goes-local-a-gguf-build-for-edge-sl7mvl/</link>
-<description>A llama.cpp-compatible GGUF conversion of Liquid AI's experimental 2.6B hybrid-attention model, aimed at evaluating the LFM2 family on CPUs, Apple Silicon, and consumer GPUs.</description>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/liquid-ais-compact-2-6b-model-goes-local-a-gguf-build-for-edge-sl7mvl/</guid>
-</item>
-<item>
-<title>Liquid AI releases LFM3, six small open-weight models for local hardware</title>
-<link>https://webdiga.com/lfm3-local/</link>
-<description>Six roughly 2B-parameter models covering text, vision, audio and decision tasks, with llama.cpp built from source as the fastest local route and the tiny text model reaching about 40 tokens per second on CPU in testing.</description>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://webdiga.com/lfm3-local/</guid>
 </item>
 </channel>
 </rss>
