@@ -105,6 +105,13 @@
 <guid isPermaLink="true">https://aichina.news/blog/llama-3-2-3b-goes-local-amd-s-ryzen-ai-hybrid-onnx-build-arrives-on-w3u9ce/</guid>
 </item>
 <item>
+<title>GitHub Agentic Workflows reaches general availability: keep review in the loop</title>
+<link>https://hubai.uk/news/github-agentic-workflows-general-availability-review</link>
+<description>GitHub’s open-source project that turns plain-language Markdown task definitions into Actions workflows is now generally available, with read-only defaults and human review kept in the loop before changes land.</description>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://hubai.uk/news/github-agentic-workflows-general-availability-review</guid>
+</item>
+<item>
 <title>Infini-AI-Lab releases Hermit, an open-source harness adapter framework for AI agents</title>
 <link>https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/</link>
 <description>Hermit trains a small external adapter that tunes Codex or Claude Code agents to new tasks while leaving both the model and the harness frozen, with local vLLM, SGLang, or Ollama backends.</description>
@@ -278,13 +285,6 @@
 <description>A community GGUF packaging of Arcee AI's 8B SuperNova-Lite, a DeepSeek-R1-distilled reasoner, sized to run on consumer hardware at roughly 5-6 GB in 4-bit.</description>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/local-reasoning-no-cloud-required-supernova-lite-arrives-as-gguf-on-q0ck4u/</guid>
-</item>
-<item>
-<title>Lang-Exster 0.5B Instruct lands in ONNX for tiny on-device use</title>
-<link>https://aichina.news/blog/tiny-portable-apache-2-0-lang-exster-0-5b-instruct-onnx-lands-on-5pz7u8/</link>
-<description>A half-billion-parameter Apache-2.0 instruction model exported to ONNX for portable CPU and edge inference, with a conversion path to Huawei Ascend NPUs.</description>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/tiny-portable-apache-2-0-lang-exster-0-5b-instruct-onnx-lands-on-5pz7u8/</guid>
 </item>
 </channel>
 </rss>
