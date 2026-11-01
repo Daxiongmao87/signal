@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 31 Oct 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 00:18:27 +0000</lastBuildDate>
+<item>
+<title>DeepSeek open-sources the architecture behind its super-agent prototype</title>
+<link>https://startupfortune.com/deepseek-open-sources-the-architecture-behind-its-super-agent/</link>
+<description>DeepSeek published a research prototype of a proactive coding agent that watches repo events and hands off accepted work, built on its plugin-based Harness runtime and flagged as experimental rather than production-ready.</description>
+<pubDate>Sun, 01 Nov 2026 00:18:27 +0000</pubDate>
+<guid isPermaLink="true">https://startupfortune.com/deepseek-open-sources-the-architecture-behind-its-super-agent/</guid>
+</item>
 <item>
 <title>DeepSeek drops a free coding agent that takes requests from GitHub</title>
 <link>https://dailyinference.news/articles/2026-11-01-deepseek-drops-a-free-coding-agent-that-takes-requests-from-github/</link>
@@ -278,13 +285,6 @@
 <description>A current rundown of Blizzard's Classic Plus project ahead of its November 4 launch, covering the subscription model, name reservation window, and new systems like the Skyborne race and Legacy progression.</description>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://eternadex.com/en/was-ist-wow-forever/</guid>
-</item>
-<item>
-<title>Liquid AI Releases LFM3, Six Open-Weight AI Models Built on a New Tri-Hybrid Architecture</title>
-<link>https://lapaasvoice.com/liquid-ai-releases-lfm3-six-open-weight-ai-models-built-on-a-new-tri-hybrid-architecture/</link>
-<description>Liquid AI's six-model LFM3 family spans text, vision, audio and decision models in the 1.7B to 2.2B range, built for local and private deployment on modest hardware.</description>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://lapaasvoice.com/liquid-ai-releases-lfm3-six-open-weight-ai-models-built-on-a-new-tri-hybrid-architecture/</guid>
 </item>
 </channel>
 </rss>
