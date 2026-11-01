@@ -21,6 +21,20 @@
 <guid isPermaLink="true">https://dailyinference.news/articles/2026-11-01-deepseek-drops-a-free-coding-agent-that-takes-requests-from-github/</guid>
 </item>
 <item>
+<title>Speed up local AI on Windows with llama.cpp: MoE offloading and speculative decoding</title>
+<link>https://windowsforum.com/news/speed-up-local-ai-on-windows-with-llama-cpp-moe-offloading-and-speculative-decoding.450409/</link>
+<description>Two practical llama.cpp knobs for modest Windows PCs: park MoE expert weights in system RAM with --n-cpu-moe, and pair a small draft model for speculative decoding to lift generation speed.</description>
+<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://windowsforum.com/news/speed-up-local-ai-on-windows-with-llama-cpp-moe-offloading-and-speculative-decoding.450409/</guid>
+</item>
+<item>
+<title>DeepSeek unveils open-source 'Super-agent' coding tool</title>
+<link>https://raisink.com/news/ai-content-tools/deepseek-unveils-open-source-super-agent-coding-tool-in-challenge-to-anthropic-s-claude-code</link>
+<description>DeepSeek's Harness team published the dsh-superagent prototype, an MIT-licensed agent that monitors team chats and repo events, picks up coding issues unprompted, and proposes fixes for human review.</description>
+<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://raisink.com/news/ai-content-tools/deepseek-unveils-open-source-super-agent-coding-tool-in-challenge-to-anthropic-s-claude-code</guid>
+</item>
+<item>
 <title>Dataiku Headless brings governed data work into agentic coding tools</title>
 <link>https://onetechavenue.com/dataiku-introduces-headless-bringing-governed-data-and-ai-work-to-agentic-coding-tools/</link>
 <description>Dataiku launches Headless, a plugin letting Claude Code, Codex, Cursor and other coding agents build and migrate governed Dataiku projects without leaving the editor.</description>
@@ -271,20 +285,6 @@
 <description>A GGUF packaging of Meta's 3B Llama 3.2 model for offline text generation on laptops and constrained devices via llama.cpp-compatible runtimes, with no Ascend-specific optimization on the card.</description>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/new-on-modelers-cn-devquasar-s-llama-3-2-3b-gguf-for-local-inference-ncmrhp/</guid>
-</item>
-<item>
-<title>LFM3-1.7B: Liquid AI's 1.7B Model for Local Agents</title>
-<link>https://ai-tldr.dev/models/lfm3-1-7b/</link>
-<description>A benchmark-focused breakdown of Liquid AI's 1.7B LFM3 text model for local agents, with llama.cpp edge speeds and memory use across Mac, Ryzen AI, and iPhone hardware.</description>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://ai-tldr.dev/models/lfm3-1-7b/</guid>
-</item>
-<item>
-<title>What Is WoW Forever?</title>
-<link>https://eternadex.com/en/was-ist-wow-forever/</link>
-<description>A current rundown of Blizzard's Classic Plus project ahead of its November 4 launch, covering the subscription model, name reservation window, and new systems like the Skyborne race and Legacy progression.</description>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://eternadex.com/en/was-ist-wow-forever/</guid>
 </item>
 </channel>
 </rss>
