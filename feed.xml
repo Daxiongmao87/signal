@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 12:00:00 +0000</lastBuildDate>
+<item>
+<title>DeepSeek drops a free coding agent that takes requests from GitHub</title>
+<link>https://dailyinference.news/articles/2026-11-01-deepseek-drops-a-free-coding-agent-that-takes-requests-from-github/</link>
+<description>DeepSeek's MIT-licensed dsh-superagent prototype watches a single GitHub repo, takes authorized requests, and answers with proposed code changes or pull requests, with a human-review panel in the loop.</description>
+<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dailyinference.news/articles/2026-11-01-deepseek-drops-a-free-coding-agent-that-takes-requests-from-github/</guid>
+</item>
 <item>
 <title>Dataiku Headless brings governed data work into agentic coding tools</title>
 <link>https://onetechavenue.com/dataiku-introduces-headless-bringing-governed-data-and-ai-work-to-agentic-coding-tools/</link>
@@ -278,13 +285,6 @@
 <description>Liquid AI's six-model LFM3 family spans text, vision, audio and decision models in the 1.7B to 2.2B range, built for local and private deployment on modest hardware.</description>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://lapaasvoice.com/liquid-ai-releases-lfm3-six-open-weight-ai-models-built-on-a-new-tri-hybrid-architecture/</guid>
-</item>
-<item>
-<title>Introducing LFM3: Every Modality for Specialized Intelligence</title>
-<link>https://www.liquid.ai/blog/lfm3?ref=taaft&amp;utm_source=taaft&amp;utm_medium=referral</link>
-<description>Liquid AI's official LFM3 announcement: six open-weight models around 2B parameters, built to be fine-tuned locally and run on phones, laptops, and edge hardware.</description>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.liquid.ai/blog/lfm3?ref=taaft&amp;utm_source=taaft&amp;utm_medium=referral</guid>
 </item>
 </channel>
 </rss>
