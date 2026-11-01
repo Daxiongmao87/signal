@@ -49,6 +49,13 @@
 <guid isPermaLink="true">https://asiadaily.org/news/17152/</guid>
 </item>
 <item>
+<title>DeepSeek's super-agent prototype: a router plus workers that take GitHub requests</title>
+<link>https://www.artiverse.ca/deepseeks-new-coding-agent-puts-human-attention-on-a-diet/</link>
+<description>DeepSeek's MIT-licensed dsh-superagent prototype splits coding work into a persistent router that triages GitHub or Feishu requests and isolated worker sessions that do the work and return pull requests, trading human attention for parallel agent sessions.</description>
+<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.artiverse.ca/deepseeks-new-coding-agent-puts-human-attention-on-a-diet/</guid>
+</item>
+<item>
 <title>Dataiku Headless brings governed data work into agentic coding tools</title>
 <link>https://onetechavenue.com/dataiku-introduces-headless-bringing-governed-data-and-ai-work-to-agentic-coding-tools/</link>
 <description>Dataiku launches Headless, a plugin letting Claude Code, Codex, Cursor and other coding agents build and migrate governed Dataiku projects without leaving the editor.</description>
@@ -278,13 +285,6 @@
 <description>A new Android app starts the Ollama service with one tap, pulls official models, and accepts custom GGUF uploads, removing the Termux setup step for on-device inference.</description>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://pengen.diewe.workers.dev/copilotkit/google-https-github.com/sunshine0523/OllamaServer</guid>
-</item>
-<item>
-<title>SuperNova-Lite reasoning model arrives as GGUF for local runs</title>
-<link>https://aichina.news/blog/local-reasoning-no-cloud-required-supernova-lite-arrives-as-gguf-on-q0ck4u/</link>
-<description>A community GGUF packaging of Arcee AI's 8B SuperNova-Lite, a DeepSeek-R1-distilled reasoner, sized to run on consumer hardware at roughly 5-6 GB in 4-bit.</description>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aichina.news/blog/local-reasoning-no-cloud-required-supernova-lite-arrives-as-gguf-on-q0ck4u/</guid>
 </item>
 </channel>
 </rss>
