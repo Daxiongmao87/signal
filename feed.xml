@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 01 Nov 2026 00:18:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 12:00:00 +0000</lastBuildDate>
+<item>
+<title>DeepSeek's open-source Super-agent watches GitHub repos and steps in with fixes</title>
+<link>https://completeaitraining.com/news/deepseek-releases-open-source-coding-agent-that-watches/</link>
+<description>DeepSeek's Harness team released an MIT-licensed Super-agent prototype that monitors a team's GitHub repo and takes on coding work unprompted, passing 4,000 stars within a day of release.</description>
+<pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://completeaitraining.com/news/deepseek-releases-open-source-coding-agent-that-watches/</guid>
+</item>
 <item>
 <title>DeepSeek open-sources the architecture behind its super-agent prototype</title>
 <link>https://startupfortune.com/deepseek-open-sources-the-architecture-behind-its-super-agent/</link>
@@ -278,13 +285,6 @@
 <description>A community GGUF conversion of Meta's 1.2B-parameter Llama Guard 3 safety classifier, packaged for llama.cpp so prompt and output screening can run fully on-device — though it is a mirrored conversion, not an official Meta release.</description>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/llama-guard-3-1b-goes-local-a-tiny-safety-classifier-lands-on-0u4lzc/</guid>
-</item>
-<item>
-<title>OllamaServer: one-click Ollama on Android, no Termux needed</title>
-<link>https://pengen.diewe.workers.dev/copilotkit/google-https-github.com/sunshine0523/OllamaServer</link>
-<description>A new Android app starts the Ollama service with one tap, pulls official models, and accepts custom GGUF uploads, removing the Termux setup step for on-device inference.</description>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://pengen.diewe.workers.dev/copilotkit/google-https-github.com/sunshine0523/OllamaServer</guid>
 </item>
 </channel>
 </rss>
