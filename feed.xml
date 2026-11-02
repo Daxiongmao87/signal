@@ -77,6 +77,13 @@
 <guid isPermaLink="true">https://www.artiverse.ca/deepseeks-new-coding-agent-puts-human-attention-on-a-diet/</guid>
 </item>
 <item>
+<title>DeepSeek's Super-agent: a proactive coding agent that watches your repo</title>
+<link>https://onthewire.ai/article/deepseek-publishes-a-research-prototype-of-a-proactive-coding-agent-for-one-gith</link>
+<description>DeepSeek's Harness team published an MIT-licensed prototype that listens to a GitHub repo and dispatches worker sessions to handle approved requests, router-style.</description>
+<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://onthewire.ai/article/deepseek-publishes-a-research-prototype-of-a-proactive-coding-agent-for-one-gith</guid>
+</item>
+<item>
 <title>Dataiku Headless brings governed data work into agentic coding tools</title>
 <link>https://onetechavenue.com/dataiku-introduces-headless-bringing-governed-data-and-ai-work-to-agentic-coding-tools/</link>
 <description>Dataiku launches Headless, a plugin letting Claude Code, Codex, Cursor and other coding agents build and migrate governed Dataiku projects without leaving the editor.</description>
@@ -278,13 +285,6 @@
 <description>A GGUF build of MTS AI's compact Cotype Nano model lands on Modelers.cn, giving llama.cpp, Ollama, and LM Studio users a lightweight local option.</description>
 <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/small-fast-local-mts-ais-cotype-nano-arrives-on-modelers-cn-xlbyc2/</guid>
-</item>
-<item>
-<title>Codein v1.0.7: lightweight Termux AI terminal agent gets easier to launch</title>
-<link>https://undercodenews.com/codein-v107-just-updated-a-lightweight-ai-terminal-agent-gets-easier-to-launch-video/</link>
-<description>Termux-based terminal agent launcher update adding AI provider support and chat history, aimed at running AI-assisted terminal workflows on Android devices and modest hardware.</description>
-<pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://undercodenews.com/codein-v107-just-updated-a-lightweight-ai-terminal-agent-gets-easier-to-launch-video/</guid>
 </item>
 </channel>
 </rss>
