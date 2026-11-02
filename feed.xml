@@ -56,6 +56,13 @@
 <guid isPermaLink="true">https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/</guid>
 </item>
 <item>
+<title>DeepSeek open-sources the architecture behind its super-agent prototype</title>
+<link>https://headlines.summit-post.com/2026/11/01/deepseek-open-sources-the-architecture-behind-its-super-agent/</link>
+<description>DeepSeek's Harness team published an MIT-licensed research prototype of a proactive coding agent that listens to a single GitHub repo, routes requests to isolated worker sessions, and returns results as pull requests.</description>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://headlines.summit-post.com/2026/11/01/deepseek-open-sources-the-architecture-behind-its-super-agent/</guid>
+</item>
+<item>
 <title>DeepSeek drops a free coding agent that takes requests from GitHub</title>
 <link>https://dailyinference.news/articles/2026-11-01-deepseek-drops-a-free-coding-agent-that-takes-requests-from-github/</link>
 <description>DeepSeek's MIT-licensed dsh-superagent prototype watches a single GitHub repo, takes authorized requests, and answers with proposed code changes or pull requests, with a human-review panel in the loop.</description>
@@ -278,13 +285,6 @@
 <description>A hands-on look at Liquid AI's 1.7B LFM3 text model, released October 27, covering its 256K context, agentic focus, and how it runs locally on modest hardware.</description>
 <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://medium.com/data-science-in-your-pocket/lfm3-1-7b-best-small-llm-is-here-fdca5ae0d632</guid>
-</item>
-<item>
-<title>NVIDIA Launches Open-Weight Speech Model and 463,062-Hour Audio Dataset</title>
-<link>https://www.unite.ai/nvidia-launches-open-weight-speech-model-and-463-062-hour-audio-dataset/</link>
-<description>NVIDIA's Nemotron 3.5 Transcribe pairs transcription, translation, speaker attribution, and audio Q&amp;A in one open-weight checkpoint that runs on a single GPU, alongside a 463,062-hour open speech dataset.</description>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.unite.ai/nvidia-launches-open-weight-speech-model-and-463-062-hour-audio-dataset/</guid>
 </item>
 </channel>
 </rss>
