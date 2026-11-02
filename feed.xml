@@ -133,6 +133,13 @@
 <guid isPermaLink="true">https://www.aiaffairs.com/technology/deepseek-harness-super-agent-coding-prototype/</guid>
 </item>
 <item>
+<title>SenseNova-Loop-9B Preview: shared-weight depth for local multimodal work</title>
+<link>https://aicybr.com/blog/sensenova-loop-9b-preview-local-inference-architecture-guide</link>
+<description>SenseTime's open-weight 9B multimodal preview runs a shared decoder block twice for a longer execution path, at the cost of a roughly 38 GB checkpoint and custom-code serving.</description>
+<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aicybr.com/blog/sensenova-loop-9b-preview-local-inference-architecture-guide</guid>
+</item>
+<item>
 <title>LFM3-1.7B GGUF: a 1.05 GB QAD Q4_0 build for local runtimes</title>
 <link>https://tpsreport.news/news/liquid-ai-lfm3-1-7b-gguf-qad-q4-0</link>
 <description>Liquid AI's official GGUF build of LFM3-1.7B includes a quantization-aware-distilled Q4_0 checkpoint meant to recover accuracy lost to 4-bit quant, runnable on llama.cpp v0.8.0+, LM Studio, and Ollama v0.40.12+.</description>
@@ -278,13 +285,6 @@
 <description>Microsoft put the orchestration engine behind GitHub Copilot into public preview via the Foundry Agent Service, offering sandboxed compute, policy controls, and multi-model routing to outside teams.</description>
 <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.techtimes.com/articles/329667/20261029/microsoft-copilot-harness-opens-enterprise-developers-model-flexibility-platform-lock.htm</guid>
-</item>
-<item>
-<title>Liquid AI LFM3: Why A 1.7B Model Is Now A Business Option</title>
-<link>https://flowtivity.ai/blog/lfm3-liquid-ai-small-models-for-business/</link>
-<description>A look at what makes the 1.7B LFM3 text model practical on-device: about 1 GB at 4-bit, a 256K context window, and single-GPU fine-tuning.</description>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://flowtivity.ai/blog/lfm3-liquid-ai-small-models-for-business/</guid>
 </item>
 </channel>
 </rss>
