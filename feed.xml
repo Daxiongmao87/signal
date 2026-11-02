@@ -63,6 +63,13 @@
 <guid isPermaLink="true">https://headlines.summit-post.com/2026/11/01/deepseek-open-sources-the-architecture-behind-its-super-agent/</guid>
 </item>
 <item>
+<title>DeepSeek unveils open-source super-agent coding tool to rival Claude Code</title>
+<link>https://finance.biggo.com/news/11350f30-4ed6-4069-ac13-0062ca642d55</link>
+<description>DeepSeek's Harness team published a proactive coding-agent prototype that watches team chats and repo activity for coding problems and proposes fixes unprompted, rather than waiting for a prompt.</description>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://finance.biggo.com/news/11350f30-4ed6-4069-ac13-0062ca642d55</guid>
+</item>
+<item>
 <title>DeepSeek drops a free coding agent that takes requests from GitHub</title>
 <link>https://dailyinference.news/articles/2026-11-01-deepseek-drops-a-free-coding-agent-that-takes-requests-from-github/</link>
 <description>DeepSeek's MIT-licensed dsh-superagent prototype watches a single GitHub repo, takes authorized requests, and answers with proposed code changes or pull requests, with a human-review panel in the loop.</description>
@@ -278,13 +285,6 @@
 <description>A walkthrough of running llama.cpp in Termux so an Android phone serves as an offline local AI backend for a PC over USB, including which model sizes fit phone RAM.</description>
 <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.youtube.com/watch?v=dBsFl3fU5yM</guid>
-</item>
-<item>
-<title>LFM3-1.7B: Best Small LLM is here</title>
-<link>https://medium.com/data-science-in-your-pocket/lfm3-1-7b-best-small-llm-is-here-fdca5ae0d632</link>
-<description>A hands-on look at Liquid AI's 1.7B LFM3 text model, released October 27, covering its 256K context, agentic focus, and how it runs locally on modest hardware.</description>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://medium.com/data-science-in-your-pocket/lfm3-1-7b-best-small-llm-is-here-fdca5ae0d632</guid>
 </item>
 </channel>
 </rss>
