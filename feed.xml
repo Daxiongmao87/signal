@@ -119,6 +119,13 @@
 <guid isPermaLink="true">https://www.aiaffairs.com/technology/deepseek-harness-super-agent-coding-prototype/</guid>
 </item>
 <item>
+<title>LFM3-1.7B GGUF: a 1.05 GB QAD Q4_0 build for local runtimes</title>
+<link>https://tpsreport.news/news/liquid-ai-lfm3-1-7b-gguf-qad-q4-0</link>
+<description>Liquid AI's official GGUF build of LFM3-1.7B includes a quantization-aware-distilled Q4_0 checkpoint meant to recover accuracy lost to 4-bit quant, runnable on llama.cpp v0.8.0+, LM Studio, and Ollama v0.40.12+.</description>
+<pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://tpsreport.news/news/liquid-ai-lfm3-1-7b-gguf-qad-q4-0</guid>
+</item>
+<item>
 <title>Microsoft opens its Copilot agent harness through Foundry</title>
 <link>https://pivotnews.ai/build/microsoft-opens-its-copilot-agent-harness-through-foundry</link>
 <description>Coverage of Microsoft opening the Copilot orchestration harness to outside developers via Foundry, including its sandboxing, MCP support, and the free-until-December pricing window.</description>
@@ -278,13 +285,6 @@
 <description>Liquid AI's LFM3 family puts text, vision, audio, omni, and two decision models on a single 1.7B-parameter backbone, with the text model fitting in about 1 GB at 4-bit for on-device use.</description>
 <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.techtimes.com/articles/329588/20261028/liquid-ai-releases-lfm3-six-open-weight-models-fuse-text-vision-audio-one-2b-backbone.htm</guid>
-</item>
-<item>
-<title>Dataiku launches Headless for agentic coding tools</title>
-<link>https://www.businesswire.com/news/home/20261027724926/en/Dataiku-Introduces-Headless-Bringing-Governed-Data-and-AI-Work-to-Agentic-Coding-Tools</link>
-<description>Dataiku's new Headless capability lets coding agents build, migrate, and inspect governed data projects from Claude Code, Codex, Cursor, and similar tools without leaving the editor.</description>
-<pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.businesswire.com/news/home/20261027724926/en/Dataiku-Introduces-Headless-Bringing-Governed-Data-and-AI-Work-to-Agentic-Coding-Tools</guid>
 </item>
 </channel>
 </rss>
