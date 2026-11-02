@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 01 Nov 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 12:00:00 +0000</lastBuildDate>
+<item>
+<title>BuddhiAI CLI v1.0.0: agent harness for Google Antigravity</title>
+<link>https://www.linkedin.com/pulse/official-release-buddhiai-cli-v100-agent-harness-buddhi-puzoc</link>
+<description>Version 1.0 of a spec-driven agent harness for Google Antigravity, pairing a topology-aware code-graph MCP server with token-budget-aware file reading to fight context degradation in large codebases.</description>
+<pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.linkedin.com/pulse/official-release-buddhiai-cli-v100-agent-harness-buddhi-puzoc</guid>
+</item>
 <item>
 <title>DeepSeek's open-source Super-agent watches GitHub repos and steps in with fixes</title>
 <link>https://completeaitraining.com/news/deepseek-releases-open-source-coding-agent-that-watches/</link>
@@ -278,13 +285,6 @@
 <description>Termux-based terminal agent launcher update adding AI provider support and chat history, aimed at running AI-assisted terminal workflows on Android devices and modest hardware.</description>
 <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://undercodenews.com/codein-v107-just-updated-a-lightweight-ai-terminal-agent-gets-easier-to-launch-video/</guid>
-</item>
-<item>
-<title>Epic VTT beta update: repairs and December 1 launch goal</title>
-<link>https://medium.com/@d20epiclevel/epic-vtt-beta-update-progress-repairs-and-our-december-1-launch-goal-edc21de3f8cf</link>
-<description>Browser-based VTT Epic VTT reports beta progress on campaign persistence, multiplayer sync, and permissions as it holds a December 1 public-launch target.</description>
-<pubDate>Tue, 27 Oct 2026 02:43:51 +0000</pubDate>
-<guid isPermaLink="true">https://medium.com/@d20epiclevel/epic-vtt-beta-update-progress-repairs-and-our-december-1-launch-goal-edc21de3f8cf</guid>
 </item>
 </channel>
 </rss>
