@@ -105,6 +105,13 @@
 <guid isPermaLink="true">https://af.net/realtime/deepseek-releases-open-source-coding-agent-cutting-p95-time-to-15-7m/</guid>
 </item>
 <item>
+<title>DeepSeek releases a coding-agent prototype on its open-source Harness</title>
+<link>https://www.ai-market-watch.com/news/deepseek-open-sources-a-proactive-coding-agent-prototype-6y53ym</link>
+<description>DeepSeek's MIT-licensed super-agent prototype routes permitted GitHub requests through a persistent router to isolated worker sessions that return pull requests, though it remains unaudited research code rather than a production tool.</description>
+<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.ai-market-watch.com/news/deepseek-open-sources-a-proactive-coding-agent-prototype-6y53ym</guid>
+</item>
+<item>
 <title>Dataiku Headless brings governed data work into agentic coding tools</title>
 <link>https://onetechavenue.com/dataiku-introduces-headless-bringing-governed-data-and-ai-work-to-agentic-coding-tools/</link>
 <description>Dataiku launches Headless, a plugin letting Claude Code, Codex, Cursor and other coding agents build and migrate governed Dataiku projects without leaving the editor.</description>
@@ -278,13 +285,6 @@
 <description>NVIDIA's Nemotron 3.5 Transcribe pairs transcription, translation, speaker attribution, and audio Q&amp;A in one open-weight checkpoint that runs on a single GPU, alongside a 463,062-hour open speech dataset.</description>
 <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.unite.ai/nvidia-launches-open-weight-speech-model-and-463-062-hour-audio-dataset/</guid>
-</item>
-<item>
-<title>Microsoft opens the Copilot Harness to enterprise developers</title>
-<link>https://www.techtimes.com/articles/329667/20261029/microsoft-copilot-harness-opens-enterprise-developers-model-flexibility-platform-lock.htm</link>
-<description>Microsoft put the orchestration engine behind GitHub Copilot into public preview via the Foundry Agent Service, offering sandboxed compute, policy controls, and multi-model routing to outside teams.</description>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.techtimes.com/articles/329667/20261029/microsoft-copilot-harness-opens-enterprise-developers-model-flexibility-platform-lock.htm</guid>
 </item>
 </channel>
 </rss>
