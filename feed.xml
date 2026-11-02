@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://aiweekly.co/alerts/deepseek-open-sources-router-worker-coding-agent-prototype</guid>
 </item>
 <item>
+<title>DeepSeek's dsh-superagent: 3,700 stars in its first day</title>
+<link>https://www.eneralabs.com/blog/deepseek-super-agent-proactive-coding-enterprise-2026/</link>
+<description>DeepSeek's proactive coding-agent prototype, which watches a repo and hands approved work to isolated worker sessions, drew roughly 3,700 GitHub stars within 24 hours of its October 31 release.</description>
+<pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.eneralabs.com/blog/deepseek-super-agent-proactive-coding-enterprise-2026/</guid>
+</item>
+<item>
 <title>DeepSeek open-sources the architecture behind its super-agent prototype</title>
 <link>https://startupfortune.com/deepseek-open-sources-the-architecture-behind-its-super-agent/</link>
 <description>DeepSeek published a research prototype of a proactive coding agent that watches repo events and hands off accepted work, built on its plugin-based Harness runtime and flagged as experimental rather than production-ready.</description>
@@ -89,6 +96,13 @@
 <description>DeepSeek's Harness team published an MIT-licensed prototype that listens to a GitHub repo and dispatches worker sessions to handle approved requests, router-style.</description>
 <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://onthewire.ai/article/deepseek-publishes-a-research-prototype-of-a-proactive-coding-agent-for-one-gith</guid>
+</item>
+<item>
+<title>DeepSeek's super-agent prototype cuts p95 task time in simulated tests</title>
+<link>https://af.net/realtime/deepseek-releases-open-source-coding-agent-cutting-p95-time-to-15-7m/</link>
+<description>In DeepSeek's simulated benchmarks, the router-worker prototype cut 95th-percentile task completion from 29.5 minutes to 15.7 minutes, with rule-based gating over proactive edits.</description>
+<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://af.net/realtime/deepseek-releases-open-source-coding-agent-cutting-p95-time-to-15-7m/</guid>
 </item>
 <item>
 <title>Dataiku Headless brings governed data work into agentic coding tools</title>
@@ -271,20 +285,6 @@
 <description>Microsoft has put the agent loop and sandbox behind Copilot Code, Studio, and VS Code into public preview on Foundry Agent Service, letting developers build agents on the same managed harness while supplying their own instructions, skills, and tools.</description>
 <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://letsdatascience.com/news/microsoft-opens-copilot-harness-to-developers-in-foundry-age-46459786</guid>
-</item>
-<item>
-<title>MiniCPM-OCR 1.0 pairs a small document parser with a checker that flags its own mistakes</title>
-<link>https://flowtivity.ai/blog/minicpm-ocr-1-0-jev-local-document-parser/</link>
-<description>OpenBMB's 1.3B parser and 2B checker run locally on one consumer GPU, scoring each parsed region so only uncertain parts need human review.</description>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://flowtivity.ai/blog/minicpm-ocr-1-0-jev-local-document-parser/</guid>
-</item>
-<item>
-<title>Liquid AI releases LFM3: six open-weight 2B models sharing one backbone</title>
-<link>https://www.techtimes.com/articles/329588/20261028/liquid-ai-releases-lfm3-six-open-weight-models-fuse-text-vision-audio-one-2b-backbone.htm</link>
-<description>Liquid AI's LFM3 family puts text, vision, audio, omni, and two decision models on a single 1.7B-parameter backbone, with the text model fitting in about 1 GB at 4-bit for on-device use.</description>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.techtimes.com/articles/329588/20261028/liquid-ai-releases-lfm3-six-open-weight-models-fuse-text-vision-audio-one-2b-backbone.htm</guid>
 </item>
 </channel>
 </rss>
