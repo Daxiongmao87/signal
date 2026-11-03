@@ -161,6 +161,13 @@
 <guid isPermaLink="true">https://aicybr.com/blog/sensenova-loop-9b-preview-local-inference-architecture-guide</guid>
 </item>
 <item>
+<title>Liquid AI's LFM3 family: six small multimodal models for local use</title>
+<link>https://aicybr.com/blog/liquid-ai-lfm3-1-7b-multimodal-local-deployment-license-guide</link>
+<description>Liquid AI's six-model LFM3 family shares a 1.7B base across text, vision, audio, and decision variants, with a 256K context window and roughly 1 GB 4-bit weights for on-device deployment.</description>
+<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aicybr.com/blog/liquid-ai-lfm3-1-7b-multimodal-local-deployment-license-guide</guid>
+</item>
+<item>
 <title>LFM3-1.7B GGUF: a 1.05 GB QAD Q4_0 build for local runtimes</title>
 <link>https://tpsreport.news/news/liquid-ai-lfm3-1-7b-gguf-qad-q4-0</link>
 <description>Liquid AI's official GGUF build of LFM3-1.7B includes a quantization-aware-distilled Q4_0 checkpoint meant to recover accuracy lost to 4-bit quant, runnable on llama.cpp v0.8.0+, LM Studio, and Ollama v0.40.12+.</description>
@@ -278,13 +285,6 @@
 <description>Blizzard plans a roughly four-month patch rhythm with raid tiers and PvP seasons about three times a year, plus PC gamepad support, while keeping the launch focus on Eastern Kingdoms and Kalimdor.</description>
 <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://mmohuts.com/news/world-of-warcraft-forever-aims-for-four-month-raid-tiers-and-pc-gamepad-support-at-launch</guid>
-</item>
-<item>
-<title>Stop Buying GPUs: Turn Your Phone Into eGPU For Local AI</title>
-<link>https://www.youtube.com/watch?v=dBsFl3fU5yM</link>
-<description>A walkthrough of running llama.cpp in Termux so an Android phone serves as an offline local AI backend for a PC over USB, including which model sizes fit phone RAM.</description>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.youtube.com/watch?v=dBsFl3fU5yM</guid>
 </item>
 </channel>
 </rss>
