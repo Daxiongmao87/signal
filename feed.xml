@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 02 Nov 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 23:21:13 +0000</lastBuildDate>
+<item>
+<title>WoW: Forever launches November 4: the Classic+ game at a glance</title>
+<link>https://blizzardwatch.com/2026/09/12/world-warcraft-forever-long-speculated-classic-plus-unveiled-will-launch-worldwide-november-4-2026/</link>
+<description>BlizzardWatch's launch rundown of WoW: Forever, refreshed ahead of the November 4 debut, covering the new zones, the faction-choosing Skyborne race, and the account-wide Legacy reward system.</description>
+<pubDate>Mon, 02 Nov 2026 23:21:13 +0000</pubDate>
+<guid isPermaLink="true">https://blizzardwatch.com/2026/09/12/world-warcraft-forever-long-speculated-classic-plus-unveiled-will-launch-worldwide-november-4-2026/</guid>
+</item>
 <item>
 <title>BuddhiAI CLI v1.0.0: agent harness for Google Antigravity</title>
 <link>https://www.linkedin.com/pulse/official-release-buddhiai-cli-v100-agent-harness-buddhi-puzoc</link>
@@ -278,13 +285,6 @@
 <description>Announced at GitHub Universe 2026, MetaHarness generates a branded, governed coding-agent harness from a repo or blank page, with its own CLI, MCP server, scoped memory, and signed releases, while the model stays swappable.</description>
 <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/cognitum-one-unveils-metaharness-the-open-source-factory-for-bran-1242525</guid>
-</item>
-<item>
-<title>GitHub Agentic Workflows reaches general availability</title>
-<link>https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available/</link>
-<description>GitHub's open-source project for automating reasoning-based tasks with coding agents inside Actions is now generally available, compiling natural-language Markdown workflow definitions into standard Actions YAML with sandboxed, read-only-by-default execution.</description>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available/</guid>
 </item>
 </channel>
 </rss>
