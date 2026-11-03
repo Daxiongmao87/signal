@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://www.linkedin.com/pulse/official-release-buddhiai-cli-v100-agent-harness-buddhi-puzoc</guid>
 </item>
 <item>
+<title>DeepSeek Open-Sourced Its Autonomous Coding Agent — and Says Coding Agents Wrote Most of the Code</title>
+<link>https://www.singularity.kiwi/deepseek-dsh-superagent-open-source-coding-agent-2026/</link>
+<description>DeepSeek's MIT-licensed super-agent prototype watches a repo's GitHub activity, takes on authorized work items, and reports back with pull requests — notable partly because coding agents wrote much of the tool itself.</description>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.singularity.kiwi/deepseek-dsh-superagent-open-source-coding-agent-2026/</guid>
+</item>
+<item>
 <title>DeepSeek's open-source Super-agent watches GitHub repos and steps in with fixes</title>
 <link>https://completeaitraining.com/news/deepseek-releases-open-source-coding-agent-that-watches/</link>
 <description>DeepSeek's Harness team released an MIT-licensed Super-agent prototype that monitors a team's GitHub repo and takes on coding work unprompted, passing 4,000 stars within a day of release.</description>
@@ -278,13 +285,6 @@
 <description>Small devlog release standardizing local-model timeouts at 300 seconds so heavy quantized weights (14B-70B) finish loading into VRAM without premature HTTP aborts, plus env-var controls for the LM Studio, Ollama, and chat timeouts.</description>
 <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://itch.io/devlog/1735512/v102-release-lm-studio-ollama-timeout-alignment-for-large-contexts.amp</guid>
-</item>
-<item>
-<title>Cognitum One Unveils MetaHarness, an Open-Source Factory for Agent Harnesses</title>
-<link>https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/cognitum-one-unveils-metaharness-the-open-source-factory-for-bran-1242525</link>
-<description>Announced at GitHub Universe 2026, MetaHarness generates a branded, governed coding-agent harness from a repo or blank page, with its own CLI, MCP server, scoped memory, and signed releases, while the model stays swappable.</description>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/cognitum-one-unveils-metaharness-the-open-source-factory-for-bran-1242525</guid>
 </item>
 </channel>
 </rss>
