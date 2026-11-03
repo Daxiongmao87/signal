@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://www.linkedin.com/pulse/official-release-buddhiai-cli-v100-agent-harness-buddhi-puzoc</guid>
 </item>
 <item>
+<title>DeepSeek releases autonomous coding agent prototype to rival Claude Code</title>
+<link>https://mitsloanindia.com/article/deepseek-releases-autonomous-coding-agent-prototype-to-rival-claude-code/</link>
+<description>DeepSeek’s Harness team open-sourced dsh-superagent, a research prototype that monitors a GitHub repo, picks up authorized coding tasks through a router-worker design, and returns results with limited human supervision.</description>
+<pubDate>Mon, 02 Nov 2026 11:38:28 +0000</pubDate>
+<guid isPermaLink="true">https://mitsloanindia.com/article/deepseek-releases-autonomous-coding-agent-prototype-to-rival-claude-code/</guid>
+</item>
+<item>
 <title>DeepSeek Open-Sourced Its Autonomous Coding Agent — and Says Coding Agents Wrote Most of the Code</title>
 <link>https://www.singularity.kiwi/deepseek-dsh-superagent-open-source-coding-agent-2026/</link>
 <description>DeepSeek's MIT-licensed super-agent prototype watches a repo's GitHub activity, takes on authorized work items, and reports back with pull requests — notable partly because coding agents wrote much of the tool itself.</description>
@@ -278,13 +285,6 @@
 <description>The Forge's October update recaps its livestream: V14 builds 368 and 369 now available, a demo of Game Environments keeping per-game Foundry setups separate, and a new free BGK board game, reVAMP.</description>
 <pubDate>Wed, 28 Oct 2026 20:37:41 +0000</pubDate>
 <guid isPermaLink="true">https://blog.forge-vtt.com/october-2026-developer-update/</guid>
-</item>
-<item>
-<title>MCP Suite Pro v1.0.2 aligns LM Studio and Ollama timeouts for large local models</title>
-<link>https://itch.io/devlog/1735512/v102-release-lm-studio-ollama-timeout-alignment-for-large-contexts.amp</link>
-<description>Small devlog release standardizing local-model timeouts at 300 seconds so heavy quantized weights (14B-70B) finish loading into VRAM without premature HTTP aborts, plus env-var controls for the LM Studio, Ollama, and chat timeouts.</description>
-<pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://itch.io/devlog/1735512/v102-release-lm-studio-ollama-timeout-alignment-for-large-contexts.amp</guid>
 </item>
 </channel>
 </rss>
