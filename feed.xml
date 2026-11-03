@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://www.singularity.kiwi/deepseek-dsh-superagent-open-source-coding-agent-2026/</guid>
 </item>
 <item>
+<title>World of Warcraft: Forever Arrives November 4: From a 1994 Strategy Game to an Online World Built to Last</title>
+<link>https://theancientsky.com/gaming/wo-w-forever/</link>
+<description>Launch-eve rundown of WoW: Forever ahead of its November 4 worldwide debut, tracing the game from its 1994 strategy roots to a new permanent Classic-era world with fresh zones, dungeons, and raids.</description>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://theancientsky.com/gaming/wo-w-forever/</guid>
+</item>
+<item>
 <title>DeepSeek's open-source Super-agent watches GitHub repos and steps in with fixes</title>
 <link>https://completeaitraining.com/news/deepseek-releases-open-source-coding-agent-that-watches/</link>
 <description>DeepSeek's Harness team released an MIT-licensed Super-agent prototype that monitors a team's GitHub repo and takes on coding work unprompted, passing 4,000 stars within a day of release.</description>
@@ -278,13 +285,6 @@
 <description>Mistral's 1T-parameter mixture-of-experts model ships open weights with day-one llama.cpp GGUF builds, a 1M-token context window, and FP8 plus 4-bit variants for local and multi-GPU runs.</description>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.llms.blog/posts/mistral-large-4-open-weights-hugging-face</guid>
-</item>
-<item>
-<title>Foundry VTT modules and UVTT files coming for nearly a full map library</title>
-<link>https://www.patreon.com/WilliamOLaw/posts/weekly-news-and-173578374</link>
-<description>A mapmaker's weekly update promises Foundry modules and UVTT files for almost every map, plus free compendium rules and playable one-to-two-session stories for larger dungeons.</description>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.patreon.com/WilliamOLaw/posts/weekly-news-and-173578374</guid>
 </item>
 </channel>
 </rss>
