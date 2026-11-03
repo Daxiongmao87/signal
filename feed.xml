@@ -42,6 +42,13 @@
 <guid isPermaLink="true">https://www.eneralabs.com/blog/deepseek-super-agent-proactive-coding-enterprise-2026/</guid>
 </item>
 <item>
+<title>MiniCPM-OCR: small open-weight document-parsing models for edge deployment</title>
+<link>https://aisengtech.com/ai-research-open-source-llm-brief-2026-11-01/</link>
+<description>ModelBest and OpenBMB open-sourced two compact document-parsing models, a 1.3B OCR model and a 2B output-scoring companion, aimed at self-hosted edge and on-premises use with llama.cpp, vLLM, SGLang and Ollama support.</description>
+<pubDate>Sun, 01 Nov 2026 11:51:00 +0000</pubDate>
+<guid isPermaLink="true">https://aisengtech.com/ai-research-open-source-llm-brief-2026-11-01/</guid>
+</item>
+<item>
 <title>DeepSeek open-sources the architecture behind its super-agent prototype</title>
 <link>https://startupfortune.com/deepseek-open-sources-the-architecture-behind-its-super-agent/</link>
 <description>DeepSeek published a research prototype of a proactive coding agent that watches repo events and hands off accepted work, built on its plugin-based Harness runtime and flagged as experimental rather than production-ready.</description>
@@ -278,13 +285,6 @@
 <description>GitHub's open-source project for automating reasoning-based tasks with coding agents inside Actions is now generally available, compiling natural-language Markdown workflow definitions into standard Actions YAML with sandboxed, read-only-by-default execution.</description>
 <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available/</guid>
-</item>
-<item>
-<title>WoW Forever aims for four-month raid tiers and PC gamepad support at launch</title>
-<link>https://mmohuts.com/news/world-of-warcraft-forever-aims-for-four-month-raid-tiers-and-pc-gamepad-support-at-launch</link>
-<description>Blizzard plans a roughly four-month patch rhythm with raid tiers and PvP seasons about three times a year, plus PC gamepad support, while keeping the launch focus on Eastern Kingdoms and Kalimdor.</description>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://mmohuts.com/news/world-of-warcraft-forever-aims-for-four-month-raid-tiers-and-pc-gamepad-support-at-launch</guid>
 </item>
 </channel>
 </rss>
