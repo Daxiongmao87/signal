@@ -49,6 +49,13 @@
 <guid isPermaLink="true">https://theancientsky.com/gaming/wo-w-forever/</guid>
 </item>
 <item>
+<title>DeepSeek releases a free, experimental AI coding agent</title>
+<link>https://vector.news/articles/deepseek-releases-a-free-experimental-ai-coding-agent-bb0ae8776e</link>
+<description>DeepSeek's MIT-licensed dsh-superagent prototype takes coding requests through GitHub and works them in isolated sessions, but the lab itself calls it unaudited research code rather than a production-ready product.</description>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://vector.news/articles/deepseek-releases-a-free-experimental-ai-coding-agent-bb0ae8776e</guid>
+</item>
+<item>
 <title>DeepSeek's open-source Super-agent watches GitHub repos and steps in with fixes</title>
 <link>https://completeaitraining.com/news/deepseek-releases-open-source-coding-agent-that-watches/</link>
 <description>DeepSeek's Harness team released an MIT-licensed Super-agent prototype that monitors a team's GitHub repo and takes on coding work unprompted, passing 4,000 stars within a day of release.</description>
@@ -278,13 +285,6 @@
 <description>Hermit trains a small external adapter that tunes Codex or Claude Code agents to new tasks while leaving both the model and the harness frozen, with local vLLM, SGLang, or Ollama backends.</description>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/</guid>
-</item>
-<item>
-<title>Don't expect rapid World of Warcraft: Forever updates as Blizzard confirms post-launch will be 'more laid back'</title>
-<link>https://frvr.com/blog/news/dont-expect-rapid-world-of-warcraft-forever-updates-post-launch-laid-back/</link>
-<description>Blizzard says WoW Forever will add content roughly every four months after its November 4 launch, deliberately keeping a slower pace than its other games.</description>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://frvr.com/blog/news/dont-expect-rapid-world-of-warcraft-forever-updates-post-launch-laid-back/</guid>
 </item>
 </channel>
 </rss>
