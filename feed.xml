@@ -98,6 +98,13 @@
 <guid isPermaLink="true">https://finance.biggo.com/news/11350f30-4ed6-4069-ac13-0062ca642d55</guid>
 </item>
 <item>
+<title>DeepSeek Open-Sourced Its Agent Stack: What It Means</title>
+<link>https://synergised.io/blog/deepseek-harness-open-source-agent-runtime/</link>
+<description>DeepSeek's MIT-licensed Harness runtime lets developers self-host the layer between a model and its tools, with composable plugins for sessions, sandboxes, and agent loops — still an unaudited developer preview, not production-ready software.</description>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://synergised.io/blog/deepseek-harness-open-source-agent-runtime/</guid>
+</item>
+<item>
 <title>DeepSeek drops a free coding agent that takes requests from GitHub</title>
 <link>https://dailyinference.news/articles/2026-11-01-deepseek-drops-a-free-coding-agent-that-takes-requests-from-github/</link>
 <description>DeepSeek's MIT-licensed dsh-superagent prototype watches a single GitHub repo, takes authorized requests, and answers with proposed code changes or pull requests, with a human-review panel in the loop.</description>
@@ -278,13 +285,6 @@
 <description>A mapmaker's weekly update promises Foundry modules and UVTT files for almost every map, plus free compendium rules and playable one-to-two-session stories for larger dungeons.</description>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.patreon.com/WilliamOLaw/posts/weekly-news-and-173578374</guid>
-</item>
-<item>
-<title>October 2026 Developer Update</title>
-<link>https://blog.forge-vtt.com/october-2026-developer-update/</link>
-<description>The Forge's October update recaps its livestream: V14 builds 368 and 369 now available, a demo of Game Environments keeping per-game Foundry setups separate, and a new free BGK board game, reVAMP.</description>
-<pubDate>Wed, 28 Oct 2026 20:37:41 +0000</pubDate>
-<guid isPermaLink="true">https://blog.forge-vtt.com/october-2026-developer-update/</guid>
 </item>
 </channel>
 </rss>
