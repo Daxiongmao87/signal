@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 02 Nov 2026 23:21:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 17:00:00 +0000</lastBuildDate>
+<item>
+<title>With World of Warcraft: Forever, Blizzard Had To Reconnect With What Made WoW Great In The First Place</title>
+<link>https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/</link>
+<description>On the eve of the November 4 launch, lead encounter designer Michael Nuthals describes unlearning modern WoW habits to recapture Classic dungeon and raid design, with horizontal progression keeping the cap at 60.</description>
+<pubDate>Tue, 03 Nov 2026 17:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/</guid>
+</item>
 <item>
 <title>WoW: Forever launches November 4: the Classic+ game at a glance</title>
 <link>https://blizzardwatch.com/2026/09/12/world-warcraft-forever-long-speculated-classic-plus-unveiled-will-launch-worldwide-november-4-2026/</link>
@@ -278,13 +285,6 @@
 <description>Blizzard says WoW Forever will add content roughly every four months after its November 4 launch, deliberately keeping a slower pace than its other games.</description>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://frvr.com/blog/news/dont-expect-rapid-world-of-warcraft-forever-updates-post-launch-laid-back/</guid>
-</item>
-<item>
-<title>Mistral Large 4 weights are out, with day-one llama.cpp GGUF support</title>
-<link>https://www.llms.blog/posts/mistral-large-4-open-weights-hugging-face</link>
-<description>Mistral's 1T-parameter mixture-of-experts model ships open weights with day-one llama.cpp GGUF builds, a 1M-token context window, and FP8 plus 4-bit variants for local and multi-GPU runs.</description>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.llms.blog/posts/mistral-large-4-open-weights-hugging-face</guid>
 </item>
 </channel>
 </rss>
