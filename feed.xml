@@ -70,6 +70,13 @@
 <guid isPermaLink="true">https://www.nav4ai.com/blog/deepseek-harness-creator-mode</guid>
 </item>
 <item>
+<title>Run AI Models Locally Without Extra VRAM: Settings Guide</title>
+<link>https://theoutpost.ai/news-story/two-settings-let-you-run-large-ai-models-locally-without-upgrading-vram-32961/</link>
+<description>Offloading inactive MoE experts to system RAM via a llama.cpp flag reportedly lifts a Qwen MoE model from 4 to 33 tokens per second on an 8GB-VRAM laptop.</description>
+<pubDate>Sun, 01 Nov 2026 16:02:40 +0000</pubDate>
+<guid isPermaLink="true">https://theoutpost.ai/news-story/two-settings-let-you-run-large-ai-models-locally-without-upgrading-vram-32961/</guid>
+</item>
+<item>
 <title>DeepSeek's open-source Super-agent watches GitHub repos and steps in with fixes</title>
 <link>https://completeaitraining.com/news/deepseek-releases-open-source-coding-agent-that-watches/</link>
 <description>DeepSeek's Harness team released an MIT-licensed Super-agent prototype that monitors a team's GitHub repo and takes on coding work unprompted, passing 4,000 stars within a day of release.</description>
@@ -278,13 +285,6 @@
 <description>AMD's quantized ONNX build of Llama 3.2 3B targets Ryzen AI laptops, splitting work between the NPU and CPU for fully on-device inference through ONNX Runtime.</description>
 <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aichina.news/blog/llama-3-2-3b-goes-local-amd-s-ryzen-ai-hybrid-onnx-build-arrives-on-w3u9ce/</guid>
-</item>
-<item>
-<title>GitHub Agentic Workflows reaches general availability: keep review in the loop</title>
-<link>https://hubai.uk/news/github-agentic-workflows-general-availability-review</link>
-<description>GitHub’s open-source project that turns plain-language Markdown task definitions into Actions workflows is now generally available, with read-only defaults and human review kept in the loop before changes land.</description>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://hubai.uk/news/github-agentic-workflows-general-availability-review</guid>
 </item>
 </channel>
 </rss>
