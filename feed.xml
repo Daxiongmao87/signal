@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 03 Nov 2026 17:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Codein v2.2.7 Turns Android Into a More Powerful Local AI Coding Workspace</title>
+<link>https://undercodenews.com/codein-v227-just-turned-android-into-a-more-powerful-local-ai-coding-workspace-video/</link>
+<description>Codein v2.2.7 adds a local Termux bridge, model routing, and browser tools to its Android AI coding app, letting an agent run approved commands on-device without root.</description>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://undercodenews.com/codein-v227-just-turned-android-into-a-more-powerful-local-ai-coding-workspace-video/</guid>
+</item>
 <item>
 <title>With World of Warcraft: Forever, Blizzard Had To Reconnect With What Made WoW Great In The First Place</title>
 <link>https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/</link>
@@ -278,13 +285,6 @@
 <description>A line-by-line breakdown of Liquid's 1.7B tri-hybrid family, covering its convolution-attention layer mix, 256K context window, and roughly 1 GB footprint at 4-bit for edge devices.</description>
 <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://local-ai-zone.github.io/blog/lfm3-deep-dive.html</guid>
-</item>
-<item>
-<title>Infini-AI-Lab releases Hermit, an open-source harness adapter framework for AI agents</title>
-<link>https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/</link>
-<description>Hermit trains a small external adapter that tunes Codex or Claude Code agents to new tasks while leaving both the model and the harness frozen, with local vLLM, SGLang, or Ollama backends.</description>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/</guid>
 </item>
 </channel>
 </rss>
