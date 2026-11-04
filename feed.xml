@@ -63,6 +63,13 @@
 <guid isPermaLink="true">https://vector.news/articles/deepseek-releases-a-free-experimental-ai-coding-agent-bb0ae8776e</guid>
 </item>
 <item>
+<title>DeepSeek Harness Creator Mode: Build Plugins by Chat</title>
+<link>https://www.nav4ai.com/blog/deepseek-harness-creator-mode</link>
+<description>DeepSeek's open-source Harness gains a Creator Mode that lets users add plugins, features, and custom UI to the agent by describing them in conversation rather than writing the code by hand.</description>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.nav4ai.com/blog/deepseek-harness-creator-mode</guid>
+</item>
+<item>
 <title>DeepSeek's open-source Super-agent watches GitHub repos and steps in with fixes</title>
 <link>https://completeaitraining.com/news/deepseek-releases-open-source-coding-agent-that-watches/</link>
 <description>DeepSeek's Harness team released an MIT-licensed Super-agent prototype that monitors a team's GitHub repo and takes on coding work unprompted, passing 4,000 stars within a day of release.</description>
@@ -278,13 +285,6 @@
 <description>GitHub’s open-source project that turns plain-language Markdown task definitions into Actions workflows is now generally available, with read-only defaults and human review kept in the loop before changes land.</description>
 <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://hubai.uk/news/github-agentic-workflows-general-availability-review</guid>
-</item>
-<item>
-<title>LFM3: Technical Deep Dive into Liquid AI's Tri-Hybrid Multimodal Family</title>
-<link>https://local-ai-zone.github.io/blog/lfm3-deep-dive.html</link>
-<description>A line-by-line breakdown of Liquid's 1.7B tri-hybrid family, covering its convolution-attention layer mix, 256K context window, and roughly 1 GB footprint at 4-bit for edge devices.</description>
-<pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://local-ai-zone.github.io/blog/lfm3-deep-dive.html</guid>
 </item>
 </channel>
 </rss>
