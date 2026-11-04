@@ -28,6 +28,13 @@
 <guid isPermaLink="true">https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/</guid>
 </item>
 <item>
+<title>IndiaAI Mission launches EKA-1 and Dhir offline models</title>
+<link>https://unicornapi.net/blog/soket-labs-zenteiq-release-indian-ai-models-run-offline</link>
+<description>Government-backed Indian launch of a 26.3B sparse hybrid model plus 2B and 5B compact models aimed at offline, on-device and on-premise use across Indian languages.</description>
+<pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://unicornapi.net/blog/soket-labs-zenteiq-release-indian-ai-models-run-offline</guid>
+</item>
+<item>
 <title>WoW Forever Explained: What It Is, Dates, What Is New</title>
 <link>https://lfcarry.com/guides/wow-forever-explained</link>
 <description>A launch-day explainer for WoW Forever: global launch November 4 at 3 PM PST, level cap staying at 60, first raids December 9, and the 2027 roadmap.</description>
@@ -278,13 +285,6 @@
 <description>Coverage of Microsoft opening the Copilot orchestration harness to outside developers via Foundry, including its sandboxing, MCP support, and the free-until-December pricing window.</description>
 <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://pivotnews.ai/build/microsoft-opens-its-copilot-agent-harness-through-foundry</guid>
-</item>
-<item>
-<title>LFM3 runs fully offline on phones through the Private Mind app</title>
-<link>https://www.haiai123.com/en/hot/4757</link>
-<description>Private Mind, an open-source app, now runs Liquid AI's LFM3 family on iOS and Android entirely offline, with the 1.7B text model reaching about 40 tokens per second on an iPhone 16 Pro.</description>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.haiai123.com/en/hot/4757</guid>
 </item>
 </channel>
 </rss>
