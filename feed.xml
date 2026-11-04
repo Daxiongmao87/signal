@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 04 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 17:31:36 +0000</lastBuildDate>
+<item>
+<title>Unsloth Shrinks Qwen3.8-Flash-Next to 74.5 GB for Local Coding Agents</title>
+<link>https://alphasignal.ai/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents</link>
+<description>Unsloth's Dynamic V3.1 GGUF quants bring the 125B MoE Qwen3.8-Flash-Next down to 74.5 GB, fitting local coding-agent runs on high-memory workstations.</description>
+<pubDate>Wed, 04 Nov 2026 17:31:36 +0000</pubDate>
+<guid isPermaLink="true">https://alphasignal.ai/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents</guid>
+</item>
 <item>
 <title>Codein v2.2.7 Turns Android Into a More Powerful Local AI Coding Workspace</title>
 <link>https://undercodenews.com/codein-v227-just-turned-android-into-a-more-powerful-local-ai-coding-workspace-video/</link>
@@ -278,13 +285,6 @@
 <description>Private Mind, an open-source app, now runs Liquid AI's LFM3 family on iOS and Android entirely offline, with the 1.7B text model reaching about 40 tokens per second on an iPhone 16 Pro.</description>
 <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.haiai123.com/en/hot/4757</guid>
-</item>
-<item>
-<title>WoW: Forever launch times locked in for November 4, with nine new dungeons at launch</title>
-<link>https://pro-gamer.gg/?p=10078</link>
-<description>Blizzard's simultaneous global launch lands November 4 at 3pm PT, with nine new dungeons, a level-60 cap, and tier 1 raids unlocking December 9.</description>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://pro-gamer.gg/?p=10078</guid>
 </item>
 </channel>
 </rss>
