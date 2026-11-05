@@ -49,6 +49,13 @@
 <guid isPermaLink="true">https://unicornapi.net/blog/soket-labs-zenteiq-release-indian-ai-models-run-offline</guid>
 </item>
 <item>
+<title>Three new Savage Worlds releases for Foundry VTT</title>
+<link>https://shop.peginc.com/blogs/news/three-new-savage-worlds-releases-plus-a-bundle-for-foundry-vtt</link>
+<description>Pinnacle ships three new Foundry VTT releases — two Deadlands: The Weird West adventures and a Pathfinder for Savage Worlds asset pack — plus a limited-time Hollerween bundle through November 15.</description>
+<pubDate>Tue, 03 Nov 2026 08:59:00 +0000</pubDate>
+<guid isPermaLink="true">https://shop.peginc.com/blogs/news/three-new-savage-worlds-releases-plus-a-bundle-for-foundry-vtt</guid>
+</item>
+<item>
 <title>WoW Forever Explained: What It Is, Dates, What Is New</title>
 <link>https://lfcarry.com/guides/wow-forever-explained</link>
 <description>A launch-day explainer for WoW Forever: global launch November 4 at 3 PM PST, level cap staying at 60, first raids December 9, and the 2027 roadmap.</description>
@@ -278,13 +285,6 @@
 <description>Liquid AI's six-model LFM3 family shares a 1.7B base across text, vision, audio, and decision variants, with a 256K context window and roughly 1 GB 4-bit weights for on-device deployment.</description>
 <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aicybr.com/blog/liquid-ai-lfm3-1-7b-multimodal-local-deployment-license-guide</guid>
-</item>
-<item>
-<title>LLM Hub: Offline AI Assistant update 4.6.2</title>
-<link>https://www.appbrain.com/app/llm-hub-local-ai-assistant/com.llmhub.llmhub</link>
-<description>Android offline AI assistant updated to version 4.6.2, running GGUF models on CPU, GPU or NPU with no account and an on-device agent that can review Termux commands.</description>
-<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.appbrain.com/app/llm-hub-local-ai-assistant/com.llmhub.llmhub</guid>
 </item>
 </channel>
 </rss>
