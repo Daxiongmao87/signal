@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://www.ggrecon.com/articles/wow-forever-launch-time-uk/</guid>
 </item>
 <item>
+<title>Dataiku Headless brings governed data work into coding agents</title>
+<link>https://www.thecatalystonline.com/dataiku-launches-headless-to-bring-agentic-ai-into-developers-existing-coding-workflows/</link>
+<description>Dataiku Headless lets developers build and modify governed data pipelines, models and dashboards from the coding agent they already use, with its Cobuild agent doing the Dataiku-side work behind the scenes.</description>
+<pubDate>Wed, 04 Nov 2026 09:25:35 +0000</pubDate>
+<guid isPermaLink="true">https://www.thecatalystonline.com/dataiku-launches-headless-to-bring-agentic-ai-into-developers-existing-coding-workflows/</guid>
+</item>
+<item>
 <title>Codein v2.2.7 Turns Android Into a More Powerful Local AI Coding Workspace</title>
 <link>https://undercodenews.com/codein-v227-just-turned-android-into-a-more-powerful-local-ai-coding-workspace-video/</link>
 <description>Codein v2.2.7 adds a local Termux bridge, model routing, and browser tools to its Android AI coding app, letting an agent run approved commands on-device without root.</description>
@@ -278,13 +285,6 @@
 <description>Liquid AI's official GGUF build of LFM3-1.7B includes a quantization-aware-distilled Q4_0 checkpoint meant to recover accuracy lost to 4-bit quant, runnable on llama.cpp v0.8.0+, LM Studio, and Ollama v0.40.12+.</description>
 <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://tpsreport.news/news/liquid-ai-lfm3-1-7b-gguf-qad-q4-0</guid>
-</item>
-<item>
-<title>WoW Classic Plus Forever: Everything Blizzard Has Confirmed</title>
-<link>https://epiccarry.com/blogs/wow-classic-plus/</link>
-<description>A launch-eve roundup of what Blizzard has confirmed for WoW Forever ahead of its November 4 global launch, including the closed beta, the level-60 cap, and the post-launch update cadence.</description>
-<pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://epiccarry.com/blogs/wow-classic-plus/</guid>
 </item>
 </channel>
 </rss>
