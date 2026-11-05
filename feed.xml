@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://undercodenews.com/codein-v227-just-turned-android-into-a-more-powerful-local-ai-coding-workspace-video/</guid>
 </item>
 <item>
+<title>Qwen3.6-35b-a3b on 5060ti using Ollama for Hermes</title>
+<link>https://vibingtalk.com/index.php?threads/qwen3-6-35b-a3b-on-5060ti-using-ollama-for-hermes.1916925/</link>
+<description>A 5060 Ti owner works through getting Qwen3.6-35B-A3B to 120K context in Ollama: flash attention plus a q8_0 KV cache, with llama-swap as the VRAM-friendly alternative.</description>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://vibingtalk.com/index.php?threads/qwen3-6-35b-a3b-on-5060ti-using-ollama-for-hermes.1916925/</guid>
+</item>
+<item>
 <title>With World of Warcraft: Forever, Blizzard Had To Reconnect With What Made WoW Great In The First Place</title>
 <link>https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/</link>
 <description>On the eve of the November 4 launch, lead encounter designer Michael Nuthals describes unlearning modern WoW habits to recapture Classic dungeon and raid design, with horizontal progression keeping the cap at 60.</description>
@@ -110,6 +117,13 @@
 <description>DeepSeek's open-source Harness gains a Creator Mode that lets users add plugins, features, and custom UI to the agent by describing them in conversation rather than writing the code by hand.</description>
 <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.nav4ai.com/blog/deepseek-harness-creator-mode</guid>
+</item>
+<item>
+<title>axteam/gemma-4-31B-GGUF</title>
+<link>https://huggingface.co/axteam/gemma-4-31B-GGUF</link>
+<description>Community GGUF builds of Google's new Gemma 4 31B, with Q4_K_M and Q8_0 files and perplexity measured on a B200 on November 2.</description>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://huggingface.co/axteam/gemma-4-31B-GGUF</guid>
 </item>
 <item>
 <title>Run AI Models Locally Without Extra VRAM: Settings Guide</title>
@@ -271,20 +285,6 @@
 <description>Droid 1.0 makes programmatic tool calling the default, letting one model request drive hundreds of tool calls through a sandboxed script, and ships as a desktop app, terminal UI, and Node SDK.</description>
 <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/</guid>
-</item>
-<item>
-<title>DeepSeek Harness team releases coding agent prototype for GitHub</title>
-<link>https://www.aiaffairs.com/technology/deepseek-harness-super-agent-coding-prototype/</link>
-<description>An MIT-licensed research prototype puts a resident router over isolated worker sessions to handle permitted requests in a single GitHub repo and return proposed code changes.</description>
-<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.aiaffairs.com/technology/deepseek-harness-super-agent-coding-prototype/</guid>
-</item>
-<item>
-<title>SenseNova-Loop-9B Preview: shared-weight depth for local multimodal work</title>
-<link>https://aicybr.com/blog/sensenova-loop-9b-preview-local-inference-architecture-guide</link>
-<description>SenseTime's open-weight 9B multimodal preview runs a shared decoder block twice for a longer execution path, at the cost of a roughly 38 GB checkpoint and custom-code serving.</description>
-<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aicybr.com/blog/sensenova-loop-9b-preview-local-inference-architecture-guide</guid>
 </item>
 </channel>
 </rss>
