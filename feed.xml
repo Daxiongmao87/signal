@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://alphasignal.ai/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents</guid>
 </item>
 <item>
+<title>WoW Forever UK launch time: 11pm on November 4</title>
+<link>https://www.ggrecon.com/articles/wow-forever-launch-time-uk/</link>
+<description>Blizzard's Classic+ goes live worldwide at a single moment, 3pm Pacific, which is 11pm UK time on November 4, included with a standard WoW subscription.</description>
+<pubDate>Wed, 04 Nov 2026 09:45:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.ggrecon.com/articles/wow-forever-launch-time-uk/</guid>
+</item>
+<item>
 <title>Codein v2.2.7 Turns Android Into a More Powerful Local AI Coding Workspace</title>
 <link>https://undercodenews.com/codein-v227-just-turned-android-into-a-more-powerful-local-ai-coding-workspace-video/</link>
 <description>Codein v2.2.7 adds a local Termux bridge, model routing, and browser tools to its Android AI coding app, letting an agent run approved commands on-device without root.</description>
@@ -278,13 +285,6 @@
 <description>A launch-eve roundup of what Blizzard has confirmed for WoW Forever ahead of its November 4 global launch, including the closed beta, the level-60 cap, and the post-launch update cadence.</description>
 <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://epiccarry.com/blogs/wow-classic-plus/</guid>
-</item>
-<item>
-<title>Microsoft opens its Copilot agent harness through Foundry</title>
-<link>https://pivotnews.ai/build/microsoft-opens-its-copilot-agent-harness-through-foundry</link>
-<description>Coverage of Microsoft opening the Copilot orchestration harness to outside developers via Foundry, including its sandboxing, MCP support, and the free-until-December pricing window.</description>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://pivotnews.ai/build/microsoft-opens-its-copilot-agent-harness-through-foundry</guid>
 </item>
 </channel>
 </rss>
