@@ -245,6 +245,13 @@
 <guid isPermaLink="true">https://www.ai-market-watch.com/news/deepseek-open-sources-a-proactive-coding-agent-prototype-6y53ym</guid>
 </item>
 <item>
+<title>LFM3-1.7B on-device: the 256K KV-cache math and which GGUF to ship</title>
+<link>https://ginigen-ai-edge-ai-news.static.hf.space/a/lfm3-1-7b-on-device-kv-budget-gguf-choice-2026-10-31.html</link>
+<description>Works out what Liquid AI's new 1.7B tri-hybrid model actually costs on device: KV-cache memory at 256K context, which of its GGUF files (Q4_K_M vs the QAD Q4_0 build) to pick, and the safety test to run first.</description>
+<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://ginigen-ai-edge-ai-news.static.hf.space/a/lfm3-1-7b-on-device-kv-budget-gguf-choice-2026-10-31.html</guid>
+</item>
+<item>
 <title>Dataiku Headless brings governed data work into agentic coding tools</title>
 <link>https://onetechavenue.com/dataiku-introduces-headless-bringing-governed-data-and-ai-work-to-agentic-coding-tools/</link>
 <description>Dataiku launches Headless, a plugin letting Claude Code, Codex, Cursor and other coding agents build and migrate governed Dataiku projects without leaving the editor.</description>
@@ -278,13 +285,6 @@
 <description>SenseTime's open-weight 9B multimodal preview runs a shared decoder block twice for a longer execution path, at the cost of a roughly 38 GB checkpoint and custom-code serving.</description>
 <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aicybr.com/blog/sensenova-loop-9b-preview-local-inference-architecture-guide</guid>
-</item>
-<item>
-<title>Liquid AI's LFM3 family: six small multimodal models for local use</title>
-<link>https://aicybr.com/blog/liquid-ai-lfm3-1-7b-multimodal-local-deployment-license-guide</link>
-<description>Liquid AI's six-model LFM3 family shares a 1.7B base across text, vision, audio, and decision variants, with a 256K context window and roughly 1 GB 4-bit weights for on-device deployment.</description>
-<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aicybr.com/blog/liquid-ai-lfm3-1-7b-multimodal-local-deployment-license-guide</guid>
 </item>
 </channel>
 </rss>
