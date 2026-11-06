@@ -42,6 +42,13 @@
 <guid isPermaLink="true">https://vibingtalk.com/index.php?threads/qwen3-6-35b-a3b-on-5060ti-using-ollama-for-hermes.1916925/</guid>
 </item>
 <item>
+<title>TwIL-8B: 8.8B Model Claims 93% of Frontier Coding Score</title>
+<link>https://explainx.ai/blog/twil-8b-webai-open-weight-granite-reasoning-model-frontier-share-claimed-vs-verified-2026</link>
+<description>webAI's open-weight 8.8B reasoning model, post-trained from IBM Granite 4.2, claims near-frontier math and coding scores with a 5 GB Q4_K_M GGUF, though the numbers are the vendor's own and the license is non-commercial.</description>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://explainx.ai/blog/twil-8b-webai-open-weight-granite-reasoning-model-frontier-share-claimed-vs-verified-2026</guid>
+</item>
+<item>
 <title>With World of Warcraft: Forever, Blizzard Had To Reconnect With What Made WoW Great In The First Place</title>
 <link>https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/</link>
 <description>On the eve of the November 4 launch, lead encounter designer Michael Nuthals describes unlearning modern WoW habits to recapture Classic dungeon and raid design, with horizontal progression keeping the cap at 60.</description>
@@ -278,13 +285,6 @@
 <description>Clearport pairs a Flutter chat app with a Termux CLI that serves llama-server on loopback, keeping prompts and models fully on the phone with no account or cloud call.</description>
 <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/_sudo/clearport-giving-the-ghost-a-machine-local-ai-on-android-hf26challenge-1793</guid>
-</item>
-<item>
-<title>Factory ships Droid 1.0, a model-independent coding agent harness</title>
-<link>https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/</link>
-<description>Droid 1.0 makes programmatic tool calling the default, letting one model request drive hundreds of tool calls through a sandboxed script, and ships as a desktop app, terminal UI, and Node SDK.</description>
-<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/</guid>
 </item>
 </channel>
 </rss>
