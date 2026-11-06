@@ -70,6 +70,13 @@
 <guid isPermaLink="true">https://www.kynari.io/world-of-warcraft-forever-launch-blizzard-third-permanent-branch-classic-plus/</guid>
 </item>
 <item>
+<title>llama.cpp v0.9.0 and ggml 0.29.0: native FP8, multi-node tensor parallelism</title>
+<link>https://explainx.ai/blog/llama-cpp-v0-9-0-ggml-0-29-0-fp8-e4m3-multi-node-tensor-parallelism-nccl-what-changed-2026</link>
+<description>llama.cpp tags v0.9.0 on ggml 0.29.0, adding a native FP8 E4M3 tensor type, a flash-attention variant for multi-sequence serving, and initial multi-node tensor parallelism over NCCL.</description>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://explainx.ai/blog/llama-cpp-v0-9-0-ggml-0-29-0-fp8-e4m3-multi-node-tensor-parallelism-nccl-what-changed-2026</guid>
+</item>
+<item>
 <title>With World of Warcraft: Forever, Blizzard Had To Reconnect With What Made WoW Great In The First Place</title>
 <link>https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/</link>
 <description>On the eve of the November 4 launch, lead encounter designer Michael Nuthals describes unlearning modern WoW habits to recapture Classic dungeon and raid design, with horizontal progression keeping the cap at 60.</description>
@@ -278,13 +285,6 @@
 <description>In DeepSeek's simulated benchmarks, the router-worker prototype cut 95th-percentile task completion from 29.5 minutes to 15.7 minutes, with rule-based gating over proactive edits.</description>
 <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://af.net/realtime/deepseek-releases-open-source-coding-agent-cutting-p95-time-to-15-7m/</guid>
-</item>
-<item>
-<title>DeepSeek releases a coding-agent prototype on its open-source Harness</title>
-<link>https://www.ai-market-watch.com/news/deepseek-open-sources-a-proactive-coding-agent-prototype-6y53ym</link>
-<description>DeepSeek's MIT-licensed super-agent prototype routes permitted GitHub requests through a persistent router to isolated worker sessions that return pull requests, though it remains unaudited research code rather than a production tool.</description>
-<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.ai-market-watch.com/news/deepseek-open-sources-a-proactive-coding-agent-prototype-6y53ym</guid>
 </item>
 </channel>
 </rss>
