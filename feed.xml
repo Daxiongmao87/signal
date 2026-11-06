@@ -63,6 +63,13 @@
 <guid isPermaLink="true">https://explainx.ai/blog/twil-8b-webai-open-weight-granite-reasoning-model-frontier-share-claimed-vs-verified-2026</guid>
 </item>
 <item>
+<title>World of Warcraft: Forever launches as Blizzard's third permanent branch of Azeroth</title>
+<link>https://www.kynari.io/world-of-warcraft-forever-launch-blizzard-third-permanent-branch-classic-plus/</link>
+<description>Launch-day look at Forever as a permanent third WoW branch rather than a season: 1,000+ new quests, four new zones, the Skyborne race, the account-wide Legacy System, and Barrow Deeps and Hyjal Summit raids unlocking Dec 9.</description>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.kynari.io/world-of-warcraft-forever-launch-blizzard-third-permanent-branch-classic-plus/</guid>
+</item>
+<item>
 <title>With World of Warcraft: Forever, Blizzard Had To Reconnect With What Made WoW Great In The First Place</title>
 <link>https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/</link>
 <description>On the eve of the November 4 launch, lead encounter designer Michael Nuthals describes unlearning modern WoW habits to recapture Classic dungeon and raid design, with horizontal progression keeping the cap at 60.</description>
@@ -278,13 +285,6 @@
 <description>DeepSeek's MIT-licensed super-agent prototype routes permitted GitHub requests through a persistent router to isolated worker sessions that return pull requests, though it remains unaudited research code rather than a production tool.</description>
 <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.ai-market-watch.com/news/deepseek-open-sources-a-proactive-coding-agent-prototype-6y53ym</guid>
-</item>
-<item>
-<title>LFM3-1.7B on-device: the 256K KV-cache math and which GGUF to ship</title>
-<link>https://ginigen-ai-edge-ai-news.static.hf.space/a/lfm3-1-7b-on-device-kv-budget-gguf-choice-2026-10-31.html</link>
-<description>Works out what Liquid AI's new 1.7B tri-hybrid model actually costs on device: KV-cache memory at 256K context, which of its GGUF files (Q4_K_M vs the QAD Q4_0 build) to pick, and the safety test to run first.</description>
-<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://ginigen-ai-edge-ai-news.static.hf.space/a/lfm3-1-7b-on-device-kv-budget-gguf-choice-2026-10-31.html</guid>
 </item>
 </channel>
 </rss>
