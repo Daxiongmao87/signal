@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://metammo.com/wow-forever</guid>
 </item>
 <item>
+<title>The Agent Harness, Explained: what Microsoft shipped and how to build on it in Python</title>
+<link>https://aiadvances.org/the-agent-harness-explained-what-microsoft-shipped-and-how-to-build-on-it-in-python-f07081f40f4c</link>
+<description>A hands-on walkthrough of Microsoft Agent Framework's stable Python/.NET harness — planning, memory, approvals, and telemetry in one call — with a working night-shift ops agent built on it and runnable code.</description>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aiadvances.org/the-agent-harness-explained-what-microsoft-shipped-and-how-to-build-on-it-in-python-f07081f40f4c</guid>
+</item>
+<item>
 <title>Unsloth Shrinks Qwen3.8-Flash-Next to 74.5 GB for Local Coding Agents</title>
 <link>https://alphasignal.ai/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents</link>
 <description>Unsloth's Dynamic V3.1 GGUF quants bring the 125B MoE Qwen3.8-Flash-Next down to 74.5 GB, fitting local coding-agent runs on high-memory workstations.</description>
@@ -278,13 +285,6 @@
 <description>Works out what Liquid AI's new 1.7B tri-hybrid model actually costs on device: KV-cache memory at 256K context, which of its GGUF files (Q4_K_M vs the QAD Q4_0 build) to pick, and the safety test to run first.</description>
 <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://ginigen-ai-edge-ai-news.static.hf.space/a/lfm3-1-7b-on-device-kv-budget-gguf-choice-2026-10-31.html</guid>
-</item>
-<item>
-<title>Dataiku Headless brings governed data work into agentic coding tools</title>
-<link>https://onetechavenue.com/dataiku-introduces-headless-bringing-governed-data-and-ai-work-to-agentic-coding-tools/</link>
-<description>Dataiku launches Headless, a plugin letting Claude Code, Codex, Cursor and other coding agents build and migrate governed Dataiku projects without leaving the editor.</description>
-<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://onetechavenue.com/dataiku-introduces-headless-bringing-governed-data-and-ai-work-to-agentic-coding-tools/</guid>
 </item>
 </channel>
 </rss>
