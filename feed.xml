@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 04 Nov 2026 17:31:36 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>WoW Forever launch hub: live Nov 4, first hotfixes land</title>
+<link>https://metammo.com/wow-forever</link>
+<description>Live launch hub tracking WoW Forever since its Nov 4 debut: the first Nov 5 hotfixes fixing NPC spawns, vendors and Plainsrunning stacking, plus launch guides and the Dec 9 raid roadmap.</description>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://metammo.com/wow-forever</guid>
+</item>
 <item>
 <title>Unsloth Shrinks Qwen3.8-Flash-Next to 74.5 GB for Local Coding Agents</title>
 <link>https://alphasignal.ai/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents</link>
@@ -278,13 +285,6 @@
 <description>Dataiku launches Headless, a plugin letting Claude Code, Codex, Cursor and other coding agents build and migrate governed Dataiku projects without leaving the editor.</description>
 <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://onetechavenue.com/dataiku-introduces-headless-bringing-governed-data-and-ai-work-to-agentic-coding-tools/</guid>
-</item>
-<item>
-<title>Clearport runs a local AI chat client entirely on Android via Termux</title>
-<link>https://dev.to/_sudo/clearport-giving-the-ghost-a-machine-local-ai-on-android-hf26challenge-1793</link>
-<description>Clearport pairs a Flutter chat app with a Termux CLI that serves llama-server on loopback, keeping prompts and models fully on the phone with no account or cloud call.</description>
-<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/_sudo/clearport-giving-the-ghost-a-machine-local-ai-on-android-hf26challenge-1793</guid>
 </item>
 </channel>
 </rss>
