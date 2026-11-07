@@ -168,6 +168,13 @@
 <guid isPermaLink="true">https://huggingface.co/axteam/gemma-4-31B-GGUF</guid>
 </item>
 <item>
+<title>Foundry VTT 14.370: security fixes, user password config, and Grid Space regions</title>
+<link>https://foundryvtt.com/releases/14.370</link>
+<description>Foundry VTT's Stable 12 release brings important Node.js security fixes, lets players set their own passwords, and adds a Grid Space shape for selecting individual grid spaces in scene regions.</description>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://foundryvtt.com/releases/14.370</guid>
+</item>
+<item>
 <title>Run AI Models Locally Without Extra VRAM: Settings Guide</title>
 <link>https://theoutpost.ai/news-story/two-settings-let-you-run-large-ai-models-locally-without-upgrading-vram-32961/</link>
 <description>Offloading inactive MoE experts to system RAM via a llama.cpp flag reportedly lifts a Qwen MoE model from 4 to 33 tokens per second on an 8GB-VRAM laptop.</description>
@@ -278,13 +285,6 @@
 <description>DeepSeek's MIT-licensed dsh-superagent prototype splits coding work into a persistent router that triages GitHub or Feishu requests and isolated worker sessions that do the work and return pull requests, trading human attention for parallel agent sessions.</description>
 <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.artiverse.ca/deepseeks-new-coding-agent-puts-human-attention-on-a-diet/</guid>
-</item>
-<item>
-<title>DeepSeek's Super-agent: a proactive coding agent that watches your repo</title>
-<link>https://onthewire.ai/article/deepseek-publishes-a-research-prototype-of-a-proactive-coding-agent-for-one-gith</link>
-<description>DeepSeek's Harness team published an MIT-licensed prototype that listens to a GitHub repo and dispatches worker sessions to handle approved requests, router-style.</description>
-<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://onthewire.ai/article/deepseek-publishes-a-research-prototype-of-a-proactive-coding-agent-for-one-gith</guid>
 </item>
 </channel>
 </rss>
