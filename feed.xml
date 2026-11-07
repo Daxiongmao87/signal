@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://aiadvances.org/the-agent-harness-explained-what-microsoft-shipped-and-how-to-build-on-it-in-python-f07081f40f4c</guid>
 </item>
 <item>
+<title>Blizzard reveals what finally pulled the trigger on WoW Forever</title>
+<link>https://store.steampowered.com/news/group/9869/view/705536106419978640</link>
+<description>IGN interview: Season of Discovery's response convinced leadership to green-light a permanent Classic+ branch, with Northshire Abbey as the tech demo that won them over.</description>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://store.steampowered.com/news/group/9869/view/705536106419978640</guid>
+</item>
+<item>
 <title>Unsloth Shrinks Qwen3.8-Flash-Next to 74.5 GB for Local Coding Agents</title>
 <link>https://alphasignal.ai/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents</link>
 <description>Unsloth's Dynamic V3.1 GGUF quants bring the 125B MoE Qwen3.8-Flash-Next down to 74.5 GB, fitting local coding-agent runs on high-memory workstations.</description>
@@ -278,13 +285,6 @@
 <description>DeepSeek's Harness team published an MIT-licensed prototype that listens to a GitHub repo and dispatches worker sessions to handle approved requests, router-style.</description>
 <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://onthewire.ai/article/deepseek-publishes-a-research-prototype-of-a-proactive-coding-agent-for-one-gith</guid>
-</item>
-<item>
-<title>DeepSeek's super-agent prototype cuts p95 task time in simulated tests</title>
-<link>https://af.net/realtime/deepseek-releases-open-source-coding-agent-cutting-p95-time-to-15-7m/</link>
-<description>In DeepSeek's simulated benchmarks, the router-worker prototype cut 95th-percentile task completion from 29.5 minutes to 15.7 minutes, with rule-based gating over proactive edits.</description>
-<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://af.net/realtime/deepseek-releases-open-source-coding-agent-cutting-p95-time-to-15-7m/</guid>
 </item>
 </channel>
 </rss>
