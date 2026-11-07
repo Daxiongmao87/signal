@@ -84,6 +84,13 @@
 <guid isPermaLink="true">https://explainx.ai/blog/llama-cpp-v0-9-0-ggml-0-29-0-fp8-e4m3-multi-node-tensor-parallelism-nccl-what-changed-2026</guid>
 </item>
 <item>
+<title>Codein v2.2.8 hardens Termux durable run recovery for Android AI coding</title>
+<link>https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</link>
+<description>Codein's latest Android release focuses on reliability, hardening durable run recovery in its Termux agent room so local AI coding sessions survive interruptions.</description>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</guid>
+</item>
+<item>
 <title>With World of Warcraft: Forever, Blizzard Had To Reconnect With What Made WoW Great In The First Place</title>
 <link>https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/</link>
 <description>On the eve of the November 4 launch, lead encounter designer Michael Nuthals describes unlearning modern WoW habits to recapture Classic dungeon and raid design, with horizontal progression keeping the cap at 60.</description>
@@ -173,6 +180,13 @@
 <description>Foundry VTT's Stable 12 release brings important Node.js security fixes, lets players set their own passwords, and adds a Grid Space shape for selecting individual grid spaces in scene regions.</description>
 <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://foundryvtt.com/releases/14.370</guid>
+</item>
+<item>
+<title>WoW Forever launch class rework: Paladin, Druid, Mage and Priest changes explained</title>
+<link>https://www.ezg.com/blog/wow-forever-drops-major-class-changes-paladin-druid-mage-and-priest</link>
+<description>Blizzard's last-minute pre-launch class rework broke down: Paladin gets a new anti-magic tank role and Shield Sworn ultimate, Druid reworks Wild Growth, plus Mage and Priest changes.</description>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.ezg.com/blog/wow-forever-drops-major-class-changes-paladin-druid-mage-and-priest</guid>
 </item>
 <item>
 <title>Run AI Models Locally Without Extra VRAM: Settings Guide</title>
@@ -271,20 +285,6 @@
 <description>DeepSeek's Harness team published an MIT-licensed prototype that watches repo conversations, picks up coding issues unprompted, and returns fixes as pull requests through a Router-and-Worker design.</description>
 <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://raisink.com/news/ai-content-tools/deepseek-unveils-open-source-super-agent-coding-tool-in-challenge-to-anthropic-s-claude-code</guid>
-</item>
-<item>
-<title>DeepSeek Super-agent prototype: one repo, many parallel coding jobs</title>
-<link>https://asiadaily.org/news/17152/</link>
-<description>A second look at DeepSeek's Oct 31 prototype: a persistent Router turns authorized GitHub requests into separate Worker sessions, with early simulated tests claiming faster completion than single-session setups.</description>
-<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://asiadaily.org/news/17152/</guid>
-</item>
-<item>
-<title>DeepSeek's super-agent prototype: a router plus workers that take GitHub requests</title>
-<link>https://www.artiverse.ca/deepseeks-new-coding-agent-puts-human-attention-on-a-diet/</link>
-<description>DeepSeek's MIT-licensed dsh-superagent prototype splits coding work into a persistent router that triages GitHub or Feishu requests and isolated worker sessions that do the work and return pull requests, trading human attention for parallel agent sessions.</description>
-<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.artiverse.ca/deepseeks-new-coding-agent-puts-human-attention-on-a-diet/</guid>
 </item>
 </channel>
 </rss>
