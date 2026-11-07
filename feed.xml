@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 12:00:00 +0000</lastBuildDate>
+<item>
+<title>Blizzard reveals what made it finally pull the trigger on WoW Forever</title>
+<link>https://store.steampowered.com/news/group/9869/view/705536106419978640</link>
+<description>In a Bloomberg interview, Josh Greenfield says Season of Discovery's reception is what convinced Blizzard to build a permanent Classic+; the Forever pitch had been floating since before 2019's Classic launch. IGN's early review is very positive.</description>
+<pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://store.steampowered.com/news/group/9869/view/705536106419978640</guid>
+</item>
 <item>
 <title>WoW Forever launch hub: live Nov 4, first hotfixes land</title>
 <link>https://metammo.com/wow-forever</link>
@@ -33,6 +40,13 @@
 <description>Unsloth's Dynamic V3.1 GGUF quants bring the 125B MoE Qwen3.8-Flash-Next down to 74.5 GB, fitting local coding-agent runs on high-memory workstations.</description>
 <pubDate>Wed, 04 Nov 2026 17:31:36 +0000</pubDate>
 <guid isPermaLink="true">https://alphasignal.ai/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents</guid>
+</item>
+<item>
+<title>Codein v2.2.8 hardens Termux agent recovery on Android</title>
+<link>https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</link>
+<description>Android AI workspace Codein ships v2.2.8, hardening durable-run recovery for its Termux agent room so local AI coding sessions survive interruptions; v2.2.7 added the local bridge, model routing, and browser tools.</description>
+<pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</guid>
 </item>
 <item>
 <title>WoW Forever UK launch time: 11pm on November 4</title>
@@ -271,20 +285,6 @@
 <description>DeepSeek's MIT-licensed dsh-superagent prototype watches a single GitHub repo, takes authorized requests, and answers with proposed code changes or pull requests, with a human-review panel in the loop.</description>
 <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dailyinference.news/articles/2026-11-01-deepseek-drops-a-free-coding-agent-that-takes-requests-from-github/</guid>
-</item>
-<item>
-<title>Speed up local AI on Windows with llama.cpp: MoE offloading and speculative decoding</title>
-<link>https://windowsforum.com/news/speed-up-local-ai-on-windows-with-llama-cpp-moe-offloading-and-speculative-decoding.450409/</link>
-<description>Two practical llama.cpp knobs for modest Windows PCs: park MoE expert weights in system RAM with --n-cpu-moe, and pair a small draft model for speculative decoding to lift generation speed.</description>
-<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://windowsforum.com/news/speed-up-local-ai-on-windows-with-llama-cpp-moe-offloading-and-speculative-decoding.450409/</guid>
-</item>
-<item>
-<title>DeepSeek's open-source Super-agent prototype takes GitHub requests</title>
-<link>https://raisink.com/news/ai-content-tools/deepseek-unveils-open-source-super-agent-coding-tool-in-challenge-to-anthropic-s-claude-code</link>
-<description>DeepSeek's Harness team published an MIT-licensed prototype that watches repo conversations, picks up coding issues unprompted, and returns fixes as pull requests through a Router-and-Worker design.</description>
-<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://raisink.com/news/ai-content-tools/deepseek-unveils-open-source-super-agent-coding-tool-in-challenge-to-anthropic-s-claude-code</guid>
 </item>
 </channel>
 </rss>
