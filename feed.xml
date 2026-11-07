@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://store.steampowered.com/news/group/9869/view/705536106419978640</guid>
 </item>
 <item>
+<title>PFN releases open-weight PLaMo 3 Translate for on-device translation</title>
+<link>https://af.net/realtime/pfn-releases-open-weight-translation-llm-plamo-3-translate-in-four-sizes-up-to-31b/</link>
+<description>Preferred Networks open-sourced translation LLMs in 0.8B to 31B sizes built to run offline on phones and local servers across 53 languages; free for outfits under ¥1B annual revenue.</description>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://af.net/realtime/pfn-releases-open-weight-translation-llm-plamo-3-translate-in-four-sizes-up-to-31b/</guid>
+</item>
+<item>
 <title>Unsloth Shrinks Qwen3.8-Flash-Next to 74.5 GB for Local Coding Agents</title>
 <link>https://alphasignal.ai/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents</link>
 <description>Unsloth's Dynamic V3.1 GGUF quants bring the 125B MoE Qwen3.8-Flash-Next down to 74.5 GB, fitting local coding-agent runs on high-memory workstations.</description>
@@ -278,13 +285,6 @@
 <description>DeepSeek's MIT-licensed Harness runtime lets developers self-host the layer between a model and its tools, with composable plugins for sessions, sandboxes, and agent loops — still an unaudited developer preview, not production-ready software.</description>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://synergised.io/blog/deepseek-harness-open-source-agent-runtime/</guid>
-</item>
-<item>
-<title>DeepSeek drops a free coding agent that takes requests from GitHub</title>
-<link>https://dailyinference.news/articles/2026-11-01-deepseek-drops-a-free-coding-agent-that-takes-requests-from-github/</link>
-<description>DeepSeek's MIT-licensed dsh-superagent prototype watches a single GitHub repo, takes authorized requests, and answers with proposed code changes or pull requests, with a human-review panel in the loop.</description>
-<pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dailyinference.news/articles/2026-11-01-deepseek-drops-a-free-coding-agent-that-takes-requests-from-github/</guid>
 </item>
 </channel>
 </rss>
