@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://metammo.com/wow-forever</guid>
 </item>
 <item>
+<title>Axolotl 0.21.1 review: YAML-first fine-tuning, with caveats</title>
+<link>https://www.anchorterminal.com/tools/axolotl</link>
+<description>Current review of Axolotl's YAML-driven fine-tuning tool: LoRA, QLoRA, DPO and GRPO from one config, GGUF export in 0.21.1, and the telemetry-on-by-default catch to watch for.</description>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.anchorterminal.com/tools/axolotl</guid>
+</item>
+<item>
 <title>The Agent Harness, Explained: what Microsoft shipped and how to build on it in Python</title>
 <link>https://aiadvances.org/the-agent-harness-explained-what-microsoft-shipped-and-how-to-build-on-it-in-python-f07081f40f4c</link>
 <description>A hands-on walkthrough of Microsoft Agent Framework's stable Python/.NET harness — planning, memory, approvals, and telemetry in one call — with a working night-shift ops agent built on it and runnable code.</description>
@@ -278,13 +285,6 @@
 <description>A technical rundown of DeepSeek's MIT-licensed super-agent bundle for Harness, covering its router-worker design, runtime requirements, and how it compares with Copilot, Claude Code, and Codex.</description>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/</guid>
-</item>
-<item>
-<title>DeepSeek open-sources the architecture behind its super-agent prototype</title>
-<link>https://headlines.summit-post.com/2026/11/01/deepseek-open-sources-the-architecture-behind-its-super-agent/</link>
-<description>DeepSeek's Harness team published an MIT-licensed research prototype of a proactive coding agent that listens to a single GitHub repo, routes requests to isolated worker sessions, and returns results as pull requests.</description>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://headlines.summit-post.com/2026/11/01/deepseek-open-sources-the-architecture-behind-its-super-agent/</guid>
 </item>
 </channel>
 </rss>
