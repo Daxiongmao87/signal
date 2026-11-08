@@ -154,6 +154,13 @@
 <guid isPermaLink="true">https://sciherald.com/article/lfm3-omni-2b-a-compact-2-2b-parameter-ai-for-text-images-video-and-speech</guid>
 </item>
 <item>
+<title>The 2026 agentic coding landscape: Antigravity live, Kiro patched, Codex at v0.166</title>
+<link>https://codex.danielvaughan.com/2026/11/03/agentic-coding-landscape-2026-antigravity-kiro-codex-cli/</link>
+<description>Field roundup as of Nov 3: Google retires the Gemini CLI and Jules brand, consolidating on Antigravity; Kiro patches a prompt-injection RCE and moves to Claude Opus 5.5; Codex CLI closes its October shipping sprint at v0.166.0.</description>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://codex.danielvaughan.com/2026/11/03/agentic-coding-landscape-2026-antigravity-kiro-codex-cli/</guid>
+</item>
+<item>
 <title>WoW: Forever launches November 4: the Classic+ game at a glance</title>
 <link>https://blizzardwatch.com/2026/09/12/world-warcraft-forever-long-speculated-classic-plus-unveiled-will-launch-worldwide-november-4-2026/</link>
 <description>BlizzardWatch's launch rundown of WoW: Forever, refreshed ahead of the November 4 debut, covering the new zones, the faction-choosing Skyborne race, and the account-wide Legacy reward system.</description>
@@ -278,13 +285,6 @@
 <description>DeepSeek published a research prototype of a proactive coding agent that watches repo events and hands off accepted work, built on its plugin-based Harness runtime and flagged as experimental rather than production-ready.</description>
 <pubDate>Sun, 01 Nov 2026 00:18:27 +0000</pubDate>
 <guid isPermaLink="true">https://startupfortune.com/deepseek-open-sources-the-architecture-behind-its-super-agent/</guid>
-</item>
-<item>
-<title>DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent</title>
-<link>https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/</link>
-<description>A technical rundown of DeepSeek's MIT-licensed super-agent bundle for Harness, covering its router-worker design, runtime requirements, and how it compares with Copilot, Claude Code, and Codex.</description>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/</guid>
 </item>
 </channel>
 </rss>
