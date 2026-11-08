@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 06 Nov 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>ZCode: Z.ai's open-source agentic IDE for GLM-5.2, benchmarked against Cursor</title>
+<link>https://flowtivity.ai/blog/zcode-glm-coding-agent-harness/</link>
+<description>Z.ai's free desktop agentic IDE runs multi-agent Goals instead of prompts, steers from a phone via Telegram/WeChat, and just added a plugin system; its MIT-licensed GLM-5.2 model ranks second globally on Code Arena.</description>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://flowtivity.ai/blog/zcode-glm-coding-agent-harness/</guid>
+</item>
 <item>
 <title>Blizzard reveals what made it finally pull the trigger on WoW Forever</title>
 <link>https://store.steampowered.com/news/group/9869/view/705536106419978640</link>
@@ -278,13 +285,6 @@
 <description>DeepSeek published an MIT-licensed research prototype of a proactive coding agent: a Router watches permitted GitHub and Feishu activity while isolated Worker sessions do the coding, explicitly labelled not production-ready.</description>
 <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://cio.eletsonline.com/artificial-intelligence/deepseek-super-agent-open-source-autonomous-coding-agent-rival-claude-code/76639/</guid>
-</item>
-<item>
-<title>DeepSeek open-sources router-worker coding-agent prototype</title>
-<link>https://aiweekly.co/alerts/deepseek-open-sources-router-worker-coding-agent-prototype</link>
-<description>DeepSeek's MIT-licensed super-agent prototype pairs a resident router with parallel worker sessions that take on permitted GitHub work and answer back with pull requests.</description>
-<pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aiweekly.co/alerts/deepseek-open-sources-router-worker-coding-agent-prototype</guid>
 </item>
 </channel>
 </rss>
