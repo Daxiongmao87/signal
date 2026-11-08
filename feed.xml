@@ -140,6 +140,13 @@
 <guid isPermaLink="true">https://lfcarry.com/guides/wow-forever-explained</guid>
 </item>
 <item>
+<title>LFM3-Omni-2B: a 2.2B any-to-any model for on-device use</title>
+<link>https://sciherald.com/article/lfm3-omni-2b-a-compact-2-2b-parameter-ai-for-text-images-video-and-speech</link>
+<description>Liquid AI released a compact 2.2B model that handles text, images, video and audio and answers in text or speech, with a GGUF build for llama.cpp on phones and laptops.</description>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://sciherald.com/article/lfm3-omni-2b-a-compact-2-2b-parameter-ai-for-text-images-video-and-speech</guid>
+</item>
+<item>
 <title>WoW: Forever launches November 4: the Classic+ game at a glance</title>
 <link>https://blizzardwatch.com/2026/09/12/world-warcraft-forever-long-speculated-classic-plus-unveiled-will-launch-worldwide-november-4-2026/</link>
 <description>BlizzardWatch's launch rundown of WoW: Forever, refreshed ahead of the November 4 debut, covering the new zones, the faction-choosing Skyborne race, and the account-wide Legacy reward system.</description>
@@ -210,6 +217,13 @@
 <guid isPermaLink="true">https://www.ezg.com/blog/wow-forever-drops-major-class-changes-paladin-druid-mage-and-priest</guid>
 </item>
 <item>
+<title>GitHub Agentic Workflows GA and Copilot harness preview in Foundry</title>
+<link>https://staging-tech.hub.ms/ai/roundups/weekly-ai-roundup-2026-11-02</link>
+<description>Weekly roundup: GitHub Agentic Workflows reached general availability, letting Markdown compile into sandboxed Actions, and Microsoft opened its Copilot agent harness in public preview in Foundry.</description>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://staging-tech.hub.ms/ai/roundups/weekly-ai-roundup-2026-11-02</guid>
+</item>
+<item>
 <title>Run AI Models Locally Without Extra VRAM: Settings Guide</title>
 <link>https://theoutpost.ai/news-story/two-settings-let-you-run-large-ai-models-locally-without-upgrading-vram-32961/</link>
 <description>Offloading inactive MoE experts to system RAM via a llama.cpp flag reportedly lifts a Qwen MoE model from 4 to 33 tokens per second on an 8GB-VRAM laptop.</description>
@@ -271,20 +285,6 @@
 <description>DeepSeek's Harness team published an MIT-licensed research prototype of a proactive coding agent that listens to a single GitHub repo, routes requests to isolated worker sessions, and returns results as pull requests.</description>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://headlines.summit-post.com/2026/11/01/deepseek-open-sources-the-architecture-behind-its-super-agent/</guid>
-</item>
-<item>
-<title>DeepSeek unveils open-source super-agent coding tool to rival Claude Code</title>
-<link>https://finance.biggo.com/news/11350f30-4ed6-4069-ac13-0062ca642d55</link>
-<description>DeepSeek's Harness team published a proactive coding-agent prototype that watches team chats and repo activity for coding problems and proposes fixes unprompted, rather than waiting for a prompt.</description>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://finance.biggo.com/news/11350f30-4ed6-4069-ac13-0062ca642d55</guid>
-</item>
-<item>
-<title>DeepSeek Open-Sourced Its Agent Stack: What It Means</title>
-<link>https://synergised.io/blog/deepseek-harness-open-source-agent-runtime/</link>
-<description>DeepSeek's MIT-licensed Harness runtime lets developers self-host the layer between a model and its tools, with composable plugins for sessions, sandboxes, and agent loops — still an unaudited developer preview, not production-ready software.</description>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://synergised.io/blog/deepseek-harness-open-source-agent-runtime/</guid>
 </item>
 </channel>
 </rss>
