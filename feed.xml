@@ -42,6 +42,13 @@
 <guid isPermaLink="true">https://ibl.ai/blog/rapid-mlx-1-0-local-llm-server-apple-silicon-benchmarks</guid>
 </item>
 <item>
+<title>Roll20 retires its legacy tabletop: Jumpgate becomes the only engine for new games</title>
+<link>https://blog.roll20.net/posts/legacy-vtt-announcement/</link>
+<description>Roll20's Jumpgate engine becomes the sole option for newly created games, with 93% of active games already on it; existing legacy-tabletop games stay available unchanged.</description>
+<pubDate>Thu, 05 Nov 2026 19:43:13 +0000</pubDate>
+<guid isPermaLink="true">https://blog.roll20.net/posts/legacy-vtt-announcement/</guid>
+</item>
+<item>
 <title>The Agent Harness, Explained: what Microsoft shipped and how to build on it in Python</title>
 <link>https://aiadvances.org/the-agent-harness-explained-what-microsoft-shipped-and-how-to-build-on-it-in-python-f07081f40f4c</link>
 <description>A hands-on walkthrough of Microsoft Agent Framework's stable Python/.NET harness — planning, memory, approvals, and telemetry in one call — with a working night-shift ops agent built on it and runnable code.</description>
@@ -278,13 +285,6 @@
 <description>DeepSeek's MIT-licensed super-agent prototype pairs a resident router with parallel worker sessions that take on permitted GitHub work and answer back with pull requests.</description>
 <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aiweekly.co/alerts/deepseek-open-sources-router-worker-coding-agent-prototype</guid>
-</item>
-<item>
-<title>DeepSeek's dsh-superagent: 3,700 stars in its first day</title>
-<link>https://www.eneralabs.com/blog/deepseek-super-agent-proactive-coding-enterprise-2026/</link>
-<description>DeepSeek's proactive coding-agent prototype, which watches a repo and hands approved work to isolated worker sessions, drew roughly 3,700 GitHub stars within 24 hours of its October 31 release.</description>
-<pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.eneralabs.com/blog/deepseek-super-agent-proactive-coding-enterprise-2026/</guid>
 </item>
 </channel>
 </rss>
