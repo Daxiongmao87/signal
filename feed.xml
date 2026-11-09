@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://flowtivity.ai/blog/zcode-glm-coding-agent-harness/</guid>
 </item>
 <item>
+<title>Code Copilot Team v2.0.0: open-source harness that enforces coding-agent standards</title>
+<link>https://blogs.techbytes.app/posts/an-open-source-harness-for-coding-agents-that-shows-its/</link>
+<description>Open-source orchestration harness v2.0.0 turns coding-agent rules into enforced runtime hooks across Claude Code, Pi, Codex, Cursor and more, with verification gates and health checks before code lands.</description>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://blogs.techbytes.app/posts/an-open-source-harness-for-coding-agents-that-shows-its/</guid>
+</item>
+<item>
 <title>Blizzard reveals what made it finally pull the trigger on WoW Forever</title>
 <link>https://store.steampowered.com/news/group/9869/view/705536106419978640</link>
 <description>In a Bloomberg interview, Josh Greenfield says Season of Discovery's reception is what convinced Blizzard to build a permanent Classic+; the Forever pitch had been floating since before 2019's Classic launch. IGN's early review is very positive.</description>
@@ -278,13 +285,6 @@
 <description>DeepSeek's Harness team released an MIT-licensed Super-agent prototype that monitors a team's GitHub repo and takes on coding work unprompted, passing 4,000 stars within a day of release.</description>
 <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://completeaitraining.com/news/deepseek-releases-open-source-coding-agent-that-watches/</guid>
-</item>
-<item>
-<title>DeepSeek's Super-Agent: a proactive coding agent that watches GitHub and files PRs unprompted</title>
-<link>https://cio.eletsonline.com/artificial-intelligence/deepseek-super-agent-open-source-autonomous-coding-agent-rival-claude-code/76639/</link>
-<description>DeepSeek published an MIT-licensed research prototype of a proactive coding agent: a Router watches permitted GitHub and Feishu activity while isolated Worker sessions do the coding, explicitly labelled not production-ready.</description>
-<pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://cio.eletsonline.com/artificial-intelligence/deepseek-super-agent-open-source-autonomous-coding-agent-rival-claude-code/76639/</guid>
 </item>
 </channel>
 </rss>
