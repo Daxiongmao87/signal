@@ -84,6 +84,13 @@
 <guid isPermaLink="true">https://af.net/realtime/pfn-releases-open-weight-translation-llm-plamo-3-translate-in-four-sizes-up-to-31b/</guid>
 </item>
 <item>
+<title>World of Warcraft: Forever launches today, and its lead designer says the team had to unlearn modern WoW</title>
+<link>https://ugames.tv/world-of-warcraft-forever-launches-today-as-blizzard-developers-say-they-had-to-unlearn-modern-wow/</link>
+<description>Forever is live with 1,000+ new quests, rebalanced classes and a new lighting engine, level cap held at 60, after the largest beta in WoW history.</description>
+<pubDate>Wed, 04 Nov 2026 22:09:21 +0000</pubDate>
+<guid isPermaLink="true">https://ugames.tv/world-of-warcraft-forever-launches-today-as-blizzard-developers-say-they-had-to-unlearn-modern-wow/</guid>
+</item>
+<item>
 <title>Unsloth Shrinks Qwen3.8-Flash-Next to 74.5 GB for Local Coding Agents</title>
 <link>https://alphasignal.ai/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents</link>
 <description>Unsloth's Dynamic V3.1 GGUF quants bring the 125B MoE Qwen3.8-Flash-Next down to 74.5 GB, fitting local coding-agent runs on high-memory workstations.</description>
@@ -273,18 +280,11 @@
 <guid isPermaLink="true">https://staging-tech.hub.ms/ai/roundups/weekly-ai-roundup-2026-11-02</guid>
 </item>
 <item>
-<title>Run AI Models Locally Without Extra VRAM: Settings Guide</title>
-<link>https://theoutpost.ai/news-story/two-settings-let-you-run-large-ai-models-locally-without-upgrading-vram-32961/</link>
-<description>Offloading inactive MoE experts to system RAM via a llama.cpp flag reportedly lifts a Qwen MoE model from 4 to 33 tokens per second on an 8GB-VRAM laptop.</description>
-<pubDate>Sun, 01 Nov 2026 16:02:40 +0000</pubDate>
-<guid isPermaLink="true">https://theoutpost.ai/news-story/two-settings-let-you-run-large-ai-models-locally-without-upgrading-vram-32961/</guid>
-</item>
-<item>
-<title>DeepSeek's open-source Super-agent watches GitHub repos and steps in with fixes</title>
-<link>https://completeaitraining.com/news/deepseek-releases-open-source-coding-agent-that-watches/</link>
-<description>DeepSeek's Harness team released an MIT-licensed Super-agent prototype that monitors a team's GitHub repo and takes on coding work unprompted, passing 4,000 stars within a day of release.</description>
-<pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://completeaitraining.com/news/deepseek-releases-open-source-coding-agent-that-watches/</guid>
+<title>Qwen3.6-35B-A3B lands in GGUF: Q4_K_M at 21.7 GB, tested on llama.cpp</title>
+<link>https://huggingface.co/axteam/Qwen3.6-35B-A3B-GGUF</link>
+<description>Community GGUF quantizations of Qwen's 35B MoE, with the recommended Q4_K_M file at 21.7 GB and measured perplexity within a couple percent of Q8_0 on a B200.</description>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://huggingface.co/axteam/Qwen3.6-35B-A3B-GGUF</guid>
 </item>
 </channel>
 </rss>
