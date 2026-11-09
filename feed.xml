@@ -56,6 +56,13 @@
 <guid isPermaLink="true">https://ibl.ai/blog/rapid-mlx-1-0-local-llm-server-apple-silicon-benchmarks</guid>
 </item>
 <item>
+<title>CIQ, MariaDB and Harness all rebuilt their platforms for agents as first-class users</title>
+<link>https://platform-monkey.com/articles/agentic-infrastructure-pivot</link>
+<description>Three vendors in one week shipped agent-facing control surfaces: typed MCP tools, permission tiers set at startup, and audit trails that follow the agent, not just the human.</description>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://platform-monkey.com/articles/agentic-infrastructure-pivot</guid>
+</item>
+<item>
 <title>Roll20 retires its legacy tabletop: Jumpgate becomes the only engine for new games</title>
 <link>https://blog.roll20.net/posts/legacy-vtt-announcement/</link>
 <description>Roll20's Jumpgate engine becomes the sole option for newly created games, with 93% of active games already on it; existing legacy-tabletop games stay available unchanged.</description>
@@ -159,6 +166,13 @@
 <description>Codein's latest Android release focuses on reliability, hardening durable run recovery in its Termux agent room so local AI coding sessions survive interruptions.</description>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</guid>
+</item>
+<item>
+<title>WoW Forever vs Classic vs Retail: which WoW to play</title>
+<link>https://www.pylcrow.com/2026/11/04/wow-forever-vs-classic-vs-retail/</link>
+<description>Launch-week guide comparing Forever's new zones, quests and raids at a permanent level 60 against Classic's preservation and Retail's modern game, all on one subscription.</description>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.pylcrow.com/2026/11/04/wow-forever-vs-classic-vs-retail/</guid>
 </item>
 <item>
 <title>With World of Warcraft: Forever, Blizzard Had To Reconnect With What Made WoW Great In The First Place</title>
@@ -271,20 +285,6 @@
 <description>Blizzard's last-minute pre-launch class rework broke down: Paladin gets a new anti-magic tank role and Shield Sworn ultimate, Druid reworks Wild Growth, plus Mage and Priest changes.</description>
 <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.ezg.com/blog/wow-forever-drops-major-class-changes-paladin-druid-mage-and-priest</guid>
-</item>
-<item>
-<title>GitHub Agentic Workflows GA and Copilot harness preview in Foundry</title>
-<link>https://staging-tech.hub.ms/ai/roundups/weekly-ai-roundup-2026-11-02</link>
-<description>Weekly roundup: GitHub Agentic Workflows reached general availability, letting Markdown compile into sandboxed Actions, and Microsoft opened its Copilot agent harness in public preview in Foundry.</description>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://staging-tech.hub.ms/ai/roundups/weekly-ai-roundup-2026-11-02</guid>
-</item>
-<item>
-<title>Qwen3.6-35B-A3B lands in GGUF: Q4_K_M at 21.7 GB, tested on llama.cpp</title>
-<link>https://huggingface.co/axteam/Qwen3.6-35B-A3B-GGUF</link>
-<description>Community GGUF quantizations of Qwen's 35B MoE, with the recommended Q4_K_M file at 21.7 GB and measured perplexity within a couple percent of Q8_0 on a B200.</description>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://huggingface.co/axteam/Qwen3.6-35B-A3B-GGUF</guid>
 </item>
 </channel>
 </rss>
