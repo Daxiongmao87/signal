@@ -126,6 +126,13 @@
 <guid isPermaLink="true">https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</guid>
 </item>
 <item>
+<title>Agent8088: open-source harness to help small local LLMs finish long tasks</title>
+<link>https://www.palindromerl.com/news/agent8088-launch-press-release</link>
+<description>Palindrome Research Labs shipped Agent8088, an MIT-licensed open-source agent harness with 59 built-in tools, sub-agents and memory, aimed at helping small local models complete long, complex tasks more reliably.</description>
+<pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.palindromerl.com/news/agent8088-launch-press-release</guid>
+</item>
+<item>
 <title>WoW Forever UK launch time: 11pm on November 4</title>
 <link>https://www.ggrecon.com/articles/wow-forever-launch-time-uk/</link>
 <description>Blizzard's Classic+ goes live worldwide at a single moment, 3pm Pacific, which is 11pm UK time on November 4, included with a standard WoW subscription.</description>
@@ -278,13 +285,6 @@
 <description>DeepSeek's open-source Harness gains a Creator Mode that lets users add plugins, features, and custom UI to the agent by describing them in conversation rather than writing the code by hand.</description>
 <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.nav4ai.com/blog/deepseek-harness-creator-mode</guid>
-</item>
-<item>
-<title>axteam/gemma-4-31B-GGUF</title>
-<link>https://huggingface.co/axteam/gemma-4-31B-GGUF</link>
-<description>Community GGUF builds of Google's new Gemma 4 31B, with Q4_K_M and Q8_0 files and perplexity measured on a B200 on November 2.</description>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://huggingface.co/axteam/gemma-4-31B-GGUF</guid>
 </item>
 </channel>
 </rss>
