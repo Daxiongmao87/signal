@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 08:00:00 +0000</lastBuildDate>
+<item>
+<title>TI adds agentic AI to CCStudio, with MCP-driven device data and a migration skill</title>
+<link>https://www.allaboutcircuits.com/news/ti-adds-agentic-ai-to-ccstudio-and-launches-a-multiprotocol-industrial-ethernet-module/</link>
+<description>Texas Instruments added agentic AI to its CCStudio IDE: MCP servers feed device data and the debugger straight to coding agents, and a device migration skill claims to cut MCU porting from months to days.</description>
+<pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.allaboutcircuits.com/news/ti-adds-agentic-ai-to-ccstudio-and-launches-a-multiprotocol-industrial-ethernet-module/</guid>
+</item>
 <item>
 <title>Local LLM With LFM3: 13 Steps, 1 GB, 75 Min [2026]</title>
 <link>https://tech-insider.org/au/local-llm-lfm3-liquid-ai-setup-2026/</link>
@@ -278,13 +285,6 @@
 <description>Community GGUF builds of Google's new Gemma 4 31B, with Q4_K_M and Q8_0 files and perplexity measured on a B200 on November 2.</description>
 <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://huggingface.co/axteam/gemma-4-31B-GGUF</guid>
-</item>
-<item>
-<title>Foundry VTT 14.370: security fixes, user password config, and Grid Space regions</title>
-<link>https://foundryvtt.com/releases/14.370</link>
-<description>Foundry VTT's Stable 12 release brings important Node.js security fixes, lets players set their own passwords, and adds a Grid Space shape for selecting individual grid spaces in scene regions.</description>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://foundryvtt.com/releases/14.370</guid>
 </item>
 </channel>
 </rss>
