@@ -42,6 +42,13 @@
 <guid isPermaLink="true">https://store.steampowered.com/news/group/9869/view/705536106419978640</guid>
 </item>
 <item>
+<title>Microsoft open-sources Agensh, a leaderless harness for 1,024 coding agents</title>
+<link>https://new.clawcaff.com/microsoft-agensh-decentralized-multi-agent-1024-agents/</link>
+<description>Microsoft Research released Agensh under MIT: a decentralized multi-agent harness with no central orchestrator, scaled to 1,024 concurrent coding agents on hard ProgramBench tasks.</description>
+<pubDate>Fri, 06 Nov 2026 02:38:48 +0000</pubDate>
+<guid isPermaLink="true">https://new.clawcaff.com/microsoft-agensh-decentralized-multi-agent-1024-agents/</guid>
+</item>
+<item>
 <title>WoW Forever launch hub: live Nov 4, first hotfixes land</title>
 <link>https://metammo.com/wow-forever</link>
 <description>Live launch hub tracking WoW Forever since its Nov 4 debut: the first Nov 5 hotfixes fixing NPC spawns, vendors and Plainsrunning stacking, plus launch guides and the Dec 9 raid roadmap.</description>
@@ -278,13 +285,6 @@
 <description>DeepSeek's MIT-licensed dsh-superagent prototype takes coding requests through GitHub and works them in isolated sessions, but the lab itself calls it unaudited research code rather than a production-ready product.</description>
 <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://vector.news/articles/deepseek-releases-a-free-experimental-ai-coding-agent-bb0ae8776e</guid>
-</item>
-<item>
-<title>DeepSeek Harness Creator Mode: Build Plugins by Chat</title>
-<link>https://www.nav4ai.com/blog/deepseek-harness-creator-mode</link>
-<description>DeepSeek's open-source Harness gains a Creator Mode that lets users add plugins, features, and custom UI to the agent by describing them in conversation rather than writing the code by hand.</description>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.nav4ai.com/blog/deepseek-harness-creator-mode</guid>
 </item>
 </channel>
 </rss>
