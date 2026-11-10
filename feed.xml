@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://blogs.techbytes.app/posts/an-open-source-harness-for-coding-agents-that-shows-its/</guid>
 </item>
 <item>
+<title>Season of Discovery's community response is what made Blizzard build WoW Forever</title>
+<link>https://kraken-rc.ignimgs.com/articles/blizzard-reveals-what-made-it-finally-pull-the-trigger-on-wow-forever</link>
+<description>Blizzard designer Josh Greenfield told Bloomberg that Season of Discovery's community response is what convinced leadership to greenlight a permanent Classic+ game, and that Northshire Abbey became the tech demo that won the team over.</description>
+<pubDate>Fri, 06 Nov 2026 18:47:00 +0000</pubDate>
+<guid isPermaLink="true">https://kraken-rc.ignimgs.com/articles/blizzard-reveals-what-made-it-finally-pull-the-trigger-on-wow-forever</guid>
+</item>
+<item>
 <title>Blizzard reveals what made it finally pull the trigger on WoW Forever</title>
 <link>https://store.steampowered.com/news/group/9869/view/705536106419978640</link>
 <description>In a Bloomberg interview, Josh Greenfield says Season of Discovery's reception is what convinced Blizzard to build a permanent Classic+; the Forever pitch had been floating since before 2019's Classic launch. IGN's early review is very positive.</description>
@@ -278,13 +285,6 @@
 <description>Launch-eve rundown of WoW: Forever ahead of its November 4 worldwide debut, tracing the game from its 1994 strategy roots to a new permanent Classic-era world with fresh zones, dungeons, and raids.</description>
 <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://theancientsky.com/gaming/wo-w-forever/</guid>
-</item>
-<item>
-<title>DeepSeek releases a free, experimental AI coding agent</title>
-<link>https://vector.news/articles/deepseek-releases-a-free-experimental-ai-coding-agent-bb0ae8776e</link>
-<description>DeepSeek's MIT-licensed dsh-superagent prototype takes coding requests through GitHub and works them in isolated sessions, but the lab itself calls it unaudited research code rather than a production-ready product.</description>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://vector.news/articles/deepseek-releases-a-free-experimental-ai-coding-agent-bb0ae8776e</guid>
 </item>
 </channel>
 </rss>
