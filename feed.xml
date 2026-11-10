@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 07 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Local LLM With LFM3: 13 Steps, 1 GB, 75 Min [2026]</title>
+<link>https://tech-insider.org/au/local-llm-lfm3-liquid-ai-setup-2026/</link>
+<description>Step-by-step walkthrough for running Liquid AI's new LFM3-1.7B locally at 4-bit in about 1 GB, with tool calling and a local OpenAI-compatible endpoint.</description>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://tech-insider.org/au/local-llm-lfm3-liquid-ai-setup-2026/</guid>
+</item>
 <item>
 <title>ZCode: Z.ai's open-source agentic IDE for GLM-5.2, benchmarked against Cursor</title>
 <link>https://flowtivity.ai/blog/zcode-glm-coding-agent-harness/</link>
@@ -278,13 +285,6 @@
 <description>Foundry VTT's Stable 12 release brings important Node.js security fixes, lets players set their own passwords, and adds a Grid Space shape for selecting individual grid spaces in scene regions.</description>
 <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://foundryvtt.com/releases/14.370</guid>
-</item>
-<item>
-<title>WoW Forever launch class rework: Paladin, Druid, Mage and Priest changes explained</title>
-<link>https://www.ezg.com/blog/wow-forever-drops-major-class-changes-paladin-druid-mage-and-priest</link>
-<description>Blizzard's last-minute pre-launch class rework broke down: Paladin gets a new anti-magic tank role and Shield Sworn ultimate, Druid reworks Wild Growth, plus Mage and Priest changes.</description>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.ezg.com/blog/wow-forever-drops-major-class-changes-paladin-druid-mage-and-priest</guid>
 </item>
 </channel>
 </rss>
