@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 10 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 13:05:00 +0000</lastBuildDate>
+<item>
+<title>Arete-27B-GGUF: Nous's value-tuned 27B model as a local LLM</title>
+<link>https://blog.asadfaizee.is-a.dev/posts/arete-27b-gguf-local-llm-guide/</link>
+<description>AtomicChat published GGUF builds of Nous Research's Arete-27B, a value-tuned Qwen3.8-27B fine-tune, in quants from 13.6 GB to 28.6 GB with per-file speed and quality measurements.</description>
+<pubDate>Tue, 10 Nov 2026 13:05:00 +0000</pubDate>
+<guid isPermaLink="true">https://blog.asadfaizee.is-a.dev/posts/arete-27b-gguf-local-llm-guide/</guid>
+</item>
 <item>
 <title>TI adds agentic AI to CCStudio, with MCP-driven device data and a migration skill</title>
 <link>https://www.allaboutcircuits.com/news/ti-adds-agentic-ai-to-ccstudio-and-launches-a-multiprotocol-industrial-ethernet-module/</link>
@@ -278,13 +285,6 @@
 <description>DeepSeek's MIT-licensed super-agent prototype watches a repo's GitHub activity, takes on authorized work items, and reports back with pull requests — notable partly because coding agents wrote much of the tool itself.</description>
 <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.singularity.kiwi/deepseek-dsh-superagent-open-source-coding-agent-2026/</guid>
-</item>
-<item>
-<title>World of Warcraft: Forever Arrives November 4: From a 1994 Strategy Game to an Online World Built to Last</title>
-<link>https://theancientsky.com/gaming/wo-w-forever/</link>
-<description>Launch-eve rundown of WoW: Forever ahead of its November 4 worldwide debut, tracing the game from its 1994 strategy roots to a new permanent Classic-era world with fresh zones, dungeons, and raids.</description>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://theancientsky.com/gaming/wo-w-forever/</guid>
 </item>
 </channel>
 </rss>
