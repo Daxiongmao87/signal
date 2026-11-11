@@ -56,6 +56,13 @@
 <guid isPermaLink="true">https://hf.m.daocloud.io/bottlecapai/ThinkingCap-Qwen3.8-Flash-Next-GGUF</guid>
 </item>
 <item>
+<title>Berkeley open-sources a harness for agents that build robot programs</title>
+<link>https://superpowerdaily.com/posts/berkeley-researchers-release-code-for-ai-agents-to-build-and-improve-robot-programs</link>
+<description>UC Berkeley releases Graph-as-Policy, a harness letting coding agents write, simulate in Isaac and revise robot control programs, alongside an industrial-task benchmark.</description>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://superpowerdaily.com/posts/berkeley-researchers-release-code-for-ai-agents-to-build-and-improve-robot-programs</guid>
+</item>
+<item>
 <title>ZCode: Z.ai's open-source agentic IDE for GLM-5.2, benchmarked against Cursor</title>
 <link>https://flowtivity.ai/blog/zcode-glm-coding-agent-harness/</link>
 <description>Z.ai's free desktop agentic IDE runs multi-agent Goals instead of prompts, steers from a phone via Telegram/WeChat, and just added a plugin system; its MIT-licensed GLM-5.2 model ranks second globally on Code Arena.</description>
@@ -154,6 +161,13 @@
 <guid isPermaLink="true">https://af.net/realtime/pfn-releases-open-weight-translation-llm-plamo-3-translate-in-four-sizes-up-to-31b/</guid>
 </item>
 <item>
+<title>WoW Forever launch OT: the community's running thread</title>
+<link>https://www.resetera.com/threads/world-of-warcraft-forever-ot-classic-plus-blue-elves.1678394/</link>
+<description>ResetEra's official launch thread for WoW Forever, tracking the new Classic+ branch's launch, Skyborne race, rebalanced classes and separate continuity as players get hands-on.</description>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.resetera.com/threads/world-of-warcraft-forever-ot-classic-plus-blue-elves.1678394/</guid>
+</item>
+<item>
 <title>World of Warcraft: Forever launches today, and its lead designer says the team had to unlearn modern WoW</title>
 <link>https://ugames.tv/world-of-warcraft-forever-launches-today-as-blizzard-developers-say-they-had-to-unlearn-modern-wow/</link>
 <description>Forever is live with 1,000+ new quests, rebalanced classes and a new lighting engine, level cap held at 60, after the largest beta in WoW history.</description>
@@ -245,6 +259,13 @@
 <guid isPermaLink="true">https://www.pylcrow.com/2026/11/04/wow-forever-vs-classic-vs-retail/</guid>
 </item>
 <item>
+<title>Gemma 4 E4B gets an official QAT GGUF checkpoint</title>
+<link>https://gemma-4.net/download/gemma-4-e4b-gguf</link>
+<description>Google's official quantization-aware-trained Q4_0 GGUF checkpoint for the 8B multimodal Gemma 4 E4B, plus community K-quants, for running it locally in llama.cpp, Ollama and LM Studio.</description>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://gemma-4.net/download/gemma-4-e4b-gguf</guid>
+</item>
+<item>
 <title>With World of Warcraft: Forever, Blizzard Had To Reconnect With What Made WoW Great In The First Place</title>
 <link>https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/</link>
 <description>On the eve of the November 4 launch, lead encounter designer Michael Nuthals describes unlearning modern WoW habits to recapture Classic dungeon and raid design, with horizontal progression keeping the cap at 60.</description>
@@ -264,27 +285,6 @@
 <description>Pinnacle ships three new Foundry VTT releases — two Deadlands: The Weird West adventures and a Pathfinder for Savage Worlds asset pack — plus a limited-time Hollerween bundle through November 15.</description>
 <pubDate>Tue, 03 Nov 2026 08:59:00 +0000</pubDate>
 <guid isPermaLink="true">https://shop.peginc.com/blogs/news/three-new-savage-worlds-releases-plus-a-bundle-for-foundry-vtt</guid>
-</item>
-<item>
-<title>WoW Forever Explained: What It Is, Dates, What Is New</title>
-<link>https://lfcarry.com/guides/wow-forever-explained</link>
-<description>A launch-day explainer for WoW Forever: global launch November 4 at 3 PM PST, level cap staying at 60, first raids December 9, and the 2027 roadmap.</description>
-<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://lfcarry.com/guides/wow-forever-explained</guid>
-</item>
-<item>
-<title>LFM3-Omni-2B: a 2.2B any-to-any model for on-device use</title>
-<link>https://sciherald.com/article/lfm3-omni-2b-a-compact-2-2b-parameter-ai-for-text-images-video-and-speech</link>
-<description>Liquid AI released a compact 2.2B model that handles text, images, video and audio and answers in text or speech, with a GGUF build for llama.cpp on phones and laptops.</description>
-<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://sciherald.com/article/lfm3-omni-2b-a-compact-2-2b-parameter-ai-for-text-images-video-and-speech</guid>
-</item>
-<item>
-<title>The 2026 agentic coding landscape: Antigravity live, Kiro patched, Codex at v0.166</title>
-<link>https://codex.danielvaughan.com/2026/11/03/agentic-coding-landscape-2026-antigravity-kiro-codex-cli/</link>
-<description>Field roundup as of Nov 3: Google retires the Gemini CLI and Jules brand, consolidating on Antigravity; Kiro patches a prompt-injection RCE and moves to Claude Opus 5.5; Codex CLI closes its October shipping sprint at v0.166.0.</description>
-<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://codex.danielvaughan.com/2026/11/03/agentic-coding-landscape-2026-antigravity-kiro-codex-cli/</guid>
 </item>
 </channel>
 </rss>
