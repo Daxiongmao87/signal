@@ -42,6 +42,13 @@
 <guid isPermaLink="true">https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce#comments</guid>
 </item>
 <item>
+<title>llama-cpp-pascal: 50-70% faster inference on old Pascal GPUs</title>
+<link>https://www.notionpulse.cc/repo/joris-sta/llama-cpp-pascal</link>
+<description>A llama.cpp fork with hand-written CUDA kernels for pre-tensor-core Pascal cards (GTX 1070 era): compressed-KV flash attention and ternary matmuls, claiming a 27B model at 96K context on an 8GB card.</description>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.notionpulse.cc/repo/joris-sta/llama-cpp-pascal</guid>
+</item>
+<item>
 <title>ZCode: Z.ai's open-source agentic IDE for GLM-5.2, benchmarked against Cursor</title>
 <link>https://flowtivity.ai/blog/zcode-glm-coding-agent-harness/</link>
 <description>Z.ai's free desktop agentic IDE runs multi-agent Goals instead of prompts, steers from a phone via Telegram/WeChat, and just added a plugin system; its MIT-licensed GLM-5.2 model ranks second globally on Code Arena.</description>
@@ -278,13 +285,6 @@
 <description>BlizzardWatch's launch rundown of WoW: Forever, refreshed ahead of the November 4 debut, covering the new zones, the faction-choosing Skyborne race, and the account-wide Legacy reward system.</description>
 <pubDate>Mon, 02 Nov 2026 23:21:13 +0000</pubDate>
 <guid isPermaLink="true">https://blizzardwatch.com/2026/09/12/world-warcraft-forever-long-speculated-classic-plus-unveiled-will-launch-worldwide-november-4-2026/</guid>
-</item>
-<item>
-<title>BuddhiAI CLI v1.0.0: agent harness for Google Antigravity</title>
-<link>https://www.linkedin.com/pulse/official-release-buddhiai-cli-v100-agent-harness-buddhi-puzoc</link>
-<description>Version 1.0 of a spec-driven agent harness for Google Antigravity, pairing a topology-aware code-graph MCP server with token-budget-aware file reading to fight context degradation in large codebases.</description>
-<pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.linkedin.com/pulse/official-release-buddhiai-cli-v100-agent-harness-buddhi-puzoc</guid>
 </item>
 </channel>
 </rss>
