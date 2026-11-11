@@ -49,6 +49,13 @@
 <guid isPermaLink="true">https://www.notionpulse.cc/repo/joris-sta/llama-cpp-pascal</guid>
 </item>
 <item>
+<title>ThinkingCap Qwen3.8-Flash-Next GGUF quants land</title>
+<link>https://hf.m.daocloud.io/bottlecapai/ThinkingCap-Qwen3.8-Flash-Next-GGUF</link>
+<description>GGUF quants of the ThinkingCap finetune of Qwen3.8-Flash-Next, which keeps the base model's answer quality while reasoning in far fewer tokens; Q4_K_M recommended at 113 GB, with Q6_K and Q8_0 options.</description>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://hf.m.daocloud.io/bottlecapai/ThinkingCap-Qwen3.8-Flash-Next-GGUF</guid>
+</item>
+<item>
 <title>ZCode: Z.ai's open-source agentic IDE for GLM-5.2, benchmarked against Cursor</title>
 <link>https://flowtivity.ai/blog/zcode-glm-coding-agent-harness/</link>
 <description>Z.ai's free desktop agentic IDE runs multi-agent Goals instead of prompts, steers from a phone via Telegram/WeChat, and just added a plugin system; its MIT-licensed GLM-5.2 model ranks second globally on Code Arena.</description>
@@ -278,13 +285,6 @@
 <description>Field roundup as of Nov 3: Google retires the Gemini CLI and Jules brand, consolidating on Antigravity; Kiro patches a prompt-injection RCE and moves to Claude Opus 5.5; Codex CLI closes its October shipping sprint at v0.166.0.</description>
 <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://codex.danielvaughan.com/2026/11/03/agentic-coding-landscape-2026-antigravity-kiro-codex-cli/</guid>
-</item>
-<item>
-<title>WoW: Forever launches November 4: the Classic+ game at a glance</title>
-<link>https://blizzardwatch.com/2026/09/12/world-warcraft-forever-long-speculated-classic-plus-unveiled-will-launch-worldwide-november-4-2026/</link>
-<description>BlizzardWatch's launch rundown of WoW: Forever, refreshed ahead of the November 4 debut, covering the new zones, the faction-choosing Skyborne race, and the account-wide Legacy reward system.</description>
-<pubDate>Mon, 02 Nov 2026 23:21:13 +0000</pubDate>
-<guid isPermaLink="true">https://blizzardwatch.com/2026/09/12/world-warcraft-forever-long-speculated-classic-plus-unveiled-will-launch-worldwide-november-4-2026/</guid>
 </item>
 </channel>
 </rss>
