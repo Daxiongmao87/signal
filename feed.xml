@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 10 Nov 2026 13:05:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 01:38:23 +0000</lastBuildDate>
+<item>
+<title>World of Warcraft: Forever Sets a Franchise Launch Record: Repositioning a 20-Year-Old Classic</title>
+<link>https://awnchina.cn/world-of-warcraft-forever-sets-a-franchise-launch-record/</link>
+<description>Blizzard says Forever is the biggest WoW launch ever by peak concurrency and returning players, with 8.86 million characters made in beta and the first raids opening December 9.</description>
+<pubDate>Wed, 11 Nov 2026 01:38:23 +0000</pubDate>
+<guid isPermaLink="true">https://awnchina.cn/world-of-warcraft-forever-sets-a-franchise-launch-record/</guid>
+</item>
 <item>
 <title>Arete-27B-GGUF: Nous's value-tuned 27B model as a local LLM</title>
 <link>https://blog.asadfaizee.is-a.dev/posts/arete-27b-gguf-local-llm-guide/</link>
@@ -26,6 +33,13 @@
 <description>Step-by-step walkthrough for running Liquid AI's new LFM3-1.7B locally at 4-bit in about 1 GB, with tool calling and a local OpenAI-compatible endpoint.</description>
 <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://tech-insider.org/au/local-llm-lfm3-liquid-ai-setup-2026/</guid>
+</item>
+<item>
+<title>GSQ and RCO: the non-uniform quantization now sitting in GGUF files</title>
+<link>https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce#comments</link>
+<description>A new per-tensor quantization recipe pairs GSQ's learned low-bit grids with RCO's budget-aware allocation, squeezing Qwen3.8-Flash-Next into a 75.8 GB GGUF that matches the base model on AIME25.</description>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce#comments</guid>
 </item>
 <item>
 <title>ZCode: Z.ai's open-source agentic IDE for GLM-5.2, benchmarked against Cursor</title>
@@ -271,20 +285,6 @@
 <description>Version 1.0 of a spec-driven agent harness for Google Antigravity, pairing a topology-aware code-graph MCP server with token-budget-aware file reading to fight context degradation in large codebases.</description>
 <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.linkedin.com/pulse/official-release-buddhiai-cli-v100-agent-harness-buddhi-puzoc</guid>
-</item>
-<item>
-<title>DeepSeek releases autonomous coding agent prototype to rival Claude Code</title>
-<link>https://mitsloanindia.com/article/deepseek-releases-autonomous-coding-agent-prototype-to-rival-claude-code/</link>
-<description>DeepSeek’s Harness team open-sourced dsh-superagent, a research prototype that monitors a GitHub repo, picks up authorized coding tasks through a router-worker design, and returns results with limited human supervision.</description>
-<pubDate>Mon, 02 Nov 2026 11:38:28 +0000</pubDate>
-<guid isPermaLink="true">https://mitsloanindia.com/article/deepseek-releases-autonomous-coding-agent-prototype-to-rival-claude-code/</guid>
-</item>
-<item>
-<title>DeepSeek Open-Sourced Its Autonomous Coding Agent — and Says Coding Agents Wrote Most of the Code</title>
-<link>https://www.singularity.kiwi/deepseek-dsh-superagent-open-source-coding-agent-2026/</link>
-<description>DeepSeek's MIT-licensed super-agent prototype watches a repo's GitHub activity, takes on authorized work items, and reports back with pull requests — notable partly because coding agents wrote much of the tool itself.</description>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.singularity.kiwi/deepseek-dsh-superagent-open-source-coding-agent-2026/</guid>
 </item>
 </channel>
 </rss>
