@@ -63,6 +63,13 @@
 <guid isPermaLink="true">https://superpowerdaily.com/posts/berkeley-researchers-release-code-for-ai-agents-to-build-and-improve-robot-programs</guid>
 </item>
 <item>
+<title>On-device AI and small language models: what changed in October and November 2026</title>
+<link>https://corecodify.com/blog/on-device-ai-small-language-models</link>
+<description>Small models keep shrinking: Taobao open-sourced the 173MB MNN-Pocket-0.3B, Gemini Nano now runs on 140M devices, and on-device inference tooling keeps improving.</description>
+<pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://corecodify.com/blog/on-device-ai-small-language-models</guid>
+</item>
+<item>
 <title>ZCode: Z.ai's open-source agentic IDE for GLM-5.2, benchmarked against Cursor</title>
 <link>https://flowtivity.ai/blog/zcode-glm-coding-agent-harness/</link>
 <description>Z.ai's free desktop agentic IDE runs multi-agent Goals instead of prompts, steers from a phone via Telegram/WeChat, and just added a plugin system; its MIT-licensed GLM-5.2 model ranks second globally on Code Arena.</description>
@@ -278,13 +285,6 @@
 <description>Government-backed Indian launch of a 26.3B sparse hybrid model plus 2B and 5B compact models aimed at offline, on-device and on-premise use across Indian languages.</description>
 <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://unicornapi.net/blog/soket-labs-zenteiq-release-indian-ai-models-run-offline</guid>
-</item>
-<item>
-<title>Three new Savage Worlds releases for Foundry VTT</title>
-<link>https://shop.peginc.com/blogs/news/three-new-savage-worlds-releases-plus-a-bundle-for-foundry-vtt</link>
-<description>Pinnacle ships three new Foundry VTT releases — two Deadlands: The Weird West adventures and a Pathfinder for Savage Worlds asset pack — plus a limited-time Hollerween bundle through November 15.</description>
-<pubDate>Tue, 03 Nov 2026 08:59:00 +0000</pubDate>
-<guid isPermaLink="true">https://shop.peginc.com/blogs/news/three-new-savage-worlds-releases-plus-a-bundle-for-foundry-vtt</guid>
 </item>
 </channel>
 </rss>
