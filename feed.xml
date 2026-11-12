@@ -42,13 +42,6 @@
 <guid isPermaLink="true">https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce#comments</guid>
 </item>
 <item>
-<title>GSQ and RCO: the non-uniform quantization now sitting in GGUF files</title>
-<link>https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce</link>
-<description>Two new methods assign a different quantization type to each tensor, squeezing a 354 GB model into a 75.8 GB GGUF file without losing benchmark accuracy.</description>
-<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce</guid>
-</item>
-<item>
 <title>llama-cpp-pascal: 50-70% faster inference on old Pascal GPUs</title>
 <link>https://www.notionpulse.cc/repo/joris-sta/llama-cpp-pascal</link>
 <description>A llama.cpp fork with hand-written CUDA kernels for pre-tensor-core Pascal cards (GTX 1070 era): compressed-KV flash attention and ternary matmuls, claiming a 27B model at 96K context on an 8GB card.</description>
@@ -285,6 +278,13 @@
 <description>On the eve of the November 4 launch, lead encounter designer Michael Nuthals describes unlearning modern WoW habits to recapture Classic dungeon and raid design, with horizontal progression keeping the cap at 60.</description>
 <pubDate>Tue, 03 Nov 2026 17:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/</guid>
+</item>
+<item>
+<title>IndiaAI Mission launches EKA-1 and Dhir offline models</title>
+<link>https://unicornapi.net/blog/soket-labs-zenteiq-release-indian-ai-models-run-offline</link>
+<description>Government-backed Indian launch of a 26.3B sparse hybrid model plus 2B and 5B compact models aimed at offline, on-device and on-premise use across Indian languages.</description>
+<pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://unicornapi.net/blog/soket-labs-zenteiq-release-indian-ai-models-run-offline</guid>
 </item>
 </channel>
 </rss>
