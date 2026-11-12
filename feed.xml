@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 11 Nov 2026 01:38:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 14:38:00 +0000</lastBuildDate>
+<item>
+<title>Berkeley and Nvidia open-source coding-agent tools that program industrial robots</title>
+<link>https://mlq.ai/news/berkeley-and-nvidia-release-open-tools-for-ai-coding-agents-that-program-industrial-robots-without-training-data/</link>
+<description>Berkeley and Nvidia released open tools (Graph-as-Policy, RoboSimStudio, VABAR) that let teams of AI coding agents write, simulate, and validate industrial robot programs without collecting robot training data.</description>
+<pubDate>Wed, 11 Nov 2026 14:38:00 +0000</pubDate>
+<guid isPermaLink="true">https://mlq.ai/news/berkeley-and-nvidia-release-open-tools-for-ai-coding-agents-that-program-industrial-robots-without-training-data/</guid>
+</item>
 <item>
 <title>World of Warcraft: Forever Sets a Franchise Launch Record: Repositioning a 20-Year-Old Classic</title>
 <link>https://awnchina.cn/world-of-warcraft-forever-sets-a-franchise-launch-record/</link>
@@ -278,13 +285,6 @@
 <description>Google's official quantization-aware-trained Q4_0 GGUF checkpoint for the 8B multimodal Gemma 4 E4B, plus community K-quants, for running it locally in llama.cpp, Ollama and LM Studio.</description>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://gemma-4.net/download/gemma-4-e4b-gguf</guid>
-</item>
-<item>
-<title>With World of Warcraft: Forever, Blizzard Had To Reconnect With What Made WoW Great In The First Place</title>
-<link>https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/</link>
-<description>On the eve of the November 4 launch, lead encounter designer Michael Nuthals describes unlearning modern WoW habits to recapture Classic dungeon and raid design, with horizontal progression keeping the cap at 60.</description>
-<pubDate>Tue, 03 Nov 2026 17:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/</guid>
 </item>
 </channel>
 </rss>
