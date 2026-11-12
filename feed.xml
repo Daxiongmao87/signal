@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://aiparabellum.com/thinking-machines-releases-inkling-2-small-open-weights/</guid>
 </item>
 <item>
+<title>Inkling 2 Small weights land on Hugging Face under Apache 2.0</title>
+<link>https://cellcog.ai/blog/inkling-2-small/</link>
+<description>Thinking Machines Lab's 594B MoE (17B active per token) shipped its full weights on November 12 under Apache 2.0, with NVFP4 and MXFP8 checkpoints and local-inference support via SGLang, vLLM and Unsloth.</description>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://cellcog.ai/blog/inkling-2-small/</guid>
+</item>
+<item>
 <title>Berkeley and Nvidia open-source coding-agent tools that program industrial robots</title>
 <link>https://mlq.ai/news/berkeley-and-nvidia-release-open-tools-for-ai-coding-agents-that-program-industrial-robots-without-training-data/</link>
 <description>Berkeley and Nvidia released open tools (Graph-as-Policy, RoboSimStudio, VABAR) that let teams of AI coding agents write, simulate, and validate industrial robot programs without collecting robot training data.</description>
@@ -278,13 +285,6 @@
 <description>llama.cpp tags v0.9.0 on ggml 0.29.0, adding a native FP8 E4M3 tensor type, a flash-attention variant for multi-sequence serving, and initial multi-node tensor parallelism over NCCL.</description>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://explainx.ai/blog/llama-cpp-v0-9-0-ggml-0-29-0-fp8-e4m3-multi-node-tensor-parallelism-nccl-what-changed-2026</guid>
-</item>
-<item>
-<title>Codein v2.2.8 hardens Termux durable run recovery for Android AI coding</title>
-<link>https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</link>
-<description>Codein's latest Android release focuses on reliability, hardening durable run recovery in its Termux agent room so local AI coding sessions survive interruptions.</description>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</guid>
 </item>
 </channel>
 </rss>
