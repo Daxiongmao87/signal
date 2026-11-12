@@ -49,13 +49,6 @@
 <guid isPermaLink="true">https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce#comments</guid>
 </item>
 <item>
-<title>GSQ and RCO: the non-uniform quantization now sitting in GGUF files</title>
-<link>https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce</link>
-<description>GSQ and RCO assign a different quantization type per tensor instead of one for the whole model, letting a 354 GB model ship as a 75.8 GB GGUF that existing engines run unchanged.</description>
-<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce</guid>
-</item>
-<item>
 <title>llama-cpp-pascal: 50-70% faster inference on old Pascal GPUs</title>
 <link>https://www.notionpulse.cc/repo/joris-sta/llama-cpp-pascal</link>
 <description>A llama.cpp fork with hand-written CUDA kernels for pre-tensor-core Pascal cards (GTX 1070 era): compressed-KV flash attention and ternary matmuls, claiming a 27B model at 96K context on an 8GB card.</description>
@@ -285,6 +278,13 @@
 <description>Codein's latest Android release focuses on reliability, hardening durable run recovery in its Termux agent room so local AI coding sessions survive interruptions.</description>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</guid>
+</item>
+<item>
+<title>WoW Forever vs Classic vs Retail: which WoW to play</title>
+<link>https://www.pylcrow.com/2026/11/04/wow-forever-vs-classic-vs-retail/</link>
+<description>Launch-week guide comparing Forever's new zones, quests and raids at a permanent level 60 against Classic's preservation and Retail's modern game, all on one subscription.</description>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.pylcrow.com/2026/11/04/wow-forever-vs-classic-vs-retail/</guid>
 </item>
 </channel>
 </rss>
