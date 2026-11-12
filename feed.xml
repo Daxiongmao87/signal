@@ -70,6 +70,13 @@
 <guid isPermaLink="true">https://corecodify.com/blog/on-device-ai-small-language-models</guid>
 </item>
 <item>
+<title>AI Coding Harness: 28 Agents Compared for 2026</title>
+<link>https://tech.grahammiranda.com/ai-coding-harness-comparison/</link>
+<description>A fresh comparison of 28 coding-agent harnesses against public benchmarks, prices and release data, including OpenCode v2, Claude Code and Codex.</description>
+<pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://tech.grahammiranda.com/ai-coding-harness-comparison/</guid>
+</item>
+<item>
 <title>ZCode: Z.ai's open-source agentic IDE for GLM-5.2, benchmarked against Cursor</title>
 <link>https://flowtivity.ai/blog/zcode-glm-coding-agent-harness/</link>
 <description>Z.ai's free desktop agentic IDE runs multi-agent Goals instead of prompts, steers from a phone via Telegram/WeChat, and just added a plugin system; its MIT-licensed GLM-5.2 model ranks second globally on Code Arena.</description>
@@ -278,13 +285,6 @@
 <description>On the eve of the November 4 launch, lead encounter designer Michael Nuthals describes unlearning modern WoW habits to recapture Classic dungeon and raid design, with horizontal progression keeping the cap at 60.</description>
 <pubDate>Tue, 03 Nov 2026 17:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/</guid>
-</item>
-<item>
-<title>IndiaAI Mission launches EKA-1 and Dhir offline models</title>
-<link>https://unicornapi.net/blog/soket-labs-zenteiq-release-indian-ai-models-run-offline</link>
-<description>Government-backed Indian launch of a 26.3B sparse hybrid model plus 2B and 5B compact models aimed at offline, on-device and on-premise use across Indian languages.</description>
-<pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://unicornapi.net/blog/soket-labs-zenteiq-release-indian-ai-models-run-offline</guid>
 </item>
 </channel>
 </rss>
