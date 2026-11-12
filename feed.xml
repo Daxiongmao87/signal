@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 11 Nov 2026 14:38:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 22:09:57 +0000</lastBuildDate>
+<item>
+<title>Thinking Machines releases Inkling 2 Small open weights under Apache 2.0</title>
+<link>https://aiparabellum.com/thinking-machines-releases-inkling-2-small-open-weights/</link>
+<description>Thinking Machines Lab publishes the weights for Inkling 2 Small, a 594B-parameter MoE with 17B active per token, a week after its hosted-only debut; the NVFP4 checkpoint needs roughly 500GB of GPU memory, so it is a server-class open-weight release rather than a laptop model.</description>
+<pubDate>Thu, 12 Nov 2026 22:09:57 +0000</pubDate>
+<guid isPermaLink="true">https://aiparabellum.com/thinking-machines-releases-inkling-2-small-open-weights/</guid>
+</item>
 <item>
 <title>Berkeley and Nvidia open-source coding-agent tools that program industrial robots</title>
 <link>https://mlq.ai/news/berkeley-and-nvidia-release-open-tools-for-ai-coding-agents-that-program-industrial-robots-without-training-data/</link>
@@ -278,13 +285,6 @@
 <description>Codein's latest Android release focuses on reliability, hardening durable run recovery in its Termux agent room so local AI coding sessions survive interruptions.</description>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</guid>
-</item>
-<item>
-<title>WoW Forever vs Classic vs Retail: which WoW to play</title>
-<link>https://www.pylcrow.com/2026/11/04/wow-forever-vs-classic-vs-retail/</link>
-<description>Launch-week guide comparing Forever's new zones, quests and raids at a permanent level 60 against Classic's preservation and Retail's modern game, all on one subscription.</description>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.pylcrow.com/2026/11/04/wow-forever-vs-classic-vs-retail/</guid>
 </item>
 </channel>
 </rss>
