@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://aiparabellum.com/thinking-machines-releases-inkling-2-small-open-weights/</guid>
 </item>
 <item>
+<title>Semgrep launches agent-native AppSec platform for coding agents</title>
+<link>https://www.businesswire.com/news/home/20261112133878/en/Semgrep-Launches-Agentic-AppSec-Platform-to-Eliminate-the-Security-Bottleneck</link>
+<description>Semgrep ships an agent-native security platform: its Mandoline engine traces reachable code paths for coding agents, Guardian fixes issues as agents write, and a new MCP server brings the analysis to Codex, Claude Code, and Cursor.</description>
+<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.businesswire.com/news/home/20261112133878/en/Semgrep-Launches-Agentic-AppSec-Platform-to-Eliminate-the-Security-Bottleneck</guid>
+</item>
+<item>
 <title>Inkling 2 Small weights land on Hugging Face under Apache 2.0</title>
 <link>https://cellcog.ai/blog/inkling-2-small/</link>
 <description>Thinking Machines Lab's 594B MoE (17B active per token) shipped its full weights on November 12 under Apache 2.0, with NVFP4 and MXFP8 checkpoints and local-inference support via SGLang, vLLM and Unsloth.</description>
@@ -278,13 +285,6 @@
 <description>Launch-day look at Forever as a permanent third WoW branch rather than a season: 1,000+ new quests, four new zones, the Skyborne race, the account-wide Legacy System, and Barrow Deeps and Hyjal Summit raids unlocking Dec 9.</description>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.kynari.io/world-of-warcraft-forever-launch-blizzard-third-permanent-branch-classic-plus/</guid>
-</item>
-<item>
-<title>llama.cpp v0.9.0 and ggml 0.29.0: native FP8, multi-node tensor parallelism</title>
-<link>https://explainx.ai/blog/llama-cpp-v0-9-0-ggml-0-29-0-fp8-e4m3-multi-node-tensor-parallelism-nccl-what-changed-2026</link>
-<description>llama.cpp tags v0.9.0 on ggml 0.29.0, adding a native FP8 E4M3 tensor type, a flash-attention variant for multi-sequence serving, and initial multi-node tensor parallelism over NCCL.</description>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://explainx.ai/blog/llama-cpp-v0-9-0-ggml-0-29-0-fp8-e4m3-multi-node-tensor-parallelism-nccl-what-changed-2026</guid>
 </item>
 </channel>
 </rss>
