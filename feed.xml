@@ -42,6 +42,13 @@
 <guid isPermaLink="true">https://mlq.ai/news/berkeley-and-nvidia-release-open-tools-for-ai-coding-agents-that-program-industrial-robots-without-training-data/</guid>
 </item>
 <item>
+<title>Why AI video generation is turning into an agent loop</title>
+<link>https://sloptvnews.com/agent-harness-video-generation-explained/</link>
+<description>An Oct 29 survey names the agent harness as the runtime wrapped around a model, and the same week Loova, Runway Dev plugins, and ComfyUI shipped that loop as products — with the caveat that none of it is independently tested yet.</description>
+<pubDate>Wed, 11 Nov 2026 13:30:04 +0000</pubDate>
+<guid isPermaLink="true">https://sloptvnews.com/agent-harness-video-generation-explained/</guid>
+</item>
+<item>
 <title>World of Warcraft: Forever Sets a Franchise Launch Record: Repositioning a 20-Year-Old Classic</title>
 <link>https://awnchina.cn/world-of-warcraft-forever-sets-a-franchise-launch-record/</link>
 <description>Blizzard says Forever is the biggest WoW launch ever by peak concurrency and returning players, with 8.86 million characters made in beta and the first raids opening December 9.</description>
@@ -278,13 +285,6 @@
 <description>Palindrome Research Labs shipped Agent8088, an MIT-licensed open-source agent harness with 59 built-in tools, sub-agents and memory, aimed at helping small local models complete long, complex tasks more reliably.</description>
 <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.palindromerl.com/news/agent8088-launch-press-release</guid>
-</item>
-<item>
-<title>WoW Forever UK launch time: 11pm on November 4</title>
-<link>https://www.ggrecon.com/articles/wow-forever-launch-time-uk/</link>
-<description>Blizzard's Classic+ goes live worldwide at a single moment, 3pm Pacific, which is 11pm UK time on November 4, included with a standard WoW subscription.</description>
-<pubDate>Wed, 04 Nov 2026 09:45:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.ggrecon.com/articles/wow-forever-launch-time-uk/</guid>
 </item>
 </channel>
 </rss>
