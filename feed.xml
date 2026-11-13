@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://www.businesswire.com/news/home/20261112133878/en/Semgrep-Launches-Agentic-AppSec-Platform-to-Eliminate-the-Security-Bottleneck</guid>
 </item>
 <item>
+<title>Ollama on Android: the Termux setup, apps, and models that fit</title>
+<link>https://refusalrate.com/ollama-android</link>
+<description>Fresh field guide to running Ollama in Termux on a phone, including the official Termux package tracking upstream 0.40.16, Vulkan GPU backends, and which native Android apps fit which models.</description>
+<pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://refusalrate.com/ollama-android</guid>
+</item>
+<item>
 <title>Inkling 2 Small weights land on Hugging Face under Apache 2.0</title>
 <link>https://cellcog.ai/blog/inkling-2-small/</link>
 <description>Thinking Machines Lab's 594B MoE (17B active per token) shipped its full weights on November 12 under Apache 2.0, with NVFP4 and MXFP8 checkpoints and local-inference support via SGLang, vLLM and Unsloth.</description>
@@ -117,6 +124,13 @@
 <description>A fresh comparison of 28 coding-agent harnesses against public benchmarks, prices and release data, including OpenCode v2, Claude Code and Codex.</description>
 <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://tech.grahammiranda.com/ai-coding-harness-comparison/</guid>
+</item>
+<item>
+<title>Liquid AI releases LFM3, a family of 2B-class open-weights models built for local agents</title>
+<link>https://www.geekbyte.com/post/liquid-ai-lfm3-local-models/</link>
+<description>Liquid AI's LFM3 family gives local agents a 1.7B text model with a 256K context that fits in about 1GB at 4-bit, with day-one llama.cpp and Ollama support.</description>
+<pubDate>Sat, 07 Nov 2026 12:09:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.geekbyte.com/post/liquid-ai-lfm3-local-models/</guid>
 </item>
 <item>
 <title>ZCode: Z.ai's open-source agentic IDE for GLM-5.2, benchmarked against Cursor</title>
@@ -271,20 +285,6 @@
 <description>Blizzard's Classic+ goes live worldwide at a single moment, 3pm Pacific, which is 11pm UK time on November 4, included with a standard WoW subscription.</description>
 <pubDate>Wed, 04 Nov 2026 09:45:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.ggrecon.com/articles/wow-forever-launch-time-uk/</guid>
-</item>
-<item>
-<title>Dataiku Headless brings governed data work into coding agents</title>
-<link>https://www.thecatalystonline.com/dataiku-launches-headless-to-bring-agentic-ai-into-developers-existing-coding-workflows/</link>
-<description>Dataiku Headless lets developers build and modify governed data pipelines, models and dashboards from the coding agent they already use, with its Cobuild agent doing the Dataiku-side work behind the scenes.</description>
-<pubDate>Wed, 04 Nov 2026 09:25:35 +0000</pubDate>
-<guid isPermaLink="true">https://www.thecatalystonline.com/dataiku-launches-headless-to-bring-agentic-ai-into-developers-existing-coding-workflows/</guid>
-</item>
-<item>
-<title>Codein v2.2.7 Turns Android Into a More Powerful Local AI Coding Workspace</title>
-<link>https://undercodenews.com/codein-v227-just-turned-android-into-a-more-powerful-local-ai-coding-workspace-video/</link>
-<description>Codein v2.2.7 adds a local Termux bridge, model routing, and browser tools to its Android AI coding app, letting an agent run approved commands on-device without root.</description>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://undercodenews.com/codein-v227-just-turned-android-into-a-more-powerful-local-ai-coding-workspace-video/</guid>
 </item>
 </channel>
 </rss>
