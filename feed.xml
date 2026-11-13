@@ -70,6 +70,13 @@
 <guid isPermaLink="true">https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce#comments</guid>
 </item>
 <item>
+<title>MACaQ: Huawei open-sources a 4-bit quantizer for GGUF and vLLM</title>
+<link>https://ai-tldr.dev/releases/huawei-csl-macaq/</link>
+<description>Huawei's Computing Systems Lab released MACaQ, an Apache-2.0 toolkit that compresses models to 4-bit weights and activations with a layer-by-layer recipe, beating Unsloth's Q4_K_XL on Qwen3.6-35B-A3B fidelity at the same file size.</description>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://ai-tldr.dev/releases/huawei-csl-macaq/</guid>
+</item>
+<item>
 <title>llama-cpp-pascal: 50-70% faster inference on old Pascal GPUs</title>
 <link>https://www.notionpulse.cc/repo/joris-sta/llama-cpp-pascal</link>
 <description>A llama.cpp fork with hand-written CUDA kernels for pre-tensor-core Pascal cards (GTX 1070 era): compressed-KV flash attention and ternary matmuls, claiming a 27B model at 96K context on an 8GB card.</description>
@@ -278,13 +285,6 @@
 <description>A 5060 Ti owner works through getting Qwen3.6-35B-A3B to 120K context in Ollama: flash attention plus a q8_0 KV cache, with llama-swap as the VRAM-friendly alternative.</description>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://vibingtalk.com/index.php?threads/qwen3-6-35b-a3b-on-5060ti-using-ollama-for-hermes.1916925/</guid>
-</item>
-<item>
-<title>TwIL-8B: 8.8B Model Claims 93% of Frontier Coding Score</title>
-<link>https://explainx.ai/blog/twil-8b-webai-open-weight-granite-reasoning-model-frontier-share-claimed-vs-verified-2026</link>
-<description>webAI's open-weight 8.8B reasoning model, post-trained from IBM Granite 4.2, claims near-frontier math and coding scores with a 5 GB Q4_K_M GGUF, though the numbers are the vendor's own and the license is non-commercial.</description>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://explainx.ai/blog/twil-8b-webai-open-weight-granite-reasoning-model-frontier-share-claimed-vs-verified-2026</guid>
 </item>
 </channel>
 </rss>
