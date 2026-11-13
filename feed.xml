@@ -119,6 +119,13 @@
 <guid isPermaLink="true">https://blogs.techbytes.app/posts/an-open-source-harness-for-coding-agents-that-shows-its/</guid>
 </item>
 <item>
+<title>Fine-tuning platforms compared: AutoTrain vs Unsloth vs Axolotl</title>
+<link>https://www.ainomam.com/post/open-source-model-fine-tuning-platforms-2026</link>
+<description>A current side-by-side of the main LoRA fine-tuning options, covering Unsloth's single-GPU speed, Axolotl's YAML-driven pipelines, LLaMA-Factory's web UI, and TRL plus PEFT for custom training loops.</description>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.ainomam.com/post/open-source-model-fine-tuning-platforms-2026</guid>
+</item>
+<item>
 <title>Season of Discovery's community response is what made Blizzard build WoW Forever</title>
 <link>https://kraken-rc.ignimgs.com/articles/blizzard-reveals-what-made-it-finally-pull-the-trigger-on-wow-forever</link>
 <description>Blizzard designer Josh Greenfield told Bloomberg that Season of Discovery's community response is what convinced leadership to greenlight a permanent Classic+ game, and that Northshire Abbey became the tech demo that won the team over.</description>
@@ -278,13 +285,6 @@
 <description>webAI's open-weight 8.8B reasoning model, post-trained from IBM Granite 4.2, claims near-frontier math and coding scores with a 5 GB Q4_K_M GGUF, though the numbers are the vendor's own and the license is non-commercial.</description>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://explainx.ai/blog/twil-8b-webai-open-weight-granite-reasoning-model-frontier-share-claimed-vs-verified-2026</guid>
-</item>
-<item>
-<title>World of Warcraft: Forever launches as Blizzard's third permanent branch of Azeroth</title>
-<link>https://www.kynari.io/world-of-warcraft-forever-launch-blizzard-third-permanent-branch-classic-plus/</link>
-<description>Launch-day look at Forever as a permanent third WoW branch rather than a season: 1,000+ new quests, four new zones, the Skyborne race, the account-wide Legacy System, and Barrow Deeps and Hyjal Summit raids unlocking Dec 9.</description>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.kynari.io/world-of-warcraft-forever-launch-blizzard-third-permanent-branch-classic-plus/</guid>
 </item>
 </channel>
 </rss>
