@@ -77,6 +77,13 @@
 <guid isPermaLink="true">https://ai-tldr.dev/releases/huawei-csl-macaq/</guid>
 </item>
 <item>
+<title>GSQ and RCO: per-tensor quantization recipes now shipping in GGUF files</title>
+<link>https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce</link>
+<description>A writeup of GSQ and RCO, two methods from IST Austria that assign a different quantization type per tensor, letting a 354 GB model ship as a 75.8 GB GGUF file while matching the base model on AIME25.</description>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce</guid>
+</item>
+<item>
 <title>llama-cpp-pascal: 50-70% faster inference on old Pascal GPUs</title>
 <link>https://www.notionpulse.cc/repo/joris-sta/llama-cpp-pascal</link>
 <description>A llama.cpp fork with hand-written CUDA kernels for pre-tensor-core Pascal cards (GTX 1070 era): compressed-KV flash attention and ternary matmuls, claiming a 27B model at 96K context on an 8GB card.</description>
@@ -278,13 +285,6 @@
 <description>Codein v2.2.7 adds a local Termux bridge, model routing, and browser tools to its Android AI coding app, letting an agent run approved commands on-device without root.</description>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://undercodenews.com/codein-v227-just-turned-android-into-a-more-powerful-local-ai-coding-workspace-video/</guid>
-</item>
-<item>
-<title>Qwen3.6-35b-a3b on 5060ti using Ollama for Hermes</title>
-<link>https://vibingtalk.com/index.php?threads/qwen3-6-35b-a3b-on-5060ti-using-ollama-for-hermes.1916925/</link>
-<description>A 5060 Ti owner works through getting Qwen3.6-35B-A3B to 120K context in Ollama: flash attention plus a q8_0 KV cache, with llama-swap as the VRAM-friendly alternative.</description>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://vibingtalk.com/index.php?threads/qwen3-6-35b-a3b-on-5060ti-using-ollama-for-hermes.1916925/</guid>
 </item>
 </channel>
 </rss>
