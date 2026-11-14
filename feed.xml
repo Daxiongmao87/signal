@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 12 Nov 2026 22:09:57 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 14:33:41 +0000</lastBuildDate>
+<item>
+<title>Railflare FX: six free sci-fi combat effects for VTTs</title>
+<link>https://itch.io/t/7392780/assets-railflare-fx-6-free-sci-fi-combat-effects-for-virtual-tabletops-transparent-webm</link>
+<description>Free pack of six transparent WebM combat effects (drone swarm, EMP burst, railgun beam and more) shipped as a Foundry VTT Sequencer module, usable in other VTTs as plain video files.</description>
+<pubDate>Fri, 13 Nov 2026 14:33:41 +0000</pubDate>
+<guid isPermaLink="true">https://itch.io/t/7392780/assets-railflare-fx-6-free-sci-fi-combat-effects-for-virtual-tabletops-transparent-webm</guid>
+</item>
 <item>
 <title>Thinking Machines releases Inkling 2 Small open weights under Apache 2.0</title>
 <link>https://aiparabellum.com/thinking-machines-releases-inkling-2-small-open-weights/</link>
@@ -278,13 +285,6 @@
 <description>Android AI workspace Codein ships v2.2.8, hardening durable-run recovery for its Termux agent room so local AI coding sessions survive interruptions; v2.2.7 added the local bridge, model routing, and browser tools.</description>
 <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</guid>
-</item>
-<item>
-<title>Agent8088: open-source harness to help small local LLMs finish long tasks</title>
-<link>https://www.palindromerl.com/news/agent8088-launch-press-release</link>
-<description>Palindrome Research Labs shipped Agent8088, an MIT-licensed open-source agent harness with 59 built-in tools, sub-agents and memory, aimed at helping small local models complete long, complex tasks more reliably.</description>
-<pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.palindromerl.com/news/agent8088-launch-press-release</guid>
 </item>
 </channel>
 </rss>
