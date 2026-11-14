@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 13 Nov 2026 14:33:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 13:00:00 +0000</lastBuildDate>
+<item>
+<title>GitHub Agentic Workflows reaches general availability</title>
+<link>https://gcn.com/github-agentic-workflows-open-source-tool/23243/</link>
+<description>GitHub open-source Agentic Workflows project is now generally available, letting developers run AI coding agents inside GitHub Actions for issue triage, test writing and documentation, with new controls for self-hosted runners.</description>
+<pubDate>Sat, 14 Nov 2026 13:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://gcn.com/github-agentic-workflows-open-source-tool/23243/</guid>
+</item>
 <item>
 <title>Railflare FX: six free sci-fi combat effects for VTTs</title>
 <link>https://itch.io/t/7392780/assets-railflare-fx-6-free-sci-fi-combat-effects-for-virtual-tabletops-transparent-webm</link>
@@ -103,6 +110,13 @@
 <description>A writeup of GSQ and RCO, two methods from IST Austria that assign a different quantization type per tensor, letting a 354 GB model ship as a 75.8 GB GGUF file while matching the base model on AIME25.</description>
 <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce</guid>
+</item>
+<item>
+<title>MACaQ: Huawei open-sources a 4-bit quantization toolkit for GGUF</title>
+<link>https://ai-tldr.dev/tools/macaq/</link>
+<description>Huawei Computing Systems Lab releases MACaQ, an Apache-2.0 toolkit that quantizes weights and activations to 4 bits and emits GGUF, vLLM and PyTorch files; its refined Q4_K_XL on Qwen3.6-35B beats the Unsloth file on KL divergence to FP16.</description>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://ai-tldr.dev/tools/macaq/</guid>
 </item>
 <item>
 <title>llama-cpp-pascal: 50-70% faster inference on old Pascal GPUs</title>
@@ -271,20 +285,6 @@
 <description>Forever is live with 1,000+ new quests, rebalanced classes and a new lighting engine, level cap held at 60, after the largest beta in WoW history.</description>
 <pubDate>Wed, 04 Nov 2026 22:09:21 +0000</pubDate>
 <guid isPermaLink="true">https://ugames.tv/world-of-warcraft-forever-launches-today-as-blizzard-developers-say-they-had-to-unlearn-modern-wow/</guid>
-</item>
-<item>
-<title>Unsloth Shrinks Qwen3.8-Flash-Next to 74.5 GB for Local Coding Agents</title>
-<link>https://alphasignal.ai/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents</link>
-<description>Unsloth's Dynamic V3.1 GGUF quants bring the 125B MoE Qwen3.8-Flash-Next down to 74.5 GB, fitting local coding-agent runs on high-memory workstations.</description>
-<pubDate>Wed, 04 Nov 2026 17:31:36 +0000</pubDate>
-<guid isPermaLink="true">https://alphasignal.ai/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents</guid>
-</item>
-<item>
-<title>Codein v2.2.8 hardens Termux agent recovery on Android</title>
-<link>https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</link>
-<description>Android AI workspace Codein ships v2.2.8, hardening durable-run recovery for its Termux agent room so local AI coding sessions survive interruptions; v2.2.7 added the local bridge, model routing, and browser tools.</description>
-<pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</guid>
 </item>
 </channel>
 </rss>
