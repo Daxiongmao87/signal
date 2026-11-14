@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://itch.io/t/7392780/assets-railflare-fx-6-free-sci-fi-combat-effects-for-virtual-tabletops-transparent-webm</guid>
 </item>
 <item>
+<title>Thinking Machines releases open weights Inkling 2 Small on Hugging Face</title>
+<link>https://www.alextech.ai/en/news/thinking-machines-releases-open-weights-inkling-2-small-on-hugging-face/</link>
+<description>Thinking Machines Lab published the open weights for Inkling 2 Small, a 594B-parameter multimodal model with a 1M-token context; local inference is supported via SGLang, vLLM, TokenSpeed and Unsloth, though the NVFP4 checkpoint needs at least 500 GB of VRAM.</description>
+<pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.alextech.ai/en/news/thinking-machines-releases-open-weights-inkling-2-small-on-hugging-face/</guid>
+</item>
+<item>
 <title>Thinking Machines releases Inkling 2 Small open weights under Apache 2.0</title>
 <link>https://aiparabellum.com/thinking-machines-releases-inkling-2-small-open-weights/</link>
 <description>Thinking Machines Lab publishes the weights for Inkling 2 Small, a 594B-parameter MoE with 17B active per token, a week after its hosted-only debut; the NVFP4 checkpoint needs roughly 500GB of GPU memory, so it is a server-class open-weight release rather than a laptop model.</description>
@@ -278,13 +285,6 @@
 <description>Unsloth's Dynamic V3.1 GGUF quants bring the 125B MoE Qwen3.8-Flash-Next down to 74.5 GB, fitting local coding-agent runs on high-memory workstations.</description>
 <pubDate>Wed, 04 Nov 2026 17:31:36 +0000</pubDate>
 <guid isPermaLink="true">https://alphasignal.ai/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents</guid>
-</item>
-<item>
-<title>Codein v2.2.8 hardens Termux agent recovery on Android</title>
-<link>https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</link>
-<description>Android AI workspace Codein ships v2.2.8, hardening durable-run recovery for its Termux agent room so local AI coding sessions survive interruptions; v2.2.7 added the local bridge, model routing, and browser tools.</description>
-<pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</guid>
 </item>
 </channel>
 </rss>
