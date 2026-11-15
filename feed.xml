@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 13 Nov 2026 14:33:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 12:00:00 +0000</lastBuildDate>
+<item>
+<title>Tencent's LoopForge: self-hosted orchestration for coding agents</title>
+<link>https://www.myaitemplate.com/en/news/tencents-loopforge-signals-shift-to-autonomous-coding-agents-mwgpp7f5</link>
+<description>Tencent released LoopForge, a Go-based, self-hosted framework for chaining coding agents like Claude Code and Codex, with human approval gates built into the orchestration.</description>
+<pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.myaitemplate.com/en/news/tencents-loopforge-signals-shift-to-autonomous-coding-agents-mwgpp7f5</guid>
+</item>
 <item>
 <title>Railflare FX: six free sci-fi combat effects for VTTs</title>
 <link>https://itch.io/t/7392780/assets-railflare-fx-6-free-sci-fi-combat-effects-for-virtual-tabletops-transparent-webm</link>
@@ -278,13 +285,6 @@
 <description>Unsloth's Dynamic V3.1 GGUF quants bring the 125B MoE Qwen3.8-Flash-Next down to 74.5 GB, fitting local coding-agent runs on high-memory workstations.</description>
 <pubDate>Wed, 04 Nov 2026 17:31:36 +0000</pubDate>
 <guid isPermaLink="true">https://alphasignal.ai/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents</guid>
-</item>
-<item>
-<title>Codein v2.2.8 hardens Termux agent recovery on Android</title>
-<link>https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</link>
-<description>Android AI workspace Codein ships v2.2.8, hardening durable-run recovery for its Termux agent room so local AI coding sessions survive interruptions; v2.2.7 added the local bridge, model routing, and browser tools.</description>
-<pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://undercodenews.com/codein-just-got-a-major-android-ai-upgrade-version-228-strengthens-termux-agent-recovery-and-local-ai-workflows-video/</guid>
 </item>
 </channel>
 </rss>
