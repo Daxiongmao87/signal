@@ -63,6 +63,13 @@
 <guid isPermaLink="true">https://sloptvnews.com/agent-harness-video-generation-explained/</guid>
 </item>
 <item>
+<title>Dolmenwood Premium Game comes to Foundry VTT</title>
+<link>https://necroticgnome.com/blogs/news/beneath-the-radiant-dome-out-now-dolmenwood-on-foundry-vtt-black-friday-sale-incoming</link>
+<description>Necrotic Gnome's Dolmenwood fairy-tale setting is now a complete Foundry VTT premium module bundling the Player's, Campaign, Monster, and Maps books on top of the free Dolmenwood system; the same post announces the Beneath the Radiant Dome dungeon adventure.</description>
+<pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://necroticgnome.com/blogs/news/beneath-the-radiant-dome-out-now-dolmenwood-on-foundry-vtt-black-friday-sale-incoming</guid>
+</item>
+<item>
 <title>World of Warcraft: Forever Sets a Franchise Launch Record: Repositioning a 20-Year-Old Classic</title>
 <link>https://awnchina.cn/world-of-warcraft-forever-sets-a-franchise-launch-record/</link>
 <description>Blizzard says Forever is the biggest WoW launch ever by peak concurrency and returning players, with 8.86 million characters made in beta and the first raids opening December 9.</description>
@@ -278,13 +285,6 @@
 <description>Forever is live with 1,000+ new quests, rebalanced classes and a new lighting engine, level cap held at 60, after the largest beta in WoW history.</description>
 <pubDate>Wed, 04 Nov 2026 22:09:21 +0000</pubDate>
 <guid isPermaLink="true">https://ugames.tv/world-of-warcraft-forever-launches-today-as-blizzard-developers-say-they-had-to-unlearn-modern-wow/</guid>
-</item>
-<item>
-<title>Unsloth Shrinks Qwen3.8-Flash-Next to 74.5 GB for Local Coding Agents</title>
-<link>https://alphasignal.ai/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents</link>
-<description>Unsloth's Dynamic V3.1 GGUF quants bring the 125B MoE Qwen3.8-Flash-Next down to 74.5 GB, fitting local coding-agent runs on high-memory workstations.</description>
-<pubDate>Wed, 04 Nov 2026 17:31:36 +0000</pubDate>
-<guid isPermaLink="true">https://alphasignal.ai/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents</guid>
 </item>
 </channel>
 </rss>
