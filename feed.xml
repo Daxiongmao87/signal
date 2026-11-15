@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 14 Nov 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 13:00:00 +0000</lastBuildDate>
+<item>
+<title>GitHub Agentic Workflows reaches general availability</title>
+<link>https://gcn.com/github-agentic-workflows-open-source-tool/23243/</link>
+<description>GitHub's open-source Agentic Workflows is now generally available, letting coding agents run inside GitHub Actions for issue triage, test writing and docs, with new self-hosted runner controls and model routing.</description>
+<pubDate>Sat, 14 Nov 2026 13:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://gcn.com/github-agentic-workflows-open-source-tool/23243/</guid>
+</item>
 <item>
 <title>Tencent's LoopForge: self-hosted orchestration for coding agents</title>
 <link>https://www.myaitemplate.com/en/news/tencents-loopforge-signals-shift-to-autonomous-coding-agents-mwgpp7f5</link>
@@ -19,6 +26,13 @@
 <description>Free pack of six transparent WebM combat effects (drone swarm, EMP burst, railgun beam and more) shipped as a Foundry VTT Sequencer module, usable in other VTTs as plain video files.</description>
 <pubDate>Fri, 13 Nov 2026 14:33:41 +0000</pubDate>
 <guid isPermaLink="true">https://itch.io/t/7392780/assets-railflare-fx-6-free-sci-fi-combat-effects-for-virtual-tabletops-transparent-webm</guid>
+</item>
+<item>
+<title>Thinking Machines releases open weights for Inkling 2 Small</title>
+<link>https://www.alextech.ai/en/news/thinking-machines-releases-open-weights-inkling-2-small-on-hugging-face/</link>
+<description>Thinking Machines Lab published the open weights for Inkling 2 Small, a 594B-total / 17B-active multimodal model with a 1M-token context, locally runnable via SGLang, vLLM, TokenSpeed or Unsloth.</description>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.alextech.ai/en/news/thinking-machines-releases-open-weights-inkling-2-small-on-hugging-face/</guid>
 </item>
 <item>
 <title>Thinking Machines releases Inkling 2 Small open weights under Apache 2.0</title>
@@ -271,20 +285,6 @@
 <description>Preferred Networks open-sourced translation LLMs in 0.8B to 31B sizes built to run offline on phones and local servers across 53 languages; free for outfits under ¥1B annual revenue.</description>
 <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://af.net/realtime/pfn-releases-open-weight-translation-llm-plamo-3-translate-in-four-sizes-up-to-31b/</guid>
-</item>
-<item>
-<title>WoW Forever launch OT: the community's running thread</title>
-<link>https://www.resetera.com/threads/world-of-warcraft-forever-ot-classic-plus-blue-elves.1678394/</link>
-<description>ResetEra's official launch thread for WoW Forever, tracking the new Classic+ branch's launch, Skyborne race, rebalanced classes and separate continuity as players get hands-on.</description>
-<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.resetera.com/threads/world-of-warcraft-forever-ot-classic-plus-blue-elves.1678394/</guid>
-</item>
-<item>
-<title>World of Warcraft: Forever launches today, and its lead designer says the team had to unlearn modern WoW</title>
-<link>https://ugames.tv/world-of-warcraft-forever-launches-today-as-blizzard-developers-say-they-had-to-unlearn-modern-wow/</link>
-<description>Forever is live with 1,000+ new quests, rebalanced classes and a new lighting engine, level cap held at 60, after the largest beta in WoW history.</description>
-<pubDate>Wed, 04 Nov 2026 22:09:21 +0000</pubDate>
-<guid isPermaLink="true">https://ugames.tv/world-of-warcraft-forever-launches-today-as-blizzard-developers-say-they-had-to-unlearn-modern-wow/</guid>
 </item>
 </channel>
 </rss>
