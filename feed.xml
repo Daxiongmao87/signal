@@ -28,6 +28,13 @@
 <guid isPermaLink="true">https://vibefix.work/en/explore/llama-cpp-v1-0-0-stable-release-november-2026</guid>
 </item>
 <item>
+<title>Thinking Machines releases open weights Inkling 2 Small on Hugging Face</title>
+<link>https://www.alextech.ai/en/news/thinking-machines-releases-open-weights-inkling-2-small-on-hugging-face/</link>
+<description>Thinking Machines' 594B-parameter multimodal model (17B active per token) is now downloadable on Hugging Face, with a 1M-token context and local inference recipes for SGLang, vLLM, TokenSpeed and Unsloth; the NVFP4 checkpoint needs 500 GB of VRAM, so this is a datacenter-scale local run.</description>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.alextech.ai/en/news/thinking-machines-releases-open-weights-inkling-2-small-on-hugging-face/</guid>
+</item>
+<item>
 <title>Thinking Machines releases Inkling 2 Small open weights under Apache 2.0</title>
 <link>https://aiparabellum.com/thinking-machines-releases-inkling-2-small-open-weights/</link>
 <description>Thinking Machines Lab publishes the weights for Inkling 2 Small, a 594B-parameter MoE with 17B active per token, a week after its hosted-only debut; the NVFP4 checkpoint needs roughly 500GB of GPU memory, so it is a server-class open-weight release rather than a laptop model.</description>
@@ -278,13 +285,6 @@
 <description>Preferred Networks open-sourced translation LLMs in 0.8B to 31B sizes built to run offline on phones and local servers across 53 languages; free for outfits under ¥1B annual revenue.</description>
 <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://af.net/realtime/pfn-releases-open-weight-translation-llm-plamo-3-translate-in-four-sizes-up-to-31b/</guid>
-</item>
-<item>
-<title>WoW Forever launch OT: the community's running thread</title>
-<link>https://www.resetera.com/threads/world-of-warcraft-forever-ot-classic-plus-blue-elves.1678394/</link>
-<description>ResetEra's official launch thread for WoW Forever, tracking the new Classic+ branch's launch, Skyborne race, rebalanced classes and separate continuity as players get hands-on.</description>
-<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.resetera.com/threads/world-of-warcraft-forever-ot-classic-plus-blue-elves.1678394/</guid>
 </item>
 </channel>
 </rss>
