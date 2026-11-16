@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://newsroom.detectify.com/detectify-launches-agentic-tooling-to-bring-verifiable-evidence-to-ai-led-security-investigations</guid>
 </item>
 <item>
+<title>Qwen Code 1.0 Preview open-sources Alibaba's Agent Harness as an embeddable runtime</title>
+<link>https://www.boaoai.cn/en/news/2026-11-16-agent-harness-era-runtime-base/</link>
+<description>Alibaba folds the production Agent Harness from its Qoder tool into Qwen Code 1.0 Preview, released under Apache-2.0 as an embeddable runtime for multi-step planning, tool orchestration, and failure recovery.</description>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.boaoai.cn/en/news/2026-11-16-agent-harness-era-runtime-base/</guid>
+</item>
+<item>
 <title>Tencent's LoopForge: self-hosted orchestration for coding agents</title>
 <link>https://www.myaitemplate.com/en/news/tencents-loopforge-signals-shift-to-autonomous-coding-agents-mwgpp7f5</link>
 <description>Tencent released LoopForge, a Go-based, self-hosted framework for chaining coding agents like Claude Code and Codex, with human approval gates built into the orchestration.</description>
@@ -278,13 +285,6 @@
 <description>IGN interview: Season of Discovery's response convinced leadership to green-light a permanent Classic+ branch, with Northshire Abbey as the tech demo that won them over.</description>
 <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://store.steampowered.com/news/group/9869/view/705536106419978640</guid>
-</item>
-<item>
-<title>PFN releases open-weight PLaMo 3 Translate for on-device translation</title>
-<link>https://af.net/realtime/pfn-releases-open-weight-translation-llm-plamo-3-translate-in-four-sizes-up-to-31b/</link>
-<description>Preferred Networks open-sourced translation LLMs in 0.8B to 31B sizes built to run offline on phones and local servers across 53 languages; free for outfits under ¥1B annual revenue.</description>
-<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://af.net/realtime/pfn-releases-open-weight-translation-llm-plamo-3-translate-in-four-sizes-up-to-31b/</guid>
 </item>
 </channel>
 </rss>
