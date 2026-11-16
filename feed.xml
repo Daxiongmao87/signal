@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://www.myaitemplate.com/en/news/tencents-loopforge-signals-shift-to-autonomous-coding-agents-mwgpp7f5</guid>
 </item>
 <item>
+<title>DeepSeek Harness 0.2.2 adds Codex and Claude delegation</title>
+<link>https://www.aicentralresources.com/news/deepseek-harness-delegates-codex-claude</link>
+<description>The open-source dsh harness 0.2.2-rc.1 adds an experimental plugin that routes subtasks to external Codex and Claude models alongside local DeepSeek V4 endpoints, plus isolated Git worktrees for parallel runs.</description>
+<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.aicentralresources.com/news/deepseek-harness-delegates-codex-claude</guid>
+</item>
+<item>
 <title>Railflare FX: six free sci-fi combat effects for VTTs</title>
 <link>https://itch.io/t/7392780/assets-railflare-fx-6-free-sci-fi-combat-effects-for-virtual-tabletops-transparent-webm</link>
 <description>Free pack of six transparent WebM combat effects (drone swarm, EMP burst, railgun beam and more) shipped as a Foundry VTT Sequencer module, usable in other VTTs as plain video files.</description>
@@ -278,13 +285,6 @@
 <description>Preferred Networks open-sourced translation LLMs in 0.8B to 31B sizes built to run offline on phones and local servers across 53 languages; free for outfits under ¥1B annual revenue.</description>
 <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://af.net/realtime/pfn-releases-open-weight-translation-llm-plamo-3-translate-in-four-sizes-up-to-31b/</guid>
-</item>
-<item>
-<title>WoW Forever launch OT: the community's running thread</title>
-<link>https://www.resetera.com/threads/world-of-warcraft-forever-ot-classic-plus-blue-elves.1678394/</link>
-<description>ResetEra's official launch thread for WoW Forever, tracking the new Classic+ branch's launch, Skyborne race, rebalanced classes and separate continuity as players get hands-on.</description>
-<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.resetera.com/threads/world-of-warcraft-forever-ot-classic-plus-blue-elves.1678394/</guid>
 </item>
 </channel>
 </rss>
