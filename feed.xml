@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 16:00:04 +0000</lastBuildDate>
+<item>
+<title>Spark-X2.6-4B: 4B open model for local agents with adjustable reasoning</title>
+<link>https://alphasignal.ai/news/sparkllm-s-spark-x2-6-4b-runs-local-agents-on-3-54-gb-with-adjustable-reasoning</link>
+<description>SparkLLM shipped Spark-X2.6-4B, a 4B open model tuned for coding and tool use with a three-level reasoning budget; the GGUF build is 3.54 GB at Q4_K_M and it claims near-9B quality on agent benchmarks.</description>
+<pubDate>Tue, 17 Nov 2026 16:00:04 +0000</pubDate>
+<guid isPermaLink="true">https://alphasignal.ai/news/sparkllm-s-spark-x2-6-4b-runs-local-agents-on-3-54-gb-with-adjustable-reasoning</guid>
+</item>
 <item>
 <title>Gemma 4 QAT Checkpoints vs Regular Q4 GGUFs, Measured</title>
 <link>https://www.bigiron.cc/guides/gemma-4-qat-checkpoints-vs-regular-q4-ggufs-measured</link>
@@ -278,13 +285,6 @@
 <description>Current review of Axolotl's YAML-driven fine-tuning tool: LoRA, QLoRA, DPO and GRPO from one config, GGUF export in 0.21.1, and the telemetry-on-by-default catch to watch for.</description>
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.anchorterminal.com/tools/axolotl</guid>
-</item>
-<item>
-<title>Agentic dev on an Android tablet: Termux as the raw terminal</title>
-<link>https://cmosqueda.vercel.app/blogs/agentic-dev-on-an-android-tablet</link>
-<description>Field notes from doing real agentic coding on an Android tablet: skip the slick mobile harness apps, run the agent in Termux with a proper shell, no root needed.</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://cmosqueda.vercel.app/blogs/agentic-dev-on-an-android-tablet</guid>
 </item>
 </channel>
 </rss>
