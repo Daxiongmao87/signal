@@ -14,13 +14,6 @@
 <guid isPermaLink="true">https://www.bigiron.cc/guides/gemma-4-qat-checkpoints-vs-regular-q4-ggufs-measured</guid>
 </item>
 <item>
-<title>Detectify launches Agentic Tooling to prove what AI security agents actually tested</title>
-<link>https://securityboulevard.com/2026/11/news-alert-detectify-launches-agentic-tooling-to-prove-what-ai-security-agents-actually-tested/</link>
-<description>Detectify's new tooling lets teams' own AI agents probe suspected vulnerabilities in live apps, with a ledger verifying what was actually tested.</description>
-<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://securityboulevard.com/2026/11/news-alert-detectify-launches-agentic-tooling-to-prove-what-ai-security-agents-actually-tested/</guid>
-</item>
-<item>
 <title>Detectify launches Agentic Tooling to bring verifiable evidence to AI-led security investigations</title>
 <link>https://newsroom.detectify.com/detectify-launches-agentic-tooling-to-bring-verifiable-evidence-to-ai-led-security-investigations</link>
 <description>Detectify's new Agentic Tooling lets teams' own AI agents investigate suspected vulnerabilities in their own environments via MCP and CLI, with a Security Ledger recording verifiable evidence for each finding.</description>
@@ -285,6 +278,13 @@
 <description>Field notes from doing real agentic coding on an Android tablet: skip the slick mobile harness apps, run the agent in Termux with a proper shell, no root needed.</description>
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://cmosqueda.vercel.app/blogs/agentic-dev-on-an-android-tablet</guid>
+</item>
+<item>
+<title>Rapid-MLX 1.0: local LLM server for Apple Silicon, updated Nov 6</title>
+<link>https://ibl.ai/blog/rapid-mlx-1-0-local-llm-server-apple-silicon-benchmarks</link>
+<description>Apache-2.0 local inference server for Apple Silicon with OpenAI- and Anthropic-compatible APIs; v1.0.2 (Nov 6) unloads an idle model while the local API stays up, and it already ships LFM3 models.</description>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://ibl.ai/blog/rapid-mlx-1-0-local-llm-server-apple-silicon-benchmarks</guid>
 </item>
 </channel>
 </rss>
