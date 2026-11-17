@@ -7,6 +7,20 @@
 <language>en-us</language>
 <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
 <item>
+<title>Gemma 4 QAT Checkpoints vs Regular Q4 GGUFs, Measured</title>
+<link>https://www.bigiron.cc/guides/gemma-4-qat-checkpoints-vs-regular-q4-ggufs-measured</link>
+<description>Measured comparison finds Unsloth's QAT GGUF for Gemma 4 E2B the smallest and closest 4-bit file, beating Google's official Q4_0 build.</description>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.bigiron.cc/guides/gemma-4-qat-checkpoints-vs-regular-q4-ggufs-measured</guid>
+</item>
+<item>
+<title>Detectify launches Agentic Tooling to prove what AI security agents actually tested</title>
+<link>https://securityboulevard.com/2026/11/news-alert-detectify-launches-agentic-tooling-to-prove-what-ai-security-agents-actually-tested/</link>
+<description>Detectify's new tooling lets teams' own AI agents probe suspected vulnerabilities in live apps, with a ledger verifying what was actually tested.</description>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://securityboulevard.com/2026/11/news-alert-detectify-launches-agentic-tooling-to-prove-what-ai-security-agents-actually-tested/</guid>
+</item>
+<item>
 <title>Detectify launches Agentic Tooling to bring verifiable evidence to AI-led security investigations</title>
 <link>https://newsroom.detectify.com/detectify-launches-agentic-tooling-to-bring-verifiable-evidence-to-ai-led-security-investigations</link>
 <description>Detectify's new Agentic Tooling lets teams' own AI agents investigate suspected vulnerabilities in their own environments via MCP and CLI, with a Security Ledger recording verifiable evidence for each finding.</description>
@@ -33,6 +47,13 @@
 <description>Tencent released LoopForge, a Go-based, self-hosted framework for chaining coding agents like Claude Code and Codex, with human approval gates built into the orchestration.</description>
 <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.myaitemplate.com/en/news/tencents-loopforge-signals-shift-to-autonomous-coding-agents-mwgpp7f5</guid>
+</item>
+<item>
+<title>DeepSeek Releases a Coding AI That Finds and Fixes Bugs on Its Own</title>
+<link>https://aisignal.day/en/deepseek-super-agent-2026/</link>
+<description>DeepSeek's open-source super-agent prototype runs multiple coding jobs in parallel through a router-and-worker design, cutting slow-case task time nearly in half.</description>
+<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aisignal.day/en/deepseek-super-agent-2026/</guid>
 </item>
 <item>
 <title>DeepSeek Harness 0.2.2 adds Codex and Claude delegation</title>
@@ -264,27 +285,6 @@
 <description>Field notes from doing real agentic coding on an Android tablet: skip the slick mobile harness apps, run the agent in Termux with a proper shell, no root needed.</description>
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://cmosqueda.vercel.app/blogs/agentic-dev-on-an-android-tablet</guid>
-</item>
-<item>
-<title>Rapid-MLX 1.0: local LLM server for Apple Silicon, updated Nov 6</title>
-<link>https://ibl.ai/blog/rapid-mlx-1-0-local-llm-server-apple-silicon-benchmarks</link>
-<description>Apache-2.0 local inference server for Apple Silicon with OpenAI- and Anthropic-compatible APIs; v1.0.2 (Nov 6) unloads an idle model while the local API stays up, and it already ships LFM3 models.</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://ibl.ai/blog/rapid-mlx-1-0-local-llm-server-apple-silicon-benchmarks</guid>
-</item>
-<item>
-<title>CIQ, MariaDB and Harness all rebuilt their platforms for agents as first-class users</title>
-<link>https://platform-monkey.com/articles/agentic-infrastructure-pivot</link>
-<description>Three vendors in one week shipped agent-facing control surfaces: typed MCP tools, permission tiers set at startup, and audit trails that follow the agent, not just the human.</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://platform-monkey.com/articles/agentic-infrastructure-pivot</guid>
-</item>
-<item>
-<title>Roll20 retires its legacy tabletop: Jumpgate becomes the only engine for new games</title>
-<link>https://blog.roll20.net/posts/legacy-vtt-announcement/</link>
-<description>Roll20's Jumpgate engine becomes the sole option for newly created games, with 93% of active games already on it; existing legacy-tabletop games stay available unchanged.</description>
-<pubDate>Thu, 05 Nov 2026 19:43:13 +0000</pubDate>
-<guid isPermaLink="true">https://blog.roll20.net/posts/legacy-vtt-announcement/</guid>
 </item>
 </channel>
 </rss>
