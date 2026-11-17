@@ -91,6 +91,13 @@
 <guid isPermaLink="true">https://refusalrate.com/ollama-android</guid>
 </item>
 <item>
+<title>Edge0 releases 145B open model for a single laptop</title>
+<link>https://www.spectrumweb.co/news/edge0-145b-on-device-open-model</link>
+<description>Edge0 released Edge0-145B and Edge0-120B on Nov 12: 145B total parameters with 10.12B active per token, derived from Qwen3.8-Flash-Next, weights on Hugging Face under a community license; the vendor's 29GB laptop-memory headline is GPU-side only and its benchmarks are self-reported, not independently verified.</description>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.spectrumweb.co/news/edge0-145b-on-device-open-model</guid>
+</item>
+<item>
 <title>Inkling 2 Small weights land on Hugging Face under Apache 2.0</title>
 <link>https://cellcog.ai/blog/inkling-2-small/</link>
 <description>Thinking Machines Lab's 594B MoE (17B active per token) shipped its full weights on November 12 under Apache 2.0, with NVFP4 and MXFP8 checkpoints and local-inference support via SGLang, vLLM and Unsloth.</description>
@@ -278,13 +285,6 @@
 <description>Field notes from doing real agentic coding on an Android tablet: skip the slick mobile harness apps, run the agent in Termux with a proper shell, no root needed.</description>
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://cmosqueda.vercel.app/blogs/agentic-dev-on-an-android-tablet</guid>
-</item>
-<item>
-<title>Rapid-MLX 1.0: local LLM server for Apple Silicon, updated Nov 6</title>
-<link>https://ibl.ai/blog/rapid-mlx-1-0-local-llm-server-apple-silicon-benchmarks</link>
-<description>Apache-2.0 local inference server for Apple Silicon with OpenAI- and Anthropic-compatible APIs; v1.0.2 (Nov 6) unloads an idle model while the local API stays up, and it already ships LFM3 models.</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://ibl.ai/blog/rapid-mlx-1-0-local-llm-server-apple-silicon-benchmarks</guid>
 </item>
 </channel>
 </rss>
