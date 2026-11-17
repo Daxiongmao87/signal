@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://www.boaoai.cn/en/news/2026-11-16-agent-harness-era-runtime-base/</guid>
 </item>
 <item>
+<title>Detectify launches Agentic Tooling for AI security agents</title>
+<link>https://www.lastwatchdog.com/news-alert-detectify-launches-agentic-tooling-to-prove-what-ai-security-agents-actually-tested/</link>
+<description>Detectify’s new Agentic Tooling lets teams’ own AI agents probe running apps for exploitable flaws, with a Security Ledger recording verifiable evidence of what each agent actually tested.</description>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.lastwatchdog.com/news-alert-detectify-launches-agentic-tooling-to-prove-what-ai-security-agents-actually-tested/</guid>
+</item>
+<item>
 <title>Tencent's LoopForge: self-hosted orchestration for coding agents</title>
 <link>https://www.myaitemplate.com/en/news/tencents-loopforge-signals-shift-to-autonomous-coding-agents-mwgpp7f5</link>
 <description>Tencent released LoopForge, a Go-based, self-hosted framework for chaining coding agents like Claude Code and Codex, with human approval gates built into the orchestration.</description>
@@ -278,13 +285,6 @@
 <description>Roll20's Jumpgate engine becomes the sole option for newly created games, with 93% of active games already on it; existing legacy-tabletop games stay available unchanged.</description>
 <pubDate>Thu, 05 Nov 2026 19:43:13 +0000</pubDate>
 <guid isPermaLink="true">https://blog.roll20.net/posts/legacy-vtt-announcement/</guid>
-</item>
-<item>
-<title>PFN open-weights PLaMo 3 Translate, a translation LLM that runs offline in four sizes</title>
-<link>https://aifrontierpost.com/articles/plamo-3-translate-open-weight-translation-llm/</link>
-<description>Preferred Networks released PLaMo 3 Translate as open weights in 0.8B, 2B, 8B and 31B sizes covering 53 languages; the smallest model was shown translating in real time on a phone in airplane mode, with GGUF and MLX builds for local inference.</description>
-<pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aifrontierpost.com/articles/plamo-3-translate-open-weight-translation-llm/</guid>
 </item>
 </channel>
 </rss>
