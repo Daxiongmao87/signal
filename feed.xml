@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://alphasignal.ai/news/sparkllm-s-spark-x2-6-4b-runs-local-agents-on-3-54-gb-with-adjustable-reasoning</guid>
 </item>
 <item>
+<title>WoW Forever Raid Release Date: December 9</title>
+<link>https://worstguidesever.com/wow-classic-plus-camelot-release-date-leaks/</link>
+<description>Post-launch rundown confirms the first WoW: Forever raids, Barrow Deeps, Hyjal Summit and Onyxia's Lair, unlock December 9 for level 60 players, with the live build on a stack of hotfixes dated through November 13.</description>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://worstguidesever.com/wow-classic-plus-camelot-release-date-leaks/</guid>
+</item>
+<item>
 <title>Gemma 4 QAT Checkpoints vs Regular Q4 GGUFs, Measured</title>
 <link>https://www.bigiron.cc/guides/gemma-4-qat-checkpoints-vs-regular-q4-ggufs-measured</link>
 <description>Measured comparison finds Unsloth's QAT GGUF for Gemma 4 E2B the smallest and closest 4-bit file, beating Google's official Q4_0 build.</description>
@@ -278,13 +285,6 @@
 <description>Live launch hub tracking WoW Forever since its Nov 4 debut: the first Nov 5 hotfixes fixing NPC spawns, vendors and Plainsrunning stacking, plus launch guides and the Dec 9 raid roadmap.</description>
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://metammo.com/wow-forever</guid>
-</item>
-<item>
-<title>Axolotl 0.21.1 review: YAML-first fine-tuning, with caveats</title>
-<link>https://www.anchorterminal.com/tools/axolotl</link>
-<description>Current review of Axolotl's YAML-driven fine-tuning tool: LoRA, QLoRA, DPO and GRPO from one config, GGUF export in 0.21.1, and the telemetry-on-by-default catch to watch for.</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.anchorterminal.com/tools/axolotl</guid>
 </item>
 </channel>
 </rss>
