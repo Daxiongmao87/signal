@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://alphasignal.ai/news/sparkllm-s-spark-x2-6-4b-runs-local-agents-on-3-54-gb-with-adjustable-reasoning</guid>
 </item>
 <item>
+<title>The Siege on Manual VTT Layout: Foundry &amp; Fantasy Grounds Are Now Turnkey</title>
+<link>https://itch.io/devlog/1785762/the-siege-on-manual-vtt-layout-foundry-fantasy-grounds-are-now-turnkey.amp</link>
+<description>A Basic Fantasy adventure bundle now ships native Foundry VTT and Fantasy Grounds modules compiled by an automated engine in under a minute, replacing manual VTT data entry.</description>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://itch.io/devlog/1785762/the-siege-on-manual-vtt-layout-foundry-fantasy-grounds-are-now-turnkey.amp</guid>
+</item>
+<item>
 <title>WoW Forever Raid Release Date: December 9</title>
 <link>https://worstguidesever.com/wow-classic-plus-camelot-release-date-leaks/</link>
 <description>Post-launch rundown confirms the first WoW: Forever raids, Barrow Deeps, Hyjal Summit and Onyxia's Lair, unlock December 9 for level 60 players, with the live build on a stack of hotfixes dated through November 13.</description>
@@ -68,6 +75,13 @@
 <description>The open-source DeepSeek Harness (dsh) 0.2.2 release adds an experimental plugin to delegate subtasks to Codex and Claude, plus Git worktrees and six new interface languages.</description>
 <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.aicentralresources.com/news/deepseek-harness-delegates-codex-claude</guid>
+</item>
+<item>
+<title>Inkling 2 Small VRAM requirements: 393.5 GB official NVFP4, 171.7 GB smallest GGUF</title>
+<link>https://vramneeded.com/models/inkling-2-small/</link>
+<description>Thinking Machines' open-weight Inkling 2 Small needs at least 500 GB of VRAM for the official NVFP4 checkpoint, and even the smallest Unsloth GGUF still demands about 172 GB of combined memory.</description>
+<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://vramneeded.com/models/inkling-2-small/</guid>
 </item>
 <item>
 <title>Railflare FX: six free sci-fi combat effects for VTTs</title>
@@ -271,20 +285,6 @@
 <description>In a Bloomberg interview, Josh Greenfield says Season of Discovery's reception is what convinced Blizzard to build a permanent Classic+; the Forever pitch had been floating since before 2019's Classic launch. IGN's early review is very positive.</description>
 <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://store.steampowered.com/news/group/9869/view/705536106419978640</guid>
-</item>
-<item>
-<title>Microsoft open-sources Agensh, a leaderless harness for 1,024 coding agents</title>
-<link>https://new.clawcaff.com/microsoft-agensh-decentralized-multi-agent-1024-agents/</link>
-<description>Microsoft Research released Agensh under MIT: a decentralized multi-agent harness with no central orchestrator, scaled to 1,024 concurrent coding agents on hard ProgramBench tasks.</description>
-<pubDate>Fri, 06 Nov 2026 02:38:48 +0000</pubDate>
-<guid isPermaLink="true">https://new.clawcaff.com/microsoft-agensh-decentralized-multi-agent-1024-agents/</guid>
-</item>
-<item>
-<title>WoW Forever launch hub: live Nov 4, first hotfixes land</title>
-<link>https://metammo.com/wow-forever</link>
-<description>Live launch hub tracking WoW Forever since its Nov 4 debut: the first Nov 5 hotfixes fixing NPC spawns, vendors and Plainsrunning stacking, plus launch guides and the Dec 9 raid roadmap.</description>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://metammo.com/wow-forever</guid>
 </item>
 </channel>
 </rss>
