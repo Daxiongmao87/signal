@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://alphasignal.ai/news/sparkllm-s-spark-x2-6-4b-runs-local-agents-on-3-54-gb-with-adjustable-reasoning</guid>
 </item>
 <item>
+<title>Microsoft Opens Copilot Harness in Foundry Agent Service for AI Agents</title>
+<link>https://glacom.news/en/Microsoft-Opens-Copilot-Harness-in-Foundry-Agent-Service-for-AI-Agents-802248</link>
+<description>Microsoft put the Copilot Harness into public preview in Foundry Agent Service, a managed orchestration layer that decouples model choice from the agent loop, with the runtime free until December 1.</description>
+<pubDate>Tue, 17 Nov 2026 07:52:00 +0000</pubDate>
+<guid isPermaLink="true">https://glacom.news/en/Microsoft-Opens-Copilot-Harness-in-Foundry-Agent-Service-for-AI-Agents-802248</guid>
+</item>
+<item>
 <title>The Siege on Manual VTT Layout: Foundry &amp; Fantasy Grounds Are Now Turnkey</title>
 <link>https://itch.io/devlog/1785762/the-siege-on-manual-vtt-layout-foundry-fantasy-grounds-are-now-turnkey.amp</link>
 <description>A Basic Fantasy adventure bundle now ships native Foundry VTT and Fantasy Grounds modules compiled by an automated engine in under a minute, replacing manual VTT data entry.</description>
@@ -103,6 +110,13 @@
 <description>llama.cpp hits 1.0 after three and a half years, committing to semantic versioning, adding FP8 KV-cache support and smarter MoE expert offloading, and hardening llama-server security.</description>
 <pubDate>Sun, 15 Nov 2026 02:01:00 +0000</pubDate>
 <guid isPermaLink="true">https://factlen.com/news/llama-cpp-reaches-version-1-0-milestone-to-standardize-local-open-source-ai-infe-40221-21fbf393</guid>
+</item>
+<item>
+<title>WoW Forever Now Gives Zero XP for Carried Runs</title>
+<link>https://runegrove.com/articles/mmo-news/news/wow-forever-now-gives-zero-xp-for-carried-runs-four-days-after-a-50-dungeon-xp-38829d</link>
+<description>Blizzard hotfixed WoW: Forever so dungeon kills grant zero XP when any party member far outlevels the enemies, ending carried leveling runs just nine days after launch.</description>
+<pubDate>Sat, 14 Nov 2026 17:23:07 +0000</pubDate>
+<guid isPermaLink="true">https://runegrove.com/articles/mmo-news/news/wow-forever-now-gives-zero-xp-for-carried-runs-four-days-after-a-50-dungeon-xp-38829d</guid>
 </item>
 <item>
 <title>WoW Forever Started as a Seasonal Experiment</title>
@@ -271,20 +285,6 @@
 <description>Huawei's open-source MACaQ quantizer ships 2-, 3- and 4-bit GGUF for llama.cpp under Apache 2.0, and its MACaQ-R mode refines an existing Q4_K_XL GGUF to a lower KL divergence than Unsloth's equivalent at the same file size.</description>
 <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.samcodeman.com/writing/macaq-quantizer-2-4-bit-gguf-w4a4-apache-2</guid>
-</item>
-<item>
-<title>Arete-27B-GGUF: Nous's value-tuned 27B model as a local LLM</title>
-<link>https://blog.asadfaizee.is-a.dev/posts/arete-27b-gguf-local-llm-guide/</link>
-<description>AtomicChat published GGUF builds of Nous Research's Arete-27B, a value-tuned Qwen3.8-27B fine-tune, in quants from 13.6 GB to 28.6 GB with per-file speed and quality measurements.</description>
-<pubDate>Tue, 10 Nov 2026 13:05:00 +0000</pubDate>
-<guid isPermaLink="true">https://blog.asadfaizee.is-a.dev/posts/arete-27b-gguf-local-llm-guide/</guid>
-</item>
-<item>
-<title>TI adds agentic AI to CCStudio, with MCP-driven device data and a migration skill</title>
-<link>https://www.allaboutcircuits.com/news/ti-adds-agentic-ai-to-ccstudio-and-launches-a-multiprotocol-industrial-ethernet-module/</link>
-<description>Texas Instruments added agentic AI to its CCStudio IDE: MCP servers feed device data and the debugger straight to coding agents, and a device migration skill claims to cut MCU porting from months to days.</description>
-<pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.allaboutcircuits.com/news/ti-adds-agentic-ai-to-ccstudio-and-launches-a-multiprotocol-industrial-ethernet-module/</guid>
 </item>
 </channel>
 </rss>
