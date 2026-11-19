@@ -196,6 +196,13 @@
 <guid isPermaLink="true">https://vibefix.work/en/explore/llama-cpp-v1-0-0-stable-release-november-2026</guid>
 </item>
 <item>
+<title>Edge0-145B explained: a 145B open model that runs on a laptop</title>
+<link>https://dev.to/shakeelahmed/a-145b-open-model-that-runs-on-your-laptop-edge0-145b-explained-31a2</link>
+<description>Explainer on Edge0's Nov 12 release of a 145B sparse-MoE model (10B active per token, derived from Qwen3.8-Flash-Next) that claims 29GB peak memory and 80+ tok/s on a high-memory laptop; all performance figures are vendor-reported and unreproduced so far.</description>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/shakeelahmed/a-145b-open-model-that-runs-on-your-laptop-edge0-145b-explained-31a2</guid>
+</item>
+<item>
 <title>Thinking Machines releases Inkling 2 Small open weights under Apache 2.0</title>
 <link>https://aiparabellum.com/thinking-machines-releases-inkling-2-small-open-weights/</link>
 <description>Thinking Machines Lab publishes the weights for Inkling 2 Small, a 594B-parameter MoE with 17B active per token, a week after its hosted-only debut; the NVFP4 checkpoint needs roughly 500GB of GPU memory, so it is a server-class open-weight release rather than a laptop model.</description>
@@ -278,13 +285,6 @@
 <description>An Oct 29 survey names the agent harness as the runtime wrapped around a model, and the same week Loova, Runway Dev plugins, and ComfyUI shipped that loop as products — with the caveat that none of it is independently tested yet.</description>
 <pubDate>Wed, 11 Nov 2026 13:30:04 +0000</pubDate>
 <guid isPermaLink="true">https://sloptvnews.com/agent-harness-video-generation-explained/</guid>
-</item>
-<item>
-<title>Dolmenwood Premium Game comes to Foundry VTT</title>
-<link>https://necroticgnome.com/blogs/news/beneath-the-radiant-dome-out-now-dolmenwood-on-foundry-vtt-black-friday-sale-incoming</link>
-<description>Necrotic Gnome's Dolmenwood fairy-tale setting is now a complete Foundry VTT premium module bundling the Player's, Campaign, Monster, and Maps books on top of the free Dolmenwood system; the same post announces the Beneath the Radiant Dome dungeon adventure.</description>
-<pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://necroticgnome.com/blogs/news/beneath-the-radiant-dome-out-now-dolmenwood-on-foundry-vtt-black-friday-sale-incoming</guid>
 </item>
 </channel>
 </rss>
