@@ -28,6 +28,13 @@
 <guid isPermaLink="true">https://www.enworld.org/threads/chaosium-two-pendragon-titles-out-now-on-foundry-vtt-the-grey-knight-and-the-sauvage-king.721415/</guid>
 </item>
 <item>
+<title>Blizzard admits WoW: Forever dungeon XP change 'missed the mark'</title>
+<link>https://drezzed.clownfishtv.com/p/blizzard-admits-wow-forever-dungeon</link>
+<description>Blizzard walked back its Nov 13 anti-boosting XP rule after it wiped dungeon experience for ordinary groups, replacing it with a 12-level gap threshold.</description>
+<pubDate>Wed, 18 Nov 2026 07:45:35 +0000</pubDate>
+<guid isPermaLink="true">https://drezzed.clownfishtv.com/p/blizzard-admits-wow-forever-dungeon</guid>
+</item>
+<item>
 <title>llama.cpp b12500 adds fastdiv CUDA conv2d optimization</title>
 <link>https://oossa.com/en/llama-cpp-adds-fastdiv-cuda-conv2d-optimization</link>
 <description>llama.cpp b12500 swaps three integer divisions for precomputed fast-division in its CUDA conv2d kernel, roughly halving that kernel's runtime on NVIDIA GPUs.</description>
@@ -278,13 +285,6 @@
 <description>Berkeley and Nvidia released open tools (Graph-as-Policy, RoboSimStudio, VABAR) that let teams of AI coding agents write, simulate, and validate industrial robot programs without collecting robot training data.</description>
 <pubDate>Wed, 11 Nov 2026 14:38:00 +0000</pubDate>
 <guid isPermaLink="true">https://mlq.ai/news/berkeley-and-nvidia-release-open-tools-for-ai-coding-agents-that-program-industrial-robots-without-training-data/</guid>
-</item>
-<item>
-<title>Why AI video generation is turning into an agent loop</title>
-<link>https://sloptvnews.com/agent-harness-video-generation-explained/</link>
-<description>An Oct 29 survey names the agent harness as the runtime wrapped around a model, and the same week Loova, Runway Dev plugins, and ComfyUI shipped that loop as products — with the caveat that none of it is independently tested yet.</description>
-<pubDate>Wed, 11 Nov 2026 13:30:04 +0000</pubDate>
-<guid isPermaLink="true">https://sloptvnews.com/agent-harness-video-generation-explained/</guid>
 </item>
 </channel>
 </rss>
