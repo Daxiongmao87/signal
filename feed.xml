@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://oossa.com/en/llama-cpp-adds-fastdiv-cuda-conv2d-optimization</guid>
 </item>
 <item>
+<title>Is WoW Forever Classic Plus?</title>
+<link>https://theforeverera.com/en/guides/classic-plus/</link>
+<description>A freshly updated explainer on what Blizzard actually calls WoW: Forever, what it keeps from Classic, what it adds at launch, and why the community name Classic Plus is not the official one, with raids opening December 9.</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://theforeverera.com/en/guides/classic-plus/</guid>
+</item>
+<item>
 <title>Spark-X2.6-4B: 4B open model for local agents with adjustable reasoning</title>
 <link>https://alphasignal.ai/news/sparkllm-s-spark-x2-6-4b-runs-local-agents-on-3-54-gb-with-adjustable-reasoning</link>
 <description>SparkLLM shipped Spark-X2.6-4B, a 4B open model tuned for coding and tool use with a three-level reasoning budget; the GGUF build is 3.54 GB at Q4_K_M and it claims near-9B quality on agent benchmarks.</description>
@@ -224,6 +231,13 @@
 <guid isPermaLink="true">https://www.explainx.ai/blog/tensorfold-zig-local-llm-inference-metal-cuda-api-2026</guid>
 </item>
 <item>
+<title>Edge0-145B Ships as Open 145B Model for Local Agents</title>
+<link>https://aiagentslisting.com/news/edge0-145b-ships-as-open-145b-model-for-local-agents</link>
+<description>Edge0-AI released two open-weight mixture-of-experts models aimed at local coding and agent work, with about 10B parameters active per token, plus an Apache-2.0 inference framework and support for llama.cpp, vLLM, and Ollama.</description>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aiagentslisting.com/news/edge0-145b-ships-as-open-145b-model-for-local-agents</guid>
+</item>
+<item>
 <title>Berkeley and Nvidia open-source coding-agent tools that program industrial robots</title>
 <link>https://mlq.ai/news/berkeley-and-nvidia-release-open-tools-for-ai-coding-agents-that-program-industrial-robots-without-training-data/</link>
 <description>Berkeley and Nvidia released open tools (Graph-as-Policy, RoboSimStudio, VABAR) that let teams of AI coding agents write, simulate, and validate industrial robot programs without collecting robot training data.</description>
@@ -271,20 +285,6 @@
 <description>Texas Instruments added agentic AI to its CCStudio IDE: MCP servers feed device data and the debugger straight to coding agents, and a device migration skill claims to cut MCU porting from months to days.</description>
 <pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.allaboutcircuits.com/news/ti-adds-agentic-ai-to-ccstudio-and-launches-a-multiprotocol-industrial-ethernet-module/</guid>
-</item>
-<item>
-<title>Local LLM With LFM3: 13 Steps, 1 GB, 75 Min [2026]</title>
-<link>https://tech-insider.org/au/local-llm-lfm3-liquid-ai-setup-2026/</link>
-<description>Step-by-step walkthrough for running Liquid AI's new LFM3-1.7B locally at 4-bit in about 1 GB, with tool calling and a local OpenAI-compatible endpoint.</description>
-<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://tech-insider.org/au/local-llm-lfm3-liquid-ai-setup-2026/</guid>
-</item>
-<item>
-<title>GSQ and RCO: the non-uniform quantization now sitting in GGUF files</title>
-<link>https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce#comments</link>
-<description>A new per-tensor quantization recipe pairs GSQ's learned low-bit grids with RCO's budget-aware allocation, squeezing Qwen3.8-Flash-Next into a 75.8 GB GGUF that matches the base model on AIME25.</description>
-<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce#comments</guid>
 </item>
 </channel>
 </rss>
