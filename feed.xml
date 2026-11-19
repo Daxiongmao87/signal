@@ -28,6 +28,13 @@
 <guid isPermaLink="true">https://itch.io/devlog/1785762/the-siege-on-manual-vtt-layout-foundry-fantasy-grounds-are-now-turnkey.amp</guid>
 </item>
 <item>
+<title>MACaQ Quantizes One Layer at a Time, Across Inference Backends</title>
+<link>https://notes.suffro.com/posts/macaq-layer-local-quantization-2026-11-16</link>
+<description>A close read of Huawei's MACaQ quantizer: per-layer calibration for 2-4-bit GGUF and W4A4, with MACaQ-R refining existing GGUF files to a lower KL divergence than Unsloth's equivalent at the same size.</description>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://notes.suffro.com/posts/macaq-layer-local-quantization-2026-11-16</guid>
+</item>
+<item>
 <title>WoW Forever Raid Release Date: December 9</title>
 <link>https://worstguidesever.com/wow-classic-plus-camelot-release-date-leaks/</link>
 <description>Post-launch rundown confirms the first WoW: Forever raids, Barrow Deeps, Hyjal Summit and Onyxia's Lair, unlock December 9 for level 60 players, with the live build on a stack of hotfixes dated through November 13.</description>
@@ -278,13 +285,6 @@
 <description>Z.ai's free desktop agentic IDE runs multi-agent Goals instead of prompts, steers from a phone via Telegram/WeChat, and just added a plugin system; its MIT-licensed GLM-5.2 model ranks second globally on Code Arena.</description>
 <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://flowtivity.ai/blog/zcode-glm-coding-agent-harness/</guid>
-</item>
-<item>
-<title>Code Copilot Team v2.0.0: open-source harness that enforces coding-agent standards</title>
-<link>https://blogs.techbytes.app/posts/an-open-source-harness-for-coding-agents-that-shows-its/</link>
-<description>Open-source orchestration harness v2.0.0 turns coding-agent rules into enforced runtime hooks across Claude Code, Pi, Codex, Cursor and more, with verification gates and health checks before code lands.</description>
-<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://blogs.techbytes.app/posts/an-open-source-harness-for-coding-agents-that-shows-its/</guid>
 </item>
 </channel>
 </rss>
