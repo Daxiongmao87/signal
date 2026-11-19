@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://oossa.com/en/llama-cpp-adds-fastdiv-cuda-conv2d-optimization</guid>
 </item>
 <item>
+<title>Is WoW Forever Classic Plus? What Blizzard Keeps and Adds</title>
+<link>https://theforeverera.com/en/guides/classic-plus/</link>
+<description>An updated explainer on what World of Warcraft: Forever keeps from Classic and what it adds at launch: nine new dungeons, new zones, the Skyborne race, the Legacy system, and the first raids opening December 9.</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://theforeverera.com/en/guides/classic-plus/</guid>
+</item>
+<item>
 <title>Spark-X2.6-4B: 4B open model for local agents with adjustable reasoning</title>
 <link>https://alphasignal.ai/news/sparkllm-s-spark-x2-6-4b-runs-local-agents-on-3-54-gb-with-adjustable-reasoning</link>
 <description>SparkLLM shipped Spark-X2.6-4B, a 4B open model tuned for coding and tool use with a three-level reasoning budget; the GGUF build is 3.54 GB at Q4_K_M and it claims near-9B quality on agent benchmarks.</description>
@@ -84,6 +91,13 @@
 <guid isPermaLink="true">https://www.lastwatchdog.com/news-alert-detectify-launches-agentic-tooling-to-prove-what-ai-security-agents-actually-tested/</guid>
 </item>
 <item>
+<title>LLM Hub: Free App Runs Chat, Video, Music, and Voice Cloning Offline on Your Phone</title>
+<link>https://tokenstrom.com/posts/llm-hub-free-app-runs-chat-video-music-and-voice-cloning-offline-on-yo/</link>
+<description>LLM Hub packs 15+ on-device AI tools into one free Android and iOS app with no data collection or accounts, including a Termux-integrated agent that writes and runs shell commands on-device and a Vibe Coder mode backed by a local Codex server.</description>
+<pubDate>Sun, 15 Nov 2026 18:48:35 +0000</pubDate>
+<guid isPermaLink="true">https://tokenstrom.com/posts/llm-hub-free-app-runs-chat-video-music-and-voice-cloning-offline-on-yo/</guid>
+</item>
+<item>
 <title>Llama.cpp Reaches Version 1.0 Milestone to Standardize Local Open-Source AI Inference</title>
 <link>https://factlen.com/news/llama-cpp-reaches-version-1-0-milestone-to-standardize-local-open-source-ai-infe-40221-21fbf393</link>
 <description>llama.cpp hits 1.0 after three and a half years, committing to semantic versioning, adding FP8 KV-cache support and smarter MoE expert offloading, and hardening llama-server security.</description>
@@ -117,6 +131,20 @@
 <description>Thinking Machines' open-weight Inkling 2 Small needs at least 500 GB of VRAM for the official NVFP4 checkpoint, and even the smallest Unsloth GGUF still demands about 172 GB of combined memory.</description>
 <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://vramneeded.com/models/inkling-2-small/</guid>
+</item>
+<item>
+<title>Datasette Routes Agents to Local LLMs as llama.cpp Hits 1.0</title>
+<link>https://jacksunwei.me/digest/ai-tech/datasette-moves-execution-off-the-server/</link>
+<description>Datasette-llm 0.1a11 points Datasette agents at local LM Studio, Ollama, or llama.cpp servers instead of hosted APIs, landing the same week llama.cpp shipped its 1.0.0 stable release with FP8 KV caches and server security hardening.</description>
+<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://jacksunwei.me/digest/ai-tech/datasette-moves-execution-off-the-server/</guid>
+</item>
+<item>
+<title>OpenWorker Launches Open Source Agent Harness SDK for Secure AI Development</title>
+<link>https://www.thenextgentechinsider.com/pulse/openworker-launches-open-source-agent-harness-sdk-for-secure-ai-development</link>
+<description>OpenWorker's open-source Agent Harness SDK gives autonomous coding agents integrated context, tools, and safety guardrails, with NVIDIA OpenShell sandboxing for fine-grained workspace and network control, in TypeScript and Rust.</description>
+<pubDate>Fri, 13 Nov 2026 21:19:51 +0000</pubDate>
+<guid isPermaLink="true">https://www.thenextgentechinsider.com/pulse/openworker-launches-open-source-agent-harness-sdk-for-secure-ai-development</guid>
 </item>
 <item>
 <title>Railflare FX: six free sci-fi combat effects for VTTs</title>
@@ -257,34 +285,6 @@
 <description>A new per-tensor quantization recipe pairs GSQ's learned low-bit grids with RCO's budget-aware allocation, squeezing Qwen3.8-Flash-Next into a 75.8 GB GGUF that matches the base model on AIME25.</description>
 <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce#comments</guid>
-</item>
-<item>
-<title>MACaQ: Huawei open-sources a 4-bit quantizer for GGUF and vLLM</title>
-<link>https://ai-tldr.dev/releases/huawei-csl-macaq/</link>
-<description>Huawei's Computing Systems Lab released MACaQ, an Apache-2.0 toolkit that compresses models to 4-bit weights and activations with a layer-by-layer recipe, beating Unsloth's Q4_K_XL on Qwen3.6-35B-A3B fidelity at the same file size.</description>
-<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://ai-tldr.dev/releases/huawei-csl-macaq/</guid>
-</item>
-<item>
-<title>GSQ and RCO: per-tensor quantization recipes now shipping in GGUF files</title>
-<link>https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce</link>
-<description>A writeup of GSQ and RCO, two methods from IST Austria that assign a different quantization type per tensor, letting a 354 GB model ship as a 75.8 GB GGUF file while matching the base model on AIME25.</description>
-<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce</guid>
-</item>
-<item>
-<title>llama-cpp-pascal: 50-70% faster inference on old Pascal GPUs</title>
-<link>https://www.notionpulse.cc/repo/joris-sta/llama-cpp-pascal</link>
-<description>A llama.cpp fork with hand-written CUDA kernels for pre-tensor-core Pascal cards (GTX 1070 era): compressed-KV flash attention and ternary matmuls, claiming a 27B model at 96K context on an 8GB card.</description>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.notionpulse.cc/repo/joris-sta/llama-cpp-pascal</guid>
-</item>
-<item>
-<title>ThinkingCap Qwen3.8-Flash-Next GGUF quants land</title>
-<link>https://hf.m.daocloud.io/bottlecapai/ThinkingCap-Qwen3.8-Flash-Next-GGUF</link>
-<description>GGUF quants of the ThinkingCap finetune of Qwen3.8-Flash-Next, which keeps the base model's answer quality while reasoning in far fewer tokens; Q4_K_M recommended at 113 GB, with Q6_K and Q8_0 options.</description>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://hf.m.daocloud.io/bottlecapai/ThinkingCap-Qwen3.8-Flash-Next-GGUF</guid>
 </item>
 </channel>
 </rss>
