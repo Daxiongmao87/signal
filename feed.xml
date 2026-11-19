@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 18 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 11:22:45 +0000</lastBuildDate>
+<item>
+<title>Two Pendragon titles out now on Foundry VTT: The Grey Knight and The Sauvage King</title>
+<link>https://www.enworld.org/threads/chaosium-two-pendragon-titles-out-now-on-foundry-vtt-the-grey-knight-and-the-sauvage-king.721415/</link>
+<description>Chaosium's Pendragon adventures The Grey Knight and The Sauvage King arrive on Foundry VTT with ready-to-play actors, scenes, and automated Winter Phases.</description>
+<pubDate>Wed, 18 Nov 2026 11:22:45 +0000</pubDate>
+<guid isPermaLink="true">https://www.enworld.org/threads/chaosium-two-pendragon-titles-out-now-on-foundry-vtt-the-grey-knight-and-the-sauvage-king.721415/</guid>
+</item>
 <item>
 <title>llama.cpp b12500 adds fastdiv CUDA conv2d optimization</title>
 <link>https://oossa.com/en/llama-cpp-adds-fastdiv-cuda-conv2d-optimization</link>
@@ -168,6 +175,13 @@
 <guid isPermaLink="true">https://www.aidose.in/news/huawei-open-sources-macaq-quantizer-for-local-inference</guid>
 </item>
 <item>
+<title>TensorFold: Zig Metal/CUDA LLM Server (No Python)</title>
+<link>https://www.explainx.ai/blog/tensorfold-zig-local-llm-inference-metal-cuda-api-2026</link>
+<description>A Zig-native LLM server for Apple Metal and NVIDIA CUDA that serves open-weight checkpoints over an OpenAI-compatible API with no Python at runtime.</description>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.explainx.ai/blog/tensorfold-zig-local-llm-inference-metal-cuda-api-2026</guid>
+</item>
+<item>
 <title>Berkeley and Nvidia open-source coding-agent tools that program industrial robots</title>
 <link>https://mlq.ai/news/berkeley-and-nvidia-release-open-tools-for-ai-coding-agents-that-program-industrial-robots-without-training-data/</link>
 <description>Berkeley and Nvidia released open tools (Graph-as-Policy, RoboSimStudio, VABAR) that let teams of AI coding agents write, simulate, and validate industrial robot programs without collecting robot training data.</description>
@@ -271,20 +285,6 @@
 <description>Small models keep shrinking: Taobao open-sourced the 173MB MNN-Pocket-0.3B, Gemini Nano now runs on 140M devices, and on-device inference tooling keeps improving.</description>
 <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://corecodify.com/blog/on-device-ai-small-language-models</guid>
-</item>
-<item>
-<title>AI Coding Harness: 28 Agents Compared for 2026</title>
-<link>https://tech.grahammiranda.com/ai-coding-harness-comparison/</link>
-<description>A fresh comparison of 28 coding-agent harnesses against public benchmarks, prices and release data, including OpenCode v2, Claude Code and Codex.</description>
-<pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://tech.grahammiranda.com/ai-coding-harness-comparison/</guid>
-</item>
-<item>
-<title>Liquid AI releases LFM3, a family of 2B-class open-weights models built for local agents</title>
-<link>https://www.geekbyte.com/post/liquid-ai-lfm3-local-models/</link>
-<description>Liquid AI's LFM3 family gives local agents a 1.7B text model with a 256K context that fits in about 1GB at 4-bit, with day-one llama.cpp and Ollama support.</description>
-<pubDate>Sat, 07 Nov 2026 12:09:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.geekbyte.com/post/liquid-ai-lfm3-local-models/</guid>
 </item>
 </channel>
 </rss>
