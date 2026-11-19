@@ -49,6 +49,13 @@
 <guid isPermaLink="true">https://theforeverera.com/en/guides/classic-plus/</guid>
 </item>
 <item>
+<title>Olala Mini 7A1B Brings Local AI to Smaller Hardware</title>
+<link>https://technosports.co.in/olala-mini-7a1b-model/</link>
+<description>OVHcloud's first in-house model: 7B total parameters with only 1B active per request, Apache 2.0 open weights with GGUF and MLX builds, aimed at 8 GB GPUs and CPUs — though llama.cpp and Ollama cannot load its hybrid Mamba-3 architecture yet.</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://technosports.co.in/olala-mini-7a1b-model/</guid>
+</item>
+<item>
 <title>Spark-X2.6-4B: 4B open model for local agents with adjustable reasoning</title>
 <link>https://alphasignal.ai/news/sparkllm-s-spark-x2-6-4b-runs-local-agents-on-3-54-gb-with-adjustable-reasoning</link>
 <description>SparkLLM shipped Spark-X2.6-4B, a 4B open model tuned for coding and tool use with a three-level reasoning budget; the GGUF build is 3.54 GB at Q4_K_M and it claims near-9B quality on agent benchmarks.</description>
@@ -278,13 +285,6 @@
 <description>Edge0-AI released two open-weight mixture-of-experts models aimed at local coding and agent work, with about 10B parameters active per token, plus an Apache-2.0 inference framework and support for llama.cpp, vLLM, and Ollama.</description>
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aiagentslisting.com/news/edge0-145b-ships-as-open-145b-model-for-local-agents</guid>
-</item>
-<item>
-<title>Berkeley and Nvidia open-source coding-agent tools that program industrial robots</title>
-<link>https://mlq.ai/news/berkeley-and-nvidia-release-open-tools-for-ai-coding-agents-that-program-industrial-robots-without-training-data/</link>
-<description>Berkeley and Nvidia released open tools (Graph-as-Policy, RoboSimStudio, VABAR) that let teams of AI coding agents write, simulate, and validate industrial robot programs without collecting robot training data.</description>
-<pubDate>Wed, 11 Nov 2026 14:38:00 +0000</pubDate>
-<guid isPermaLink="true">https://mlq.ai/news/berkeley-and-nvidia-release-open-tools-for-ai-coding-agents-that-program-industrial-robots-without-training-data/</guid>
 </item>
 </channel>
 </rss>
