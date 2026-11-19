@@ -182,6 +182,13 @@
 <guid isPermaLink="true">https://awnchina.cn/world-of-warcraft-forever-sets-a-franchise-launch-record/</guid>
 </item>
 <item>
+<title>MACaQ quantizer, MACaQ-R: 15% lower KL than Unsloth</title>
+<link>https://www.samcodeman.com/writing/macaq-quantizer-2-4-bit-gguf-w4a4-apache-2</link>
+<description>Huawei's open-source MACaQ quantizer ships 2-, 3- and 4-bit GGUF for llama.cpp under Apache 2.0, and its MACaQ-R mode refines an existing Q4_K_XL GGUF to a lower KL divergence than Unsloth's equivalent at the same file size.</description>
+<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.samcodeman.com/writing/macaq-quantizer-2-4-bit-gguf-w4a4-apache-2</guid>
+</item>
+<item>
 <title>Arete-27B-GGUF: Nous's value-tuned 27B model as a local LLM</title>
 <link>https://blog.asadfaizee.is-a.dev/posts/arete-27b-gguf-local-llm-guide/</link>
 <description>AtomicChat published GGUF builds of Nous Research's Arete-27B, a value-tuned Qwen3.8-27B fine-tune, in quants from 13.6 GB to 28.6 GB with per-file speed and quality measurements.</description>
@@ -278,13 +285,6 @@
 <description>Open-source orchestration harness v2.0.0 turns coding-agent rules into enforced runtime hooks across Claude Code, Pi, Codex, Cursor and more, with verification gates and health checks before code lands.</description>
 <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://blogs.techbytes.app/posts/an-open-source-harness-for-coding-agents-that-shows-its/</guid>
-</item>
-<item>
-<title>Fine-tuning platforms compared: AutoTrain vs Unsloth vs Axolotl</title>
-<link>https://www.ainomam.com/post/open-source-model-fine-tuning-platforms-2026</link>
-<description>A current side-by-side of the main LoRA fine-tuning options, covering Unsloth's single-GPU speed, Axolotl's YAML-driven pipelines, LLaMA-Factory's web UI, and TRL plus PEFT for custom training loops.</description>
-<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.ainomam.com/post/open-source-model-fine-tuning-platforms-2026</guid>
 </item>
 </channel>
 </rss>
