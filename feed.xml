@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://itch.io/devlog/1785762/the-siege-on-manual-vtt-layout-foundry-fantasy-grounds-are-now-turnkey.amp</guid>
 </item>
 <item>
+<title>GitHub Agentic Workflows Explained: AI Agents in GitHub Actions, Safety Checks and Costs</title>
+<link>https://techbycountry.blogspot.com/2026/11/github-agentic-workflows-explained.html</link>
+<description>A walkthrough of GitHub Agentic Workflows' general availability: Markdown-defined coding agents running sandboxed inside GitHub Actions, with a $10 default per-run cost cap and a choice of Copilot CLI, Claude Code, Codex, Gemini, or Pi as the engine.</description>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://techbycountry.blogspot.com/2026/11/github-agentic-workflows-explained.html</guid>
+</item>
+<item>
 <title>MACaQ Quantizes One Layer at a Time, Across Inference Backends</title>
 <link>https://notes.suffro.com/posts/macaq-layer-local-quantization-2026-11-16</link>
 <description>A close read of Huawei's MACaQ quantizer: per-layer calibration for 2-4-bit GGUF and W4A4, with MACaQ-R refining existing GGUF files to a lower KL divergence than Unsloth's equivalent at the same size.</description>
@@ -138,6 +145,13 @@
 <description>Semgrep ships an agent-native security platform: its Mandoline engine traces reachable code paths for coding agents, Guardian fixes issues as agents write, and a new MCP server brings the analysis to Codex, Claude Code, and Cursor.</description>
 <pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.businesswire.com/news/home/20261112133878/en/Semgrep-Launches-Agentic-AppSec-Platform-to-Eliminate-the-Security-Bottleneck</guid>
+</item>
+<item>
+<title>D&amp;D 5e System 6.1.0 for Foundry VTT: Renown Tracking, Antimagic Regions, and Damage Rule Updates</title>
+<link>https://newreleases.io/project/github/foundryvtt/dnd5e/release/release-6.1.0</link>
+<description>The D&amp;D 5e system for Foundry VTT reaches 6.1.0 with optional faction renown tracking, a new Antimagic region behaviour, and reworked damage resistance, immunity, and vulnerability rules; requires Foundry VTT 14 or later.</description>
+<pubDate>Thu, 12 Nov 2026 13:51:44 +0000</pubDate>
+<guid isPermaLink="true">https://newreleases.io/project/github/foundryvtt/dnd5e/release/release-6.1.0</guid>
 </item>
 <item>
 <title>Ollama on Android: the Termux setup, apps, and models that fit</title>
@@ -271,20 +285,6 @@
 <description>GGUF quants of the ThinkingCap finetune of Qwen3.8-Flash-Next, which keeps the base model's answer quality while reasoning in far fewer tokens; Q4_K_M recommended at 113 GB, with Q6_K and Q8_0 options.</description>
 <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://hf.m.daocloud.io/bottlecapai/ThinkingCap-Qwen3.8-Flash-Next-GGUF</guid>
-</item>
-<item>
-<title>Berkeley open-sources a harness for agents that build robot programs</title>
-<link>https://superpowerdaily.com/posts/berkeley-researchers-release-code-for-ai-agents-to-build-and-improve-robot-programs</link>
-<description>UC Berkeley releases Graph-as-Policy, a harness letting coding agents write, simulate in Isaac and revise robot control programs, alongside an industrial-task benchmark.</description>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://superpowerdaily.com/posts/berkeley-researchers-release-code-for-ai-agents-to-build-and-improve-robot-programs</guid>
-</item>
-<item>
-<title>On-device AI and small language models: what changed in October and November 2026</title>
-<link>https://corecodify.com/blog/on-device-ai-small-language-models</link>
-<description>Small models keep shrinking: Taobao open-sourced the 173MB MNN-Pocket-0.3B, Gemini Nano now runs on 140M devices, and on-device inference tooling keeps improving.</description>
-<pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://corecodify.com/blog/on-device-ai-small-language-models</guid>
 </item>
 </channel>
 </rss>
