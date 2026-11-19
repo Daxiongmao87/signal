@@ -21,13 +21,6 @@
 <guid isPermaLink="true">https://oossa.com/en/llama-cpp-adds-fastdiv-cuda-conv2d-optimization</guid>
 </item>
 <item>
-<title>Is WoW Forever Classic Plus? What Blizzard Keeps and Adds</title>
-<link>https://theforeverera.com/en/guides/classic-plus/</link>
-<description>An updated explainer on what World of Warcraft: Forever keeps from Classic and what it adds at launch: nine new dungeons, new zones, the Skyborne race, the Legacy system, and the first raids opening December 9.</description>
-<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://theforeverera.com/en/guides/classic-plus/</guid>
-</item>
-<item>
 <title>Spark-X2.6-4B: 4B open model for local agents with adjustable reasoning</title>
 <link>https://alphasignal.ai/news/sparkllm-s-spark-x2-6-4b-runs-local-agents-on-3-54-gb-with-adjustable-reasoning</link>
 <description>SparkLLM shipped Spark-X2.6-4B, a 4B open model tuned for coding and tool use with a three-level reasoning budget; the GGUF build is 3.54 GB at Q4_K_M and it claims near-9B quality on agent benchmarks.</description>
@@ -285,6 +278,13 @@
 <description>A new per-tensor quantization recipe pairs GSQ's learned low-bit grids with RCO's budget-aware allocation, squeezing Qwen3.8-Flash-Next into a 75.8 GB GGUF that matches the base model on AIME25.</description>
 <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/private_localai/gsq-and-rco-the-non-uniform-quantization-now-sitting-in-gguf-files-3jce#comments</guid>
+</item>
+<item>
+<title>MACaQ: Huawei open-sources a 4-bit quantizer for GGUF and vLLM</title>
+<link>https://ai-tldr.dev/releases/huawei-csl-macaq/</link>
+<description>Huawei's Computing Systems Lab released MACaQ, an Apache-2.0 toolkit that compresses models to 4-bit weights and activations with a layer-by-layer recipe, beating Unsloth's Q4_K_XL on Qwen3.6-35B-A3B fidelity at the same file size.</description>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://ai-tldr.dev/releases/huawei-csl-macaq/</guid>
 </item>
 </channel>
 </rss>
