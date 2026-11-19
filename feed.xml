@@ -5,7 +5,21 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 18 Nov 2026 11:22:45 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Berkeley and NVIDIA Release Agentic Robot Tools</title>
+<link>https://developmentstoday.com/ai-robotics/berkeley-nvidia-open-source-agentic-robot-tools</link>
+<description>UC Berkeley and NVIDIA open-sourced agentic tooling for industrial robot programming: AI coding agents generate readable robot programs, split tasks into modular skills with Graph-as-Policy, and rehearse them in simulation before deployment.</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://developmentstoday.com/ai-robotics/berkeley-nvidia-open-source-agentic-robot-tools</guid>
+</item>
+<item>
+<title>Best open-source training and fine-tuning (Nov 2026): 73 ranked</title>
+<link>https://archestack.com/best-of-ai/training/</link>
+<description>A November 2026 ranking of 73 open-source training and fine-tuning tools, covering PEFT, Unsloth, TRL and Axolotl with current release activity and star growth for picking a LoRA stack.</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://archestack.com/best-of-ai/training/</guid>
+</item>
 <item>
 <title>Two Pendragon titles out now on Foundry VTT: The Grey Knight and The Sauvage King</title>
 <link>https://www.enworld.org/threads/chaosium-two-pendragon-titles-out-now-on-foundry-vtt-the-grey-knight-and-the-sauvage-king.721415/</link>
@@ -271,20 +285,6 @@
 <description>Necrotic Gnome's Dolmenwood fairy-tale setting is now a complete Foundry VTT premium module bundling the Player's, Campaign, Monster, and Maps books on top of the free Dolmenwood system; the same post announces the Beneath the Radiant Dome dungeon adventure.</description>
 <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://necroticgnome.com/blogs/news/beneath-the-radiant-dome-out-now-dolmenwood-on-foundry-vtt-black-friday-sale-incoming</guid>
-</item>
-<item>
-<title>World of Warcraft: Forever Sets a Franchise Launch Record: Repositioning a 20-Year-Old Classic</title>
-<link>https://awnchina.cn/world-of-warcraft-forever-sets-a-franchise-launch-record/</link>
-<description>Blizzard says Forever is the biggest WoW launch ever by peak concurrency and returning players, with 8.86 million characters made in beta and the first raids opening December 9.</description>
-<pubDate>Wed, 11 Nov 2026 01:38:23 +0000</pubDate>
-<guid isPermaLink="true">https://awnchina.cn/world-of-warcraft-forever-sets-a-franchise-launch-record/</guid>
-</item>
-<item>
-<title>MACaQ quantizer, MACaQ-R: 15% lower KL than Unsloth</title>
-<link>https://www.samcodeman.com/writing/macaq-quantizer-2-4-bit-gguf-w4a4-apache-2</link>
-<description>Huawei's open-source MACaQ quantizer ships 2-, 3- and 4-bit GGUF for llama.cpp under Apache 2.0, and its MACaQ-R mode refines an existing Q4_K_XL GGUF to a lower KL divergence than Unsloth's equivalent at the same file size.</description>
-<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.samcodeman.com/writing/macaq-quantizer-2-4-bit-gguf-w4a4-apache-2</guid>
 </item>
 </channel>
 </rss>
