@@ -161,6 +161,13 @@
 <guid isPermaLink="true">https://www.myaitemplate.com/en/news/tencents-loopforge-signals-shift-to-autonomous-coding-agents-mwgpp7f5</guid>
 </item>
 <item>
+<title>Local LLM on Android and iPhone: Apps and Models (2026)</title>
+<link>https://vdf.ai/blog/local-llm-android-iphone/</link>
+<description>Fresh Nov 14-15 survey of phone LLM apps: PocketPal 1.23.0, AI Edge Gallery 1.0.23 and Locally 1.67.0, plus Termux llama.cpp setup and which 1-4B models fit each phone's RAM.</description>
+<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://vdf.ai/blog/local-llm-android-iphone/</guid>
+</item>
+<item>
 <title>DeepSeek Releases a Coding AI That Finds and Fixes Bugs on Its Own</title>
 <link>https://aisignal.day/en/deepseek-super-agent-2026/</link>
 <description>DeepSeek's open-source super-agent prototype runs multiple coding jobs in parallel through a router-and-worker design, cutting slow-case task time nearly in half.</description>
@@ -278,13 +285,6 @@
 <description>A Zig-native LLM server for Apple Metal and NVIDIA CUDA that serves open-weight checkpoints over an OpenAI-compatible API with no Python at runtime.</description>
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.explainx.ai/blog/tensorfold-zig-local-llm-inference-metal-cuda-api-2026</guid>
-</item>
-<item>
-<title>Edge0-145B Ships as Open 145B Model for Local Agents</title>
-<link>https://aiagentslisting.com/news/edge0-145b-ships-as-open-145b-model-for-local-agents</link>
-<description>Edge0-AI released two open-weight mixture-of-experts models aimed at local coding and agent work, with about 10B parameters active per token, plus an Apache-2.0 inference framework and support for llama.cpp, vLLM, and Ollama.</description>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aiagentslisting.com/news/edge0-145b-ships-as-open-145b-model-for-local-agents</guid>
 </item>
 </channel>
 </rss>
