@@ -70,6 +70,13 @@
 <guid isPermaLink="true">https://www.lastwatchdog.com/news-alert-detectify-launches-agentic-tooling-to-prove-what-ai-security-agents-actually-tested/</guid>
 </item>
 <item>
+<title>Llama.cpp Reaches Version 1.0 Milestone to Standardize Local Open-Source AI Inference</title>
+<link>https://factlen.com/news/llama-cpp-reaches-version-1-0-milestone-to-standardize-local-open-source-ai-infe-40221-21fbf393</link>
+<description>llama.cpp hits 1.0 after three and a half years, committing to semantic versioning, adding FP8 KV-cache support and smarter MoE expert offloading, and hardening llama-server security.</description>
+<pubDate>Sun, 15 Nov 2026 02:01:00 +0000</pubDate>
+<guid isPermaLink="true">https://factlen.com/news/llama-cpp-reaches-version-1-0-milestone-to-standardize-local-open-source-ai-infe-40221-21fbf393</guid>
+</item>
+<item>
 <title>Tencent's LoopForge: self-hosted orchestration for coding agents</title>
 <link>https://www.myaitemplate.com/en/news/tencents-loopforge-signals-shift-to-autonomous-coding-agents-mwgpp7f5</link>
 <description>Tencent released LoopForge, a Go-based, self-hosted framework for chaining coding agents like Claude Code and Codex, with human approval gates built into the orchestration.</description>
@@ -278,13 +285,6 @@
 <description>Liquid AI's LFM3 family gives local agents a 1.7B text model with a 256K context that fits in about 1GB at 4-bit, with day-one llama.cpp and Ollama support.</description>
 <pubDate>Sat, 07 Nov 2026 12:09:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.geekbyte.com/post/liquid-ai-lfm3-local-models/</guid>
-</item>
-<item>
-<title>ZCode: Z.ai's open-source agentic IDE for GLM-5.2, benchmarked against Cursor</title>
-<link>https://flowtivity.ai/blog/zcode-glm-coding-agent-harness/</link>
-<description>Z.ai's free desktop agentic IDE runs multi-agent Goals instead of prompts, steers from a phone via Telegram/WeChat, and just added a plugin system; its MIT-licensed GLM-5.2 model ranks second globally on Code Arena.</description>
-<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://flowtivity.ai/blog/zcode-glm-coding-agent-harness/</guid>
 </item>
 </channel>
 </rss>
