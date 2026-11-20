@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://archestack.com/best-of-ai/training/</guid>
 </item>
 <item>
+<title>AgentCore Harness on Strands: Hooks That Block Tool Calls</title>
+<link>https://www.explainx.ai/blog/amazon-bedrock-agentcore-harness-strands-defaults-lifecycle-hooks-before-tool-call-lambda-november-2026</link>
+<description>AWS moves its managed AgentCore harness onto the open-source Strands framework and adds four lifecycle hooks that let a Lambda allow or deny an agent tool calls.</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.explainx.ai/blog/amazon-bedrock-agentcore-harness-strands-defaults-lifecycle-hooks-before-tool-call-lambda-november-2026</guid>
+</item>
+<item>
 <title>Two Pendragon titles out now on Foundry VTT: The Grey Knight and The Sauvage King</title>
 <link>https://www.enworld.org/threads/chaosium-two-pendragon-titles-out-now-on-foundry-vtt-the-grey-knight-and-the-sauvage-king.721415/</link>
 <description>Chaosium's Pendragon adventures The Grey Knight and The Sauvage King arrive on Foundry VTT with ready-to-play actors, scenes, and automated Winter Phases.</description>
@@ -278,13 +285,6 @@
 <description>Edge0 released Edge0-145B and Edge0-120B on Nov 12: 145B total parameters with 10.12B active per token, derived from Qwen3.8-Flash-Next, weights on Hugging Face under a community license; the vendor's 29GB laptop-memory headline is GPU-side only and its benchmarks are self-reported, not independently verified.</description>
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.spectrumweb.co/news/edge0-145b-on-device-open-model</guid>
-</item>
-<item>
-<title>Inkling 2 Small weights land on Hugging Face under Apache 2.0</title>
-<link>https://cellcog.ai/blog/inkling-2-small/</link>
-<description>Thinking Machines Lab's 594B MoE (17B active per token) shipped its full weights on November 12 under Apache 2.0, with NVFP4 and MXFP8 checkpoints and local-inference support via SGLang, vLLM and Unsloth.</description>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://cellcog.ai/blog/inkling-2-small/</guid>
 </item>
 </channel>
 </rss>
