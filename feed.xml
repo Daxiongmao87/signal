@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://www.explainx.ai/blog/amazon-bedrock-agentcore-harness-strands-defaults-lifecycle-hooks-before-tool-call-lambda-november-2026</guid>
 </item>
 <item>
+<title>Introducing Inkling 2 Mini</title>
+<link>https://thinkingmachines.ai/news/inkling-2-mini/</link>
+<description>Thinking Machines' new 26.4B-parameter MoE runs in about 20GB and leads open-weights models under 100B on agentic coding benchmarks.</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://thinkingmachines.ai/news/inkling-2-mini/</guid>
+</item>
+<item>
 <title>Two Pendragon titles out now on Foundry VTT: The Grey Knight and The Sauvage King</title>
 <link>https://www.enworld.org/threads/chaosium-two-pendragon-titles-out-now-on-foundry-vtt-the-grey-knight-and-the-sauvage-king.721415/</link>
 <description>Chaosium's Pendragon adventures The Grey Knight and The Sauvage King arrive on Foundry VTT with ready-to-play actors, scenes, and automated Winter Phases.</description>
@@ -278,13 +285,6 @@
 <description>Thinking Machines Lab publishes the weights for Inkling 2 Small, a 594B-parameter MoE with 17B active per token, a week after its hosted-only debut; the NVFP4 checkpoint needs roughly 500GB of GPU memory, so it is a server-class open-weight release rather than a laptop model.</description>
 <pubDate>Thu, 12 Nov 2026 22:09:57 +0000</pubDate>
 <guid isPermaLink="true">https://aiparabellum.com/thinking-machines-releases-inkling-2-small-open-weights/</guid>
-</item>
-<item>
-<title>Semgrep launches agent-native AppSec platform for coding agents</title>
-<link>https://www.businesswire.com/news/home/20261112133878/en/Semgrep-Launches-Agentic-AppSec-Platform-to-Eliminate-the-Security-Bottleneck</link>
-<description>Semgrep ships an agent-native security platform: its Mandoline engine traces reachable code paths for coding agents, Guardian fixes issues as agents write, and a new MCP server brings the analysis to Codex, Claude Code, and Cursor.</description>
-<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.businesswire.com/news/home/20261112133878/en/Semgrep-Launches-Agentic-AppSec-Platform-to-Eliminate-the-Security-Bottleneck</guid>
 </item>
 </channel>
 </rss>
