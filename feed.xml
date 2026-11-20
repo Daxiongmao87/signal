@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Huawei MACaQ for llama.cpp and vLLM, Checked</title>
+<link>https://senn-tech.com/en/blog/huawei-macaq-quantizer-llama-cpp-vllm-nachgemessen</link>
+<description>Independent check of Huawei's MACaQ quantizer, verifying its GGUF and W4A4 claims against the repo and published weights, with fresh figures added November 20.</description>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://senn-tech.com/en/blog/huawei-macaq-quantizer-llama-cpp-vllm-nachgemessen</guid>
+</item>
 <item>
 <title>Berkeley and NVIDIA Release Agentic Robot Tools</title>
 <link>https://developmentstoday.com/ai-robotics/berkeley-nvidia-open-source-agentic-robot-tools</link>
@@ -278,13 +285,6 @@
 <description>Semgrep ships an agent-native security platform: its Mandoline engine traces reachable code paths for coding agents, Guardian fixes issues as agents write, and a new MCP server brings the analysis to Codex, Claude Code, and Cursor.</description>
 <pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.businesswire.com/news/home/20261112133878/en/Semgrep-Launches-Agentic-AppSec-Platform-to-Eliminate-the-Security-Bottleneck</guid>
-</item>
-<item>
-<title>D&amp;D 5e System 6.1.0 for Foundry VTT: Renown Tracking, Antimagic Regions, and Damage Rule Updates</title>
-<link>https://newreleases.io/project/github/foundryvtt/dnd5e/release/release-6.1.0</link>
-<description>The D&amp;D 5e system for Foundry VTT reaches 6.1.0 with optional faction renown tracking, a new Antimagic region behaviour, and reworked damage resistance, immunity, and vulnerability rules; requires Foundry VTT 14 or later.</description>
-<pubDate>Thu, 12 Nov 2026 13:51:44 +0000</pubDate>
-<guid isPermaLink="true">https://newreleases.io/project/github/foundryvtt/dnd5e/release/release-6.1.0</guid>
 </item>
 </channel>
 </rss>
