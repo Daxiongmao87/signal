@@ -105,6 +105,13 @@
 <guid isPermaLink="true">https://techbycountry.blogspot.com/2026/11/github-agentic-workflows-explained.html</guid>
 </item>
 <item>
+<title>SenseNova-Loop-9B: SenseTime's 9B open model loops its layers twice</title>
+<link>https://i10x.ai/news/sensenova-loop-9b-open-weights-sensetime</link>
+<description>SenseTime's 9B Apache-2.0 model reuses its middle layers twice per pass for deeper reasoning; 4-bit weights run on under 10 GB of GPU memory with a 512K context.</description>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://i10x.ai/news/sensenova-loop-9b-open-weights-sensetime</guid>
+</item>
+<item>
 <title>MACaQ Quantizes One Layer at a Time, Across Inference Backends</title>
 <link>https://notes.suffro.com/posts/macaq-layer-local-quantization-2026-11-16</link>
 <description>A close read of Huawei's MACaQ quantizer: per-layer calibration for 2-4-bit GGUF and W4A4, with MACaQ-R refining existing GGUF files to a lower KL divergence than Unsloth's equivalent at the same size.</description>
@@ -278,13 +285,6 @@
 <description>The D&amp;D 5e system for Foundry VTT reaches 6.1.0 with optional faction renown tracking, a new Antimagic region behaviour, and reworked damage resistance, immunity, and vulnerability rules; requires Foundry VTT 14 or later.</description>
 <pubDate>Thu, 12 Nov 2026 13:51:44 +0000</pubDate>
 <guid isPermaLink="true">https://newreleases.io/project/github/foundryvtt/dnd5e/release/release-6.1.0</guid>
-</item>
-<item>
-<title>Ollama on Android: the Termux setup, apps, and models that fit</title>
-<link>https://refusalrate.com/ollama-android</link>
-<description>Fresh field guide to running Ollama in Termux on a phone, including the official Termux package tracking upstream 0.40.16, Vulkan GPU backends, and which native Android apps fit which models.</description>
-<pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://refusalrate.com/ollama-android</guid>
 </item>
 </channel>
 </rss>
