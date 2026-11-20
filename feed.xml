@@ -161,6 +161,13 @@
 <guid isPermaLink="true">https://factlen.com/news/llama-cpp-reaches-version-1-0-milestone-to-standardize-local-open-source-ai-infe-40221-21fbf393</guid>
 </item>
 <item>
+<title>AI agent tooling dominates the week as Meta, OpenAI and Anthropic open-source internal platforms</title>
+<link>https://ageshio.dev/weekly/2026-W46/</link>
+<description>Nov 9-15 roundup of agent-tooling releases: Meta, OpenAI, Anthropic and Alibaba open-source internal platforms, plus new browser-access tooling for coding agents.</description>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://ageshio.dev/weekly/2026-W46/</guid>
+</item>
+<item>
 <title>WoW Forever Now Gives Zero XP for Carried Runs</title>
 <link>https://runegrove.com/articles/mmo-news/news/wow-forever-now-gives-zero-xp-for-carried-runs-four-days-after-a-50-dungeon-xp-38829d</link>
 <description>Blizzard hotfixed WoW: Forever so dungeon kills grant zero XP when any party member far outlevels the enemies, ending carried leveling runs just nine days after launch.</description>
@@ -278,13 +285,6 @@
 <description>Fresh field guide to running Ollama in Termux on a phone, including the official Termux package tracking upstream 0.40.16, Vulkan GPU backends, and which native Android apps fit which models.</description>
 <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://refusalrate.com/ollama-android</guid>
-</item>
-<item>
-<title>Edge0 releases 145B open model for a single laptop</title>
-<link>https://www.spectrumweb.co/news/edge0-145b-on-device-open-model</link>
-<description>Edge0 released Edge0-145B and Edge0-120B on Nov 12: 145B total parameters with 10.12B active per token, derived from Qwen3.8-Flash-Next, weights on Hugging Face under a community license; the vendor's 29GB laptop-memory headline is GPU-side only and its benchmarks are self-reported, not independently verified.</description>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.spectrumweb.co/news/edge0-145b-on-device-open-model</guid>
 </item>
 </channel>
 </rss>
