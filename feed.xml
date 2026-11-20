@@ -56,11 +56,25 @@
 <guid isPermaLink="true">https://technosports.co.in/olala-mini-7a1b-model/</guid>
 </item>
 <item>
+<title>Ollama vs llama.cpp, Ollama vs LM Studio: RTX 5080 Data</title>
+<link>https://techfuelhq.com/data/llm-server-compare/</link>
+<description>Same RTX 5080, two August captures: Ollama edges bare llama.cpp on dense decode while LM Studio prefills faster, and the shipped settings move throughput more than the app choice.</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://techfuelhq.com/data/llm-server-compare/</guid>
+</item>
+<item>
 <title>Spark-X2.6-4B: 4B open model for local agents with adjustable reasoning</title>
 <link>https://alphasignal.ai/news/sparkllm-s-spark-x2-6-4b-runs-local-agents-on-3-54-gb-with-adjustable-reasoning</link>
 <description>SparkLLM shipped Spark-X2.6-4B, a 4B open model tuned for coding and tool use with a three-level reasoning budget; the GGUF build is 3.54 GB at Q4_K_M and it claims near-9B quality on agent benchmarks.</description>
 <pubDate>Tue, 17 Nov 2026 16:00:04 +0000</pubDate>
 <guid isPermaLink="true">https://alphasignal.ai/news/sparkllm-s-spark-x2-6-4b-runs-local-agents-on-3-54-gb-with-adjustable-reasoning</guid>
+</item>
+<item>
+<title>CodeAF - Open Source Coding Agent Harness</title>
+<link>https://www.everydev.ai/tools/codeaf</link>
+<description>New Apache 2.0 Go harness that splits coding work into parallel tasks on separate branches, with build, security-audit and PR-review specialists, running open models via Ollama, OpenRouter or any OpenAI-compatible endpoint.</description>
+<pubDate>Tue, 17 Nov 2026 11:00:05 +0000</pubDate>
+<guid isPermaLink="true">https://www.everydev.ai/tools/codeaf</guid>
 </item>
 <item>
 <title>Microsoft Opens Copilot Harness in Foundry Agent Service for AI Agents</title>
@@ -271,20 +285,6 @@
 <description>Thinking Machines Lab's 594B MoE (17B active per token) shipped its full weights on November 12 under Apache 2.0, with NVFP4 and MXFP8 checkpoints and local-inference support via SGLang, vLLM and Unsloth.</description>
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://cellcog.ai/blog/inkling-2-small/</guid>
-</item>
-<item>
-<title>WoW Forever Leveling Meta Shift: Class Changes, Quest Gold Rewards, and What's Next</title>
-<link>https://www.iggm.com/news/wow-forever-leveling-class-tier-list-after-latest-changes</link>
-<description>A week after launch, Blizzard's Nov 10 hotfixes reshaped WoW: Forever leveling: Hunter and Protection Warrior rise, Enhancement Shaman and Warlock fall, and level 48+ quests now pay extra gold.</description>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.iggm.com/news/wow-forever-leveling-class-tier-list-after-latest-changes</guid>
-</item>
-<item>
-<title>Huawei researchers open-source MACaQ quantizer for llama.cpp and vLLM</title>
-<link>https://www.aidose.in/news/huawei-open-sources-macaq-quantizer-for-local-inference</link>
-<description>Huawei's open-source MACaQ toolkit quantizes text, image, video and audio models down to 2-4 bits, emitting GGUF for llama.cpp and W4A4 for vLLM; its MACaQ-R mode refines an existing GGUF file in place.</description>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.aidose.in/news/huawei-open-sources-macaq-quantizer-for-local-inference</guid>
 </item>
 </channel>
 </rss>
