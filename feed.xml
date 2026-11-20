@@ -42,6 +42,13 @@
 <guid isPermaLink="true">https://thinkingmachines.ai/news/inkling-2-mini/</guid>
 </item>
 <item>
+<title>Ollama vs llama.cpp vs LM Studio, re-checked for llama.cpp 1.0</title>
+<link>https://axiomi.si/guides/ollama-vs-llama-cpp-vs-lm-studio</link>
+<description>Fresh Nov 19 comparison covering llama.cpp v1.0.0 (Nov 13), Ollama 0.40.16 and LM Studio Bionic 1.2.1: same GGUF runs within noise across engines, so the choice comes down to packaging and defaults.</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://axiomi.si/guides/ollama-vs-llama-cpp-vs-lm-studio</guid>
+</item>
+<item>
 <title>Two Pendragon titles out now on Foundry VTT: The Grey Knight and The Sauvage King</title>
 <link>https://www.enworld.org/threads/chaosium-two-pendragon-titles-out-now-on-foundry-vtt-the-grey-knight-and-the-sauvage-king.721415/</link>
 <description>Chaosium's Pendragon adventures The Grey Knight and The Sauvage King arrive on Foundry VTT with ready-to-play actors, scenes, and automated Winter Phases.</description>
@@ -278,13 +285,6 @@
 <description>Explainer on Edge0's Nov 12 release of a 145B sparse-MoE model (10B active per token, derived from Qwen3.8-Flash-Next) that claims 29GB peak memory and 80+ tok/s on a high-memory laptop; all performance figures are vendor-reported and unreproduced so far.</description>
 <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/shakeelahmed/a-145b-open-model-that-runs-on-your-laptop-edge0-145b-explained-31a2</guid>
-</item>
-<item>
-<title>Thinking Machines releases Inkling 2 Small open weights under Apache 2.0</title>
-<link>https://aiparabellum.com/thinking-machines-releases-inkling-2-small-open-weights/</link>
-<description>Thinking Machines Lab publishes the weights for Inkling 2 Small, a 594B-parameter MoE with 17B active per token, a week after its hosted-only debut; the NVFP4 checkpoint needs roughly 500GB of GPU memory, so it is a server-class open-weight release rather than a laptop model.</description>
-<pubDate>Thu, 12 Nov 2026 22:09:57 +0000</pubDate>
-<guid isPermaLink="true">https://aiparabellum.com/thinking-machines-releases-inkling-2-small-open-weights/</guid>
 </item>
 </channel>
 </rss>
