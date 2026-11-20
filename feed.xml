@@ -49,6 +49,13 @@
 <guid isPermaLink="true">https://axiomi.si/guides/ollama-vs-llama-cpp-vs-lm-studio</guid>
 </item>
 <item>
+<title>Reactive Agents v0.19.0: quieter defaults, honest run outcomes and billed costs</title>
+<link>https://docs.reactiveagents.dev/guides/whats-new/</link>
+<description>November release of the Reactive Agents framework makes agents quiet and private by default, states plainly how each run ended and what it cost, and lets durable runs be stopped and resumed.</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://docs.reactiveagents.dev/guides/whats-new/</guid>
+</item>
+<item>
 <title>Two Pendragon titles out now on Foundry VTT: The Grey Knight and The Sauvage King</title>
 <link>https://www.enworld.org/threads/chaosium-two-pendragon-titles-out-now-on-foundry-vtt-the-grey-knight-and-the-sauvage-king.721415/</link>
 <description>Chaosium's Pendragon adventures The Grey Knight and The Sauvage King arrive on Foundry VTT with ready-to-play actors, scenes, and automated Winter Phases.</description>
@@ -175,6 +182,13 @@
 <guid isPermaLink="true">https://www.lastwatchdog.com/news-alert-detectify-launches-agentic-tooling-to-prove-what-ai-security-agents-actually-tested/</guid>
 </item>
 <item>
+<title>Two hotfixes in five days: Blizzard rebalanced dungeon leveling in WoW Forever</title>
+<link>https://techbullion.com/two-hotfixes-in-five-days-how-blizzard-rebalanced-dungeon-leveling-in-wow-forever/</link>
+<description>Blizzard tuned WoW Forever dungeon XP twice in the first ten days after launch: a 50% boost on Nov 8, then a Nov 13 fix that stops high-level characters boosting low-level parties for XP.</description>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://techbullion.com/two-hotfixes-in-five-days-how-blizzard-rebalanced-dungeon-leveling-in-wow-forever/</guid>
+</item>
+<item>
 <title>LLM Hub: Free App Runs Chat, Video, Music, and Voice Cloning Offline on Your Phone</title>
 <link>https://tokenstrom.com/posts/llm-hub-free-app-runs-chat-video-music-and-voice-cloning-offline-on-yo/</link>
 <description>LLM Hub packs 15+ on-device AI tools into one free Android and iOS app with no data collection or accounts, including a Termux-integrated agent that writes and runs shell commands on-device and a Vibe Coder mode backed by a local Codex server.</description>
@@ -271,20 +285,6 @@
 <description>Free pack of six transparent WebM combat effects (drone swarm, EMP burst, railgun beam and more) shipped as a Foundry VTT Sequencer module, usable in other VTTs as plain video files.</description>
 <pubDate>Fri, 13 Nov 2026 14:33:41 +0000</pubDate>
 <guid isPermaLink="true">https://itch.io/t/7392780/assets-railflare-fx-6-free-sci-fi-combat-effects-for-virtual-tabletops-transparent-webm</guid>
-</item>
-<item>
-<title>llama.cpp 1.0.0: the local AI engine's first stable release</title>
-<link>https://vibefix.work/en/explore/llama-cpp-v1-0-0-stable-release-november-2026</link>
-<description>After three and a half years of build numbers, llama.cpp ships 1.0.0 with a semver promise — API breaks only on major bumps — plus FP8 KV-cache support, a host-memory MoE expert cache, and new model support.</description>
-<pubDate>Fri, 13 Nov 2026 10:20:00 +0000</pubDate>
-<guid isPermaLink="true">https://vibefix.work/en/explore/llama-cpp-v1-0-0-stable-release-november-2026</guid>
-</item>
-<item>
-<title>Edge0-145B explained: a 145B open model that runs on a laptop</title>
-<link>https://dev.to/shakeelahmed/a-145b-open-model-that-runs-on-your-laptop-edge0-145b-explained-31a2</link>
-<description>Explainer on Edge0's Nov 12 release of a 145B sparse-MoE model (10B active per token, derived from Qwen3.8-Flash-Next) that claims 29GB peak memory and 80+ tok/s on a high-memory laptop; all performance figures are vendor-reported and unreproduced so far.</description>
-<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://dev.to/shakeelahmed/a-145b-open-model-that-runs-on-your-laptop-edge0-145b-explained-31a2</guid>
 </item>
 </channel>
 </rss>
