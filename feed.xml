@@ -7,6 +7,13 @@
 <language>en-us</language>
 <lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
 <item>
+<title>Thinking Machines Lab Releases 26.4B Inkling 2 Mini for Local Devices</title>
+<link>https://af.net/realtime/thinking-machines-lab-releases-26-4b-inkling-2-mini-for-local-devices/</link>
+<description>Thinking Machines Lab released Inkling 2 Mini on Nov 20: a 26.4B looped-transformer MoE with a ~20GB footprint that runs locally on 32GB-class laptops via Ollama, llama.cpp and Unsloth.</description>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://af.net/realtime/thinking-machines-lab-releases-26-4b-inkling-2-mini-for-local-devices/</guid>
+</item>
+<item>
 <title>Inkling Mini 2 dethrones Qwen 3.8-27B for local coding</title>
 <link>https://medium.com/data-science-in-your-pocket/inkling-mini-2-dethrones-qwen-3-8-27b-for-local-coding-32dd0c44ee5c</link>
 <description>Thinking Machines Lab's 26.4B looped-transformer Inkling 2 Mini beats Qwen3.8-27B on agentic coding benchmarks while running on 32GB-class local hardware.</description>
@@ -278,13 +285,6 @@
 <description>HyperFrames Studio shipped a video-focused coding-agent harness built on DeepSeek Harness, claiming 30% lower token costs than Claude Code in its own internal tests.</description>
 <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://tau-home.com/en/post/hyperframes-studio-video-coding-agent-harness/</guid>
-</item>
-<item>
-<title>WoW Forever news: Ashbringer returns, Horde creation locked</title>
-<link>http://mobalytics.gg/wow-forever/news/wow-forever-news-ashbringer-returns-horde-creation-locked-and-more</link>
-<description>Blizzard's latest lore podcast confirms Ashbringer and the Scarlet Enclave will eventually return to Forever, while Horde character creation is being restricted on some PvP realms to keep factions balanced.</description>
-<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">http://mobalytics.gg/wow-forever/news/wow-forever-news-ashbringer-returns-horde-creation-locked-and-more</guid>
 </item>
 </channel>
 </rss>
