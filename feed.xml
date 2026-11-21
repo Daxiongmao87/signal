@@ -7,6 +7,13 @@
 <language>en-us</language>
 <lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
 <item>
+<title>Inkling Mini 2 dethrones Qwen 3.8-27B for local coding</title>
+<link>https://medium.com/data-science-in-your-pocket/inkling-mini-2-dethrones-qwen-3-8-27b-for-local-coding-32dd0c44ee5c</link>
+<description>Thinking Machines Lab's 26.4B looped-transformer Inkling 2 Mini beats Qwen3.8-27B on agentic coding benchmarks while running on 32GB-class local hardware.</description>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://medium.com/data-science-in-your-pocket/inkling-mini-2-dethrones-qwen-3-8-27b-for-local-coding-32dd0c44ee5c</guid>
+</item>
+<item>
 <title>Huawei MACaQ for llama.cpp and vLLM, Checked</title>
 <link>https://senn-tech.com/en/blog/huawei-macaq-quantizer-llama-cpp-vllm-nachgemessen</link>
 <description>Independent check of Huawei's MACaQ quantizer, verifying its GGUF and W4A4 claims against the repo and published weights, with fresh figures added November 20.</description>
@@ -278,13 +285,6 @@
 <description>OpenWorker's open-source Agent Harness SDK gives autonomous coding agents integrated context, tools, and safety guardrails, with NVIDIA OpenShell sandboxing for fine-grained workspace and network control, in TypeScript and Rust.</description>
 <pubDate>Fri, 13 Nov 2026 21:19:51 +0000</pubDate>
 <guid isPermaLink="true">https://www.thenextgentechinsider.com/pulse/openworker-launches-open-source-agent-harness-sdk-for-secure-ai-development</guid>
-</item>
-<item>
-<title>Railflare FX: six free sci-fi combat effects for VTTs</title>
-<link>https://itch.io/t/7392780/assets-railflare-fx-6-free-sci-fi-combat-effects-for-virtual-tabletops-transparent-webm</link>
-<description>Free pack of six transparent WebM combat effects (drone swarm, EMP burst, railgun beam and more) shipped as a Foundry VTT Sequencer module, usable in other VTTs as plain video files.</description>
-<pubDate>Fri, 13 Nov 2026 14:33:41 +0000</pubDate>
-<guid isPermaLink="true">https://itch.io/t/7392780/assets-railflare-fx-6-free-sci-fi-combat-effects-for-virtual-tabletops-transparent-webm</guid>
 </item>
 </channel>
 </rss>
