@@ -56,6 +56,13 @@
 <guid isPermaLink="true">https://senn-tech.com/en/blog/huawei-macaq-quantizer-llama-cpp-vllm-nachgemessen</guid>
 </item>
 <item>
+<title>Thinking Machines' Inkling 2 Mini runs locally on laptops</title>
+<link>https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops</link>
+<description>Thinking Machines' open-weights 26.4B looped-transformer model fits in ~20GB and runs on a 32GB laptop while rivalling much larger models on coding benchmarks.</description>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops</guid>
+</item>
+<item>
 <title>Berkeley and NVIDIA Release Agentic Robot Tools</title>
 <link>https://developmentstoday.com/ai-robotics/berkeley-nvidia-open-source-agentic-robot-tools</link>
 <description>UC Berkeley and NVIDIA open-sourced agentic tooling for industrial robot programming: AI coding agents generate readable robot programs, split tasks into modular skills with Graph-as-Policy, and rehearse them in simulation before deployment.</description>
@@ -278,13 +285,6 @@
 <description>Tencent released LoopForge, a Go-based, self-hosted framework for chaining coding agents like Claude Code and Codex, with human approval gates built into the orchestration.</description>
 <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.myaitemplate.com/en/news/tencents-loopforge-signals-shift-to-autonomous-coding-agents-mwgpp7f5</guid>
-</item>
-<item>
-<title>Local LLM on Android and iPhone: Apps and Models (2026)</title>
-<link>https://vdf.ai/blog/local-llm-android-iphone/</link>
-<description>Fresh Nov 14-15 survey of phone LLM apps: PocketPal 1.23.0, AI Edge Gallery 1.0.23 and Locally 1.67.0, plus Termux llama.cpp setup and which 1-4B models fit each phone's RAM.</description>
-<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://vdf.ai/blog/local-llm-android-iphone/</guid>
 </item>
 </channel>
 </rss>
