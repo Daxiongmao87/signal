@@ -140,6 +140,13 @@
 <guid isPermaLink="true">https://techfuelhq.com/data/llm-server-compare/</guid>
 </item>
 <item>
+<title>An AI app for Android: ForgeMind, a Kotlin workstation for cloud and local models</title>
+<link>https://community.benhalpern.com/anton_admiralfishman_1/an-ai-app-for-android-forgemind-a-kotlin-workstation-for-cloud-and-local-models-195a</link>
+<description>New open-source Android app that turns a phone into an AI workstation: cloud and local models, SSH, bidirectional MCP, and Termux as a first-class contour with on-device tool use.</description>
+<pubDate>Tue, 17 Nov 2026 22:26:56 +0000</pubDate>
+<guid isPermaLink="true">https://community.benhalpern.com/anton_admiralfishman_1/an-ai-app-for-android-forgemind-a-kotlin-workstation-for-cloud-and-local-models-195a</guid>
+</item>
+<item>
 <title>Spark-X2.6-4B: 4B open model for local agents with adjustable reasoning</title>
 <link>https://alphasignal.ai/news/sparkllm-s-spark-x2-6-4b-runs-local-agents-on-3-54-gb-with-adjustable-reasoning</link>
 <description>SparkLLM shipped Spark-X2.6-4B, a 4B open model tuned for coding and tool use with a three-level reasoning budget; the GGUF build is 3.54 GB at Q4_K_M and it claims near-9B quality on agent benchmarks.</description>
@@ -278,13 +285,6 @@
 <description>Fresh Nov 14-15 survey of phone LLM apps: PocketPal 1.23.0, AI Edge Gallery 1.0.23 and Locally 1.67.0, plus Termux llama.cpp setup and which 1-4B models fit each phone's RAM.</description>
 <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://vdf.ai/blog/local-llm-android-iphone/</guid>
-</item>
-<item>
-<title>DeepSeek Releases a Coding AI That Finds and Fixes Bugs on Its Own</title>
-<link>https://aisignal.day/en/deepseek-super-agent-2026/</link>
-<description>DeepSeek's open-source super-agent prototype runs multiple coding jobs in parallel through a router-and-worker design, cutting slow-case task time nearly in half.</description>
-<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aisignal.day/en/deepseek-super-agent-2026/</guid>
 </item>
 </channel>
 </rss>
