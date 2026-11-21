@@ -21,6 +21,20 @@
 <guid isPermaLink="true">https://plotly.com/blog/best-local-llm-2026/</guid>
 </item>
 <item>
+<title>Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac</title>
+<link>https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/</link>
+<description>Technical rundown of Inkling 2 Mini's looped-transformer design: 24 stored layers reused into 48 passes, 26.4B total with 3.4B active, ~20GB checkpoint, 1M context, and GGUF builds for llama.cpp and Ollama.</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/</guid>
+</item>
+<item>
+<title>MOC - Agentic Coding: Claude Code v2.1.330 and new harness launches</title>
+<link>https://aidigest.shelfcritter.com/moc/agentic-coding</link>
+<description>Daily agentic-coding digest: Claude Code v2.1.330 ships enterprise sign-in, a built-in chart mod and a 30-day scheduled-task ceiling, plus DreamCoder and the open-source Devin alternative OpenComputer launching.</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aidigest.shelfcritter.com/moc/agentic-coding</guid>
+</item>
+<item>
 <title>Thinking Machines Lab Releases 26.4B Inkling 2 Mini for Local Devices</title>
 <link>https://af.net/realtime/thinking-machines-lab-releases-26-4b-inkling-2-mini-for-local-devices/</link>
 <description>Thinking Machines Lab released Inkling 2 Mini on Nov 20: a 26.4B looped-transformer MoE with a ~20GB footprint that runs locally on 32GB-class laptops via Ollama, llama.cpp and Unsloth.</description>
@@ -271,20 +285,6 @@
 <description>DeepSeek's open-source super-agent prototype runs multiple coding jobs in parallel through a router-and-worker design, cutting slow-case task time nearly in half.</description>
 <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aisignal.day/en/deepseek-super-agent-2026/</guid>
-</item>
-<item>
-<title>DeepSeek Harness 0.2.2 adds Codex and Claude delegation</title>
-<link>https://www.aicentralresources.com/news/deepseek-harness-delegates-codex-claude</link>
-<description>The open-source DeepSeek Harness (dsh) 0.2.2 release adds an experimental plugin to delegate subtasks to Codex and Claude, plus Git worktrees and six new interface languages.</description>
-<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.aicentralresources.com/news/deepseek-harness-delegates-codex-claude</guid>
-</item>
-<item>
-<title>Inkling 2 Small VRAM requirements: 393.5 GB official NVFP4, 171.7 GB smallest GGUF</title>
-<link>https://vramneeded.com/models/inkling-2-small/</link>
-<description>Thinking Machines' open-weight Inkling 2 Small needs at least 500 GB of VRAM for the official NVFP4 checkpoint, and even the smallest Unsloth GGUF still demands about 172 GB of combined memory.</description>
-<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://vramneeded.com/models/inkling-2-small/</guid>
 </item>
 </channel>
 </rss>
