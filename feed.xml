@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 20 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Cline SDK v0.2.1 and Codex rust-v0.171.0 land agent runtime updates</title>
+<link>https://dockwarelabs.dockfinity.com/discovery</link>
+<description>Cline ships SDK v0.2.1 with signed artifact publishing and UX verification subagents, while Codex rust-v0.171.0 enables the TUI workspace by default with searchable previews and remote server execution.</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dockwarelabs.dockfinity.com/discovery</guid>
+</item>
 <item>
 <title>Thinking Machines Lab Releases 26.4B Inkling 2 Mini for Local Devices</title>
 <link>https://af.net/realtime/thinking-machines-lab-releases-26-4b-inkling-2-mini-for-local-devices/</link>
@@ -278,13 +285,6 @@
 <description>Datasette-llm 0.1a11 points Datasette agents at local LM Studio, Ollama, or llama.cpp servers instead of hosted APIs, landing the same week llama.cpp shipped its 1.0.0 stable release with FP8 KV caches and server security hardening.</description>
 <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://jacksunwei.me/digest/ai-tech/datasette-moves-execution-off-the-server/</guid>
-</item>
-<item>
-<title>HyperFrames Studio Launches Video Coding Agent Harness Cutting Token Costs 30% Against Claude Code</title>
-<link>https://tau-home.com/en/post/hyperframes-studio-video-coding-agent-harness/</link>
-<description>HyperFrames Studio shipped a video-focused coding-agent harness built on DeepSeek Harness, claiming 30% lower token costs than Claude Code in its own internal tests.</description>
-<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://tau-home.com/en/post/hyperframes-studio-video-coding-agent-harness/</guid>
 </item>
 </channel>
 </rss>
