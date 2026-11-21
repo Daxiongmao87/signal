@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://dockwarelabs.dockfinity.com/discovery</guid>
 </item>
 <item>
+<title>Best Local LLMs in 2026: What You Can Run on a Mac mini, DGX Spark or Server</title>
+<link>https://plotly.com/blog/best-local-llm-2026/</link>
+<description>Freshly updated ranking of 51 open-weight models by the hardware they need, now including Tencent's Hy4 releases and Inkling 2 Mini scores.</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://plotly.com/blog/best-local-llm-2026/</guid>
+</item>
+<item>
 <title>Thinking Machines Lab Releases 26.4B Inkling 2 Mini for Local Devices</title>
 <link>https://af.net/realtime/thinking-machines-lab-releases-26-4b-inkling-2-mini-for-local-devices/</link>
 <description>Thinking Machines Lab released Inkling 2 Mini on Nov 20: a 26.4B looped-transformer MoE with a ~20GB footprint that runs locally on 32GB-class laptops via Ollama, llama.cpp and Unsloth.</description>
@@ -278,13 +285,6 @@
 <description>Thinking Machines' open-weight Inkling 2 Small needs at least 500 GB of VRAM for the official NVFP4 checkpoint, and even the smallest Unsloth GGUF still demands about 172 GB of combined memory.</description>
 <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://vramneeded.com/models/inkling-2-small/</guid>
-</item>
-<item>
-<title>Datasette Routes Agents to Local LLMs as llama.cpp Hits 1.0</title>
-<link>https://jacksunwei.me/digest/ai-tech/datasette-moves-execution-off-the-server/</link>
-<description>Datasette-llm 0.1a11 points Datasette agents at local LM Studio, Ollama, or llama.cpp servers instead of hosted APIs, landing the same week llama.cpp shipped its 1.0.0 stable release with FP8 KV caches and server security hardening.</description>
-<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://jacksunwei.me/digest/ai-tech/datasette-moves-execution-off-the-server/</guid>
 </item>
 </channel>
 </rss>
