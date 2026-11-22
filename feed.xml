@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://aidigest.shelfcritter.com/moc/agentic-coding</guid>
 </item>
 <item>
+<title>Inkling 2 Mini on a Laptop: 20GB Looped Model, Explained</title>
+<link>https://braindetox.kr/en/posts/inkling_2_mini_recurrent_transformer.html</link>
+<description>A plain-English breakdown of Thinking Machines Lab's 20GB looped model: how re-running its middle layers three times trades compute for depth, and what its laptop claims actually require.</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://braindetox.kr/en/posts/inkling_2_mini_recurrent_transformer.html</guid>
+</item>
+<item>
 <title>Inkling 2 Mini: 26B looped transformer that runs on a laptop</title>
 <link>https://wccftech.com/thinking-machines-unveils-inkling-2-mini-a-powerful-26b-ai-model-that-runs-locally-on-macbooks-with-just-32gb-ram/</link>
 <description>Thinking Machines Lab's Nov 20 release is a 26.4B MoE that loops its middle layers three times per token, fitting ~20GB and running offline on 32GB laptops while beating Qwen3.8-27B on DeepSWE v1.1.</description>
@@ -278,13 +285,6 @@
 <description>llama.cpp hits 1.0 after three and a half years, committing to semantic versioning, adding FP8 KV-cache support and smarter MoE expert offloading, and hardening llama-server security.</description>
 <pubDate>Sun, 15 Nov 2026 02:01:00 +0000</pubDate>
 <guid isPermaLink="true">https://factlen.com/news/llama-cpp-reaches-version-1-0-milestone-to-standardize-local-open-source-ai-infe-40221-21fbf393</guid>
-</item>
-<item>
-<title>AI agent tooling dominates the week as Meta, OpenAI and Anthropic open-source internal platforms</title>
-<link>https://ageshio.dev/weekly/2026-W46/</link>
-<description>Nov 9-15 roundup of agent-tooling releases: Meta, OpenAI, Anthropic and Alibaba open-source internal platforms, plus new browser-access tooling for coding agents.</description>
-<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://ageshio.dev/weekly/2026-W46/</guid>
 </item>
 </channel>
 </rss>
