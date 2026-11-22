@@ -77,13 +77,6 @@
 <guid isPermaLink="true">https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops</guid>
 </item>
 <item>
-<title>Inkling 2 Mini: CyberBench 74.58%, Run on a Laptop (Nov 20)</title>
-<link>https://explainx.ai/blog/inkling-2-mini-thinking-machines-cyberbench-laptop-november-2026</link>
-<description>Thinking Machines' 26B looped MoE ships under Apache 2.0 with a roughly 20 GB checkpoint aimed at 32 GB laptops and DGX Spark, and Ollama's 0.40.17 pre-release already lists it.</description>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://explainx.ai/blog/inkling-2-mini-thinking-machines-cyberbench-laptop-november-2026</guid>
-</item>
-<item>
 <title>Berkeley and NVIDIA Release Agentic Robot Tools</title>
 <link>https://developmentstoday.com/ai-robotics/berkeley-nvidia-open-source-agentic-robot-tools</link>
 <description>UC Berkeley and NVIDIA open-sourced agentic tooling for industrial robot programming: AI coding agents generate readable robot programs, split tasks into modular skills with Graph-as-Policy, and rehearse them in simulation before deployment.</description>
@@ -285,6 +278,13 @@
 <description>llama.cpp hits 1.0 after three and a half years, committing to semantic versioning, adding FP8 KV-cache support and smarter MoE expert offloading, and hardening llama-server security.</description>
 <pubDate>Sun, 15 Nov 2026 02:01:00 +0000</pubDate>
 <guid isPermaLink="true">https://factlen.com/news/llama-cpp-reaches-version-1-0-milestone-to-standardize-local-open-source-ai-infe-40221-21fbf393</guid>
+</item>
+<item>
+<title>AI agent tooling dominates the week as Meta, OpenAI and Anthropic open-source internal platforms</title>
+<link>https://ageshio.dev/weekly/2026-W46/</link>
+<description>Nov 9-15 roundup of agent-tooling releases: Meta, OpenAI, Anthropic and Alibaba open-source internal platforms, plus new browser-access tooling for coding agents.</description>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://ageshio.dev/weekly/2026-W46/</guid>
 </item>
 </channel>
 </rss>
