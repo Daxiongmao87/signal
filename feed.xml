@@ -35,6 +35,20 @@
 <guid isPermaLink="true">https://aidigest.shelfcritter.com/moc/agentic-coding</guid>
 </item>
 <item>
+<title>Inkling 2 Mini: 26B looped transformer that runs on a laptop</title>
+<link>https://wccftech.com/thinking-machines-unveils-inkling-2-mini-a-powerful-26b-ai-model-that-runs-locally-on-macbooks-with-just-32gb-ram/</link>
+<description>Thinking Machines Lab's Nov 20 release is a 26.4B MoE that loops its middle layers three times per token, fitting ~20GB and running offline on 32GB laptops while beating Qwen3.8-27B on DeepSWE v1.1.</description>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://wccftech.com/thinking-machines-unveils-inkling-2-mini-a-powerful-26b-ai-model-that-runs-locally-on-macbooks-with-just-32gb-ram/</guid>
+</item>
+<item>
+<title>Inkling 2 Mini: open looped model for laptops</title>
+<link>https://casrai.org/news/thinking-machines-inkling-2-mini-open-looped-model-laptop-2026</link>
+<description>A second look at Thinking Machines Lab's Nov 20 Inkling 2 Mini: Apache 2.0 weights, NVFP4 precision trained natively with no post-training conversion loss, and day-one GGUF builds via Unsloth and llama.cpp.</description>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://casrai.org/news/thinking-machines-inkling-2-mini-open-looped-model-laptop-2026</guid>
+</item>
+<item>
 <title>Thinking Machines Lab Releases 26.4B Inkling 2 Mini for Local Devices</title>
 <link>https://af.net/realtime/thinking-machines-lab-releases-26-4b-inkling-2-mini-for-local-devices/</link>
 <description>Thinking Machines Lab released Inkling 2 Mini on Nov 20: a 26.4B looped-transformer MoE with a ~20GB footprint that runs locally on 32GB-class laptops via Ollama, llama.cpp and Unsloth.</description>
@@ -271,20 +285,6 @@
 <description>Blizzard hotfixed WoW: Forever so dungeon kills grant zero XP when any party member far outlevels the enemies, ending carried leveling runs just nine days after launch.</description>
 <pubDate>Sat, 14 Nov 2026 17:23:07 +0000</pubDate>
 <guid isPermaLink="true">https://runegrove.com/articles/mmo-news/news/wow-forever-now-gives-zero-xp-for-carried-runs-four-days-after-a-50-dungeon-xp-38829d</guid>
-</item>
-<item>
-<title>WoW Forever Started as a Seasonal Experiment</title>
-<link>https://runegrove.com/articles/riot-mmo/news/wow-forever-started-as-a-seasonal-experiment-its-producer-says-it-then-drew-the-aa9563</link>
-<description>Blizzard traces WoW: Forever back to Season of Discovery's limited-time servers, and says the launch drew the most new WoW players in 15 years — without publishing a player count.</description>
-<pubDate>Sat, 14 Nov 2026 17:22:56 +0000</pubDate>
-<guid isPermaLink="true">https://runegrove.com/articles/riot-mmo/news/wow-forever-started-as-a-seasonal-experiment-its-producer-says-it-then-drew-the-aa9563</guid>
-</item>
-<item>
-<title>Tencent's LoopForge: self-hosted orchestration for coding agents</title>
-<link>https://www.myaitemplate.com/en/news/tencents-loopforge-signals-shift-to-autonomous-coding-agents-mwgpp7f5</link>
-<description>Tencent released LoopForge, a Go-based, self-hosted framework for chaining coding agents like Claude Code and Codex, with human approval gates built into the orchestration.</description>
-<pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.myaitemplate.com/en/news/tencents-loopforge-signals-shift-to-autonomous-coding-agents-mwgpp7f5</guid>
 </item>
 </channel>
 </rss>
