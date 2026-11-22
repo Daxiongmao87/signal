@@ -210,6 +210,13 @@
 <guid isPermaLink="true">https://i10x.ai/news/sensenova-loop-9b-open-weights-sensetime</guid>
 </item>
 <item>
+<title>Serving a local LLM to several users: Ollama, LM Studio, llama.cpp and vLLM benchmarked</title>
+<link>https://www.sitepoint.com/serving-a-local-llm-to-several-users-ollama-lm-studio-llama-cpp-and-vllm-benchmarked/</link>
+<description>On one RTX 3090 the four servers are within 10% for single requests, but under concurrent load the defaults diverge sharply: Ollama queues requests serially while vLLM pulls ahead, and llama.cpp needs -np raised past its 4-slot default.</description>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.sitepoint.com/serving-a-local-llm-to-several-users-ollama-lm-studio-llama-cpp-and-vllm-benchmarked/</guid>
+</item>
+<item>
 <title>MACaQ Quantizes One Layer at a Time, Across Inference Backends</title>
 <link>https://notes.suffro.com/posts/macaq-layer-local-quantization-2026-11-16</link>
 <description>A close read of Huawei's MACaQ quantizer: per-layer calibration for 2-4-bit GGUF and W4A4, with MACaQ-R refining existing GGUF files to a lower KL divergence than Unsloth's equivalent at the same size.</description>
@@ -278,13 +285,6 @@
 <description>Nov 9-15 roundup of agent-tooling releases: Meta, OpenAI, Anthropic and Alibaba open-source internal platforms, plus new browser-access tooling for coding agents.</description>
 <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://ageshio.dev/weekly/2026-W46/</guid>
-</item>
-<item>
-<title>WoW Forever Now Gives Zero XP for Carried Runs</title>
-<link>https://runegrove.com/articles/mmo-news/news/wow-forever-now-gives-zero-xp-for-carried-runs-four-days-after-a-50-dungeon-xp-38829d</link>
-<description>Blizzard hotfixed WoW: Forever so dungeon kills grant zero XP when any party member far outlevels the enemies, ending carried leveling runs just nine days after launch.</description>
-<pubDate>Sat, 14 Nov 2026 17:23:07 +0000</pubDate>
-<guid isPermaLink="true">https://runegrove.com/articles/mmo-news/news/wow-forever-now-gives-zero-xp-for-carried-runs-four-days-after-a-50-dungeon-xp-38829d</guid>
 </item>
 </channel>
 </rss>
