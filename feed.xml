@@ -56,6 +56,13 @@
 <guid isPermaLink="true">https://aidigest.shelfcritter.com/moc/agentic-coding</guid>
 </item>
 <item>
+<title>Thinking Machines releases Inkling 2 Mini, a 26B looped transformer that runs locally on laptops</title>
+<link>https://aiunderstanding.org/news/thinking-machines-releases-inkling-2-mini-a-26b-looped-transformer-that-runs-local</link>
+<description>Thinking Machines Lab's 26.4B-parameter looped MoE ships under Apache 2.0 in a ~20 GB checkpoint, reusing its middle layers three times per token to beat Qwen3.8-27B on agentic coding benchmarks on 32 GB laptops.</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aiunderstanding.org/news/thinking-machines-releases-inkling-2-mini-a-26b-looped-transformer-that-runs-local</guid>
+</item>
+<item>
 <title>Coding Agent Harness Directory (2026): 28 harnesses compared</title>
 <link>https://aq.dev/guides/coding-agent-harness-directory/</link>
 <description>A November 20 update to a directory comparing 28 coding-agent harnesses — lab CLIs, open-source model-neutral harnesses, and desktop and cloud runners — with prices, benchmarks, and a list of tools that shut down this year.</description>
@@ -278,13 +285,6 @@
 <description>Measured comparison finds Unsloth's QAT GGUF for Gemma 4 E2B the smallest and closest 4-bit file, beating Google's official Q4_0 build.</description>
 <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.bigiron.cc/guides/gemma-4-qat-checkpoints-vs-regular-q4-ggufs-measured</guid>
-</item>
-<item>
-<title>Detectify launches Agentic Tooling to bring verifiable evidence to AI-led security investigations</title>
-<link>https://newsroom.detectify.com/detectify-launches-agentic-tooling-to-bring-verifiable-evidence-to-ai-led-security-investigations</link>
-<description>Detectify's new Agentic Tooling lets teams' own AI agents investigate suspected vulnerabilities in their own environments via MCP and CLI, with a Security Ledger recording verifiable evidence for each finding.</description>
-<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://newsroom.detectify.com/detectify-launches-agentic-tooling-to-bring-verifiable-evidence-to-ai-led-security-investigations</guid>
 </item>
 </channel>
 </rss>
