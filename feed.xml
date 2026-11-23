@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 22 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 21:05:00 +0000</lastBuildDate>
+<item>
+<title>Pi 1.0 Released, Introducing Enhanced Agent Harness and Pi Durable</title>
+<link>https://pan.parallax.kr/article/pi-1-0-released-enhanced-agent-harness-durable-version</link>
+<description>Earendil ships Pi 1.0, a hardened minimal coding-agent harness with Codemode, MCP support, deferred tool loading and cache warming, plus the experimental Pi Durable for long-running agentic apps.</description>
+<pubDate>Sun, 22 Nov 2026 21:05:00 +0000</pubDate>
+<guid isPermaLink="true">https://pan.parallax.kr/article/pi-1-0-released-enhanced-agent-harness-durable-version</guid>
+</item>
 <item>
 <title>WoW: Forever Had the Biggest Launch in WoW History. December 9 Decides What It Means</title>
 <link>https://mmostats.com/article/world-of-warcraft-forever-launch-numbers</link>
@@ -278,13 +285,6 @@
 <description>Detectify's new Agentic Tooling lets teams' own AI agents investigate suspected vulnerabilities in their own environments via MCP and CLI, with a Security Ledger recording verifiable evidence for each finding.</description>
 <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://newsroom.detectify.com/detectify-launches-agentic-tooling-to-bring-verifiable-evidence-to-ai-led-security-investigations</guid>
-</item>
-<item>
-<title>Qwen Code 1.0 Preview open-sources Alibaba's Agent Harness as an embeddable runtime</title>
-<link>https://www.boaoai.cn/en/news/2026-11-16-agent-harness-era-runtime-base/</link>
-<description>Alibaba folds the production Agent Harness from its Qoder tool into Qwen Code 1.0 Preview, released under Apache-2.0 as an embeddable runtime for multi-step planning, tool orchestration, and failure recovery.</description>
-<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.boaoai.cn/en/news/2026-11-16-agent-harness-era-runtime-base/</guid>
 </item>
 </channel>
 </rss>
