@@ -28,6 +28,13 @@
 <guid isPermaLink="true">https://mmostats.com/article/world-of-warcraft-forever-launch-numbers</guid>
 </item>
 <item>
+<title>LookAtMyQuant: Inkling-2-Mini in 5.38 GB, Qwen3.5-4B in 1.23 GB — What the Quantization Compiler Actually Claims</title>
+<link>https://agentlenshq.com/blogs/f13fd481-f8b3-4230-b2fe-d6bc159d70b1</link>
+<description>MIT-licensed LookAtMyQuant compiler squeezes Inkling 2 Mini to 5.38 GB at 1.63 bits per weight, claiming 12x lower KL than Q4_K_M at the same size, though its headline benchmarks are disputed on Hacker News.</description>
+<pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://agentlenshq.com/blogs/f13fd481-f8b3-4230-b2fe-d6bc159d70b1</guid>
+</item>
+<item>
 <title>Look At My Quant: 12x lower KL than Q4_K_M</title>
 <link>https://headlinesbriefing.com/dev/hacker-news/look-at-my-quant-12-lower-kl-than-q4km-082b3780</link>
 <description>A new open-source quantization compiler measures per-piece compression damage and picks the best code for each, beating Q4_K_M by 12x lower KL divergence at the same file size on Gemma 4 E2B, and shrinking Qwen3.8-27B to 7.2 GB with no math-score loss.</description>
@@ -168,6 +175,13 @@
 <guid isPermaLink="true">https://docs.reactiveagents.dev/guides/whats-new/</guid>
 </item>
 <item>
+<title>amv-bitnet 3.0.1</title>
+<link>https://pypi.org/project/amv-bitnet/</link>
+<description>Termux 1.58-bit inference engine amv-bitnet hits 3.0.1 with prebuilt provisioning and unified ternary GPU dispatch, running BitNet models on unrooted Android phones.</description>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://pypi.org/project/amv-bitnet/</guid>
+</item>
+<item>
 <title>Two Pendragon titles out now on Foundry VTT: The Grey Knight and The Sauvage King</title>
 <link>https://www.enworld.org/threads/chaosium-two-pendragon-titles-out-now-on-foundry-vtt-the-grey-knight-and-the-sauvage-king.721415/</link>
 <description>Chaosium's Pendragon adventures The Grey Knight and The Sauvage King arrive on Foundry VTT with ready-to-play actors, scenes, and automated Winter Phases.</description>
@@ -271,20 +285,6 @@
 <description>On one RTX 3090 the four servers are within 10% for single requests, but under concurrent load the defaults diverge sharply: Ollama queues requests serially while vLLM pulls ahead, and llama.cpp needs -np raised past its 4-slot default.</description>
 <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.sitepoint.com/serving-a-local-llm-to-several-users-ollama-lm-studio-llama-cpp-and-vllm-benchmarked/</guid>
-</item>
-<item>
-<title>MACaQ Quantizes One Layer at a Time, Across Inference Backends</title>
-<link>https://notes.suffro.com/posts/macaq-layer-local-quantization-2026-11-16</link>
-<description>A close read of Huawei's MACaQ quantizer: per-layer calibration for 2-4-bit GGUF and W4A4, with MACaQ-R refining existing GGUF files to a lower KL divergence than Unsloth's equivalent at the same size.</description>
-<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://notes.suffro.com/posts/macaq-layer-local-quantization-2026-11-16</guid>
-</item>
-<item>
-<title>WoW Forever Raid Release Date: December 9</title>
-<link>https://worstguidesever.com/wow-classic-plus-camelot-release-date-leaks/</link>
-<description>Post-launch rundown confirms the first WoW: Forever raids, Barrow Deeps, Hyjal Summit and Onyxia's Lair, unlock December 9 for level 60 players, with the live build on a stack of hotfixes dated through November 13.</description>
-<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://worstguidesever.com/wow-classic-plus-camelot-release-date-leaks/</guid>
 </item>
 </channel>
 </rss>
