@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://mmostats.com/article/world-of-warcraft-forever-launch-numbers</guid>
 </item>
 <item>
+<title>Look At My Quant: 12x lower KL than Q4_K_M</title>
+<link>https://headlinesbriefing.com/dev/hacker-news/look-at-my-quant-12-lower-kl-than-q4km-082b3780</link>
+<description>A new open-source quantization compiler measures per-piece compression damage and picks the best code for each, beating Q4_K_M by 12x lower KL divergence at the same file size on Gemma 4 E2B, and shrinking Qwen3.8-27B to 7.2 GB with no math-score loss.</description>
+<pubDate>Sat, 21 Nov 2026 18:02:00 +0000</pubDate>
+<guid isPermaLink="true">https://headlinesbriefing.com/dev/hacker-news/look-at-my-quant-12-lower-kl-than-q4km-082b3780</guid>
+</item>
+<item>
 <title>Cline SDK v0.2.1 and Codex rust-v0.171.0 land agent runtime updates</title>
 <link>https://dockwarelabs.dockfinity.com/discovery</link>
 <description>Cline ships SDK v0.2.1 with signed artifact publishing and UX verification subagents, while Codex rust-v0.171.0 enables the TUI workspace by default with searchable previews and remote server execution.</description>
@@ -89,6 +96,13 @@
 <description>Thinking Machines' open-weights 26.4B looped-transformer model fits in ~20GB and runs on a 32GB laptop while rivalling much larger models on coding benchmarks.</description>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops</guid>
+</item>
+<item>
+<title>WoW Forever News: Blizzard Addresses Major Problems, PvP Changes, Free 16 Slot Bag, and More!</title>
+<link>http://mobalytics.gg/wow-forever/profile/the-comeback-kids/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</link>
+<description>In a new developer podcast, Blizzard's team talks through class reworks, healer shortages, PvP survivability and the weekly gold quest, plus a free 16-slot bag questline players uncovered and the missing Undead Paladin quest rewards.</description>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">http://mobalytics.gg/wow-forever/profile/the-comeback-kids/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</guid>
 </item>
 <item>
 <title>Berkeley and NVIDIA Release Agentic Robot Tools</title>
@@ -173,6 +187,13 @@
 <description>Same RTX 5080, two August captures: Ollama edges bare llama.cpp on dense decode while LM Studio prefills faster, and the shipped settings move throughput more than the app choice.</description>
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://techfuelhq.com/data/llm-server-compare/</guid>
+</item>
+<item>
+<title>WoW Forever News: Record Player Numbers, Shadow Priest Nerfs, Gold Exploit Punishments, and More!</title>
+<link>http://mobalytics.gg/wow-forever/news/wow-forever-news-record-player-numbers-shadow-priest-nerfs-gold-exploit-punishments-and-more</link>
+<description>Blizzard reports its biggest weekly player audience in 15 years while the November 16-17 hotfixes restore UBRS difficulty, adjust Shadow Priests and Windfury, and punish a gold-farming exploit in Blackmaw Hold.</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">http://mobalytics.gg/wow-forever/news/wow-forever-news-record-player-numbers-shadow-priest-nerfs-gold-exploit-punishments-and-more</guid>
 </item>
 <item>
 <title>An AI app for Android: ForgeMind, a Kotlin workstation for cloud and local models</title>
@@ -264,27 +285,6 @@
 <description>Alibaba folds the production Agent Harness from its Qoder tool into Qwen Code 1.0 Preview, released under Apache-2.0 as an embeddable runtime for multi-step planning, tool orchestration, and failure recovery.</description>
 <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.boaoai.cn/en/news/2026-11-16-agent-harness-era-runtime-base/</guid>
-</item>
-<item>
-<title>Detectify launches Agentic Tooling for AI security agents</title>
-<link>https://www.lastwatchdog.com/news-alert-detectify-launches-agentic-tooling-to-prove-what-ai-security-agents-actually-tested/</link>
-<description>Detectify’s new Agentic Tooling lets teams’ own AI agents probe running apps for exploitable flaws, with a Security Ledger recording verifiable evidence of what each agent actually tested.</description>
-<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.lastwatchdog.com/news-alert-detectify-launches-agentic-tooling-to-prove-what-ai-security-agents-actually-tested/</guid>
-</item>
-<item>
-<title>Two hotfixes in five days: Blizzard rebalanced dungeon leveling in WoW Forever</title>
-<link>https://techbullion.com/two-hotfixes-in-five-days-how-blizzard-rebalanced-dungeon-leveling-in-wow-forever/</link>
-<description>Blizzard tuned WoW Forever dungeon XP twice in the first ten days after launch: a 50% boost on Nov 8, then a Nov 13 fix that stops high-level characters boosting low-level parties for XP.</description>
-<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://techbullion.com/two-hotfixes-in-five-days-how-blizzard-rebalanced-dungeon-leveling-in-wow-forever/</guid>
-</item>
-<item>
-<title>Autonomous launches Harness, an open-source command center for AI coding agents</title>
-<link>https://www.thenextgentechinsider.com/pulse/autonomous-launches-harness-an-open-source-command-center-for-ai-coding-agents</link>
-<description>A free, open-source dashboard that runs Claude Code, Codex, Devin and other coding agents across local and remote machines in isolated tmux sessions, with domain packages extending them into circuit design, 3D modeling, robotics and music.</description>
-<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.thenextgentechinsider.com/pulse/autonomous-launches-harness-an-open-source-command-center-for-ai-coding-agents</guid>
 </item>
 </channel>
 </rss>
