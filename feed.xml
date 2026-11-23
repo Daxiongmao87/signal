@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://pan.parallax.kr/article/pi-1-0-released-enhanced-agent-harness-durable-version</guid>
 </item>
 <item>
+<title>LookAtMyQuant open-sources compiler that quantizes Qwen3.5-4B to 1.23 GB</title>
+<link>https://www.haiai123.com/en/hot/9759</link>
+<description>Open-source quantization compiler that sizes codewords by measured output damage, squeezing Qwen3.5-4B to 2.3 bits per weight while keeping most of its exact-answer math ability.</description>
+<pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.haiai123.com/en/hot/9759</guid>
+</item>
+<item>
 <title>WoW: Forever Had the Biggest Launch in WoW History. December 9 Decides What It Means</title>
 <link>https://mmostats.com/article/world-of-warcraft-forever-launch-numbers</link>
 <description>MMOStats stress-tests Blizzard's 'biggest launch ever' claim against Wikipedia and Twitch attention data, and argues the December 9 raid unlock is the real retention test for the level-60-capped world.</description>
@@ -278,13 +285,6 @@
 <description>Post-launch rundown confirms the first WoW: Forever raids, Barrow Deeps, Hyjal Summit and Onyxia's Lair, unlock December 9 for level 60 players, with the live build on a stack of hotfixes dated through November 13.</description>
 <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://worstguidesever.com/wow-classic-plus-camelot-release-date-leaks/</guid>
-</item>
-<item>
-<title>Gemma 4 QAT Checkpoints vs Regular Q4 GGUFs, Measured</title>
-<link>https://www.bigiron.cc/guides/gemma-4-qat-checkpoints-vs-regular-q4-ggufs-measured</link>
-<description>Measured comparison finds Unsloth's QAT GGUF for Gemma 4 E2B the smallest and closest 4-bit file, beating Google's official Q4_0 build.</description>
-<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.bigiron.cc/guides/gemma-4-qat-checkpoints-vs-regular-q4-ggufs-measured</guid>
 </item>
 </channel>
 </rss>
