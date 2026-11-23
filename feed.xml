@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://agentlenshq.com/blogs/f13fd481-f8b3-4230-b2fe-d6bc159d70b1</guid>
 </item>
 <item>
+<title>Local Adapters, CLI Harnesses, and Craftsmanship in Agentic Workflows</title>
+<link>https://aiwithghost.com/news/news-local-adapters-cli-harnesses-and-craftsmanship-in-agentic-workflows/</link>
+<description>Hugging Face shipped RL-trained LoRA adapters for Qwen3.8-27B, while Cline, Codex CLI, and Crush all landed harness updates in the same week.</description>
+<pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aiwithghost.com/news/news-local-adapters-cli-harnesses-and-craftsmanship-in-agentic-workflows/</guid>
+</item>
+<item>
 <title>Look At My Quant: 12x lower KL than Q4_K_M</title>
 <link>https://headlinesbriefing.com/dev/hacker-news/look-at-my-quant-12-lower-kl-than-q4km-082b3780</link>
 <description>A new open-source quantization compiler measures per-piece compression damage and picks the best code for each, beating Q4_K_M by 12x lower KL divergence at the same file size on Gemma 4 E2B, and shrinking Qwen3.8-27B to 7.2 GB with no math-score loss.</description>
@@ -75,6 +82,13 @@
 <description>Thinking Machines Lab's 26.4B-parameter looped MoE ships under Apache 2.0 in a ~20 GB checkpoint, reusing its middle layers three times per token to beat Qwen3.8-27B on agentic coding benchmarks on 32 GB laptops.</description>
 <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aiunderstanding.org/news/thinking-machines-releases-inkling-2-mini-a-26b-looped-transformer-that-runs-local</guid>
+</item>
+<item>
+<title>What Is WoW Forever? The World of Warcraft That Stays</title>
+<link>https://www.goblinstreet.com/what-is-wow-forever</link>
+<description>Two weeks after launch, a rundown of what Forever actually is: level-60 cap, rulesets instead of realms, Skyborne elves, and raids unlocking December 9.</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.goblinstreet.com/what-is-wow-forever</guid>
 </item>
 <item>
 <title>Coding Agent Harness Directory (2026): 28 harnesses compared</title>
@@ -271,20 +285,6 @@
 <description>A walkthrough of GitHub Agentic Workflows' general availability: Markdown-defined coding agents running sandboxed inside GitHub Actions, with a $10 default per-run cost cap and a choice of Copilot CLI, Claude Code, Codex, Gemini, or Pi as the engine.</description>
 <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://techbycountry.blogspot.com/2026/11/github-agentic-workflows-explained.html</guid>
-</item>
-<item>
-<title>SenseNova-Loop-9B: SenseTime's 9B open model loops its layers twice</title>
-<link>https://i10x.ai/news/sensenova-loop-9b-open-weights-sensetime</link>
-<description>SenseTime's 9B Apache-2.0 model reuses its middle layers twice per pass for deeper reasoning; 4-bit weights run on under 10 GB of GPU memory with a 512K context.</description>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://i10x.ai/news/sensenova-loop-9b-open-weights-sensetime</guid>
-</item>
-<item>
-<title>Serving a local LLM to several users: Ollama, LM Studio, llama.cpp and vLLM benchmarked</title>
-<link>https://www.sitepoint.com/serving-a-local-llm-to-several-users-ollama-lm-studio-llama-cpp-and-vllm-benchmarked/</link>
-<description>On one RTX 3090 the four servers are within 10% for single requests, but under concurrent load the defaults diverge sharply: Ollama queues requests serially while vLLM pulls ahead, and llama.cpp needs -np raised past its 4-slot default.</description>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.sitepoint.com/serving-a-local-llm-to-several-users-ollama-lm-studio-llama-cpp-and-vllm-benchmarked/</guid>
 </item>
 </channel>
 </rss>
