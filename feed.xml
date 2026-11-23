@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 21 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>WoW: Forever Had the Biggest Launch in WoW History. December 9 Decides What It Means</title>
+<link>https://mmostats.com/article/world-of-warcraft-forever-launch-numbers</link>
+<description>MMOStats stress-tests Blizzard's 'biggest launch ever' claim against Wikipedia and Twitch attention data, and argues the December 9 raid unlock is the real retention test for the level-60-capped world.</description>
+<pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://mmostats.com/article/world-of-warcraft-forever-launch-numbers</guid>
+</item>
 <item>
 <title>Cline SDK v0.2.1 and Codex rust-v0.171.0 land agent runtime updates</title>
 <link>https://dockwarelabs.dockfinity.com/discovery</link>
@@ -278,13 +285,6 @@
 <description>A free, open-source dashboard that runs Claude Code, Codex, Devin and other coding agents across local and remote machines in isolated tmux sessions, with domain packages extending them into circuit design, 3D modeling, robotics and music.</description>
 <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.thenextgentechinsider.com/pulse/autonomous-launches-harness-an-open-source-command-center-for-ai-coding-agents</guid>
-</item>
-<item>
-<title>LLM Hub: Free App Runs Chat, Video, Music, and Voice Cloning Offline on Your Phone</title>
-<link>https://tokenstrom.com/posts/llm-hub-free-app-runs-chat-video-music-and-voice-cloning-offline-on-yo/</link>
-<description>LLM Hub packs 15+ on-device AI tools into one free Android and iOS app with no data collection or accounts, including a Termux-integrated agent that writes and runs shell commands on-device and a Vibe Coder mode backed by a local Codex server.</description>
-<pubDate>Sun, 15 Nov 2026 18:48:35 +0000</pubDate>
-<guid isPermaLink="true">https://tokenstrom.com/posts/llm-hub-free-app-runs-chat-video-music-and-voice-cloning-offline-on-yo/</guid>
 </item>
 </channel>
 </rss>
