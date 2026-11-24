@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Sun, 22 Nov 2026 21:05:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 02:38:41 +0000</lastBuildDate>
+<item>
+<title>llama.cpp b12669: Custom GGUF File Size and Quantization</title>
+<link>https://ingoampt.com/llama-cpp-b12669-custom-gguf-size-targets/</link>
+<description>llama.cpp's new prerelease lets the quantizer aim for a target GGUF file size or average bits-per-weight instead of a fixed preset.</description>
+<pubDate>Tue, 24 Nov 2026 02:38:41 +0000</pubDate>
+<guid isPermaLink="true">https://ingoampt.com/llama-cpp-b12669-custom-gguf-size-targets/</guid>
+</item>
 <item>
 <title>Pi 1.0 Released, Introducing Enhanced Agent Harness and Pi Durable</title>
 <link>https://pan.parallax.kr/article/pi-1-0-released-enhanced-agent-harness-durable-version</link>
@@ -278,13 +285,6 @@
 <description>Microsoft put the Copilot Harness into public preview in Foundry Agent Service, a managed orchestration layer that decouples model choice from the agent loop, with the runtime free until December 1.</description>
 <pubDate>Tue, 17 Nov 2026 07:52:00 +0000</pubDate>
 <guid isPermaLink="true">https://glacom.news/en/Microsoft-Opens-Copilot-Harness-in-Foundry-Agent-Service-for-AI-Agents-802248</guid>
-</item>
-<item>
-<title>The Siege on Manual VTT Layout: Foundry &amp; Fantasy Grounds Are Now Turnkey</title>
-<link>https://itch.io/devlog/1785762/the-siege-on-manual-vtt-layout-foundry-fantasy-grounds-are-now-turnkey.amp</link>
-<description>A Basic Fantasy adventure bundle now ships native Foundry VTT and Fantasy Grounds modules compiled by an automated engine in under a minute, replacing manual VTT data entry.</description>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://itch.io/devlog/1785762/the-siege-on-manual-vtt-layout-foundry-fantasy-grounds-are-now-turnkey.amp</guid>
 </item>
 </channel>
 </rss>
