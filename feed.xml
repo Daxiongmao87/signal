@@ -98,6 +98,13 @@
 <guid isPermaLink="true">https://www.goblinstreet.com/what-is-wow-forever</guid>
 </item>
 <item>
+<title>LLM Fine-Tuning Techniques (2026): LoRA, QLoRA, DoRA, VeRA &amp; DPO</title>
+<link>https://www.peterindia.net/FineTuningTechniques.html</link>
+<description>Roundup of the fine-tuning stack with fresh release notes: PEFT v0.21.3 and TRL v1.18.0 both landed November 13, alongside Unsloth v0.1.913-beta and Axolotl v0.21.1.</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.peterindia.net/FineTuningTechniques.html</guid>
+</item>
+<item>
 <title>Coding Agent Harness Directory (2026): 28 harnesses compared</title>
 <link>https://aq.dev/guides/coding-agent-harness-directory/</link>
 <description>A November 20 update to a directory comparing 28 coding-agent harnesses — lab CLIs, open-source model-neutral harnesses, and desktop and cloud runners — with prices, benchmarks, and a list of tools that shut down this year.</description>
@@ -278,13 +285,6 @@
 <description>Microsoft put the Copilot Harness into public preview in Foundry Agent Service, a managed orchestration layer that decouples model choice from the agent loop, with the runtime free until December 1.</description>
 <pubDate>Tue, 17 Nov 2026 07:52:00 +0000</pubDate>
 <guid isPermaLink="true">https://glacom.news/en/Microsoft-Opens-Copilot-Harness-in-Foundry-Agent-Service-for-AI-Agents-802248</guid>
-</item>
-<item>
-<title>The Siege on Manual VTT Layout: Foundry &amp; Fantasy Grounds Are Now Turnkey</title>
-<link>https://itch.io/devlog/1785762/the-siege-on-manual-vtt-layout-foundry-fantasy-grounds-are-now-turnkey.amp</link>
-<description>A Basic Fantasy adventure bundle now ships native Foundry VTT and Fantasy Grounds modules compiled by an automated engine in under a minute, replacing manual VTT data entry.</description>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://itch.io/devlog/1785762/the-siege-on-manual-vtt-layout-foundry-fantasy-grounds-are-now-turnkey.amp</guid>
 </item>
 </channel>
 </rss>
