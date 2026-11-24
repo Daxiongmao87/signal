@@ -105,6 +105,13 @@
 <guid isPermaLink="true">https://www.goblinstreet.com/what-is-wow-forever</guid>
 </item>
 <item>
+<title>Open-Weight Efficiency: Inkling 2 Mini</title>
+<link>https://futurumgroup.com/insights/thinking-machines-inkling-2-mini-redraws-the-open-weight-efficiency-frontier/</link>
+<description>Thinking Machines' 26.4B looped-transformer MoE ships as a ~20GB Apache 2.0 checkpoint that runs offline on a laptop and leads sub-100B open models on agentic coding benchmarks.</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://futurumgroup.com/insights/thinking-machines-inkling-2-mini-redraws-the-open-weight-efficiency-frontier/</guid>
+</item>
+<item>
 <title>Coding Agent Harness Directory (2026): 28 harnesses compared</title>
 <link>https://aq.dev/guides/coding-agent-harness-directory/</link>
 <description>A November 20 update to a directory comparing 28 coding-agent harnesses — lab CLIs, open-source model-neutral harnesses, and desktop and cloud runners — with prices, benchmarks, and a list of tools that shut down this year.</description>
@@ -278,13 +285,6 @@
 <description>New Apache 2.0 Go harness that splits coding work into parallel tasks on separate branches, with build, security-audit and PR-review specialists, running open models via Ollama, OpenRouter or any OpenAI-compatible endpoint.</description>
 <pubDate>Tue, 17 Nov 2026 11:00:05 +0000</pubDate>
 <guid isPermaLink="true">https://www.everydev.ai/tools/codeaf</guid>
-</item>
-<item>
-<title>Microsoft Opens Copilot Harness in Foundry Agent Service for AI Agents</title>
-<link>https://glacom.news/en/Microsoft-Opens-Copilot-Harness-in-Foundry-Agent-Service-for-AI-Agents-802248</link>
-<description>Microsoft put the Copilot Harness into public preview in Foundry Agent Service, a managed orchestration layer that decouples model choice from the agent loop, with the runtime free until December 1.</description>
-<pubDate>Tue, 17 Nov 2026 07:52:00 +0000</pubDate>
-<guid isPermaLink="true">https://glacom.news/en/Microsoft-Opens-Copilot-Harness-in-Foundry-Agent-Service-for-AI-Agents-802248</guid>
 </item>
 </channel>
 </rss>
