@@ -168,6 +168,13 @@
 <guid isPermaLink="true">http://mobalytics.gg/wow-forever/profile/the-comeback-kids/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</guid>
 </item>
 <item>
+<title>Thinking Machines Releases Inkling 2 Mini for Local AI</title>
+<link>https://www.zeniteq.com/news/thinking-machines-releases-inkling-2-mini-for-local-ai-biz3ol</link>
+<description>Thinking Machines Lab's 26.4B-parameter looped MoE ships under Apache 2.0 in a roughly 20 GB checkpoint, built to run on a 32 GB laptop or a single DGX Spark.</description>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.zeniteq.com/news/thinking-machines-releases-inkling-2-mini-for-local-ai-biz3ol</guid>
+</item>
+<item>
 <title>Berkeley and NVIDIA Release Agentic Robot Tools</title>
 <link>https://developmentstoday.com/ai-robotics/berkeley-nvidia-open-source-agentic-robot-tools</link>
 <description>UC Berkeley and NVIDIA open-sourced agentic tooling for industrial robot programming: AI coding agents generate readable robot programs, split tasks into modular skills with Graph-as-Policy, and rehearse them in simulation before deployment.</description>
@@ -278,13 +285,6 @@
 <description>SparkLLM shipped Spark-X2.6-4B, a 4B open model tuned for coding and tool use with a three-level reasoning budget; the GGUF build is 3.54 GB at Q4_K_M and it claims near-9B quality on agent benchmarks.</description>
 <pubDate>Tue, 17 Nov 2026 16:00:04 +0000</pubDate>
 <guid isPermaLink="true">https://alphasignal.ai/news/sparkllm-s-spark-x2-6-4b-runs-local-agents-on-3-54-gb-with-adjustable-reasoning</guid>
-</item>
-<item>
-<title>CodeAF - Open Source Coding Agent Harness</title>
-<link>https://www.everydev.ai/tools/codeaf</link>
-<description>New Apache 2.0 Go harness that splits coding work into parallel tasks on separate branches, with build, security-audit and PR-review specialists, running open models via Ollama, OpenRouter or any OpenAI-compatible endpoint.</description>
-<pubDate>Tue, 17 Nov 2026 11:00:05 +0000</pubDate>
-<guid isPermaLink="true">https://www.everydev.ai/tools/codeaf</guid>
 </item>
 </channel>
 </rss>
