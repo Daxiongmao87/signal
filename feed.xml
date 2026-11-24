@@ -42,6 +42,13 @@
 <guid isPermaLink="true">https://aiwithghost.com/news/news-local-adapters-cli-harnesses-and-craftsmanship-in-agentic-workflows/</guid>
 </item>
 <item>
+<title>amv-runtime 2.9.0</title>
+<link>https://pypi.org/project/amv-runtime/</link>
+<description>GPU acceleration runtime for on-device AI on Android phones detects the SoC and installs matching llama.cpp, whisper.cpp, and BitNet bundles, running them through Vulkan or OpenCL from Termux.</description>
+<pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://pypi.org/project/amv-runtime/</guid>
+</item>
+<item>
 <title>Look At My Quant: 12x lower KL than Q4_K_M</title>
 <link>https://headlinesbriefing.com/dev/hacker-news/look-at-my-quant-12-lower-kl-than-q4km-082b3780</link>
 <description>A new open-source quantization compiler measures per-piece compression damage and picks the best code for each, beating Q4_K_M by 12x lower KL divergence at the same file size on Gemma 4 E2B, and shrinking Qwen3.8-27B to 7.2 GB with no math-score loss.</description>
@@ -278,13 +285,6 @@
 <description>A Basic Fantasy adventure bundle now ships native Foundry VTT and Fantasy Grounds modules compiled by an automated engine in under a minute, replacing manual VTT data entry.</description>
 <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://itch.io/devlog/1785762/the-siege-on-manual-vtt-layout-foundry-fantasy-grounds-are-now-turnkey.amp</guid>
-</item>
-<item>
-<title>GitHub Agentic Workflows Explained: AI Agents in GitHub Actions, Safety Checks and Costs</title>
-<link>https://techbycountry.blogspot.com/2026/11/github-agentic-workflows-explained.html</link>
-<description>A walkthrough of GitHub Agentic Workflows' general availability: Markdown-defined coding agents running sandboxed inside GitHub Actions, with a $10 default per-run cost cap and a choice of Copilot CLI, Claude Code, Codex, Gemini, or Pi as the engine.</description>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://techbycountry.blogspot.com/2026/11/github-agentic-workflows-explained.html</guid>
 </item>
 </channel>
 </rss>
