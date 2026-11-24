@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://ingoampt.com/llama-cpp-b12669-custom-gguf-size-targets/</guid>
 </item>
 <item>
+<title>Thinking Machines' Inkling 2 Mini Puts a Looped 26B Open Model on Your Laptop</title>
+<link>https://admix.software/blog/thinking-machines-inkling-2-mini-open-weights</link>
+<description>Thinking Machines' 26.4B looped-transformer MoE ships Apache 2.0 with day-0 support in llama.cpp, Ollama and vLLM, and Unsloth GGUF quants that target 16 GB of RAM.</description>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://admix.software/blog/thinking-machines-inkling-2-mini-open-weights</guid>
+</item>
+<item>
 <title>Pi 1.0 Released, Introducing Enhanced Agent Harness and Pi Durable</title>
 <link>https://pan.parallax.kr/article/pi-1-0-released-enhanced-agent-harness-durable-version</link>
 <description>Earendil ships Pi 1.0, a hardened minimal coding-agent harness with Codemode, MCP support, deferred tool loading and cache warming, plus the experimental Pi Durable for long-running agentic apps.</description>
@@ -278,13 +285,6 @@
 <description>New open-source Android app that turns a phone into an AI workstation: cloud and local models, SSH, bidirectional MCP, and Termux as a first-class contour with on-device tool use.</description>
 <pubDate>Tue, 17 Nov 2026 22:26:56 +0000</pubDate>
 <guid isPermaLink="true">https://community.benhalpern.com/anton_admiralfishman_1/an-ai-app-for-android-forgemind-a-kotlin-workstation-for-cloud-and-local-models-195a</guid>
-</item>
-<item>
-<title>Spark-X2.6-4B: 4B open model for local agents with adjustable reasoning</title>
-<link>https://alphasignal.ai/news/sparkllm-s-spark-x2-6-4b-runs-local-agents-on-3-54-gb-with-adjustable-reasoning</link>
-<description>SparkLLM shipped Spark-X2.6-4B, a 4B open model tuned for coding and tool use with a three-level reasoning budget; the GGUF build is 3.54 GB at Q4_K_M and it claims near-9B quality on agent benchmarks.</description>
-<pubDate>Tue, 17 Nov 2026 16:00:04 +0000</pubDate>
-<guid isPermaLink="true">https://alphasignal.ai/news/sparkllm-s-spark-x2-6-4b-runs-local-agents-on-3-54-gb-with-adjustable-reasoning</guid>
 </item>
 </channel>
 </rss>
