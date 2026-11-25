@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://ingoampt.com/llama-cpp-b12669-custom-gguf-size-targets/</guid>
 </item>
 <item>
+<title>Inkling 2 Mini: the local AI model that loops its own layers</title>
+<link>https://empv.it/en/research-notes/inkling-2-mini-local-ai-looped-transformer/?share=20261123a</link>
+<description>A Nov 23 look at Thinking Machines' Inkling 2 Mini: a 26.4B looped-transformer MoE with a ~20GB checkpoint and NVFP4 weights, and the hardware bar for running it locally — 32GB Apple Silicon or 32GB VRAM.</description>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://empv.it/en/research-notes/inkling-2-mini-local-ai-looped-transformer/?share=20261123a</guid>
+</item>
+<item>
 <title>Thinking Machines' Inkling 2 Mini Puts a Looped 26B Open Model on Your Laptop</title>
 <link>https://admix.software/blog/thinking-machines-inkling-2-mini-open-weights</link>
 <description>Thinking Machines' 26.4B looped-transformer MoE ships Apache 2.0 with day-0 support in llama.cpp, Ollama and vLLM, and Unsloth GGUF quants that target 16 GB of RAM.</description>
@@ -278,13 +285,6 @@
 <description>OVHcloud's first in-house model: 7B total parameters with only 1B active per request, Apache 2.0 open weights with GGUF and MLX builds, aimed at 8 GB GPUs and CPUs — though llama.cpp and Ollama cannot load its hybrid Mamba-3 architecture yet.</description>
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://technosports.co.in/olala-mini-7a1b-model/</guid>
-</item>
-<item>
-<title>Ollama vs llama.cpp, Ollama vs LM Studio: RTX 5080 Data</title>
-<link>https://techfuelhq.com/data/llm-server-compare/</link>
-<description>Same RTX 5080, two August captures: Ollama edges bare llama.cpp on dense decode while LM Studio prefills faster, and the shipped settings move throughput more than the app choice.</description>
-<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://techfuelhq.com/data/llm-server-compare/</guid>
 </item>
 </channel>
 </rss>
