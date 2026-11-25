@@ -126,6 +126,13 @@
 <guid isPermaLink="true">https://futurumgroup.com/insights/thinking-machines-inkling-2-mini-redraws-the-open-weight-efficiency-frontier/</guid>
 </item>
 <item>
+<title>Inkling 2 Small is open weights under Apache 2.0: what local builders can actually run</title>
+<link>https://bitwidth.ai/articles/inkling-2-small-is-open-weights-under-apache-2-0-what-local-builders-can</link>
+<description>Thinking Machines posted the 594B Inkling 2 Small weights on Nov 12, but the smallest published build is 118 GB and needs its own engine, so the piece checks what the open license actually buys a home builder.</description>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://bitwidth.ai/articles/inkling-2-small-is-open-weights-under-apache-2-0-what-local-builders-can</guid>
+</item>
+<item>
 <title>Coding Agent Harness Directory (2026): 28 harnesses compared</title>
 <link>https://aq.dev/guides/coding-agent-harness-directory/</link>
 <description>A November 20 update to a directory comparing 28 coding-agent harnesses — lab CLIs, open-source model-neutral harnesses, and desktop and cloud runners — with prices, benchmarks, and a list of tools that shut down this year.</description>
@@ -278,13 +285,6 @@
 <description>Same RTX 5080, two August captures: Ollama edges bare llama.cpp on dense decode while LM Studio prefills faster, and the shipped settings move throughput more than the app choice.</description>
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://techfuelhq.com/data/llm-server-compare/</guid>
-</item>
-<item>
-<title>WoW Forever News: Record Player Numbers, Shadow Priest Nerfs, Gold Exploit Punishments, and More!</title>
-<link>http://mobalytics.gg/wow-forever/news/wow-forever-news-record-player-numbers-shadow-priest-nerfs-gold-exploit-punishments-and-more</link>
-<description>Blizzard reports its biggest weekly player audience in 15 years while the November 16-17 hotfixes restore UBRS difficulty, adjust Shadow Priests and Windfury, and punish a gold-farming exploit in Blackmaw Hold.</description>
-<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">http://mobalytics.gg/wow-forever/news/wow-forever-news-record-player-numbers-shadow-priest-nerfs-gold-exploit-punishments-and-more</guid>
 </item>
 </channel>
 </rss>
