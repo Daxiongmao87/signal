@@ -42,6 +42,13 @@
 <guid isPermaLink="true">https://root.benhalpern.com/jamilxt/inkling-2-mini-explained-how-a-looped-transformer-gets-more-reasoning-out-of-a-20gb-model-14a6</guid>
 </item>
 <item>
+<title>Local Adapters, CLI Harnesses, and Craftsmanship in Agentic Workflows</title>
+<link>http://dev.to/githubopensource/local-adapters-cli-harnesses-and-craftsmanship-in-agentic-workflows-25j8</link>
+<description>A roundup of the week's agent-tooling moves: HF's RL-trained LoRA adapters for Qwen3.8-27B, plus Cline 3.0.75, Codex CLI 0.171, and Crush 0.102 shipping autonomous-execution and TUI updates.</description>
+<pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">http://dev.to/githubopensource/local-adapters-cli-harnesses-and-craftsmanship-in-agentic-workflows-25j8</guid>
+</item>
+<item>
 <title>LookAtMyQuant open-sources compiler that quantizes Qwen3.5-4B to 1.23 GB</title>
 <link>https://www.haiai123.com/en/hot/9759</link>
 <description>Open-source quantization compiler that sizes codewords by measured output damage, squeezing Qwen3.5-4B to 2.3 bits per weight while keeping most of its exact-answer math ability.</description>
@@ -82,6 +89,13 @@
 <description>A new open-source quantization compiler measures per-piece compression damage and picks the best code for each, beating Q4_K_M by 12x lower KL divergence at the same file size on Gemma 4 E2B, and shrinking Qwen3.8-27B to 7.2 GB with no math-score loss.</description>
 <pubDate>Sat, 21 Nov 2026 18:02:00 +0000</pubDate>
 <guid isPermaLink="true">https://headlinesbriefing.com/dev/hacker-news/look-at-my-quant-12-lower-kl-than-q4km-082b3780</guid>
+</item>
+<item>
+<title>Inkling 2 Mini: The 26B Model That Thinks Three Times Per Token — and Runs on Your Laptop</title>
+<link>http://dev.to/peng_zhou_502d2d972ff7418/inkling-2-mini-the-26b-model-that-thinks-three-times-per-token-and-runs-on-your-laptop-29lm</link>
+<description>A walkthrough of Thinking Machines' Inkling 2 Mini: a 26.4B open-weights MoE that loops its middle layers three times per token, fits in ~20GB, and leads sub-100B open models on agentic coding benchmarks.</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">http://dev.to/peng_zhou_502d2d972ff7418/inkling-2-mini-the-26b-model-that-thinks-three-times-per-token-and-runs-on-your-laptop-29lm</guid>
 </item>
 <item>
 <title>Cline SDK v0.2.1 and Codex rust-v0.171.0 land agent runtime updates</title>
@@ -131,6 +145,13 @@
 <description>Thinking Machines' 26.4B looped-transformer MoE ships as a ~20GB Apache 2.0 checkpoint that runs offline on a laptop and leads sub-100B open models on agentic coding benchmarks.</description>
 <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://futurumgroup.com/insights/thinking-machines-inkling-2-mini-redraws-the-open-weight-efficiency-frontier/</guid>
+</item>
+<item>
+<title>WoW Forever News: Blizzard Addresses Major Problems, PvP Changes, Free 16 Slot Bag, and More!</title>
+<link>http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</link>
+<description>Blizzard's devs talk through WoW Forever's early problems — struggling specs, healer shortages, PvP survivability — plus Honor and Rank Points explained, a free 16-slot bag questline, and missing Undead Paladin rewards.</description>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</guid>
 </item>
 <item>
 <title>Inkling 2 Small is open weights under Apache 2.0: what local builders can actually run</title>
@@ -264,27 +285,6 @@
 <description>Blizzard walked back its Nov 13 anti-boosting XP rule after it wiped dungeon experience for ordinary groups, replacing it with a 12-level gap threshold.</description>
 <pubDate>Wed, 18 Nov 2026 07:45:35 +0000</pubDate>
 <guid isPermaLink="true">https://drezzed.clownfishtv.com/p/blizzard-admits-wow-forever-dungeon</guid>
-</item>
-<item>
-<title>llama.cpp b12500 adds fastdiv CUDA conv2d optimization</title>
-<link>https://oossa.com/en/llama-cpp-adds-fastdiv-cuda-conv2d-optimization</link>
-<description>llama.cpp b12500 swaps three integer divisions for precomputed fast-division in its CUDA conv2d kernel, roughly halving that kernel's runtime on NVIDIA GPUs.</description>
-<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://oossa.com/en/llama-cpp-adds-fastdiv-cuda-conv2d-optimization</guid>
-</item>
-<item>
-<title>Is WoW Forever Classic Plus?</title>
-<link>https://theforeverera.com/en/guides/classic-plus/</link>
-<description>A freshly updated explainer on what Blizzard actually calls WoW: Forever, what it keeps from Classic, what it adds at launch, and why the community name Classic Plus is not the official one, with raids opening December 9.</description>
-<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://theforeverera.com/en/guides/classic-plus/</guid>
-</item>
-<item>
-<title>Olala Mini 7A1B Brings Local AI to Smaller Hardware</title>
-<link>https://technosports.co.in/olala-mini-7a1b-model/</link>
-<description>OVHcloud's first in-house model: 7B total parameters with only 1B active per request, Apache 2.0 open weights with GGUF and MLX builds, aimed at 8 GB GPUs and CPUs — though llama.cpp and Ollama cannot load its hybrid Mamba-3 architecture yet.</description>
-<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://technosports.co.in/olala-mini-7a1b-model/</guid>
 </item>
 </channel>
 </rss>
