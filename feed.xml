@@ -28,6 +28,13 @@
 <guid isPermaLink="true">https://pan.parallax.kr/article/pi-1-0-released-enhanced-agent-harness-durable-version</guid>
 </item>
 <item>
+<title>Inkling 2 Mini Explained: How a Looped Transformer Gets More Reasoning Out of a 20GB Model</title>
+<link>https://root.benhalpern.com/jamilxt/inkling-2-mini-explained-how-a-looped-transformer-gets-more-reasoning-out-of-a-20gb-model-14a6</link>
+<description>A deep dive into Thinking Machines' looped-transformer design: 12 shared layers run three times per token, squeezing agentic-coding strength into a ~20GB open-weights model that runs on a laptop.</description>
+<pubDate>Sun, 22 Nov 2026 11:50:49 +0000</pubDate>
+<guid isPermaLink="true">https://root.benhalpern.com/jamilxt/inkling-2-mini-explained-how-a-looped-transformer-gets-more-reasoning-out-of-a-20gb-model-14a6</guid>
+</item>
+<item>
 <title>LookAtMyQuant open-sources compiler that quantizes Qwen3.5-4B to 1.23 GB</title>
 <link>https://www.haiai123.com/en/hot/9759</link>
 <description>Open-source quantization compiler that sizes codewords by measured output damage, squeezing Qwen3.5-4B to 2.3 bits per weight while keeping most of its exact-answer math ability.</description>
@@ -278,13 +285,6 @@
 <description>Blizzard reports its biggest weekly player audience in 15 years while the November 16-17 hotfixes restore UBRS difficulty, adjust Shadow Priests and Windfury, and punish a gold-farming exploit in Blackmaw Hold.</description>
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">http://mobalytics.gg/wow-forever/news/wow-forever-news-record-player-numbers-shadow-priest-nerfs-gold-exploit-punishments-and-more</guid>
-</item>
-<item>
-<title>An AI app for Android: ForgeMind, a Kotlin workstation for cloud and local models</title>
-<link>https://community.benhalpern.com/anton_admiralfishman_1/an-ai-app-for-android-forgemind-a-kotlin-workstation-for-cloud-and-local-models-195a</link>
-<description>New open-source Android app that turns a phone into an AI workstation: cloud and local models, SSH, bidirectional MCP, and Termux as a first-class contour with on-device tool use.</description>
-<pubDate>Tue, 17 Nov 2026 22:26:56 +0000</pubDate>
-<guid isPermaLink="true">https://community.benhalpern.com/anton_admiralfishman_1/an-ai-app-for-android-forgemind-a-kotlin-workstation-for-cloud-and-local-models-195a</guid>
 </item>
 </channel>
 </rss>
