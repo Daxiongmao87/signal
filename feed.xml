@@ -147,13 +147,6 @@
 <guid isPermaLink="true">https://futurumgroup.com/insights/thinking-machines-inkling-2-mini-redraws-the-open-weight-efficiency-frontier/</guid>
 </item>
 <item>
-<title>WoW Forever News: Blizzard Addresses Major Problems, PvP Changes, Free 16 Slot Bag, and More!</title>
-<link>http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</link>
-<description>Blizzard's devs talk through WoW Forever's early problems — struggling specs, healer shortages, PvP survivability — plus Honor and Rank Points explained, a free 16-slot bag questline, and missing Undead Paladin rewards.</description>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</guid>
-</item>
-<item>
 <title>Inkling 2 Small is open weights under Apache 2.0: what local builders can actually run</title>
 <link>https://bitwidth.ai/articles/inkling-2-small-is-open-weights-under-apache-2-0-what-local-builders-can</link>
 <description>Thinking Machines posted the 594B Inkling 2 Small weights on Nov 12, but the smallest published build is 118 GB and needs its own engine, so the piece checks what the open license actually buys a home builder.</description>
@@ -285,6 +278,13 @@
 <description>Blizzard walked back its Nov 13 anti-boosting XP rule after it wiped dungeon experience for ordinary groups, replacing it with a 12-level gap threshold.</description>
 <pubDate>Wed, 18 Nov 2026 07:45:35 +0000</pubDate>
 <guid isPermaLink="true">https://drezzed.clownfishtv.com/p/blizzard-admits-wow-forever-dungeon</guid>
+</item>
+<item>
+<title>llama.cpp b12500 adds fastdiv CUDA conv2d optimization</title>
+<link>https://oossa.com/en/llama-cpp-adds-fastdiv-cuda-conv2d-optimization</link>
+<description>llama.cpp b12500 swaps three integer divisions for precomputed fast-division in its CUDA conv2d kernel, roughly halving that kernel's runtime on NVIDIA GPUs.</description>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://oossa.com/en/llama-cpp-adds-fastdiv-cuda-conv2d-optimization</guid>
 </item>
 </channel>
 </rss>
