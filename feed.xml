@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 25 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Foundry VTT 14.371: security-focused stable release ahead of Version 15</title>
+<link>https://foundryvtt.com/releases/14.371</link>
+<description>Foundry's last Version 14 stable update fixes a batch of vulnerabilities found through AI-assisted security research, bumps Electron to 45.3.4 and Node.js to 24.22.3/26.13.1, and adds Apple Silicon performance work plus Region and VFX improvements before development moves to Version 15.</description>
+<pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://foundryvtt.com/releases/14.371</guid>
+</item>
 <item>
 <title>Pax: the Pydantic AI coding agent for your terminal</title>
 <link>https://pydantic.dev/articles/pax-harness-beta</link>
@@ -278,13 +285,6 @@
 <description>Thinking Machines Lab's 26.4B-parameter looped MoE ships under Apache 2.0 in a roughly 20 GB checkpoint, built to run on a 32 GB laptop or a single DGX Spark.</description>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.zeniteq.com/news/thinking-machines-releases-inkling-2-mini-for-local-ai-biz3ol</guid>
-</item>
-<item>
-<title>Berkeley and NVIDIA Release Agentic Robot Tools</title>
-<link>https://developmentstoday.com/ai-robotics/berkeley-nvidia-open-source-agentic-robot-tools</link>
-<description>UC Berkeley and NVIDIA open-sourced agentic tooling for industrial robot programming: AI coding agents generate readable robot programs, split tasks into modular skills with Graph-as-Policy, and rehearse them in simulation before deployment.</description>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://developmentstoday.com/ai-robotics/berkeley-nvidia-open-source-agentic-robot-tools</guid>
 </item>
 </channel>
 </rss>
