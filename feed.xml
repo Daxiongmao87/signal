@@ -119,6 +119,13 @@
 <guid isPermaLink="true">https://headlinesbriefing.com/dev/hacker-news/look-at-my-quant-12-lower-kl-than-q4km-082b3780</guid>
 </item>
 <item>
+<title>Thinking Machines Ships Inkling 2 Mini, an Open-Weight Multimodal Model Built for Local Hardware</title>
+<link>https://stackademic.com/blog/thinking-machines-ships-inkling-2-mini-an-open-weight-multimodal-model-built-for-local-hardware</link>
+<description>Thinking Machines' 26B looped-transformer MoE ships with day-zero Hugging Face and llama.cpp support, a ~20GB footprint, and a 1M-token context for laptop-class local inference.</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://stackademic.com/blog/thinking-machines-ships-inkling-2-mini-an-open-weight-multimodal-model-built-for-local-hardware</guid>
+</item>
+<item>
 <title>LLM Fine-Tuning Techniques (2026): LoRA, QLoRA, DoRA, VeRA &amp; DPO</title>
 <link>https://www.peterindia.net/FineTuningTechniques.html</link>
 <description>A current survey of the fine-tuning stack with the latest releases noted: PEFT 0.21.3 and TRL 1.18.0, both shipped November 13, plus Unsloth and Axolotl versions in use.</description>
@@ -278,13 +285,6 @@
 <description>A November 2026 ranking of 73 open-source training and fine-tuning tools, covering PEFT, Unsloth, TRL and Axolotl with current release activity and star growth for picking a LoRA stack.</description>
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://archestack.com/best-of-ai/training/</guid>
-</item>
-<item>
-<title>AgentCore Harness on Strands: Hooks That Block Tool Calls</title>
-<link>https://www.explainx.ai/blog/amazon-bedrock-agentcore-harness-strands-defaults-lifecycle-hooks-before-tool-call-lambda-november-2026</link>
-<description>AWS moves its managed AgentCore harness onto the open-source Strands framework and adds four lifecycle hooks that let a Lambda allow or deny an agent tool calls.</description>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.explainx.ai/blog/amazon-bedrock-agentcore-harness-strands-defaults-lifecycle-hooks-before-tool-call-lambda-november-2026</guid>
 </item>
 </channel>
 </rss>
