@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://ingoampt.com/llama-cpp-b12669-custom-gguf-size-targets/</guid>
 </item>
 <item>
+<title>WoW Forever News: Blizzard Addresses Lockbox Exploit, Uldaman Loot Removed, New Mounts, and More!</title>
+<link>http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-lockbox-exploit-uldaman-loot-removed-new-mounts-and-more</link>
+<description>Blizzard issues an emergency lockbox fix, a Uldaman loot change strands a leveling weapon, and the roundup covers new mounts, PvP guides, and a 200-dwarf march on Orgrimmar.</description>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-lockbox-exploit-uldaman-loot-removed-new-mounts-and-more</guid>
+</item>
+<item>
 <title>Inkling 2 Mini: the local AI model that loops its own layers</title>
 <link>https://empv.it/en/research-notes/inkling-2-mini-local-ai-looped-transformer/?share=20261123a</link>
 <description>A Nov 23 look at Thinking Machines' Inkling 2 Mini: a 26.4B looped-transformer MoE with a ~20GB checkpoint and NVFP4 weights, and the hardware bar for running it locally — 32GB Apple Silicon or 32GB VRAM.</description>
@@ -168,6 +175,13 @@
 <guid isPermaLink="true">https://futurumgroup.com/insights/thinking-machines-inkling-2-mini-redraws-the-open-weight-efficiency-frontier/</guid>
 </item>
 <item>
+<title>Inkling 2 Mini Is a 26B Open-Weights Model That Runs on Your Laptop</title>
+<link>https://dev.to/rohan_techofficial_81a0f/inkling-2-mini-is-a-26b-open-weights-model-that-runs-on-your-laptop-3e95</link>
+<description>A walkthrough of Inkling 2 Mini: a 26.4B open-weights model that loops its middle layers three times per token and runs offline on a laptop in about 20GB, with leading sub-100B agentic-coding benchmark scores.</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://dev.to/rohan_techofficial_81a0f/inkling-2-mini-is-a-26b-open-weights-model-that-runs-on-your-laptop-3e95</guid>
+</item>
+<item>
 <title>WoW Forever News: Blizzard Addresses Major Problems, PvP Changes, Free 16 Slot Bag, and More!</title>
 <link>http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</link>
 <description>Blizzard's latest developer podcast tackles Forever's weak specs, healer shortages and PvP survivability, while a hidden questline hands out a free 16-slot bag.</description>
@@ -271,20 +285,6 @@
 <description>Thinking Machines' new 26.4B-parameter MoE runs in about 20GB and leads open-weights models under 100B on agentic coding benchmarks.</description>
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://thinkingmachines.ai/news/inkling-2-mini/</guid>
-</item>
-<item>
-<title>Ollama vs llama.cpp vs LM Studio, re-checked for llama.cpp 1.0</title>
-<link>https://axiomi.si/guides/ollama-vs-llama-cpp-vs-lm-studio</link>
-<description>Fresh Nov 19 comparison covering llama.cpp v1.0.0 (Nov 13), Ollama 0.40.16 and LM Studio Bionic 1.2.1: same GGUF runs within noise across engines, so the choice comes down to packaging and defaults.</description>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://axiomi.si/guides/ollama-vs-llama-cpp-vs-lm-studio</guid>
-</item>
-<item>
-<title>Reactive Agents v0.19.0: quieter defaults, honest run outcomes and billed costs</title>
-<link>https://docs.reactiveagents.dev/guides/whats-new/</link>
-<description>November release of the Reactive Agents framework makes agents quiet and private by default, states plainly how each run ended and what it cost, and lets durable runs be stopped and resumed.</description>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://docs.reactiveagents.dev/guides/whats-new/</guid>
 </item>
 </channel>
 </rss>
