@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 24 Nov 2026 02:38:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>Pax: the Pydantic AI coding agent for your terminal</title>
+<link>https://pydantic.dev/articles/pax-harness-beta</link>
+<description>Pydantic ships Pax, a plugin-based terminal coding agent built on its Harness SDK, as the Harness heads toward a 1.0 release.</description>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://pydantic.dev/articles/pax-harness-beta</guid>
+</item>
 <item>
 <title>llama.cpp b12669: Custom GGUF File Size and Quantization</title>
 <link>https://ingoampt.com/llama-cpp-b12669-custom-gguf-size-targets/</link>
@@ -278,13 +285,6 @@
 <description>November release of the Reactive Agents framework makes agents quiet and private by default, states plainly how each run ended and what it cost, and lets durable runs be stopped and resumed.</description>
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://docs.reactiveagents.dev/guides/whats-new/</guid>
-</item>
-<item>
-<title>amv-bitnet 3.0.1</title>
-<link>https://pypi.org/project/amv-bitnet/</link>
-<description>Termux 1.58-bit inference engine amv-bitnet hits 3.0.1 with prebuilt provisioning and unified ternary GPU dispatch, running BitNet models on unrooted Android phones.</description>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://pypi.org/project/amv-bitnet/</guid>
 </item>
 </channel>
 </rss>
