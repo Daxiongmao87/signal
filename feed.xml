@@ -91,6 +91,13 @@
 <guid isPermaLink="true">https://headlinesbriefing.com/dev/hacker-news/look-at-my-quant-12-lower-kl-than-q4km-082b3780</guid>
 </item>
 <item>
+<title>LLM Fine-Tuning Techniques (2026): LoRA, QLoRA, DoRA, VeRA &amp; DPO</title>
+<link>https://www.peterindia.net/FineTuningTechniques.html</link>
+<description>A current survey of the fine-tuning stack with the latest releases noted: PEFT 0.21.3 and TRL 1.18.0, both shipped November 13, plus Unsloth and Axolotl versions in use.</description>
+<pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.peterindia.net/FineTuningTechniques.html</guid>
+</item>
+<item>
 <title>Inkling 2 Mini: The 26B Model That Thinks Three Times Per Token — and Runs on Your Laptop</title>
 <link>http://dev.to/peng_zhou_502d2d972ff7418/inkling-2-mini-the-26b-model-that-thinks-three-times-per-token-and-runs-on-your-laptop-29lm</link>
 <description>A walkthrough of Thinking Machines' Inkling 2 Mini: a 26.4B open-weights MoE that loops its middle layers three times per token, fits in ~20GB, and leads sub-100B open models on agentic coding benchmarks.</description>
@@ -145,6 +152,13 @@
 <description>Thinking Machines' 26.4B looped-transformer MoE ships as a ~20GB Apache 2.0 checkpoint that runs offline on a laptop and leads sub-100B open models on agentic coding benchmarks.</description>
 <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://futurumgroup.com/insights/thinking-machines-inkling-2-mini-redraws-the-open-weight-efficiency-frontier/</guid>
+</item>
+<item>
+<title>WoW Forever News: Blizzard Addresses Major Problems, PvP Changes, Free 16 Slot Bag, and More!</title>
+<link>http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</link>
+<description>Blizzard's latest developer podcast tackles Forever's weak specs, healer shortages and PvP survivability, while a hidden questline hands out a free 16-slot bag.</description>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</guid>
 </item>
 <item>
 <title>Inkling 2 Small is open weights under Apache 2.0: what local builders can actually run</title>
@@ -271,20 +285,6 @@
 <description>Chaosium's Pendragon adventures The Grey Knight and The Sauvage King arrive on Foundry VTT with ready-to-play actors, scenes, and automated Winter Phases.</description>
 <pubDate>Wed, 18 Nov 2026 11:22:45 +0000</pubDate>
 <guid isPermaLink="true">https://www.enworld.org/threads/chaosium-two-pendragon-titles-out-now-on-foundry-vtt-the-grey-knight-and-the-sauvage-king.721415/</guid>
-</item>
-<item>
-<title>Blizzard admits WoW: Forever dungeon XP change 'missed the mark'</title>
-<link>https://drezzed.clownfishtv.com/p/blizzard-admits-wow-forever-dungeon</link>
-<description>Blizzard walked back its Nov 13 anti-boosting XP rule after it wiped dungeon experience for ordinary groups, replacing it with a 12-level gap threshold.</description>
-<pubDate>Wed, 18 Nov 2026 07:45:35 +0000</pubDate>
-<guid isPermaLink="true">https://drezzed.clownfishtv.com/p/blizzard-admits-wow-forever-dungeon</guid>
-</item>
-<item>
-<title>llama.cpp b12500 adds fastdiv CUDA conv2d optimization</title>
-<link>https://oossa.com/en/llama-cpp-adds-fastdiv-cuda-conv2d-optimization</link>
-<description>llama.cpp b12500 swaps three integer divisions for precomputed fast-division in its CUDA conv2d kernel, roughly halving that kernel's runtime on NVIDIA GPUs.</description>
-<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://oossa.com/en/llama-cpp-adds-fastdiv-cuda-conv2d-optimization</guid>
 </item>
 </channel>
 </rss>
