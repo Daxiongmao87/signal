@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://pydantic.dev/articles/pax-harness-beta</guid>
 </item>
 <item>
+<title>A Local LLM That Fits in 3 QR Codes: llm.asm</title>
+<link>https://medium.com/@iamsupcat/a-local-llm-that-fits-in-3-qr-codes-llm-asm-4a0dd279aa48</link>
+<description>A pure x86-64 assembly inference engine that runs Qwen3-0.6B from a 14KB binary, measured 18-36% faster than llama.cpp on CPU, with a 24KB bootable OS that chats straight after power-on.</description>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://medium.com/@iamsupcat/a-local-llm-that-fits-in-3-qr-codes-llm-asm-4a0dd279aa48</guid>
+</item>
+<item>
 <title>llama.cpp b12669: Custom GGUF File Size and Quantization</title>
 <link>https://ingoampt.com/llama-cpp-b12669-custom-gguf-size-targets/</link>
 <description>llama.cpp's new prerelease lets the quantizer aim for a target GGUF file size or average bits-per-weight instead of a fixed preset.</description>
@@ -278,13 +285,6 @@
 <description>AWS moves its managed AgentCore harness onto the open-source Strands framework and adds four lifecycle hooks that let a Lambda allow or deny an agent tool calls.</description>
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://www.explainx.ai/blog/amazon-bedrock-agentcore-harness-strands-defaults-lifecycle-hooks-before-tool-call-lambda-november-2026</guid>
-</item>
-<item>
-<title>Introducing Inkling 2 Mini</title>
-<link>https://thinkingmachines.ai/news/inkling-2-mini/</link>
-<description>Thinking Machines' new 26.4B-parameter MoE runs in about 20GB and leads open-weights models under 100B on agentic coding benchmarks.</description>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://thinkingmachines.ai/news/inkling-2-mini/</guid>
 </item>
 </channel>
 </rss>
