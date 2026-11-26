@@ -35,6 +35,13 @@
 <guid isPermaLink="true">http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-lockbox-exploit-uldaman-loot-removed-new-mounts-and-more</guid>
 </item>
 <item>
+<title>Inkling 2 Mini: 26.4B looped-transformer model in a 20 GB checkpoint, benchmarked against Qwen3.8-27B</title>
+<link>https://aibriefing.io/tools/inkling-2-mini-26-4b-open-weights-apache-20gb-laptop-what-developers-get/</link>
+<description>A Nov 23 breakdown of Thinking Machines' Inkling 2 Mini: a 26.4B looped-transformer MoE in a ~20 GB checkpoint, with day-one Ollama and llama.cpp support, benchmark claims against Qwen3.8-27B, and Tinker pricing.</description>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aibriefing.io/tools/inkling-2-mini-26-4b-open-weights-apache-20gb-laptop-what-developers-get/</guid>
+</item>
+<item>
 <title>Inkling 2 Mini: the local AI model that loops its own layers</title>
 <link>https://empv.it/en/research-notes/inkling-2-mini-local-ai-looped-transformer/?share=20261123a</link>
 <description>A Nov 23 look at Thinking Machines' Inkling 2 Mini: a 26.4B looped-transformer MoE with a ~20GB checkpoint and NVFP4 weights, and the hardware bar for running it locally — 32GB Apple Silicon or 32GB VRAM.</description>
@@ -278,13 +285,6 @@
 <description>UC Berkeley and NVIDIA open-sourced agentic tooling for industrial robot programming: AI coding agents generate readable robot programs, split tasks into modular skills with Graph-as-Policy, and rehearse them in simulation before deployment.</description>
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://developmentstoday.com/ai-robotics/berkeley-nvidia-open-source-agentic-robot-tools</guid>
-</item>
-<item>
-<title>Best open-source training and fine-tuning (Nov 2026): 73 ranked</title>
-<link>https://archestack.com/best-of-ai/training/</link>
-<description>A November 2026 ranking of 73 open-source training and fine-tuning tools, covering PEFT, Unsloth, TRL and Axolotl with current release activity and star growth for picking a LoRA stack.</description>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://archestack.com/best-of-ai/training/</guid>
 </item>
 </channel>
 </rss>
