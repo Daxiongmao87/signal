@@ -217,6 +217,13 @@
 <guid isPermaLink="true">https://dev.to/rohan_techofficial_81a0f/inkling-2-mini-is-a-26b-open-weights-model-that-runs-on-your-laptop-3e95</guid>
 </item>
 <item>
+<title>Hugging Face harness adapters: RL-trained LoRAs tuned per coding agent</title>
+<link>https://techjacksolutions.com/ai-tools/hugging-face/harness-adapters/</link>
+<description>Breakdown of Hugging Face's Nov 20 launch: one RL-trained LoRA adapter per agent harness (pi, OpenCode, Hermes Agent) for Qwen3.8-27B, plus a merged super-adapter, with higher pass rates and fewer tool calls reported in each harness.</description>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://techjacksolutions.com/ai-tools/hugging-face/harness-adapters/</guid>
+</item>
+<item>
 <title>WoW Forever News: Blizzard Addresses Major Problems, PvP Changes, Free 16 Slot Bag, and More!</title>
 <link>http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</link>
 <description>Blizzard's latest developer podcast tackles Forever's weak specs, healer shortages and PvP survivability, while a hidden questline hands out a free 16-slot bag.</description>
@@ -278,13 +285,6 @@
 <description>Thinking Machines' open-weights 26.4B looped-transformer model fits in ~20GB and runs on a 32GB laptop while rivalling much larger models on coding benchmarks.</description>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops</guid>
-</item>
-<item>
-<title>WoW Forever News: Blizzard Addresses Major Problems, PvP Changes, Free 16 Slot Bag, and More!</title>
-<link>http://mobalytics.gg/wow-forever/profile/the-comeback-kids/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</link>
-<description>In a new developer podcast, Blizzard's team talks through class reworks, healer shortages, PvP survivability and the weekly gold quest, plus a free 16-slot bag questline players uncovered and the missing Undead Paladin quest rewards.</description>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">http://mobalytics.gg/wow-forever/profile/the-comeback-kids/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</guid>
 </item>
 </channel>
 </rss>
