@@ -42,6 +42,13 @@
 <guid isPermaLink="true">https://www.xbstack.com/en/ai/tools-lab/pydantic-pax-coding-agent-harness/</guid>
 </item>
 <item>
+<title>llm.asm: Qwen3-0.6B inference in 14 KB of pure assembly, plus a bootable 24 KB OS</title>
+<link>https://techmeasured.com/repos/llm-asm-qwen3-chatbot-in-14kb-of-assembly-boots-as-its-own-os-what-the-claims-mean</link>
+<description>A new MIT-licensed project runs Qwen3-0.6B from hand-written x86-64 assembly with no C library or runtime, and boots the same model as its own tiny OS; the writeup checks the speed claims against llama.cpp on one machine.</description>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://techmeasured.com/repos/llm-asm-qwen3-chatbot-in-14kb-of-assembly-boots-as-its-own-os-what-the-claims-mean</guid>
+</item>
+<item>
 <title>llama.cpp b12669: Custom GGUF File Size and Quantization</title>
 <link>https://ingoampt.com/llama-cpp-b12669-custom-gguf-size-targets/</link>
 <description>llama.cpp's new prerelease lets the quantizer aim for a target GGUF file size or average bits-per-weight instead of a fixed preset.</description>
@@ -278,13 +285,6 @@
 <description>Thinking Machines Lab released Inkling 2 Mini on Nov 20: a 26.4B looped-transformer MoE with a ~20GB footprint that runs locally on 32GB-class laptops via Ollama, llama.cpp and Unsloth.</description>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://af.net/realtime/thinking-machines-lab-releases-26-4b-inkling-2-mini-for-local-devices/</guid>
-</item>
-<item>
-<title>Inkling Mini 2 dethrones Qwen 3.8-27B for local coding</title>
-<link>https://medium.com/data-science-in-your-pocket/inkling-mini-2-dethrones-qwen-3-8-27b-for-local-coding-32dd0c44ee5c</link>
-<description>Thinking Machines Lab's 26.4B looped-transformer Inkling 2 Mini beats Qwen3.8-27B on agentic coding benchmarks while running on 32GB-class local hardware.</description>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://medium.com/data-science-in-your-pocket/inkling-mini-2-dethrones-qwen-3-8-27b-for-local-coding-32dd0c44ee5c</guid>
 </item>
 </channel>
 </rss>
