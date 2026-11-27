@@ -49,6 +49,13 @@
 <guid isPermaLink="true">http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-lockbox-exploit-uldaman-loot-removed-new-mounts-and-more</guid>
 </item>
 <item>
+<title>The Agent Fits in Six Gigabytes</title>
+<link>https://ericrkern.com/writing/the-agent-fits-in-six-gigabytes</link>
+<description>Three local-model releases in 48 hours squeeze agentic coding onto ordinary hardware: PrismML's ternary Bonsai 2.5 27B running in 5.9 GB, Inkling 2 Mini's looped 26.4B, and Tencent's self-contained 4B vision model for Apple Silicon, plus a new buying guide for local inference machines.</description>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://ericrkern.com/writing/the-agent-fits-in-six-gigabytes</guid>
+</item>
+<item>
 <title>Inkling 2 Mini: 26.4B looped-transformer model in a 20 GB checkpoint, benchmarked against Qwen3.8-27B</title>
 <link>https://aibriefing.io/tools/inkling-2-mini-26-4b-open-weights-apache-20gb-laptop-what-developers-get/</link>
 <description>A Nov 23 breakdown of Thinking Machines' Inkling 2 Mini: a 26.4B looped-transformer MoE in a ~20 GB checkpoint, with day-one Ollama and llama.cpp support, benchmark claims against Qwen3.8-27B, and Tinker pricing.</description>
@@ -278,13 +285,6 @@
 <description>Independent check of Huawei's MACaQ quantizer, verifying its GGUF and W4A4 claims against the repo and published weights, with fresh figures added November 20.</description>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://senn-tech.com/en/blog/huawei-macaq-quantizer-llama-cpp-vllm-nachgemessen</guid>
-</item>
-<item>
-<title>Thinking Machines' Inkling 2 Mini runs locally on laptops</title>
-<link>https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops</link>
-<description>Thinking Machines' open-weights 26.4B looped-transformer model fits in ~20GB and runs on a 32GB laptop while rivalling much larger models on coding benchmarks.</description>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops</guid>
 </item>
 </channel>
 </rss>
