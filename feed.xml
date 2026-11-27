@@ -35,6 +35,13 @@
 <guid isPermaLink="true">https://aggr.aymericbeaumet.com/items/huggingface-co/2026-11-25-hill-climbing-inkling-2-mini-inference-on-one-rtx-pro-6000/</guid>
 </item>
 <item>
+<title>Pydantic Pax: a terminal coding assistant built on a composable harness SDK</title>
+<link>https://www.xbstack.com/en/ai/tools-lab/pydantic-pax-coding-agent-harness/</link>
+<description>Pydantic launched Pax on Nov 25, a terminal coding assistant on a reusable harness SDK that separates model choice from execution, positioning it against Codex and Claude Code.</description>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.xbstack.com/en/ai/tools-lab/pydantic-pax-coding-agent-harness/</guid>
+</item>
+<item>
 <title>llama.cpp b12669: Custom GGUF File Size and Quantization</title>
 <link>https://ingoampt.com/llama-cpp-b12669-custom-gguf-size-targets/</link>
 <description>llama.cpp's new prerelease lets the quantizer aim for a target GGUF file size or average bits-per-weight instead of a fixed preset.</description>
@@ -278,13 +285,6 @@
 <description>Thinking Machines Lab's 26.4B looped-transformer Inkling 2 Mini beats Qwen3.8-27B on agentic coding benchmarks while running on 32GB-class local hardware.</description>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://medium.com/data-science-in-your-pocket/inkling-mini-2-dethrones-qwen-3-8-27b-for-local-coding-32dd0c44ee5c</guid>
-</item>
-<item>
-<title>Huawei MACaQ for llama.cpp and vLLM, Checked</title>
-<link>https://senn-tech.com/en/blog/huawei-macaq-quantizer-llama-cpp-vllm-nachgemessen</link>
-<description>Independent check of Huawei's MACaQ quantizer, verifying its GGUF and W4A4 claims against the repo and published weights, with fresh figures added November 20.</description>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://senn-tech.com/en/blog/huawei-macaq-quantizer-llama-cpp-vllm-nachgemessen</guid>
 </item>
 </channel>
 </rss>
