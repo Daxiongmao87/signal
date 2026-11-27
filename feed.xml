@@ -28,6 +28,13 @@
 <guid isPermaLink="true">https://medium.com/@iamsupcat/a-local-llm-that-fits-in-3-qr-codes-llm-asm-4a0dd279aa48</guid>
 </item>
 <item>
+<title>Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000</title>
+<link>https://aggr.aymericbeaumet.com/items/huggingface-co/2026-11-25-hill-climbing-inkling-2-mini-inference-on-one-rtx-pro-6000/</link>
+<description>An agent-driven tuning sweep lifts Inkling 2 Mini single-user decode from 136 to 190.6 tok/s on one RTX PRO 6000 using vLLM nightly with speculative decoding.</description>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://aggr.aymericbeaumet.com/items/huggingface-co/2026-11-25-hill-climbing-inkling-2-mini-inference-on-one-rtx-pro-6000/</guid>
+</item>
+<item>
 <title>llama.cpp b12669: Custom GGUF File Size and Quantization</title>
 <link>https://ingoampt.com/llama-cpp-b12669-custom-gguf-size-targets/</link>
 <description>llama.cpp's new prerelease lets the quantizer aim for a target GGUF file size or average bits-per-weight instead of a fixed preset.</description>
@@ -278,13 +285,6 @@
 <description>In a new developer podcast, Blizzard's team talks through class reworks, healer shortages, PvP survivability and the weekly gold quest, plus a free 16-slot bag questline players uncovered and the missing Undead Paladin quest rewards.</description>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">http://mobalytics.gg/wow-forever/profile/the-comeback-kids/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</guid>
-</item>
-<item>
-<title>Thinking Machines Releases Inkling 2 Mini for Local AI</title>
-<link>https://www.zeniteq.com/news/thinking-machines-releases-inkling-2-mini-for-local-ai-biz3ol</link>
-<description>Thinking Machines Lab's 26.4B-parameter looped MoE ships under Apache 2.0 in a roughly 20 GB checkpoint, built to run on a 32 GB laptop or a single DGX Spark.</description>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://www.zeniteq.com/news/thinking-machines-releases-inkling-2-mini-for-local-ai-biz3ol</guid>
 </item>
 </channel>
 </rss>
