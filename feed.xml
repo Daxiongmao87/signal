@@ -7,6 +7,13 @@
 <language>en-us</language>
 <lastBuildDate>Thu, 26 Nov 2026 00:00:00 +0000</lastBuildDate>
 <item>
+<title>openset-llm: 27B LLM on CPU, 8 GB RAM, 17-20 tok/s</title>
+<link>https://explainx.ai/blog/openset-llm-27b-model-cpu-only-8gb-ram-17-20-tokens-per-second-avx512-github-2026</link>
+<description>A new MIT-licensed inference engine runs PrismML's ternary 27B model on a CPU-only 8 GB machine at 17-20 tokens per second, built as patches on a llama.cpp fork.</description>
+<pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://explainx.ai/blog/openset-llm-27b-model-cpu-only-8gb-ram-17-20-tokens-per-second-avx512-github-2026</guid>
+</item>
+<item>
 <title>Foundry VTT 14.371: security-focused stable release ahead of Version 15</title>
 <link>https://foundryvtt.com/releases/14.371</link>
 <description>Foundry's last Version 14 stable update fixes a batch of vulnerabilities found through AI-assisted security research, bumps Electron to 45.3.4 and Node.js to 24.22.3/26.13.1, and adds Apple Silicon performance work plus Region and VFX improvements before development moves to Version 15.</description>
@@ -278,13 +285,6 @@
 <description>Thinking Machines posted the 594B Inkling 2 Small weights on Nov 12, but the smallest published build is 118 GB and needs its own engine, so the piece checks what the open license actually buys a home builder.</description>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://bitwidth.ai/articles/inkling-2-small-is-open-weights-under-apache-2-0-what-local-builders-can</guid>
-</item>
-<item>
-<title>Coding Agent Harness Directory (2026): 28 harnesses compared</title>
-<link>https://aq.dev/guides/coding-agent-harness-directory/</link>
-<description>A November 20 update to a directory comparing 28 coding-agent harnesses — lab CLIs, open-source model-neutral harnesses, and desktop and cloud runners — with prices, benchmarks, and a list of tools that shut down this year.</description>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://aq.dev/guides/coding-agent-harness-directory/</guid>
 </item>
 </channel>
 </rss>
