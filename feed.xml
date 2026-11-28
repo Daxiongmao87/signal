@@ -42,6 +42,13 @@
 <guid isPermaLink="true">http://local-ai-zone.github.io/blog/inkling-2-mini-looped-transformer-deep-dive.html</guid>
 </item>
 <item>
+<title>Pydantic Ships Pax, a Plugin-First Terminal Coding Agent</title>
+<link>https://subagentic.ai/posts/pydantic-pax-plugin-terminal-coding-agent/</link>
+<description>Pydantic released Pax on Nov 25, a beta terminal coding agent built on its plugin-first Pydantic AI Harness SDK, installable with uvx and headed for a 1.0 in about a month.</description>
+<pubDate>Wed, 25 Nov 2026 20:15:00 +0000</pubDate>
+<guid isPermaLink="true">https://subagentic.ai/posts/pydantic-pax-plugin-terminal-coding-agent/</guid>
+</item>
+<item>
 <title>Pax: the Pydantic AI coding agent for your terminal</title>
 <link>https://pydantic.dev/articles/pax-harness-beta</link>
 <description>Pydantic ships Pax, a plugin-based terminal coding agent built on its Harness SDK, as the Harness heads toward a 1.0 release.</description>
@@ -278,13 +285,6 @@
 <description>Breakdown of Hugging Face's Nov 20 launch: one RL-trained LoRA adapter per agent harness (pi, OpenCode, Hermes Agent) for Qwen3.8-27B, plus a merged super-adapter, with higher pass rates and fewer tool calls reported in each harness.</description>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://techjacksolutions.com/ai-tools/hugging-face/harness-adapters/</guid>
-</item>
-<item>
-<title>WoW Forever News: Blizzard Addresses Major Problems, PvP Changes, Free 16 Slot Bag, and More!</title>
-<link>http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</link>
-<description>Blizzard's latest developer podcast tackles Forever's weak specs, healer shortages and PvP survivability, while a hidden questline hands out a free 16-slot bag.</description>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</guid>
 </item>
 </channel>
 </rss>
