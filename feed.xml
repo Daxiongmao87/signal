@@ -77,6 +77,13 @@
 <guid isPermaLink="true">https://ericrkern.com/writing/the-agent-fits-in-six-gigabytes</guid>
 </item>
 <item>
+<title>PrismML Ternary Bonsai 2.5 27B: 27B-class agent model in a 5.9 GB GGUF</title>
+<link>https://www.explainx.ai/blog/prismml-ternary-bonsai-2-5-27b-agentic-coding-5-9gb-november-2026</link>
+<description>PrismML's Nov 24 ternary update to its 27B Bonsai model keeps the 5.9 GB GGUF footprint while tightening multi-step tool use, with vendor-reported agentic scores near full-precision Qwen3.8-27B.</description>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.explainx.ai/blog/prismml-ternary-bonsai-2-5-27b-agentic-coding-5-9gb-november-2026</guid>
+</item>
+<item>
 <title>Inkling 2 Mini: 26.4B looped-transformer model in a 20 GB checkpoint, benchmarked against Qwen3.8-27B</title>
 <link>https://aibriefing.io/tools/inkling-2-mini-26-4b-open-weights-apache-20gb-laptop-what-developers-get/</link>
 <description>A Nov 23 breakdown of Thinking Machines' Inkling 2 Mini: a 26.4B looped-transformer MoE in a ~20 GB checkpoint, with day-one Ollama and llama.cpp support, benchmark claims against Qwen3.8-27B, and Tinker pricing.</description>
@@ -278,13 +285,6 @@
 <description>Thinking Machines Lab's Nov 20 release is a 26.4B MoE that loops its middle layers three times per token, fitting ~20GB and running offline on 32GB laptops while beating Qwen3.8-27B on DeepSWE v1.1.</description>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://wccftech.com/thinking-machines-unveils-inkling-2-mini-a-powerful-26b-ai-model-that-runs-locally-on-macbooks-with-just-32gb-ram/</guid>
-</item>
-<item>
-<title>Inkling 2 Mini: open looped model for laptops</title>
-<link>https://casrai.org/news/thinking-machines-inkling-2-mini-open-looped-model-laptop-2026</link>
-<description>A second look at Thinking Machines Lab's Nov 20 Inkling 2 Mini: Apache 2.0 weights, NVFP4 precision trained natively with no post-training conversion loss, and day-one GGUF builds via Unsloth and llama.cpp.</description>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://casrai.org/news/thinking-machines-inkling-2-mini-open-looped-model-laptop-2026</guid>
 </item>
 </channel>
 </rss>
