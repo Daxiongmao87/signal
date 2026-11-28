@@ -84,13 +84,6 @@
 <guid isPermaLink="true">https://techmeasured.com/repos/llm-asm-qwen3-chatbot-in-14kb-of-assembly-boots-as-its-own-os-what-the-claims-mean</guid>
 </item>
 <item>
-<title>Pydantic Ships Pax, a Plugin-First Terminal Coding Agent</title>
-<link>https://subagentic.ai/posts/pydantic-pax-plugin-terminal-coding-agent/</link>
-<description>Pydantic’s beta terminal coding agent runs on the Pydantic AI Harness SDK, treats the coder itself as a toggleable plugin, and can point at any of your own Pydantic AI Agent objects via pax --agent.</description>
-<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://subagentic.ai/posts/pydantic-pax-plugin-terminal-coding-agent/</guid>
-</item>
-<item>
 <title>llama.cpp b12669: Custom GGUF File Size and Quantization</title>
 <link>https://ingoampt.com/llama-cpp-b12669-custom-gguf-size-targets/</link>
 <description>llama.cpp's new prerelease lets the quantizer aim for a target GGUF file size or average bits-per-weight instead of a fixed preset.</description>
@@ -285,6 +278,13 @@
 <description>A walkthrough of Inkling 2 Mini: a 26.4B open-weights model that loops its middle layers three times per token and runs offline on a laptop in about 20GB, with leading sub-100B agentic-coding benchmark scores.</description>
 <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/rohan_techofficial_81a0f/inkling-2-mini-is-a-26b-open-weights-model-that-runs-on-your-laptop-3e95</guid>
+</item>
+<item>
+<title>Hugging Face harness adapters: RL-trained LoRAs tuned per coding agent</title>
+<link>https://techjacksolutions.com/ai-tools/hugging-face/harness-adapters/</link>
+<description>Breakdown of Hugging Face's Nov 20 launch: one RL-trained LoRA adapter per agent harness (pi, OpenCode, Hermes Agent) for Qwen3.8-27B, plus a merged super-adapter, with higher pass rates and fewer tool calls reported in each harness.</description>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://techjacksolutions.com/ai-tools/hugging-face/harness-adapters/</guid>
 </item>
 </channel>
 </rss>
