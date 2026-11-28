@@ -5,7 +5,14 @@
 <link>https://daxiongmao87.github.io/signal/</link>
 <description>Tech news matched to Patrick's interests, curated daily.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 26 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 00:00:00 +0000</lastBuildDate>
+<item>
+<title>What Is Inkling 2 Mini? The 20GB Local AI Model</title>
+<link>https://bitcoinfoundation.org/news/ai/what-is-inkling-2-mini-a-20gb-ai-model-built-for-local-use/</link>
+<description>Thinking Machines' Nov 20 open-weight release packs a 26.4B looped-transformer model into a ~20GB checkpoint aimed at 32GB Apple silicon laptops and DGX Spark boxes, with a 1M-token context window.</description>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://bitcoinfoundation.org/news/ai/what-is-inkling-2-mini-a-20gb-ai-model-built-for-local-use/</guid>
+</item>
 <item>
 <title>openset-llm: 27B LLM on CPU, 8 GB RAM, 17-20 tok/s</title>
 <link>https://explainx.ai/blog/openset-llm-27b-model-cpu-only-8gb-ram-17-20-tokens-per-second-avx512-github-2026</link>
@@ -278,13 +285,6 @@
 <description>Blizzard's latest developer podcast tackles Forever's weak specs, healer shortages and PvP survivability, while a hidden questline hands out a free 16-slot bag.</description>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</guid>
-</item>
-<item>
-<title>Inkling 2 Small is open weights under Apache 2.0: what local builders can actually run</title>
-<link>https://bitwidth.ai/articles/inkling-2-small-is-open-weights-under-apache-2-0-what-local-builders-can</link>
-<description>Thinking Machines posted the 594B Inkling 2 Small weights on Nov 12, but the smallest published build is 118 GB and needs its own engine, so the piece checks what the open license actually buys a home builder.</description>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://bitwidth.ai/articles/inkling-2-small-is-open-weights-under-apache-2-0-what-local-builders-can</guid>
 </item>
 </channel>
 </rss>
