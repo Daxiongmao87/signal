@@ -14,6 +14,13 @@
 <guid isPermaLink="true">https://bitcoinfoundation.org/news/ai/what-is-inkling-2-mini-a-20gb-ai-model-built-for-local-use/</guid>
 </item>
 <item>
+<title>Small AI Models Give Banks a Way to Keep Sensitive Data In-House</title>
+<link>https://www.pymnts.com/news/artificial-intelligence/2026/small-ai-models-give-banks-a-way-to-keep-sensitive-data-in-house/</link>
+<description>A week of small open-weight releases: Inkling 2 Mini, PrismML’s 5.9GB ternary Bonsai 2.5 27B, Sarvam-105B, and Baseten’s decision models, all pitched at running AI on local hardware instead of the cloud.</description>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/small-ai-models-give-banks-a-way-to-keep-sensitive-data-in-house/</guid>
+</item>
+<item>
 <title>openset-llm: 27B LLM on CPU, 8 GB RAM, 17-20 tok/s</title>
 <link>https://explainx.ai/blog/openset-llm-27b-model-cpu-only-8gb-ram-17-20-tokens-per-second-avx512-github-2026</link>
 <description>A new MIT-licensed inference engine runs PrismML's ternary 27B model on a CPU-only 8 GB machine at 17-20 tokens per second, built as patches on a llama.cpp fork.</description>
@@ -75,6 +82,13 @@
 <description>A new MIT-licensed project runs Qwen3-0.6B from hand-written x86-64 assembly with no C library or runtime, and boots the same model as its own tiny OS; the writeup checks the speed claims against llama.cpp on one machine.</description>
 <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://techmeasured.com/repos/llm-asm-qwen3-chatbot-in-14kb-of-assembly-boots-as-its-own-os-what-the-claims-mean</guid>
+</item>
+<item>
+<title>Pydantic Ships Pax, a Plugin-First Terminal Coding Agent</title>
+<link>https://subagentic.ai/posts/pydantic-pax-plugin-terminal-coding-agent/</link>
+<description>Pydantic’s beta terminal coding agent runs on the Pydantic AI Harness SDK, treats the coder itself as a toggleable plugin, and can point at any of your own Pydantic AI Agent objects via pax --agent.</description>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">https://subagentic.ai/posts/pydantic-pax-plugin-terminal-coding-agent/</guid>
 </item>
 <item>
 <title>llama.cpp b12669: Custom GGUF File Size and Quantization</title>
@@ -271,20 +285,6 @@
 <description>A walkthrough of Inkling 2 Mini: a 26.4B open-weights model that loops its middle layers three times per token and runs offline on a laptop in about 20GB, with leading sub-100B agentic-coding benchmark scores.</description>
 <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://dev.to/rohan_techofficial_81a0f/inkling-2-mini-is-a-26b-open-weights-model-that-runs-on-your-laptop-3e95</guid>
-</item>
-<item>
-<title>Hugging Face harness adapters: RL-trained LoRAs tuned per coding agent</title>
-<link>https://techjacksolutions.com/ai-tools/hugging-face/harness-adapters/</link>
-<description>Breakdown of Hugging Face's Nov 20 launch: one RL-trained LoRA adapter per agent harness (pi, OpenCode, Hermes Agent) for Qwen3.8-27B, plus a merged super-adapter, with higher pass rates and fewer tool calls reported in each harness.</description>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://techjacksolutions.com/ai-tools/hugging-face/harness-adapters/</guid>
-</item>
-<item>
-<title>WoW Forever News: Blizzard Addresses Major Problems, PvP Changes, Free 16 Slot Bag, and More!</title>
-<link>http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</link>
-<description>Blizzard's latest developer podcast tackles Forever's weak specs, healer shortages and PvP survivability, while a hidden questline hands out a free 16-slot bag.</description>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">http://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more</guid>
 </item>
 </channel>
 </rss>
