@@ -21,6 +21,13 @@
 <guid isPermaLink="true">https://newruntime.com/posts/new-cpu-only-inference-engine-openset-llm-runs-dac453/</guid>
 </item>
 <item>
+<title>Inkling 2 Mini: A 26B Looped MoE That Runs on a Laptop — Side-by-Side with Qwen3.8-27B</title>
+<link>http://local-ai-zone.github.io/blog/inkling-2-mini-looped-transformer-deep-dive.html</link>
+<description>A deep dive into Thinking Machines' looped-transformer release, tracing how 48 layer applications per token and NVFP4 weights stack up against Qwen3.8-27B on local hardware.</description>
+<pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="true">http://local-ai-zone.github.io/blog/inkling-2-mini-looped-transformer-deep-dive.html</guid>
+</item>
+<item>
 <title>Pax: the Pydantic AI coding agent for your terminal</title>
 <link>https://pydantic.dev/articles/pax-harness-beta</link>
 <description>Pydantic ships Pax, a plugin-based terminal coding agent built on its Harness SDK, as the Harness heads toward a 1.0 release.</description>
@@ -278,13 +285,6 @@
 <description>A November 20 update to a directory comparing 28 coding-agent harnesses — lab CLIs, open-source model-neutral harnesses, and desktop and cloud runners — with prices, benchmarks, and a list of tools that shut down this year.</description>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <guid isPermaLink="true">https://aq.dev/guides/coding-agent-harness-directory/</guid>
-</item>
-<item>
-<title>Inkling 2 Mini: 26B looped transformer that runs on a laptop</title>
-<link>https://wccftech.com/thinking-machines-unveils-inkling-2-mini-a-powerful-26b-ai-model-that-runs-locally-on-macbooks-with-just-32gb-ram/</link>
-<description>Thinking Machines Lab's Nov 20 release is a 26.4B MoE that loops its middle layers three times per token, fitting ~20GB and running offline on 32GB laptops while beating Qwen3.8-27B on DeepSWE v1.1.</description>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<guid isPermaLink="true">https://wccftech.com/thinking-machines-unveils-inkling-2-mini-a-powerful-26b-ai-model-that-runs-locally-on-macbooks-with-just-32gb-ram/</guid>
 </item>
 </channel>
 </rss>
